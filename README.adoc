@@ -8,20 +8,35 @@
 | Country
 | Year
 
-|Adam Bien
-|link:http://twitter.com/AdamBien[@AdamBien]
-|Germany
-|2007
+|Dan Allen
+|link:http://twitter.com/mojavelinux[@mojavelinux]
+|USA
+|2013
+
+|Dion Almaer
+|link:http://twitter.com/dalmaer[@dalmaer]
+|USA
+|2005
 
 |Andres Almiray
 |link:http://twitter.com/aalmiray[@aalmiray]
 |Mexico/Switzerland
 |2010
 
+|Deepak Alur
+|
+|USA
+|2006
+
 |Anton Arhipov
 |link:http://twitter.com/antonarhipov[@antonarhipov]
 |Estonia
 |2014
+
+|Calvin Austin
+|
+|USA
+|2005
 
 |Antonio Goncalves
 |link:http://twitter.com/agoncal[@agoncal]
@@ -33,38 +48,23 @@
 |USA
 |Founding Member
 
-|Calvin Austin
-|
-|USA
-|2005
+|Adam Bien
+|link:http://twitter.com/AdamBien[@AdamBien]
+|Germany
+|2007
 
 |Christian Ullenboom
 |
 |Germany
 |2005
 
-|Dan Allen
-|link:http://twitter.com/mojavelinux[@mojavelinux]
-|USA
-|2013
-
 |David Blevins
-|
+|link:http://twitter.com/dblevins[@dblevins]
 |USA
 |2015
 
-|Deepak Alur
-|
-|USA
-|2006
-
-|Dion Almaer
-|
-|USA
-|2005
-
 |Emmanuel Bernard
-|
+|link:http://twitter.com/emmanuelbernard[@emmanuelbernard]
 |France
 |2017
 
@@ -74,12 +74,12 @@
 |2006
 
 |Gail C. Anderson
-|
+|link:http://twitter.com/gail_asgteach[@gail_asgteach]
 |USA
 |2016
 
 |Geert Bevin
-|
+|link:http://twitter.com/gbevin[@gbevin]
 |Belgium
 |2006
 
@@ -319,7 +319,7 @@
 |2013
 
 |Bert Ertman
-|
+|link:http://twitter.com/BertErtman[@BertErman]
 |The Netherlands
 |2008
 
@@ -329,7 +329,7 @@
 |2013
 
 |Yakov Fain
-|
+|link:http://twitter.com/yfain[@yfain]
 |USA
 |2005
 
@@ -689,7 +689,7 @@
 |2010
 
 |Justin Lee
-|link:http://twitter.com/evancholy[@evancholy]
+|link:http://twitter.com/evanchooly[@evanchooly]
 |USA
 |2014
 
@@ -1019,7 +1019,7 @@
 |2017
 
 |James Strachan
-|
+|link:http://twitter.com/jstrachan[@jstrachan]
 |UK
 |2011
 
@@ -1039,7 +1039,7 @@
 |2016
 
 |Mohamed Taman
-|
+|link:http://twitter.com/_tamanm[@_tamanm]
 |Egypt
 |2015
 
