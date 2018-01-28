@@ -23,6 +23,11 @@
 |Estonia
 |2014
 
+|Antonio Goncalves
+|link:http://twitter.com/agoncal[@agoncal]
+|France
+|2008
+
 |Bert Bates
 |
 |USA
@@ -39,7 +44,7 @@
 |2005
 
 |Dan Allen
-|
+|link:http://twitter.com/mojavelinux[@mojavelinux]
 |USA
 |2013
 
@@ -204,7 +209,7 @@
 |2006
 
 |Stephen Chin
-|
+|link:http://twitter.com/steveonjava[@steveonjava]
 |USA
 |Alumnus
 
@@ -224,12 +229,12 @@
 |2006
 
 |Stephen Colebourne
-|
+|link:http://twitter.com/jodastephen[@jodastephen]
 |UK
 |2007
 
 |Roberto Cortez
-|
+|link:http://twitter.com/radcortez[@radcortez]
 |Portugal
 |2016
 
@@ -239,7 +244,7 @@
 |2012
 
 |Holly Cummins
-|
+|link:http://twitter.com/holly_cummins[@holly_cummins]
 |UK
 |2017
 
@@ -249,7 +254,7 @@
 |Founding Member
 
 |Sebastian Daschner
-|
+|link:http://twitter.com/DaschnerS[@DaschnerS]
 |Germany
 |2016
 
@@ -279,7 +284,7 @@
 |2014
 
 |Hendrik Ebbers
-|
+|link:http://twitter.com/hendrikEbbers[@hendrikEbbers]
 |Germany
 |2016
 
@@ -289,17 +294,17 @@
 |2006
 
 |Lukas Eder
-|
+|link:http://twitter.com/lukaseder[@lukaseder]
 |Switzerland
 |2015
 
 |Markus Eisele
-|
+|link:http://twitter.com/myfear[@myfear]
 |Germany
 |2014
 
 |Badr El Houari
-|
+|link:http://twitter.com/badrelhouari[@badrelhouari]
 |Morocco
 |2016
 
@@ -309,7 +314,7 @@
 |2006
 
 |Anton (Toni) Epple
-|
+|link:http://twitter.com/monacotoni[@monacotoni]
 |Germany
 |2013
 
@@ -339,7 +344,7 @@
 |Founding Member
 
 |Axel Fontaine
-|
+|link:http://twitter.com/axelfontaine[@axelfontaine]
 |Germany
 |2016
 
@@ -349,7 +354,7 @@
 |2016
 
 |Mario Fusco
-|
+|link:http://twitter.com/mariofusco[@mariofusco]
 |Italy
 |2016
 
@@ -379,7 +384,7 @@
 |2009
 
 |Trisha Gee
-|
+|link:http://twitter.com/trisha_gee[@trisha_gee]
 |Spain
 |2014
 
@@ -399,19 +404,14 @@
 |2005
 
 |Oliver Gierke
-|
+|link:http://twitter.com/olivergierke[@olivergierke]
 |Germany
 |2017
 
 |Brian Goetz
-|
+|link:http://twitter.com/BrianGoetz[@BrianGoetz]
 |USA
 |2006
-
-|Antonio Goncalves
-|link:http://twitter.com/agoncal[@agoncal]
-|France
-|2008
 
 |James Gosling
 |
@@ -419,7 +419,7 @@
 |Honorary Member
 
 |Frank Greco
-|
+|link:http://twitter.com/frankgreco[@frankgreco]
 |USA
 |2007
 
@@ -429,7 +429,7 @@
 |2017
 
 |Victor Grazi
-|
+|link:http://twitter.com/vgrazi[@vgrazi]
 |USA
 |2012
 
@@ -459,7 +459,7 @@
 |2015
 
 |Arun Gupta
-|
+|link:http://twitter.com/arungupta[@arungupta]
 |USA
 |2013
 
@@ -494,7 +494,7 @@
 |2017
 
 |César Hernández
-|
+|link:http://twitter.com/CesarHgt[@CesarHgt]
 |Guatemala
 |2016
 
@@ -524,7 +524,7 @@
 |2009
 
 |Marc Hoffmann
-|
+|link:http://twitter.com/marcandsweep[@marcandsweep]
 |Germany/Switzerland
 |2014
 
@@ -569,7 +569,7 @@
 |2005
 
 |Stephan Janssen
-|
+|link:http://twitter.com/Stephan007[@Stephan007]
 |Belgium
 |2005
 
@@ -579,7 +579,7 @@
 |2006
 
 |Christopher Judd
-|
+|link:http://twitter.com/javajudd[@javajudd]
 |USA
 |2017
 
@@ -599,7 +599,7 @@
 |2005
 
 |Mattias Karlsson
-|
+|link:http://twitter.com/matkar[@matkar]
 |Sweden
 |2009
 
@@ -624,7 +624,7 @@
 |2011
 
 |Ken Kousen
-|
+|link:http://twitter.com/kenkousen[@kenkousen]
 |USA
 |2017
 
@@ -634,12 +634,12 @@
 |2007
 
 |Dierk König
-|
+|link:http://twitter.com/mittie[@mittie]
 |Switzerland
 |2016
 
 |Guillaume Laforge
-|
+|link:http://twitter.com/glaforge[@glaforge]
 |France
 |2017
 
@@ -689,7 +689,7 @@
 |2010
 
 |Justin Lee
-|
+|link:http://twitter.com/evancholy[@evancholy]
 |USA
 |2014
 
@@ -749,7 +749,7 @@
 |2017
 
 |Konrad Malawski
-|
+|link:http://twitter.com/ktosopl[@ktosopl]
 |Poland
 |2017
 
@@ -764,7 +764,7 @@
 |2017
 
 |Simon Maple
-|
+|link:http://twitter.com/sjmaple[@sjmaple]
 |UK
 |2014
 
@@ -799,27 +799,27 @@
 |2017
 
 |Maurice Naftalin
-|
+|link:http://twitter.com/mauricenaftalin[@mauricenaftalin]
 |Scotland
 |2014
 
 |Fabiane Bizinella Nardon
-|
+|link:http://twitter.com/fabianenardon[@fabianenardon]
 |Brazil
 |2006
 
 |Chris Newland
-|
+|link:http://twitter.com/chriswhocodes[@chriswhocodes]
 |UK
 |2017
 
 |Kevin Nilson
-|
+|link:http://twitter.com/javaclimber[@javaclimber]
 |USA
 |2009
 
 |Charles Oliver Nutter
-|
+|link:http://twitter.com/headius[@headius]
 |USA
 |2013
 
@@ -829,12 +829,12 @@
 |2007
 
 |Rickard Oberg
-|
+|link:http://twitter.com/rickardoberg[@rickardoberg]
 |Malaysia
 |2011
 
 |Pratik Patel
-|
+|link:http://twitter.com/prpatel[@prpatel]
 |USA
 |2016
 
@@ -879,7 +879,7 @@
 |2007
 
 |Matt Raible
-|
+|link:http://twitter.com/mraible[@mraible]
 |USA
 |2016
 
@@ -904,12 +904,12 @@
 |Founding Member
 
 |Simon Ritter
-|
+|link:http://twitter.com/speakjava[@speakjava]
 |United Kingdom
 |2016
 
 |Sven Reimers
-|
+|link:http://twitter.com/SvenNB[@SvenNB]
 |Germany
 |2015
 
@@ -1009,12 +1009,12 @@
 |2005
 
 |Bruno Souza
-|
+|link:http://twitter.com/brjavaman[@brjavaman]
 |Brazil
 |Founding Member
 
 |Alex Soto
-|
+|link:http://twitter.com/alexsotob[@alexsotob]
 |Spain
 |2017
 
@@ -1029,12 +1029,12 @@
 |2013
 
 |Burr Sutter
-|
+|link:http://twitter.com/burrsutter[@burrsutter]
 |USA
 |2005
 
 |Attila Szegedi
-|
+|link:http://twitter.com/asz[@asz]
 |Hungary
 |2016
 
