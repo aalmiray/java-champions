@@ -23,11 +23,6 @@
 |Estonia
 |2014
 
-|Antonio Goncalves
-|link:http://twitter.com/agoncal[@agoncal]
-|France
-|2008
-
 |Bert Bates
 |
 |USA
@@ -224,7 +219,7 @@
 |2005
 
 |Flavia Coelho
-|
+|link:http://twitter.com/flavinhaco[@flavinhaco]
 |Brazil
 |2006
 
@@ -414,9 +409,9 @@
 |2006
 
 |Antonio Goncalves
-|
+|link:http://twitter.com/agoncal[@agoncal]
 |France
-|2009
+|2008
 
 |James Gosling
 |
@@ -429,7 +424,7 @@
 |2007
 
 |Rabea Gransberger
-|
+|link:http://twitter.com/rgransberger[@rgransberger]
 |Germany
 |2017
 
@@ -449,7 +444,7 @@
 |2016
 
 |Gerrit Grunwald
-|
+|link:http://twitter.com/hansolo_[@hansolo_]
 |Germany
 |2013
 
@@ -599,7 +594,7 @@
 |2010
 
 |Heinz Kabutz
-|
+|link:http://twitter.com/kabutz[@kabutz]
 |Greece
 |2005
 
@@ -854,7 +849,7 @@
 |2015
 
 |Kirk Pepperdine
-|
+|link:http://twitter.com/kcpeppe[@kcpeppe]
 |Hungary
 |2005
 
@@ -919,7 +914,7 @@
 |2015
 
 |Ix-chel Ruiz
-|
+|link:http://twitter.com/ixchelruiz[@ixchelruiz]
 |Mexico/Switzerland
 |2017
 
@@ -929,12 +924,12 @@
 |2017
 
 |Yuuichi Sakuraba
-|
+|link:http://twitter.com/skrb[@sjrb]
 |Japan
 |
 
 |Otávio Gonçalves de Santana
-|
+|link:http://twitter.com/otaviojava[@otaviojava]
 |Brazil
 |2015
 
@@ -944,7 +939,7 @@
 |2006
 
 |Tom Schindl
-|
+|link:http://twitter.com/tomsontom[@tomsontom]
 |Austria
 |2015
 
@@ -959,12 +954,12 @@
 |2017
 
 |Aleksey Shipilev
-|
+|link:http://twitter.com/shipilev[@shipilev]
 |Germany
 |2017
 
 |Oleg Shelajev
-|
+|link:http://twitter.com/shelajev[@shelajev]
 |Estonia
 |2017
 
@@ -1029,7 +1024,7 @@
 |2011
 
 |Venkat Subramaniam
-|
+|link:http://twitter.com/venkat_s[@venkat_s]
 |USA
 |2013
 
@@ -1064,7 +1059,7 @@
 |2017
 
 |Yoshio Terada
-|
+|link:http://twitter.com/yoshioterada[@yoshioterada]
 |Japan
 |2016
 
@@ -1074,7 +1069,7 @@
 |2005
 
 |Martin Thompson
-|
+|link:http://twitter.com/mjpt77[@mjpt77]
 |UK
 |2015
 
@@ -1089,17 +1084,17 @@
 |Founding Member
 
 |Dalibor Topic
-|
+|link:http://twitter.com/robilad[@robilad]
 |Germany
 |2007
 
 |Mario Torre
-|
+|link:http://twitter.com/neugens[@neugens]
 |Italy
 |2014
 
 |Henri Tremblay
-|
+|link:http://twitter.com/henri_temblay[@henri_temblay]
 |Canada
 |2016
 
@@ -1124,7 +1119,7 @@
 |2013
 
 |Michael Van Riper
-|
+|link:http://twitter.com/vanriper[@vanriper]
 |USA
 |2008
 
@@ -1139,17 +1134,17 @@
 |2005
 
 |Martijn Verburg
-|
+|link:http://twitter.com/karianna[@karianna]
 |UK
 |2012
 
 |Lars Vogel
-|
+|link:http://twitter.com/vogella[@vogella]
 |Germany
 |2012
 
 |Johan Vos
-|
+|link:http://twitter.com/johanvos[@johanvos]
 |Belgium
 |2012
 
@@ -1159,17 +1154,17 @@
 |2006
 
 |Dick Wall
-|
+|link:http://twitter.com/dickwall[@dickwall]
 |UK
 |Founding Member
 
 |Richard Warburton
-|
+|link:http://twitter.com/RichardWarburto[@RichardWarburto]
 |UK
 |2016
 
 |Jim Weaver
-|
+|link:http://twitter.com/JavaFXpert[@JavaFXpert]
 |USA
 |2008
 
@@ -1189,12 +1184,12 @@
 |Founding Member
 
 |Rafael Winterhalter
-|
+|link:http://twitter.com/rafaelcodes[@rafaelcodes]
 |Norway
 |2015
 
 |Edson Yanaga
-|
+|link:http://twitter.com/yanaga[@yanaga]
 |Brazil
 |2015
 
@@ -1214,7 +1209,7 @@
 |2005
 
 |Enrique Zamudio
-|
+|link:http://twitter.com/chochosmx[@chochosmx]
 |Mexico
 |2015
 
