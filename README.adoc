@@ -19,7 +19,7 @@
 |2016
 
 |Paul L. Anderson
-|
+|link:http://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
 |USA
 |2016
 
@@ -124,12 +124,12 @@
 |2011
 
 |Simone Bordet
-|
+|link:http://twitter.com/simonebordet[@simonebordet]
 |Italy
 |2016
 
 |Bruno Bossola
-|
+|link:http://twitter.com/bbossola[@bbossola]
 |Italy
 |2005
 
@@ -169,7 +169,7 @@
 |Alumnus
 
 |Cagatay Civici
-|
+|link:http://twitter.com/cagataycivici[@cagataycivici]
 |Turkey
 |2017
 
@@ -194,7 +194,7 @@
 |2016
 
 |Agnes Crepet
-|
+|link:http://twitter.com/agnes_crepet[@agnes_crepet]
 |France
 |2012
 
@@ -204,7 +204,7 @@
 |2017
 
 |Ian F. Darwin
-|
+|link:http://twitter.com/Ian_Darwin[@Ian_Darwin]
 |Canada
 |Founding Member
 
@@ -224,12 +224,12 @@
 |Founding Member
 
 |Daniel De Luca
-|
+|link:http://twitter.com/danieldeluca[@danieldeluca]
 |Belgium
 |2015
 
 |Filippo Diotalevi
-|
+|link:http://twitter.com/fdiotalevi[@fdiotalevi]
 |Italy
 |2005
 
@@ -244,7 +244,7 @@
 |2016
 
 |Bruce Eckel
-|
+|link:http://twitter.com/BruceEckel[@BruceEckel]
 |USA
 |2006
 
@@ -264,7 +264,7 @@
 |2016
 
 |Roman Elizarov
-|
+|link:http://twitter.com/relizarov[@relizarov]
 |Russian Federation
 |2006
 
@@ -304,7 +304,7 @@
 |2016
 
 |Remi Forax
-|
+|link:http://twitter.com/RemiForaxOff[@RemiForaxOff]
 |France
 |2016
 
@@ -314,12 +314,12 @@
 |2016
 
 |Alexey Fyodorov
-|
+|link:http://twitter.com/23derevo[@23derevo]
 |Russian Federation
 |2016
 
 |Dr. Neal Gafter
-|
+|link:http://twitter.com/gafter[@gafter]
 |USA
 |2007
 
@@ -334,7 +334,7 @@
 |2010
 
 |David Geary
-|
+|link:http://twitter.com/davidgeary[@davidgeary]
 |USA
 |2009
 
@@ -354,7 +354,7 @@
 |2007
 
 |Fabrizio Gianneschi
-|
+|link:http://twitter.com/javabird[@javabird]
 |Italy
 |2005
 
@@ -394,7 +394,7 @@
 |2012
 
 |Neil Griffin
-|
+|link:https://twitter.com/NeilGriffin95[@NeilGriffin95]
 |USA
 |2017
 
@@ -414,7 +414,7 @@
 |2016
 
 |Freddy Guime
-|
+|link:https://twitter.com/fguime[@fguime]
 |USA
 |2015
 
@@ -439,22 +439,22 @@
 |2018
 
 |Mark Heckler
-|link:http://twitter.com/mkheck[@MkHeck]
+|link:http://twitter.com/MkHeck[@MkHeck]
 |USA
 |2016
 
 |David Heffelfinger
-|
+|link:http://twitter.com/ensode[@ensode]
 |USA
 |2017
 
 |Rajmahendra Hegde
-|
+|link:http://twitter.com/rajonjava[@rajonjava]
 |India
 |2016
 
 |Michael Heinrichs
-|
+|link:http://twitter.com/net0pyr[@net0pyr]
 |Germany
 |2017
 
@@ -469,7 +469,7 @@
 |2005
 
 |Rick Hightower
-|
+|link:http://twitter.com/RickHigh[@RickHigh]
 |USA
 |2017
 
@@ -504,12 +504,12 @@
 |2009
 
 |Cay Horstmann
-|
+|link:http://twitter.com/cayhorstmann[@cayhorstmann]
 |USA
 |2005
 
 |Gerardo Horvilleur
-|
+|link:http://twitter.com/magoghm[@magoghm]
 |Mexico
 |Founding Member
 
@@ -524,7 +524,7 @@
 |2005
 
 |Eder Ignatowicz
-|
+|link:http://twitter.com/ederign[@ederign]
 |Brazil
 |2017
 
@@ -549,8 +549,8 @@
 |2017
 
 |Josh Juneau
-|
-|US
+|link:http://twitter.com/javajuneau[@javajuneau]
+|USA
 |2017
 
 |Matjaz Juric
@@ -569,17 +569,17 @@
 |2009
 
 |Roman Kennke
-|
+|link:http://twitter.com/rkennke[@rkennke]
 |Germany
 |2017
 
 |Gavin King
-|
+|link:http://twitter.com/1ovthafew[@1ovthafew]
 |UK
 |2005
 
 |Aslak Knutsen
-|
+|link:http://twitter.com/aslakknutsen[@aslakknutsen]
 |Norway
 |2015
 
@@ -589,7 +589,7 @@
 |2011
 
 |Panos Konstantinidis
-|
+|link:http://twitter.com/panoskonst[@panoskonst]
 |Greece
 |2007
 
@@ -614,12 +614,12 @@
 |2017
 
 |Marcus Lagergren
-|
+|link:http://twitter.com/lagergren[@lagergren]
 |Sweden
 |2016
 
 |Amira Lakhal
-|
+|link:http://twitter.com/MiraLak[@MiraLak]
 |Switzerland
 |2016
 
@@ -634,7 +634,7 @@
 |2005
 
 |Jacek Laskowski
-|
+|link:http://twitter.com/jaceklaskowski[@jaceklaskowski]
 |Poland
 |2015
 
@@ -644,7 +644,7 @@
 |2005
 
 |Peter Lawrey
-|
+|link:http://twitter.com/evanPeterLawreychooly[@PeterLawrey]
 |UK
 |2015
 
@@ -654,7 +654,7 @@
 |2005
 
 |Bob Lee
-|
+|link:http://twitter.com/crazybob[@crazybob]
 |USA
 |2010
 
@@ -694,12 +694,12 @@
 |2005
 
 |Josh Long
-|
+|link:http://twitter.com/starbuxman[@starbuxman]
 |USA
 |2015
 
 |Alexis Lopez
-|
+|link:http://twitter.com/aa_lopez[@aa_lopez]
 |Colombia
 |2017
 
@@ -729,7 +729,7 @@
 |2007
 
 |Kito Mann
-|
+|link:http://twitter.com/kito99[@kito99]
 |USA
 |2017
 
@@ -739,17 +739,17 @@
 |2014
 
 |Joshua Marinacci
-|
+|link:https://twitter.com/joshmarinacci[@joshmarinacci]
 |USA
 |2010
 
 |Vincent Massol
-|
+|link:https://twitter.com/vmassol[@vmassol]
 |France
 |2005
 
 |Norman Maurer
-|
+|link:https://twitter.com/normanmaurer[@normanmaurer]
 |Germany
 |2016
 
@@ -794,7 +794,7 @@
 |2013
 
 |Harshad Oak
-|
+|link:http://twitter.com/HarshadOak[@HarshadOak]
 |India
 |2007
 
@@ -809,12 +809,12 @@
 |2016
 
 |Bob Paulin
-|
+|link:http://twitter.com/bobpaulin[@bobpaulin]
 |USA
 |2017
 
 |José Paumard
-|
+|link:http://twitter.com/JosePaumard[@JosePaumard]
 |France
 |2015
 
@@ -824,7 +824,7 @@
 |2005
 
 |Jose Pereda
-|
+|link:http://twitter.com/JPeredaDnr[@JPeredaDnr]
 |Spain
 |2017
 
@@ -834,7 +834,7 @@
 |2006
 
 |Sean M. Phillips
-|
+|link:http://twitter.com/SeanMiPhillips[@SeanMiPhillips]
 |USA
 |2017
 
@@ -889,12 +889,12 @@
 |2017
 
 |Antoine Sabot-Durand
-|
+|link:http://twitter.com/antoine_sd[@antoine_sd]
 |France
 |2017
 
 |Yuuichi Sakuraba
-|link:http://twitter.com/skrb[@sjrb]
+|link:http://twitter.com/skrb[@skrb]
 |Japan
 |
 
@@ -919,7 +919,7 @@
 |Founding Member
 
 |Bauke Scholtz
-|
+|link:http://twitter.com/OmniFaces[@OmniFaces]
 |The Netherlands
 |2017
 
@@ -939,22 +939,22 @@
 |2017
 
 |Vinicius Senger
-|
+|link:http://twitter.com/vsenger[@vsenger]
 |Brazil
 |2016
 
 |Yara Senger
-|
+|link:http://twitter.com/yarasenger[@yarasenger]
 |Brazil
 |2012
 
 |Zoran Sevarac
-|
+|link:http://twitter.com/zsevarac[@zsevarac]
 |Serbia
 |2013
 
 |Howard Lewis Ship
-|
+|link:http://twitter.com/hlship[@hlship]
 |USA
 |2010
 
@@ -1019,12 +1019,12 @@
 |2006
 
 |Régina ten Bruggencate
-|
+|link:http://twitter.com/reginatb38[@reginatb38]
 |The Netherlands
 |2011
 
 |Gil Tene
-|
+|link:http://twitter.com/giltene[@giltene]
 |USA
 |2017
 
@@ -1079,12 +1079,12 @@
 |2005
 
 |Raoul-Gabriel Urma
-|
+|link:http://twitter.com/raoulUK[@raoulUK]
 |UK
 |2017
 
 |Linda van der Pal
-|
+|link:http://twitter.com/DuchessFounder[@DuchessFounder]
 |The Netherlands
 |2013
 
@@ -1094,12 +1094,12 @@
 |2008
 
 |Jorge Vargas
-|
+|link:http://twitter.com/edivargas[@edivargas]
 |Mexico
 |2007
 
 |Bill Venners
-|
+|link:http://twitter.com/bvenners[@bvenners]
 |USA
 |2005
 
@@ -1144,7 +1144,7 @@
 |2008
 
 |Alan Williamson
-|
+|link:http://twitter.com/a1anw2[@a1anw2]
 |Scotland
 |2005
 
@@ -1174,12 +1174,12 @@
 |2005
 
 |Murat Yener
-|
+|link:http://twitter.com/yenerm[@yenerm]
 |Turkey
 |2015
 
 |Michael Juntao Yuan
-|
+|link:http://twitter.com/juntao[@juntao]
 |USA
 |2005
 
