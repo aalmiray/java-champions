@@ -89,7 +89,7 @@
 |2015
 
 |Joshua Bloch
-|
+|link:http://twitter.com/joshbloch[@joshbloch]
 |USA
 |2005
 
@@ -149,14 +149,9 @@
 |2005
 
 |David Blevins
-|
+|link:http://twitter.com/dblevins[@dblevins]
 |USA
 |2015
-
-|Joshua Bloch
-|
-|USA
-|2005
 
 |David Bock
 |
@@ -164,7 +159,7 @@
 |2006
 
 |Jonas Bonér
-|
+|link:http://twitter.com/jboner[@jboner]
 |Sweden
 |2011
 
@@ -466,7 +461,7 @@
 |Romain Guy
 |
 |USA
-|?
+|2006
 
 |Ahmed Hashim
 |
@@ -509,7 +504,7 @@
 |2017
 
 |Gunnar Hillert
-|
+|link:http://twitter.com/ghillert[@ghillert]
 |US & Germany
 |2016
 
@@ -519,7 +514,7 @@
 |2008
 
 |Juergen Hoeller
-|
+|link:http://twitter.com/springjuergen[@springjuergen]
 |Austria
 |2009
 
@@ -549,7 +544,7 @@
 |Founding Member
 
 |Michael Huettermann
-|
+|link:http://twitter.com/huettermann[@huettermann]
 |Germany
 |2006
 
@@ -574,8 +569,8 @@
 |2005
 
 |Rod Johnson
-|
-|UK
+|link:http://twitter.com/springrod[@springrod]
+|Australia/USA
 |2006
 
 |Christopher Judd
@@ -654,7 +649,7 @@
 |2016
 
 |Angelika Langer
-|
+|link:http://twitter.com/AngelikaLanger[@AngelikaLanger]
 |Germany
 |2005
 
@@ -869,7 +864,7 @@
 |2017
 
 |Peter Pilgrim
-|
+|link:http://twitter.com/peter_pilgrim[@peter_pilgrim]
 |UK
 |2007
 
@@ -894,7 +889,7 @@
 |2005
 
 |Chris Richardson
-|
+|link:http://twitter.com/crichardson[@crichardson]
 |USA
 |2007
 
@@ -1074,7 +1069,7 @@
 |2015
 
 |Dr. Kresten Krab Thorup
-|
+|link:http://twitter.com/drkrab[@drkrab]
 |Denmark
 |2005
 
@@ -1214,7 +1209,7 @@
 |2015
 
 |Eberhard Wolff
-|
+|link:http://twitter.com/ewolff[@ewolff]
 |Germany
 |Founding Member
 
