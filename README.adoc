@@ -8,6 +8,21 @@
 | Country
 | Year
 
+|Oezcan Acar
+|
+|Turkey
+|2009
+
+|Gail C. Anderson
+|link:http://twitter.com/gail_asgteach[@gail_asgteach]
+|USA
+|2016
+
+|Paul L. Anderson
+|
+|USA
+|2016
+
 |Dan Allen
 |link:http://twitter.com/mojavelinux[@mojavelinux]
 |USA
@@ -28,120 +43,60 @@
 |USA
 |2006
 
-|Anton Arhipov
-|link:http://twitter.com/antonarhipov[@antonarhipov]
-|Estonia
-|2014
-
-|Calvin Austin
-|
-|USA
-|2005
-
-|Antonio Goncalves
-|link:http://twitter.com/agoncal[@agoncal]
-|France
-|2008
-
-|Bert Bates
-|
-|USA
-|Founding Member
-
-|Adam Bien
-|link:http://twitter.com/AdamBien[@AdamBien]
-|Germany
-|2007
-
-|Christian Ullenboom
-|
-|Germany
-|2005
-
-|David Blevins
-|link:http://twitter.com/dblevins[@dblevins]
-|USA
-|2015
-
-|Emmanuel Bernard
-|link:http://twitter.com/emmanuelbernard[@emmanuelbernard]
-|France
-|2017
-
 |Fernando Anselmo
 |
 |Brazil
 |2006
-
-|Gail C. Anderson
-|link:http://twitter.com/gail_asgteach[@gail_asgteach]
-|USA
-|2016
-
-|Geert Bevin
-|link:http://twitter.com/gbevin[@gbevin]
-|Belgium
-|2006
-
-|Hovhannes Avoyan
-|
-|Armenia
-|2015
-
-|Joshua Bloch
-|link:http://twitter.com/joshbloch[@joshbloch]
-|USA
-|2005
-
-|Kito Mann
-|
-|USA
-|2017
-
-|Lucio Benfante
-|
-|Italy
-|2006
-
-|Mario Fusco
-|
-|Italy
-|2016
-
-|Martin Hauser
-|
-|Austria
-|2018
-
-|Rick Hightower
-|
-|USA
-|2018
-
-|Oezcan Acar
-|
-|Turkey
-|2009
-
-|Panos Konstantinidis
-|
-|Greece
-|2007
 
 |Paris Apostolopoulos
 |
 |Greece
 |2007
 
-|Paul L. Anderson
-|
-|USA
-|2016
+|Anton Arhipov
+|link:http://twitter.com/antonarhipov[@antonarhipov]
+|Estonia
+|2014
 
 |Sergey Astakhov
 |
 |Russia
 |2005
+
+|Calvin Austin
+|
+|USA
+|2005
+
+|Hovhannes Avoyan
+|
+|Armenia
+|2015
+
+|Bert Bates
+|
+|USA
+|Founding Member
+
+|Lucio Benfante
+|
+|Italy
+|2006
+
+|Emmanuel Bernard
+|link:http://twitter.com/emmanuelbernard[@emmanuelbernard]
+|France
+|2017
+
+|Geert Bevin
+|link:http://twitter.com/gbevin[@gbevin]
+|Belgium
+|2006
+
+|Adam Bien
+|link:http://twitter.com/AdamBien[@AdamBien]
+|Germany
+|2007
 
 |Xu Bin
 |
@@ -152,6 +107,11 @@
 |link:http://twitter.com/dblevins[@dblevins]
 |USA
 |2015
+
+|Joshua Bloch
+|link:http://twitter.com/joshbloch[@joshbloch]
+|USA
+|2005
 
 |David Bock
 |
@@ -408,6 +368,11 @@
 |USA
 |2006
 
+|Antonio Goncalves
+|link:http://twitter.com/agoncal[@agoncal]
+|France
+|2008
+
 |James Gosling
 |
 |USA
@@ -467,6 +432,11 @@
 |
 |Egypt
 |2007
+
+|Martin Hauser
+|
+|Austria
+|2018
 
 |Mark Heckler
 |link:http://twitter.com/mkheck[@MkHeck]
@@ -617,6 +587,11 @@
 |
 |The Netherlands
 |2011
+
+|Panos Konstantinidis
+|
+|Greece
+|2007
 
 |Ken Kousen
 |link:http://twitter.com/kenkousen[@kenkousen]
@@ -1142,6 +1117,11 @@
 |link:http://twitter.com/johanvos[@johanvos]
 |Belgium
 |2012
+
+|Christian Ullenboom
+|
+|Germany
+|2005
 
 |Joe Walker
 |
