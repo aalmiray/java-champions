@@ -9,19 +9,14 @@
 | Year
 
 |Oezcan Acar
-|
+|link:https://twitter.com/oezcanacar[@oezcanacar]
 |Turkey
 |2009
 
-|Gail C. Anderson
-|link:http://twitter.com/gail_asgteach[@gail_asgteach]
-|USA
-|2016
-
-|Paul L. Anderson
-|link:http://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
-|USA
-|2016
+|Dmitry Aleksandrov
+|link:http://twitter.com/bercut2000[@bercut2000]
+|Bulgaria
+|2017
 
 |Dan Allen
 |link:http://twitter.com/mojavelinux[@mojavelinux]
@@ -39,9 +34,19 @@
 |2010
 
 |Deepak Alur
-|
+|link:https://twitter.com/deepakalur[@deepakalur]
 |USA
 |2006
+
+|Gail C. Anderson
+|link:http://twitter.com/gail_asgteach[@gail_asgteach]
+|USA
+|2016
+
+|Paul L. Anderson
+|link:http://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
+|USA
+|2016
 
 |Fernando Anselmo
 |
@@ -49,7 +54,7 @@
 |2006
 
 |Paris Apostolopoulos
-|
+|link:https://twitter.com/javapapo[@javapapo]
 |Greece
 |2007
 
@@ -73,13 +78,23 @@
 |Armenia
 |2015
 
+|Fernando Babadopulos
+|link:https://twitter.com/babadopulos[@babadopulos]
+|Brazil
+|2017
+
 |Bert Bates
-|
+|link:https://twitter.com/BertBates[@BertBates]
 |USA
 |Founding Member
 
+|Monica Beckwith
+|link:https://twitter.com/mon_beck[@mon_beck]
+|USA
+|2017
+
 |Lucio Benfante
-|
+|link:https://twitter.com/luciobenfante[@luciobenfante]
 |Italy
 |2006
 
@@ -134,7 +149,7 @@
 |2005
 
 |Vincent Brabant
-|
+|link:https://twitter.com/vbrabant[@vbrabant]
 |Belgium
 |Founding Member
 
@@ -144,12 +159,12 @@
 |Founding Member
 
 |Mert Caliskan
-|
+|link:https://twitter.com/mertcal[@mertcal]
 |Turkey
 |2014
 
 |Mike Cannon-Brookes
-|
+|link:https://twitter.com/mcannonbrookes[@mcannonbrookes]
 |Australia
 |2006
 
@@ -214,7 +229,7 @@
 |2016
 
 |Paul J. Deitel
-|
+|link:https://twitter.com/deitel[@deitel]
 |USA
 |2005
 
@@ -228,13 +243,18 @@
 |Belgium
 |2015
 
+|Daniel deOliveira
+|link:https://twitter.com/danieldfjug[@danieldfjug]
+|Brazil
+|Founding Member
+
 |Filippo Diotalevi
 |link:http://twitter.com/fdiotalevi[@fdiotalevi]
 |Italy
 |2005
 
 |Jean-Michel Doudoux
-|
+|link:https://twitter.com/jmdoudoux[@jmdoudoux]
 |France
 |2014
 
@@ -279,7 +299,7 @@
 |2008
 
 |Ben Evans
-|
+|link:https://twitter.com/kittylyst[@kittylyst]
 |UK
 |2013
 
@@ -289,12 +309,12 @@
 |2005
 
 |Rommel Feria
-|
+|link:https://twitter.com/rom[@rom]
 |Philippines
 |Founding Member
 
 |David Flanagan
-|
+|link:https://twitter.com/__DavidFlanagan[@__DavidFlanagan]
 |USA
 |Founding Member
 
@@ -344,7 +364,7 @@
 |2014
 
 |Jeff Genender
-|
+|link:https://twitter.com/jgenender[@jgenender]
 |USA
 |2009
 
@@ -424,19 +444,14 @@
 |2013
 
 |Romain Guy
-|
+|link:https://twitter.com/romainguy[@romainguy]
 |USA
 |2006
 
 |Ahmed Hashim
-|
+|link:https://twitter.com/ahmed_hashim[@ahmed_hashim]
 |Egypt
 |2007
-
-|Martin Hauser
-|
-|Austria
-|2018
 
 |Mark Heckler
 |link:http://twitter.com/MkHeck[@MkHeck]
@@ -464,7 +479,7 @@
 |2016
 
 |Thor Henning Hetland
-|
+|link:https://twitter.com/TottoNOR[@TottoNOR]
 |Norway
 |2005
 
@@ -479,7 +494,7 @@
 |2016
 
 |Ron Hitchens
-|
+|link:https://twitter.com/ronhitchens[@ronhitchens]
 |USA
 |2008
 
@@ -494,7 +509,7 @@
 |2014
 
 |Jacob Hookom
-|
+|link:https://twitter.com/jacobhookom[@jacobhookom]
 |USA
 |Founding Member
 
@@ -519,7 +534,7 @@
 |2006
 
 |Jason Hunter
-|
+|link:https://twitter.com/hunterhacker[@hunterhacker]
 |USA
 |2005
 
@@ -529,7 +544,7 @@
 |2017
 
 |Oliver Ihns
-|
+|link:https://twitter.com/oliverihns[@oliverihns]
 |Germany
 |2005
 
@@ -554,7 +569,7 @@
 |2017
 
 |Matjaz Juric
-|
+|link:https://twitter.com/matjazbj[@matjazbj]
 |Slovenia
 |2010
 
@@ -584,7 +599,7 @@
 |2015
 
 |Clara Ko
-|
+|link:https://twitter.com/clarako[@clarako]
 |The Netherlands
 |2011
 
@@ -599,7 +614,7 @@
 |2017
 
 |Michael Kolling
-|
+|link:https://twitter.com/michaelkolling[@michaelkolling]
 |UK
 |2007
 
@@ -638,7 +653,7 @@
 |Poland
 |2015
 
-|JEnrique Lasterra
+|Enrique Lasterra
 |
 |Spain
 |2005
@@ -649,7 +664,7 @@
 |2015
 
 |Doug Lea
-|
+|link:https://twitter.com/douglea[@douglea]
 |USA
 |2005
 
@@ -664,7 +679,7 @@
 |2014
 
 |Michael Levin
-|
+|link:https://twitter.com/mikelevin[@mikelevin]
 |USA
 |2011
 
@@ -684,7 +699,7 @@
 |2005
 
 |Patrick Linskey
-|
+|link:https://twitter.com/plinskey[@plinskey]
 |USA
 |2005
 
@@ -742,6 +757,11 @@
 |link:https://twitter.com/joshmarinacci[@joshmarinacci]
 |USA
 |2010
+
+|Floyd Marinescu
+|link:https://twitter.com/floydmarinescu[@floydmarinescu]
+|USA
+|2005
 
 |Vincent Massol
 |link:https://twitter.com/vmassol[@vmassol]
@@ -844,7 +864,7 @@
 |2007
 
 |William Pugh
-|
+|link:https://twitter.com/wpugh[@wpugh]
 |USA
 |2007
 
@@ -873,6 +893,11 @@
 |USA
 |Founding Member
 
+|Manfred Riem
+|link:https://twitter.com/mnriem[@mnriem]
+|USA
+|Founding Member
+
 |Simon Ritter
 |link:http://twitter.com/speakjava[@speakjava]
 |United Kingdom
@@ -882,6 +907,11 @@
 |link:http://twitter.com/SvenNB[@SvenNB]
 |Germany
 |2015
+
+|Leonardo de Moura Rocha Lima
+|link:https://twitter.com/leomrlima[@leomrlima]
+|Brazil
+|2017
 
 |Ix-chel Ruiz
 |link:http://twitter.com/ixchelruiz[@ixchelruiz]
@@ -904,7 +934,7 @@
 |2015
 
 |Michael Nascimento Santos
-|
+|link:https://twitter.com/mr__m[@mr__m]
 |Brazil
 |2006
 
@@ -969,7 +999,7 @@
 |Founding Member
 
 |Yakov Sirotkin
-|
+|link:https://twitter.com/yakov_sirotkin[@yakov_sirotkin]
 |Russian Federation
 |2005
 
@@ -1069,12 +1099,12 @@
 |2016
 
 |Klaasjan Tukker
-|
+|link:https://twitter.com/ktukker[@ktukker]
 |The Netherlands
 |Founding Member
 
 |Christian Ullenboom
-|
+|link:https://twitter.com/javabuch[@javabuch]
 |Germany
 |2005
 
@@ -1138,13 +1168,18 @@
 |USA
 |2008
 
+|Paul Webber
+|
+|USA
+|2005
+
 |Alan Williamson
 |link:http://twitter.com/a1anw2[@a1anw2]
 |Scotland
 |2005
 
 |Joe Winchester
-|
+|link:https://twitter.com/JoeWinchester[@JoeWinchester]
 |UK
 |2006
 
@@ -1157,6 +1192,11 @@
 |link:http://twitter.com/rafaelcodes[@rafaelcodes]
 |Norway
 |2015
+
+|Eberhard Wolff
+|link:http://twitter.com/ewolff[@ewolff]
+|Germany
+|Founding Member
 
 |Edson Yanaga
 |link:http://twitter.com/yanaga[@yanaga]
@@ -1182,10 +1222,5 @@
 |link:http://twitter.com/chochosmx[@chochosmx]
 |Mexico
 |2015
-
-|Eberhard Wolff
-|link:http://twitter.com/ewolff[@ewolff]
-|Germany
-|Founding Member
 
 |===
