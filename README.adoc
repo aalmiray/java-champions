@@ -779,17 +779,17 @@
 |2016
 
 |Vincent Mayers
-|
+|link:https://twitter.com/vincentmayers[@vincentmayers]
 |USA
 |2016
 
 |Rustam Mehmandarov
-|@rmehmandarov
+|link:http://twitter.com/rmehmandarov[@rmehmandarov]
 |Norway
 |2017
 
 |Vlad Mihalcea
-|
+|link:https://twitter.com/vlad_mihalcea[@vlad_mihalcea]
 |Romania
 |2017
 
@@ -959,7 +959,7 @@
 |2017
 
 |Bert Jan Schrijver
-|
+|link:http://twitter.com/bjschrijver[@bjschrijver]
 |The Netherland
 |2017
 
