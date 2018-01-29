@@ -789,7 +789,7 @@
 |2016
 
 |Rustam Mehmandarov
-|
+|@rmehmandarov
 |Norway
 |2017
 
