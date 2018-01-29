@@ -434,7 +434,7 @@
 |2017
 
 |Ivar Grimstad
-|
+|link:https://twitter.com/ivar_grimstad[@ivar_grimstad]
 |Sweden
 |2016
 
@@ -444,7 +444,7 @@
 |2013
 
 |Andrzej Grzesik
-|
+|link:https://twitter.com/ags313[@ags313]
 |Poland
 |2016
 
