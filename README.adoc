@@ -569,8 +569,8 @@
 |2016
 
 |{counter:idx}
-|Thor Henning Hetland
-|https://twitter.com/TottoNOR[@TottoNOR]
+|https://www.linkedin.com/in/thorhenninghetland/[Thor Henning Hetland]
+|https://twitter.com/javatotto[@javatotto]
 |Norway
 |2005
 
