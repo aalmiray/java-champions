@@ -1,1226 +1,1464 @@
 = Java Champions
 
-[options="header"]
-[cols="4*"]
+[%header]
 |===
-| Name
-| Twitter
-| Country
-| Year
+| |Name |Twitter |Country |Year
 
+|{counter:idx}
 |Oezcan Acar
-|link:https://twitter.com/oezcanacar[@oezcanacar]
+|https://twitter.com/oezcanacar[@oezcanacar]
 |Turkey
 |2009
 
+|{counter:idx}
 |Dmitry Aleksandrov
-|link:http://twitter.com/bercut2000[@bercut2000]
+|https://twitter.com/bercut2000[@bercut2000]
 |Bulgaria
 |2017
 
+|{counter:idx}
 |Dan Allen
-|link:http://twitter.com/mojavelinux[@mojavelinux]
+|https://twitter.com/mojavelinux[@mojavelinux]
 |USA
 |2013
 
+|{counter:idx}
 |Dion Almaer
-|link:http://twitter.com/dalmaer[@dalmaer]
+|https://twitter.com/dalmaer[@dalmaer]
 |USA
 |2005
 
+|{counter:idx}
 |Andres Almiray
-|link:http://twitter.com/aalmiray[@aalmiray]
+|https://twitter.com/aalmiray[@aalmiray]
 |Mexico/Switzerland
 |2010
 
+|{counter:idx}
 |Deepak Alur
-|link:https://twitter.com/deepakalur[@deepakalur]
+|https://twitter.com/deepakalur[@deepakalur]
 |USA
 |2006
 
+|{counter:idx}
 |Gail C. Anderson
-|link:http://twitter.com/gail_asgteach[@gail_asgteach]
+|https://twitter.com/gail_asgteach[@gail_asgteach]
 |USA
 |2016
 
+|{counter:idx}
 |Paul L. Anderson
-|link:http://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
+|https://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
 |USA
 |2016
 
+|{counter:idx}
 |Fernando Anselmo
 |
 |Brazil
 |2006
 
+|{counter:idx}
 |Paris Apostolopoulos
-|link:https://twitter.com/javapapo[@javapapo]
+|https://twitter.com/javapapo[@javapapo]
 |Greece
 |2007
 
+|{counter:idx}
 |Anton Arhipov
-|link:http://twitter.com/antonarhipov[@antonarhipov]
+|https://twitter.com/antonarhipov[@antonarhipov]
 |Estonia
 |2014
 
+|{counter:idx}
 |Sergey Astakhov
 |
 |Russian Federation
 |2005
 
+|{counter:idx}
 |Calvin Austin
 |
 |USA
 |2005
 
+|{counter:idx}
 |Hovhannes Avoyan
 |
 |Armenia
 |2015
 
+|{counter:idx}
 |Fernando Babadopulos
-|link:https://twitter.com/babadopulos[@babadopulos]
+|https://twitter.com/babadopulos[@babadopulos]
 |Brazil
 |2017
 
+|{counter:idx}
 |Bert Bates
-|link:https://twitter.com/BertBates[@BertBates]
+|https://twitter.com/BertBates[@BertBates]
 |USA
 |Founding Member
 
+|{counter:idx}
 |Monica Beckwith
-|link:https://twitter.com/mon_beck[@mon_beck]
+|https://twitter.com/mon_beck[@mon_beck]
 |USA
 |2017
 
+|{counter:idx}
 |Lucio Benfante
-|link:https://twitter.com/luciobenfante[@luciobenfante]
+|https://twitter.com/luciobenfante[@luciobenfante]
 |Italy
 |2006
 
+|{counter:idx}
 |Emmanuel Bernard
-|link:http://twitter.com/emmanuelbernard[@emmanuelbernard]
+|https://twitter.com/emmanuelbernard[@emmanuelbernard]
 |France
 |2017
 
+|{counter:idx}
 |Geert Bevin
-|link:http://twitter.com/gbevin[@gbevin]
+|https://twitter.com/gbevin[@gbevin]
 |Belgium
 |2006
 
+|{counter:idx}
 |Adam Bien
-|link:http://twitter.com/AdamBien[@AdamBien]
+|https://twitter.com/AdamBien[@AdamBien]
 |Germany
 |2007
 
+|{counter:idx}
 |Xu Bin
 |
 |China
 |2005
 
+|{counter:idx}
 |David Blevins
-|link:http://twitter.com/dblevins[@dblevins]
+|https://twitter.com/dblevins[@dblevins]
 |USA
 |2015
 
+|{counter:idx}
 |Joshua Bloch
-|link:http://twitter.com/joshbloch[@joshbloch]
+|https://twitter.com/joshbloch[@joshbloch]
 |USA
 |2005
 
+|{counter:idx}
 |David Bock
 |
 |USA
 |2006
 
+|{counter:idx}
 |Jonas Bonér
-|link:http://twitter.com/jboner[@jboner]
+|https://twitter.com/jboner[@jboner]
 |Sweden
 |2011
 
+|{counter:idx}
 |Simone Bordet
-|link:http://twitter.com/simonebordet[@simonebordet]
+|https://twitter.com/simonebordet[@simonebordet]
 |Italy
 |2016
 
-|link:https://www.linkedin.com/in/bbossola[Bruno Bossola]
-|link:http://twitter.com/bbossola[@bbossola]
+|{counter:idx}
+|https://www.linkedin.com/in/bbossola[Bruno Bossola]
+|https://twitter.com/bbossola[@bbossola]
 |Italy
 |2005
 
+|{counter:idx}
 |Vincent Brabant
-|link:https://twitter.com/vbrabant[@vbrabant]
+|https://twitter.com/vbrabant[@vbrabant]
 |Belgium
 |Founding Member
 
+|{counter:idx}
 |Bill Burke
 |
 |USA
 |Founding Member
 
+|{counter:idx}
 |Mert Caliskan
-|link:https://twitter.com/mertcal[@mertcal]
+|https://twitter.com/mertcal[@mertcal]
 |Turkey
 |2014
 
+|{counter:idx}
 |Mike Cannon-Brookes
-|link:https://twitter.com/mcannonbrookes[@mcannonbrookes]
+|https://twitter.com/mcannonbrookes[@mcannonbrookes]
 |Australia
 |2006
 
+|{counter:idx}
 |Tasha Carl
 |
 |Belgium
 |2013
 
+|{counter:idx}
 |Magno Cavalcante
 |
 |Brazil
 |2006
 
+|{counter:idx}
 |Stephen Chin
-|link:http://twitter.com/steveonjava[@steveonjava]
+|https://twitter.com/steveonjava[@steveonjava]
 |USA
 |Alumnus
 
+|{counter:idx}
 |Cagatay Civici
-|link:http://twitter.com/cagataycivici[@cagataycivici]
+|https://twitter.com/cagataycivici[@cagataycivici]
 |Turkey
 |2017
 
+|{counter:idx}
 |Jeff Cobb
 |
 |USA
 |2005
 
+|{counter:idx}
 |Flavia Coelho
-|link:http://twitter.com/flavinhaco[@flavinhaco]
+|https://twitter.com/flavinhaco[@flavinhaco]
 |Brazil
 |2006
 
+|{counter:idx}
 |Stephen Colebourne
-|link:http://twitter.com/jodastephen[@jodastephen]
+|https://twitter.com/jodastephen[@jodastephen]
 |UK
 |2007
 
+|{counter:idx}
 |Roberto Cortez
-|link:http://twitter.com/radcortez[@radcortez]
+|https://twitter.com/radcortez[@radcortez]
 |Portugal
 |2016
 
+|{counter:idx}
 |Agnes Crepet
-|link:http://twitter.com/agnes_crepet[@agnes_crepet]
+|https://twitter.com/agnes_crepet[@agnes_crepet]
 |France
 |2012
 
+|{counter:idx}
 |Holly Cummins
-|link:http://twitter.com/holly_cummins[@holly_cummins]
+|https://twitter.com/holly_cummins[@holly_cummins]
 |UK
 |2017
 
+|{counter:idx}
 |Ian F. Darwin
-|link:http://twitter.com/Ian_Darwin[@Ian_Darwin]
+|https://twitter.com/Ian_Darwin[@Ian_Darwin]
 |Canada
 |Founding Member
 
+|{counter:idx}
 |Sebastian Daschner
-|link:http://twitter.com/DaschnerS[@DaschnerS]
+|https://twitter.com/DaschnerS[@DaschnerS]
 |Germany
 |2016
 
+|{counter:idx}
 |Paul J. Deitel
-|link:https://twitter.com/deitel[@deitel]
+|https://twitter.com/deitel[@deitel]
 |USA
 |2005
 
+|{counter:idx}
 |Valere Dejardin
 |
 |France
 |Founding Member
 
+|{counter:idx}
 |Daniel De Luca
-|link:http://twitter.com/danieldeluca[@danieldeluca]
+|https://twitter.com/danieldeluca[@danieldeluca]
 |Belgium
 |2015
 
+|{counter:idx}
 |Daniel deOliveira
-|link:https://twitter.com/danieldfjug[@danieldfjug]
+|https://twitter.com/danieldfjug[@danieldfjug]
 |Brazil
 |Founding Member
 
+|{counter:idx}
 |Filippo Diotalevi
-|link:http://twitter.com/fdiotalevi[@fdiotalevi]
+|https://twitter.com/fdiotalevi[@fdiotalevi]
 |Italy
 |2005
 
+|{counter:idx}
 |Jean-Michel Doudoux
-|link:https://twitter.com/jmdoudoux[@jmdoudoux]
+|https://twitter.com/jmdoudoux[@jmdoudoux]
 |France
 |2014
 
+|{counter:idx}
 |Hendrik Ebbers
-|link:http://twitter.com/hendrikEbbers[@hendrikEbbers]
+|https://twitter.com/hendrikEbbers[@hendrikEbbers]
 |Germany
 |2016
 
+|{counter:idx}
 |Bruce Eckel
-|link:http://twitter.com/BruceEckel[@BruceEckel]
+|https://twitter.com/BruceEckel[@BruceEckel]
 |USA
 |2006
 
+|{counter:idx}
 |Lukas Eder
-|link:http://twitter.com/lukaseder[@lukaseder]
+|https://twitter.com/lukaseder[@lukaseder]
 |Switzerland
 |2015
 
+|{counter:idx}
 |Markus Eisele
-|link:http://twitter.com/myfear[@myfear]
+|https://twitter.com/myfear[@myfear]
 |Germany
 |2014
 
+|{counter:idx}
 |Badr El Houari
-|link:http://twitter.com/badrelhouari[@badrelhouari]
+|https://twitter.com/badrelhouari[@badrelhouari]
 |Morocco
 |2016
 
+|{counter:idx}
 |Roman Elizarov
-|link:http://twitter.com/relizarov[@relizarov]
+|https://twitter.com/relizarov[@relizarov]
 |Russian Federation
 |2006
 
+|{counter:idx}
 |Anton (Toni) Epple
-|link:http://twitter.com/monacotoni[@monacotoni]
+|https://twitter.com/monacotoni[@monacotoni]
 |Germany
 |2013
 
+|{counter:idx}
 |Bert Ertman
-|link:http://twitter.com/BertErtman[@BertErman]
+|https://twitter.com/BertErtman[@BertErman]
 |The Netherlands
 |2008
 
+|{counter:idx}
 |Ben Evans
-|link:https://twitter.com/kittylyst[@kittylyst]
+|https://twitter.com/kittylyst[@kittylyst]
 |UK
 |2013
 
+|{counter:idx}
 |Yakov Fain
-|link:http://twitter.com/yfain[@yfain]
+|https://twitter.com/yfain[@yfain]
 |USA
 |2005
 
+|{counter:idx}
 |Rommel Feria
-|link:https://twitter.com/rom[@rom]
+|https://twitter.com/rom[@rom]
 |Philippines
 |Founding Member
 
+|{counter:idx}
 |David Flanagan
-|link:https://twitter.com/__DavidFlanagan[@__DavidFlanagan]
+|https://twitter.com/\__DavidFlanagan[@__DavidFlanagan]
 |USA
 |Founding Member
 
+|{counter:idx}
 |Axel Fontaine
-|link:http://twitter.com/axelfontaine[@axelfontaine]
+|https://twitter.com/axelfontaine[@axelfontaine]
 |Germany
 |2016
 
+|{counter:idx}
 |Remi Forax
-|link:http://twitter.com/RemiForaxOff[@RemiForaxOff]
+|https://twitter.com/RemiForaxOff[@RemiForaxOff]
 |France
 |2016
 
+|{counter:idx}
 |Mario Fusco
-|link:http://twitter.com/mariofusco[@mariofusco]
+|https://twitter.com/mariofusco[@mariofusco]
 |Italy
 |2016
 
+|{counter:idx}
 |Alexey Fyodorov
-|link:http://twitter.com/23derevo[@23derevo]
+|https://twitter.com/23derevo[@23derevo]
 |Russian Federation
 |2016
 
+|{counter:idx}
 |Dr. Neal Gafter
-|link:http://twitter.com/gafter[@gafter]
+|https://twitter.com/gafter[@gafter]
 |USA
 |2007
 
+|{counter:idx}
 |David Gageot
 |
 |France
 |2014
 
+|{counter:idx}
 |Felipe Gaúcho
 |
 |Brazil
 |2010
 
+|{counter:idx}
 |David Geary
-|link:http://twitter.com/davidgeary[@davidgeary]
+|https://twitter.com/davidgeary[@davidgeary]
 |USA
 |2009
 
+|{counter:idx}
 |Trisha Gee
-|link:http://twitter.com/trisha_gee[@trisha_gee]
+|https://twitter.com/trisha_gee[@trisha_gee]
 |Spain
 |2014
 
+|{counter:idx}
 |Jeff Genender
-|link:https://twitter.com/jgenender[@jgenender]
+|https://twitter.com/jgenender[@jgenender]
 |USA
 |2009
 
+|{counter:idx}
 |Bruno Ghisi
 |
 |Brazil
 |2007
 
+|{counter:idx}
 |Fabrizio Gianneschi
-|link:http://twitter.com/javabird[@javabird]
+|https://twitter.com/javabird[@javabird]
 |Italy
 |2005
 
+|{counter:idx}
 |Oliver Gierke
-|link:http://twitter.com/olivergierke[@olivergierke]
+|https://twitter.com/olivergierke[@olivergierke]
 |Germany
 |2017
 
+|{counter:idx}
 |Brian Goetz
-|link:http://twitter.com/BrianGoetz[@BrianGoetz]
+|https://twitter.com/BrianGoetz[@BrianGoetz]
 |USA
 |2006
 
+|{counter:idx}
 |Antonio Goncalves
-|link:http://twitter.com/agoncal[@agoncal]
+|https://twitter.com/agoncal[@agoncal]
 |France
 |2008
 
+|{counter:idx}
 |James Gosling
 |
 |USA
 |Honorary Member
 
+|{counter:idx}
 |Frank Greco
-|link:http://twitter.com/frankgreco[@frankgreco]
+|https://twitter.com/frankgreco[@frankgreco]
 |USA
 |2007
 
+|{counter:idx}
 |Rabea Gransberger
-|link:http://twitter.com/rgransberger[@rgransberger]
+|https://twitter.com/rgransberger[@rgransberger]
 |Germany
 |2017
 
+|{counter:idx}
 |Victor Grazi
-|link:http://twitter.com/vgrazi[@vgrazi]
+|https://twitter.com/vgrazi[@vgrazi]
 |USA
 |2012
 
+|{counter:idx}
 |Neil Griffin
-|link:https://twitter.com/NeilGriffin95[@NeilGriffin95]
+|https://twitter.com/NeilGriffin95[@NeilGriffin95]
 |USA
 |2017
 
+|{counter:idx}
 |Ivar Grimstad
-|link:https://twitter.com/ivar_grimstad[@ivar_grimstad]
+|https://twitter.com/ivar_grimstad[@ivar_grimstad]
 |Sweden
 |2016
 
+|{counter:idx}
 |Gerrit Grunwald
-|link:http://twitter.com/hansolo_[@hansolo_]
+|https://twitter.com/hansolo_[@hansolo_]
 |Germany
 |2013
 
+|{counter:idx}
 |Andrzej Grzesik
-|link:https://twitter.com/ags313[@ags313]
+|https://twitter.com/ags313[@ags313]
 |Poland
 |2016
 
+|{counter:idx}
 |Freddy Guime
-|link:https://twitter.com/fguime[@fguime]
+|https://twitter.com/fguime[@fguime]
 |USA
 |2015
 
+|{counter:idx}
 |Arun Gupta
-|link:http://twitter.com/arungupta[@arungupta]
+|https://twitter.com/arungupta[@arungupta]
 |USA
 |2013
 
+|{counter:idx}
 |Romain Guy
-|link:https://twitter.com/romainguy[@romainguy]
+|https://twitter.com/romainguy[@romainguy]
 |USA
 |2006
 
+|{counter:idx}
 |Ahmed Hashim
-|link:https://twitter.com/ahmed_hashim[@ahmed_hashim]
+|https://twitter.com/ahmed_hashim[@ahmed_hashim]
 |Egypt
 |2007
 
+|{counter:idx}
 |Mark Heckler
-|link:http://twitter.com/MkHeck[@MkHeck]
+|https://twitter.com/MkHeck[@MkHeck]
 |USA
 |2016
 
+|{counter:idx}
 |David Heffelfinger
-|link:http://twitter.com/ensode[@ensode]
+|https://twitter.com/ensode[@ensode]
 |USA
 |2017
 
+|{counter:idx}
 |Rajmahendra Hegde
-|link:http://twitter.com/rajonjava[@rajonjava]
+|https://twitter.com/rajonjava[@rajonjava]
 |India
 |2016
 
+|{counter:idx}
 |Michael Heinrichs
-|link:http://twitter.com/net0pyr[@net0pyr]
+|https://twitter.com/net0pyr[@net0pyr]
 |Germany
 |2017
 
+|{counter:idx}
 |César Hernández
-|link:http://twitter.com/CesarHgt[@CesarHgt]
+|https://twitter.com/CesarHgt[@CesarHgt]
 |Guatemala
 |2016
 
+|{counter:idx}
 |Thor Henning Hetland
-|link:https://twitter.com/TottoNOR[@TottoNOR]
+|https://twitter.com/TottoNOR[@TottoNOR]
 |Norway
 |2005
 
+|{counter:idx}
 |Rick Hightower
-|link:http://twitter.com/RickHigh[@RickHigh]
+|https://twitter.com/RickHigh[@RickHigh]
 |USA
 |2017
 
+|{counter:idx}
 |Gunnar Hillert
-|link:http://twitter.com/ghillert[@ghillert]
+|https://twitter.com/ghillert[@ghillert]
 |USA/Germany
 |2016
 
+|{counter:idx}
 |Ron Hitchens
-|link:https://twitter.com/ronhitchens[@ronhitchens]
+|https://twitter.com/ronhitchens[@ronhitchens]
 |USA
 |2008
 
+|{counter:idx}
 |Juergen Hoeller
-|link:http://twitter.com/springjuergen[@springjuergen]
+|https://twitter.com/springjuergen[@springjuergen]
 |Austria
 |2009
 
+|{counter:idx}
 |Marc Hoffmann
-|link:http://twitter.com/marcandsweep[@marcandsweep]
+|https://twitter.com/marcandsweep[@marcandsweep]
 |Germany/Switzerland
 |2014
 
+|{counter:idx}
 |Jacob Hookom
-|link:https://twitter.com/jacobhookom[@jacobhookom]
+|https://twitter.com/jacobhookom[@jacobhookom]
 |USA
 |Founding Member
 
+|{counter:idx}
 |Bruce Hopkins
 |
 |USA
 |2009
 
+|{counter:idx}
 |Cay Horstmann
-|link:http://twitter.com/cayhorstmann[@cayhorstmann]
+|https://twitter.com/cayhorstmann[@cayhorstmann]
 |USA
 |2005
 
+|{counter:idx}
 |Gerardo Horvilleur
-|link:http://twitter.com/magoghm[@magoghm]
+|https://twitter.com/magoghm[@magoghm]
 |Mexico
 |Founding Member
 
+|{counter:idx}
 |Michael Huettermann
-|link:http://twitter.com/huettermann[@huettermann]
+|https://twitter.com/huettermann[@huettermann]
 |Germany
 |2006
 
+|{counter:idx}
 |Jason Hunter
-|link:https://twitter.com/hunterhacker[@hunterhacker]
+|https://twitter.com/hunterhacker[@hunterhacker]
 |USA
 |2005
 
+|{counter:idx}
 |Eder Ignatowicz
-|link:http://twitter.com/ederign[@ederign]
+|https://twitter.com/ederign[@ederign]
 |Brazil
 |2017
 
+|{counter:idx}
 |Oliver Ihns
-|link:https://twitter.com/oliverihns[@oliverihns]
+|https://twitter.com/oliverihns[@oliverihns]
 |Germany
 |2005
 
+|{counter:idx}
 |Stephan Janssen
-|link:http://twitter.com/Stephan007[@Stephan007]
+|https://twitter.com/Stephan007[@Stephan007]
 |Belgium
 |2005
 
+|{counter:idx}
 |Rod Johnson
-|link:http://twitter.com/springrod[@springrod]
+|https://twitter.com/springrod[@springrod]
 |Australia/USA
 |2006
 
+|{counter:idx}
 |Christopher Judd
-|link:http://twitter.com/javajudd[@javajudd]
+|https://twitter.com/javajudd[@javajudd]
 |USA
 |2017
 
+|{counter:idx}
 |Josh Juneau
-|link:http://twitter.com/javajuneau[@javajuneau]
+|https://twitter.com/javajuneau[@javajuneau]
 |USA
 |2017
 
+|{counter:idx}
 |Matjaz Juric
-|link:https://twitter.com/matjazbj[@matjazbj]
+|https://twitter.com/matjazbj[@matjazbj]
 |Slovenia
 |2010
 
+|{counter:idx}
 |Heinz Kabutz
-|link:http://twitter.com/kabutz[@kabutz]
+|https://twitter.com/kabutz[@kabutz]
 |Greece
 |2005
 
+|{counter:idx}
 |Mattias Karlsson
-|link:http://twitter.com/matkar[@matkar]
+|https://twitter.com/matkar[@matkar]
 |Sweden
 |2009
 
+|{counter:idx}
 |Roman Kennke
-|link:http://twitter.com/rkennke[@rkennke]
+|https://twitter.com/rkennke[@rkennke]
 |Germany
 |2017
 
+|{counter:idx}
 |Gavin King
-|link:http://twitter.com/1ovthafew[@1ovthafew]
+|https://twitter.com/1ovthafew[@1ovthafew]
 |UK
 |2005
 
+|{counter:idx}
 |Aslak Knutsen
-|link:http://twitter.com/aslakknutsen[@aslakknutsen]
+|https://twitter.com/aslakknutsen[@aslakknutsen]
 |Norway
 |2015
 
+|{counter:idx}
 |Clara Ko
-|link:https://twitter.com/clarako[@clarako]
+|https://twitter.com/clarako[@clarako]
 |The Netherlands
 |2011
 
+|{counter:idx}
 |Panos Konstantinidis
-|link:http://twitter.com/panoskonst[@panoskonst]
+|https://twitter.com/panoskonst[@panoskonst]
 |Greece
 |2007
 
+|{counter:idx}
 |Ken Kousen
-|link:http://twitter.com/kenkousen[@kenkousen]
+|https://twitter.com/kenkousen[@kenkousen]
 |USA
 |2017
 
+|{counter:idx}
 |Michael Kolling
-|link:https://twitter.com/michaelkolling[@michaelkolling]
+|https://twitter.com/michaelkolling[@michaelkolling]
 |UK
 |2007
 
+|{counter:idx}
 |Dierk König
-|link:http://twitter.com/mittie[@mittie]
+|https://twitter.com/mittie[@mittie]
 |Switzerland
 |2016
 
+|{counter:idx}
 |Guillaume Laforge
-|link:http://twitter.com/glaforge[@glaforge]
+|https://twitter.com/glaforge[@glaforge]
 |France
 |2017
 
+|{counter:idx}
 |Marcus Lagergren
-|link:http://twitter.com/lagergren[@lagergren]
+|https://twitter.com/lagergren[@lagergren]
 |Sweden
 |2016
 
+|{counter:idx}
 |Amira Lakhal
-|link:http://twitter.com/MiraLak[@MiraLak]
+|https://twitter.com/MiraLak[@MiraLak]
 |Switzerland
 |2016
 
+|{counter:idx}
 |Angelika Langer
-|link:http://twitter.com/AngelikaLanger[@AngelikaLanger]
+|https://twitter.com/AngelikaLanger[@AngelikaLanger]
 |Germany
 |2005
 
+|{counter:idx}
 |Edward Lank
 |
 |Canada
 |2005
 
+|{counter:idx}
 |Jacek Laskowski
-|link:http://twitter.com/jaceklaskowski[@jaceklaskowski]
+|https://twitter.com/jaceklaskowski[@jaceklaskowski]
 |Poland
 |2015
 
+|{counter:idx}
 |Enrique Lasterra
 |
 |Spain
 |2005
 
+|{counter:idx}
 |Peter Lawrey
-|link:http://twitter.com/evanPeterLawreychooly[@PeterLawrey]
+|https://twitter.com/evanPeterLawreychooly[@PeterLawrey]
 |UK
 |2015
 
+|{counter:idx}
 |Doug Lea
-|link:https://twitter.com/douglea[@douglea]
+|https://twitter.com/douglea[@douglea]
 |USA
 |2005
 
+|{counter:idx}
 |Bob Lee
-|link:http://twitter.com/crazybob[@crazybob]
+|https://twitter.com/crazybob[@crazybob]
 |USA
 |2010
 
+|{counter:idx}
 |Justin Lee
-|link:http://twitter.com/evanchooly[@evanchooly]
+|https://twitter.com/evanchooly[@evanchooly]
 |USA
 |2014
 
+|{counter:idx}
 |Michael Levin
-|link:https://twitter.com/mikelevin[@mikelevin]
+|https://twitter.com/mikelevin[@mikelevin]
 |USA
 |2011
 
+|{counter:idx}
 |Barry Levine
 |
 |USA
 |2005
 
+|{counter:idx}
 |Mo Li
 |
 |China
 |
 
+|{counter:idx}
 |Dr. Daniel Liang
 |
 |USA
 |2005
 
+|{counter:idx}
 |Patrick Linskey
-|link:https://twitter.com/plinskey[@plinskey]
+|https://twitter.com/plinskey[@plinskey]
 |USA
 |2005
 
+|{counter:idx}
 |Paul Lipton
 |
 |USA
 |2005
 
+|{counter:idx}
 |Josh Long
-|link:http://twitter.com/starbuxman[@starbuxman]
+|https://twitter.com/starbuxman[@starbuxman]
 |USA
 |2015
 
+|{counter:idx}
 |Alexis Lopez
-|link:http://twitter.com/aa_lopez[@aa_lopez]
+|https://twitter.com/aa_lopez[@aa_lopez]
 |Colombia
 |2017
 
+|{counter:idx}
 |Geir Magnusson
 |
 |USA
 |2006
 
+|{counter:idx}
 |Qusay Mahmoud
 |
 |Canada
 |2007
 
+|{counter:idx}
 |Sander Mak
-|link:http://twitter.com/Sander_Mak[@Sander_Mak]
+|https://twitter.com/Sander_Mak[@Sander_Mak]
 |The Netherlands
 |2017
 
+|{counter:idx}
 |Konrad Malawski
-|link:http://twitter.com/ktosopl[@ktosopl]
+|https://twitter.com/ktosopl[@ktosopl]
 |Poland
 |2017
 
+|{counter:idx}
 |Dan Malks
 |
 |
 |2007
 
+|{counter:idx}
 |Kito Mann
-|link:http://twitter.com/kito99[@kito99]
+|https://twitter.com/kito99[@kito99]
 |USA
 |2017
 
+|{counter:idx}
 |Simon Maple
-|link:http://twitter.com/sjmaple[@sjmaple]
+|https://twitter.com/sjmaple[@sjmaple]
 |UK
 |2014
 
+|{counter:idx}
 |Joshua Marinacci
-|link:https://twitter.com/joshmarinacci[@joshmarinacci]
+|https://twitter.com/joshmarinacci[@joshmarinacci]
 |USA
 |2010
 
+|{counter:idx}
 |Floyd Marinescu
-|link:https://twitter.com/floydmarinescu[@floydmarinescu]
+|https://twitter.com/floydmarinescu[@floydmarinescu]
 |USA
 |2005
 
+|{counter:idx}
 |Vincent Massol
-|link:https://twitter.com/vmassol[@vmassol]
+|https://twitter.com/vmassol[@vmassol]
 |France
 |2005
 
+|{counter:idx}
 |Norman Maurer
-|link:https://twitter.com/normanmaurer[@normanmaurer]
+|https://twitter.com/normanmaurer[@normanmaurer]
 |Germany
 |2016
 
+|{counter:idx}
 |Vincent Mayers
-|link:https://twitter.com/vincentmayers[@vincentmayers]
+|https://twitter.com/vincentmayers[@vincentmayers]
 |USA
 |2016
 
+|{counter:idx}
 |Rustam Mehmandarov
-|link:http://twitter.com/rmehmandarov[@rmehmandarov]
+|https://twitter.com/rmehmandarov[@rmehmandarov]
 |Norway
 |2017
 
+|{counter:idx}
 |Vlad Mihalcea
-|link:https://twitter.com/vlad_mihalcea[@vlad_mihalcea]
+|https://twitter.com/vlad_mihalcea[@vlad_mihalcea]
 |Romania
 |2017
 
+|{counter:idx}
 |Maurice Naftalin
-|link:http://twitter.com/mauricenaftalin[@mauricenaftalin]
+|https://twitter.com/mauricenaftalin[@mauricenaftalin]
 |Scotland
 |2014
 
+|{counter:idx}
 |Fabiane Bizinella Nardon
-|link:http://twitter.com/fabianenardon[@fabianenardon]
+|https://twitter.com/fabianenardon[@fabianenardon]
 |Brazil
 |2006
 
+|{counter:idx}
 |Chris Newland
-|link:http://twitter.com/chriswhocodes[@chriswhocodes]
+|https://twitter.com/chriswhocodes[@chriswhocodes]
 |UK
 |2017
 
+|{counter:idx}
 |Kevin Nilson
-|link:http://twitter.com/javaclimber[@javaclimber]
+|https://twitter.com/javaclimber[@javaclimber]
 |USA
 |2009
 
+|{counter:idx}
 |Charles Oliver Nutter
-|link:http://twitter.com/headius[@headius]
+|https://twitter.com/headius[@headius]
 |USA
 |2013
 
+|{counter:idx}
 |Harshad Oak
-|link:http://twitter.com/HarshadOak[@HarshadOak]
+|https://twitter.com/HarshadOak[@HarshadOak]
 |India
 |2007
 
+|{counter:idx}
 |Rickard Oberg
-|link:http://twitter.com/rickardoberg[@rickardoberg]
+|https://twitter.com/rickardoberg[@rickardoberg]
 |Malaysia
 |2011
 
+|{counter:idx}
 |Pratik Patel
-|link:http://twitter.com/prpatel[@prpatel]
+|https://twitter.com/prpatel[@prpatel]
 |USA
 |2016
 
+|{counter:idx}
 |Bob Paulin
-|link:http://twitter.com/bobpaulin[@bobpaulin]
+|https://twitter.com/bobpaulin[@bobpaulin]
 |USA
 |2017
 
+|{counter:idx}
 |José Paumard
-|link:http://twitter.com/JosePaumard[@JosePaumard]
+|https://twitter.com/JosePaumard[@JosePaumard]
 |France
 |2015
 
+|{counter:idx}
 |Kirk Pepperdine
-|link:http://twitter.com/kcpeppe[@kcpeppe]
+|https://twitter.com/kcpeppe[@kcpeppe]
 |Hungary
 |2005
 
+|{counter:idx}
 |Jose Pereda
-|link:http://twitter.com/JPeredaDnr[@JPeredaDnr]
+|https://twitter.com/JPeredaDnr[@JPeredaDnr]
 |Spain
 |2017
 
+|{counter:idx}
 |Paul Perrone
 |
 |USA
 |2006
 
+|{counter:idx}
 |Sean M. Phillips
-|link:http://twitter.com/SeanMiPhillips[@SeanMiPhillips]
+|https://twitter.com/SeanMiPhillips[@SeanMiPhillips]
 |USA
 |2017
 
+|{counter:idx}
 |Peter Pilgrim
-|link:http://twitter.com/peter_pilgrim[@peter_pilgrim]
+|https://twitter.com/peter_pilgrim[@peter_pilgrim]
 |UK
 |2007
 
+|{counter:idx}
 |William Pugh
-|link:https://twitter.com/wpugh[@wpugh]
+|https://twitter.com/wpugh[@wpugh]
 |USA
 |2007
 
+|{counter:idx}
 |Matt Raible
-|link:http://twitter.com/mraible[@mraible]
+|https://twitter.com/mraible[@mraible]
 |USA
 |2016
 
+|{counter:idx}
 |Srikanth Raju
 |
 |USA
 |2006
 
+|{counter:idx}
 |Jayson Raymond
 |
 |USA
 |2005
 
+|{counter:idx}
 |Chris Richardson
-|link:http://twitter.com/crichardson[@crichardson]
+|https://twitter.com/crichardson[@crichardson]
 |USA
 |2007
 
+|{counter:idx}
 |Clark D. Richey Jr.
 |
 |USA
 |Founding Member
 
+|{counter:idx}
 |Manfred Riem
-|link:https://twitter.com/mnriem[@mnriem]
+|https://twitter.com/mnriem[@mnriem]
 |USA
 |Founding Member
 
+|{counter:idx}
 |Simon Ritter
-|link:http://twitter.com/speakjava[@speakjava]
+|https://twitter.com/speakjava[@speakjava]
 |United Kingdom
 |2016
 
+|{counter:idx}
 |Sven Reimers
-|link:http://twitter.com/SvenNB[@SvenNB]
+|https://twitter.com/SvenNB[@SvenNB]
 |Germany
 |2015
 
+|{counter:idx}
 |Leonardo de Moura Rocha Lima
-|link:https://twitter.com/leomrlima[@leomrlima]
+|https://twitter.com/leomrlima[@leomrlima]
 |Brazil
 |2017
 
+|{counter:idx}
 |Ix-chel Ruiz
-|link:http://twitter.com/ixchelruiz[@ixchelruiz]
+|https://twitter.com/ixchelruiz[@ixchelruiz]
 |Mexico/Switzerland
 |2017
 
+|{counter:idx}
 |Antoine Sabot-Durand
-|link:http://twitter.com/antoine_sd[@antoine_sd]
+|https://twitter.com/antoine_sd[@antoine_sd]
 |France
 |2017
 
+|{counter:idx}
 |Yuuichi Sakuraba
-|link:http://twitter.com/skrb[@skrb]
+|https://twitter.com/skrb[@skrb]
 |Japan
 |
 
+|{counter:idx}
 |Otávio Gonçalves de Santana
-|link:http://twitter.com/otaviojava[@otaviojava]
+|https://twitter.com/otaviojava[@otaviojava]
 |Brazil
 |2015
 
+|{counter:idx}
 |Michael Nascimento Santos
-|link:https://twitter.com/mr__m[@mr__m]
+|https://twitter.com/mr\__m[@mr__m]
 |Brazil
 |2006
 
+|{counter:idx}
 |Tom Schindl
-|link:http://twitter.com/tomsontom[@tomsontom]
+|https://twitter.com/tomsontom[@tomsontom]
 |Austria
 |2015
 
+|{counter:idx}
 |Olivier Schmitt
 |
 |France
 |Founding Member
 
+|{counter:idx}
 |Bauke Scholtz
-|link:http://twitter.com/OmniFaces[@OmniFaces]
+|https://twitter.com/OmniFaces[@OmniFaces]
 |The Netherlands
 |2017
 
+|{counter:idx}
 |Aleksey Shipilev
-|link:http://twitter.com/shipilev[@shipilev]
+|https://twitter.com/shipilev[@shipilev]
 |Germany
 |2017
 
+|{counter:idx}
 |Oleg Shelajev
-|link:http://twitter.com/shelajev[@shelajev]
+|https://twitter.com/shelajev[@shelajev]
 |Estonia
 |2017
 
+|{counter:idx}
 |Bert Jan Schrijver
-|link:http://twitter.com/bjschrijver[@bjschrijver]
+|https://twitter.com/bjschrijver[@bjschrijver]
 |The Netherlands
 |2017
 
+|{counter:idx}
 |Vinicius Senger
-|link:http://twitter.com/vsenger[@vsenger]
+|https://twitter.com/vsenger[@vsenger]
 |Brazil
 |2016
 
+|{counter:idx}
 |Yara Senger
-|link:http://twitter.com/yarasenger[@yarasenger]
+|https://twitter.com/yarasenger[@yarasenger]
 |Brazil
 |2012
 
+|{counter:idx}
 |Zoran Sevarac
-|link:http://twitter.com/zsevarac[@zsevarac]
+|https://twitter.com/zsevarac[@zsevarac]
 |Serbia
 |2013
 
+|{counter:idx}
 |Howard Lewis Ship
-|link:http://twitter.com/hlship[@hlship]
+|https://twitter.com/hlship[@hlship]
 |USA
 |2010
 
+|{counter:idx}
 |Jack Shirazi
 |
 |UK
 |2005
 
+|{counter:idx}
 |Kathy Sierra
 |
 |USA
 |Founding Member
 
+|{counter:idx}
 |Yakov Sirotkin
-|link:https://twitter.com/yakov_sirotkin[@yakov_sirotkin]
+|https://twitter.com/yakov_sirotkin[@yakov_sirotkin]
 |Russian Federation
 |2005
 
+|{counter:idx}
 |Bruce Snyder
 |
 |USA
 |2005
 
+|{counter:idx}
 |Bruno Souza
-|link:http://twitter.com/brjavaman[@brjavaman]
+|https://twitter.com/brjavaman[@brjavaman]
 |Brazil
 |Founding Member
 
+|{counter:idx}
 |Alex Soto
-|link:http://twitter.com/alexsotob[@alexsotob]
+|https://twitter.com/alexsotob[@alexsotob]
 |Spain
 |2017
 
+|{counter:idx}
 |James Strachan
-|link:http://twitter.com/jstrachan[@jstrachan]
+|https://twitter.com/jstrachan[@jstrachan]
 |UK
 |2011
 
+|{counter:idx}
 |Venkat Subramaniam
-|link:http://twitter.com/venkat_s[@venkat_s]
+|https://twitter.com/venkat_s[@venkat_s]
 |USA
 |2013
 
+|{counter:idx}
 |Burr Sutter
-|link:http://twitter.com/burrsutter[@burrsutter]
+|https://twitter.com/burrsutter[@burrsutter]
 |USA
 |2005
 
+|{counter:idx}
 |Attila Szegedi
-|link:http://twitter.com/asz[@asz]
+|https://twitter.com/asz[@asz]
 |Hungary
 |2016
 
+|{counter:idx}
 |Mohamed Taman
-|link:http://twitter.com/_tamanm[@_tamanm]
+|https://twitter.com/_tamanm[@_tamanm]
 |Egypt
 |2015
 
+|{counter:idx}
 |Bruce Tate
 |
 |USA
 |2006
 
+|{counter:idx}
 |Régina ten Bruggencate
-|link:http://twitter.com/reginatb38[@reginatb38]
+|https://twitter.com/reginatb38[@reginatb38]
 |The Netherlands
 |2011
 
+|{counter:idx}
 |Gil Tene
-|link:http://twitter.com/giltene[@giltene]
+|https://twitter.com/giltene[@giltene]
 |USA
 |2017
 
+|{counter:idx}
 |Yoshio Terada
-|link:http://twitter.com/yoshioterada[@yoshioterada]
+|https://twitter.com/yoshioterada[@yoshioterada]
 |Japan
 |2016
 
+|{counter:idx}
 |Frans Thamura
 |
 |Indonesia
 |2005
 
+|{counter:idx}
 |Martin Thompson
-|link:http://twitter.com/mjpt77[@mjpt77]
+|https://twitter.com/mjpt77[@mjpt77]
 |UK
 |2015
 
+|{counter:idx}
 |Dr. Kresten Krab Thorup
-|link:http://twitter.com/drkrab[@drkrab]
+|https://twitter.com/drkrab[@drkrab]
 |Denmark
 |2005
 
+|{counter:idx}
 |Neal Tisdale
 |
 |USA
 |Founding Member
 
+|{counter:idx}
 |Dalibor Topic
-|link:http://twitter.com/robilad[@robilad]
+|https://twitter.com/robilad[@robilad]
 |Germany
 |2007
 
+|{counter:idx}
 |Mario Torre
-|link:http://twitter.com/neugens[@neugens]
+|https://twitter.com/neugens[@neugens]
 |Italy
 |2014
 
+|{counter:idx}
 |Henri Tremblay
-|link:http://twitter.com/henri_temblay[@henri_temblay]
+|https://twitter.com/henri_temblay[@henri_temblay]
 |Canada
 |2016
 
+|{counter:idx}
 |Klaasjan Tukker
-|link:https://twitter.com/ktukker[@ktukker]
+|https://twitter.com/ktukker[@ktukker]
 |The Netherlands
 |Founding Member
 
+|{counter:idx}
 |Christian Ullenboom
-|link:https://twitter.com/javabuch[@javabuch]
+|https://twitter.com/javabuch[@javabuch]
 |Germany
 |2005
 
+|{counter:idx}
 |Raoul-Gabriel Urma
-|link:http://twitter.com/raoulUK[@raoulUK]
+|https://twitter.com/raoulUK[@raoulUK]
 |UK
 |2017
 
+|{counter:idx}
 |Linda van der Pal
-|link:http://twitter.com/DuchessFounder[@DuchessFounder]
+|https://twitter.com/DuchessFounder[@DuchessFounder]
 |The Netherlands
 |2013
 
+|{counter:idx}
 |Michael Van Riper
-|link:http://twitter.com/vanriper[@vanriper]
+|https://twitter.com/vanriper[@vanriper]
 |USA
 |2008
 
+|{counter:idx}
 |Jorge Vargas
-|link:http://twitter.com/edivargas[@edivargas]
+|https://twitter.com/edivargas[@edivargas]
 |Mexico
 |2007
 
+|{counter:idx}
 |Bill Venners
-|link:http://twitter.com/bvenners[@bvenners]
+|https://twitter.com/bvenners[@bvenners]
 |USA
 |2005
 
+|{counter:idx}
 |Martijn Verburg
-|link:http://twitter.com/karianna[@karianna]
+|https://twitter.com/karianna[@karianna]
 |UK
 |2012
 
+|{counter:idx}
 |Lars Vogel
-|link:http://twitter.com/vogella[@vogella]
+|https://twitter.com/vogella[@vogella]
 |Germany
 |2012
 
+|{counter:idx}
 |Johan Vos
-|link:http://twitter.com/johanvos[@johanvos]
+|https://twitter.com/johanvos[@johanvos]
 |Belgium
 |2012
 
+|{counter:idx}
 |Joe Walker
 |
 |UK
 |2006
 
+|{counter:idx}
 |Dick Wall
-|link:http://twitter.com/dickwall[@dickwall]
+|https://twitter.com/dickwall[@dickwall]
 |UK
 |Founding Member
 
+|{counter:idx}
 |Richard Warburton
-|link:http://twitter.com/RichardWarburto[@RichardWarburto]
+|https://twitter.com/RichardWarburto[@RichardWarburto]
 |UK
 |2016
 
+|{counter:idx}
 |Jim Weaver
-|link:http://twitter.com/JavaFXpert[@JavaFXpert]
+|https://twitter.com/JavaFXpert[@JavaFXpert]
 |USA
 |2008
 
+|{counter:idx}
 |Paul Webber
 |
 |USA
 |2005
 
+|{counter:idx}
 |Alan Williamson
-|link:http://twitter.com/a1anw2[@a1anw2]
+|https://twitter.com/a1anw2[@a1anw2]
 |Scotland
 |2005
 
+|{counter:idx}
 |Joe Winchester
-|link:https://twitter.com/JoeWinchester[@JoeWinchester]
+|https://twitter.com/JoeWinchester[@JoeWinchester]
 |UK
 |2006
 
+|{counter:idx}
 |Adam Winer
 |
 |USA
 |Founding Member
 
+|{counter:idx}
 |Rafael Winterhalter
-|link:http://twitter.com/rafaelcodes[@rafaelcodes]
+|https://twitter.com/rafaelcodes[@rafaelcodes]
 |Norway
 |2015
 
+|{counter:idx}
 |Eberhard Wolff
-|link:http://twitter.com/ewolff[@ewolff]
+|https://twitter.com/ewolff[@ewolff]
 |Germany
 |Founding Member
 
+|{counter:idx}
 |Edson Yanaga
-|link:http://twitter.com/yanaga[@yanaga]
+|https://twitter.com/yanaga[@yanaga]
 |Brazil
 |2015
 
+|{counter:idx}
 |Sooyeul Yang
 |
 |South Korea
 |2005
 
+|{counter:idx}
 |Murat Yener
-|link:http://twitter.com/yenerm[@yenerm]
+|https://twitter.com/yenerm[@yenerm]
 |Turkey
 |2015
 
+|{counter:idx}
 |Michael Juntao Yuan
-|link:http://twitter.com/juntao[@juntao]
+|https://twitter.com/juntao[@juntao]
 |USA
 |2005
 
+|{counter:idx}
 |Enrique Zamudio
-|link:http://twitter.com/chochosmx[@chochosmx]
+|https://twitter.com/chochosmx[@chochosmx]
 |Mexico
 |2015
-
 |===
