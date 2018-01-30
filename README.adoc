@@ -851,7 +851,7 @@
 |2015
 
 |{counter:idx}
-|Alexis Lopez
+|https://www.linkedin.com/in/acelopezco[Alexis Lopez]
 |https://twitter.com/aa_lopez[@aa_lopez]
 |Colombia
 |2017
