@@ -1307,7 +1307,7 @@
 |2014
 
 |{counter:idx}
-|Henri Tremblay
+|http://blog.tremblay.pro/[Henri Tremblay]
 |https://twitter.com/henri_temblay[@henri_temblay]
 |Canada
 |2016
