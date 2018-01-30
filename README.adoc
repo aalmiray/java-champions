@@ -478,8 +478,8 @@
 |Guatemala
 |2016
 
-|Thor Henning Hetland
-|link:https://twitter.com/TottoNOR[@TottoNOR]
+|link:https://www.linkedin.com/in/thorhenninghetland/[Thor Henning Hetland]
+|link:https://twitter.com/javatotto[@javatotto]
 |Norway
 |2005
 
