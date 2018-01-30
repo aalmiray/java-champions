@@ -359,7 +359,7 @@
 |2013
 
 |{counter:idx}
-|Yakov Fain
+|https://yakovfain.com/[Yakov Fain]
 |https://twitter.com/yfain[@yfain]
 |USA
 |2005
