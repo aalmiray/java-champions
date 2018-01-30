@@ -143,7 +143,7 @@
 |Italy
 |2016
 
-|Bruno Bossola
+|link:https://www.linkedin.com/in/bbossola[Bruno Bossola]
 |link:http://twitter.com/bbossola[@bbossola]
 |Italy
 |2005
