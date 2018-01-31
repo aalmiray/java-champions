@@ -786,7 +786,7 @@
 
 |{counter:idx}
 |Peter Lawrey
-|https://twitter.com/evanPeterLawreychooly[@PeterLawrey]
+|https://twitter.com/PeterLawrey[@PeterLawrey]
 |UK
 |2015
 
