@@ -1403,7 +1403,7 @@
 |2005
 
 |{counter:idx}
-|Alan Williamson
+|https://alan.is/about/[Alan Williamson]
 |https://twitter.com/a1anw2[@a1anw2]
 |Scotland
 |2005
