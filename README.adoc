@@ -185,7 +185,7 @@
 |Founding Member
 
 |{counter:idx}
-|Mert Caliskan
+|https://www.linkedin.com/in/mertcaliskan[Mert Caliskan]
 |https://twitter.com/mertcal[@mertcal]
 |Turkey
 |2014
