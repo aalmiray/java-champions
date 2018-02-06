@@ -95,6 +95,12 @@
 |2017
 
 |{counter:idx}
+|Paul Bakker
+|https://twitter.com/pbakker[@pbakker]
+|USA
+|2017
+
+|{counter:idx}
 |Bert Bates
 |https://twitter.com/BertBates[@BertBates]
 |USA
