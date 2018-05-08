@@ -390,7 +390,7 @@
 
 |{counter:idx}
 |Remi Forax
-|https://twitter.com/RemiForaxOff[@RemiForaxOff]
+|
 |France
 |2016
 
