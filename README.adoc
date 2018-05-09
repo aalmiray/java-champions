@@ -919,13 +919,13 @@
 |{counter:idx}
 |Dan Malks
 |
-|
+|USA
 |2007
 
 |{counter:idx}
 |Jim Manico
 |https://twitter.com/manicode[@manicode]
-|
+|USA
 |2018
 
 |{counter:idx}
