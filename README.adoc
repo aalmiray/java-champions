@@ -65,6 +65,12 @@
 |2007
 
 |{counter:idx}
+|Jean-François Arcand
+|https://twitter.com/jfarcand[@jfarcand]
+|
+|2018
+
+|{counter:idx}
 |Anton Arhipov
 |https://twitter.com/antonarhipov[@antonarhipov]
 |Estonia
@@ -183,6 +189,12 @@
 |https://twitter.com/vbrabant[@vbrabant]
 |Belgium
 |Founding Member
+
+|{counter:idx}
+|Daniel Bryant
+|https://twitter.com/danielbryantuk[@danielbryantuk]
+|
+|2018
 
 |{counter:idx}
 |Bill Burke
@@ -311,6 +323,12 @@
 |2014
 
 |{counter:idx}
+|Julien Dubois
+|https://twitter.com/juliendubois[@juliendubois]
+|
+|2018
+
+|{counter:idx}
 |Hendrik Ebbers
 |https://twitter.com/hendrikEbbers[@hendrikEbbers]
 |Germany
@@ -345,6 +363,12 @@
 |https://twitter.com/relizarov[@relizarov]
 |Russian Federation
 |2006
+
+|{counter:idx}
+|Christoph Engelbert
+|https://twitter.com/noctarius2k[@noctarius2k]
+|
+|2018
 
 |{counter:idx}
 |Anton (Toni) Epple
@@ -659,6 +683,12 @@
 |2005
 
 |{counter:idx}
+|Ivan St. Ivanov
+|https://twitter.com/ivan_stefanov[@ivan_stefanov]
+|
+|2018
+
+|{counter:idx}
 |Stephan Janssen
 |https://twitter.com/Stephan007[@Stephan007]
 |Belgium
@@ -893,6 +923,12 @@
 |2007
 
 |{counter:idx}
+|Jim Manico
+|https://twitter.com/manicode[@manicode]
+|
+|2018
+
+|{counter:idx}
 |Kito Mann
 |https://twitter.com/kito99[@kito99]
 |USA
@@ -969,6 +1005,12 @@
 |https://twitter.com/javaclimber[@javaclimber]
 |USA
 |2009
+
+|{counter:idx}
+|Tomasz Nurkiewicz
+|https://twitter.com/tnurkiewicz[@tnurkiewicz]
+|Poland
+|2018
 
 |{counter:idx}
 |Charles Oliver Nutter
@@ -1125,6 +1167,12 @@
 |https://twitter.com/mr\__m[@mr__m]
 |Brazil
 |2006
+
+|{counter:idx}
+|Mani Sarkar
+|https://twitter.com/theNeomatrix369[@theNeomatrix369]
+|
+|2018
 
 |{counter:idx}
 |Tom Schindl
@@ -1317,6 +1365,12 @@
 |https://twitter.com/henri_temblay[@henri_temblay]
 |Canada
 |2016
+
+|{counter:idx}
+|Ray Tsang
+|https://twitter.com/saturnism[@saturnism]
+|
+|2018
 
 |{counter:idx}
 |Klaasjan Tukker
