@@ -67,7 +67,7 @@
 |{counter:idx}
 |Jean-François Arcand
 |https://twitter.com/jfarcand[@jfarcand]
-|
+|France
 |2018
 
 |{counter:idx}
@@ -193,7 +193,7 @@
 |{counter:idx}
 |Daniel Bryant
 |https://twitter.com/danielbryantuk[@danielbryantuk]
-|
+|UK
 |2018
 
 |{counter:idx}
@@ -325,7 +325,7 @@
 |{counter:idx}
 |Julien Dubois
 |https://twitter.com/juliendubois[@juliendubois]
-|
+|France
 |2018
 
 |{counter:idx}
@@ -367,7 +367,7 @@
 |{counter:idx}
 |Christoph Engelbert
 |https://twitter.com/noctarius2k[@noctarius2k]
-|
+|Germany
 |2018
 
 |{counter:idx}
@@ -685,7 +685,7 @@
 |{counter:idx}
 |Ivan St. Ivanov
 |https://twitter.com/ivan_stefanov[@ivan_stefanov]
-|
+|Bulgaria
 |2018
 
 |{counter:idx}
@@ -1171,7 +1171,7 @@
 |{counter:idx}
 |Mani Sarkar
 |https://twitter.com/theNeomatrix369[@theNeomatrix369]
-|
+|UK
 |2018
 
 |{counter:idx}
