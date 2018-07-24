@@ -1391,6 +1391,12 @@
 |2017
 
 |{counter:idx}
+|Rahman Usta
+|https://twitter.com/ustarahman[@ustarahman]
+|Turkey
+|2018
+
+|{counter:idx}
 |Linda van der Pal
 |https://twitter.com/DuchessFounder[@DuchessFounder]
 |The Netherlands
