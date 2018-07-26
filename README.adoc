@@ -484,6 +484,12 @@
 |Germany
 |2017
 
+|{counter:id}
+|Jonathan Giles
+|https://twitter.com/JonathanGiles[@JonathanGiles]
+|New Zealand
+|2018
+
 |{counter:idx}
 |Brian Goetz
 |https://twitter.com/BrianGoetz[@BrianGoetz]
@@ -982,11 +988,23 @@
 |Romania
 |2017
 
+|{counter:id}
+|Michael T. Minella
+|https://twitter.com/michaelminella[@michaelminella]
+|USA
+|2018
+
 |{counter:idx}
 |Maurice Naftalin
 |https://twitter.com/mauricenaftalin[@mauricenaftalin]
 |Scotland
 |2014
+
+|{counter:id}
+|Nikhil Nanivade
+|https://twitter.com/NikhilNanivade[@NikhilNanivade]
+|USA
+|2018
 
 |{counter:idx}
 |Fabiane Bizinella Nardon
@@ -1084,6 +1102,12 @@
 |USA
 |2007
 
+|{counter:id}
+|Donald Raab
+|https://twitter.com/TheDonRaab[@TheDonRaab]
+|UK
+|2018
+
 |{counter:idx}
 |Matt Raible
 |https://twitter.com/mraible[@mraible]
@@ -1149,6 +1173,12 @@
 |https://twitter.com/antoine_sd[@antoine_sd]
 |France
 |2017
+
+|{counter:id}
+|Koichi Sakata
+|https://twitter.com/jyukutyo[@jyukutyo]
+|Japan
+|2018
 
 |{counter:idx}
 |Yuuichi Sakuraba
@@ -1246,6 +1276,12 @@
 |USA
 |Founding Member
 
+|{counter:id}
+|Michael Simons
+|hhttps://twitter.com/rotnroll666[@rotnroll666]
+|Germany
+|2018
+
 |{counter:idx}
 |Yakov Sirotkin
 |https://twitter.com/yakov_sirotkin[@yakov_sirotkin]
@@ -1300,6 +1336,12 @@
 |Egypt
 |2015
 
+|{counter:id}
+|Shin Tanimoto
+|https://twitter.com/cero_t[@cero_t]
+|Japan
+|2018
+
 |{counter:idx}
 |Bruce Tate
 |
@@ -1329,6 +1371,12 @@
 |
 |Indonesia
 |2005
+
+|{counter:id}
+|Alex Theedom
+|https://twitter.com/alextheedom[@alextheedom]
+|UK
+|2018
 
 |{counter:idx}
 |Martin Thompson
