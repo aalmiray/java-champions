@@ -1278,7 +1278,7 @@
 
 |{counter:id}
 |Michael Simons
-|hhttps://twitter.com/rotnroll666[@rotnroll666]
+|https://twitter.com/rotnroll666[@rotnroll666]
 |Germany
 |2018
 
