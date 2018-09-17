@@ -988,7 +988,7 @@
 |Romania
 |2017
 
-|{counter:id}
+|{counter:idx}
 |Michael T. Minella
 |https://twitter.com/michaelminella[@michaelminella]
 |USA
@@ -1000,7 +1000,7 @@
 |Scotland
 |2014
 
-|{counter:id}
+|{counter:idx}
 |Nikhil Nanivade
 |https://twitter.com/NikhilNanivade[@NikhilNanivade]
 |USA
@@ -1102,7 +1102,7 @@
 |USA
 |2007
 
-|{counter:id}
+|{counter:idx}
 |Donald Raab
 |https://twitter.com/TheDonRaab[@TheDonRaab]
 |UK
@@ -1174,7 +1174,7 @@
 |France
 |2017
 
-|{counter:id}
+|{counter:idx}
 |Koichi Sakata
 |https://twitter.com/jyukutyo[@jyukutyo]
 |Japan
@@ -1276,7 +1276,7 @@
 |USA
 |Founding Member
 
-|{counter:id}
+|{counter:idx}
 |Michael Simons
 |https://twitter.com/rotnroll666[@rotnroll666]
 |Germany
@@ -1336,7 +1336,7 @@
 |Egypt
 |2015
 
-|{counter:id}
+|{counter:idx}
 |Shin Tanimoto
 |https://twitter.com/cero_t[@cero_t]
 |Japan
@@ -1372,7 +1372,7 @@
 |Indonesia
 |2005
 
-|{counter:id}
+|{counter:idx}
 |Alex Theedom
 |https://twitter.com/alextheedom[@alextheedom]
 |UK
