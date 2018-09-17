@@ -725,8 +725,8 @@
 |2010
 
 |{counter:idx}
-|Heinz Kabutz
-|https://twitter.com/kabutz[@kabutz]
+|https://www.javaspecialists.eu[Heinz Kabutz]
+|https://twitter.com/heinzkabutz[@heinzkabutz]
 |Greece
 |2005
 
