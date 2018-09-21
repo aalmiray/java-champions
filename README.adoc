@@ -900,7 +900,7 @@
 
 |{counter:idx}
 |Geir Magnusson
-|
+|https://twitter.com/geirmagnusson[@geirmagnusson]
 |USA
 |2006
 
