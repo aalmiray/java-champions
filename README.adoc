@@ -900,7 +900,7 @@
 
 |{counter:idx}
 |Geir Magnusson
-|
+|https://twitter.com/geirmagnusson[@geirmagnusson]
 |USA
 |2006
 
@@ -1295,7 +1295,7 @@
 |2005
 
 |{counter:idx}
-|Bruno Souza
+|https://code4.life/[Bruno Souza]
 |https://twitter.com/brjavaman[@brjavaman]
 |Brazil
 |Founding Member
