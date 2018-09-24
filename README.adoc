@@ -311,6 +311,12 @@
 |Founding Member
 
 |{counter:idx}
+|José Díaz
+|https://twitter.com/jamdiazdiaz[@jamdiazdiaz]
+|Perú
+|2018
+
+|{counter:idx}
 |Filippo Diotalevi
 |https://twitter.com/fdiotalevi[@fdiotalevi]
 |Italy
@@ -561,6 +567,12 @@
 |https://twitter.com/arungupta[@arungupta]
 |USA
 |2013
+
+|{counter:idx}
+|Mala Gupta
+|https://twitter.com/eMalaGupta[@eMalaGupta]
+|India
+|2018
 
 |{counter:idx}
 |Romain Guy
@@ -1013,6 +1025,12 @@
 |2006
 
 |{counter:idx}
+|Rafael Del Nero
+|https://twitter.com/RafaDelNero[@RafaDelNero]
+|Ireland
+|2018
+
+|{counter:idx}
 |Chris Newland
 |https://twitter.com/chriswhocodes[@chriswhocodes]
 |UK
@@ -1047,6 +1065,12 @@
 |https://twitter.com/rickardoberg[@rickardoberg]
 |Malaysia
 |2011
+
+|{counter:idx}
+|Víctor Orozco
+|https://twitter.com/tuxtor[@tuxtor]
+|Guatemala
+|2018
 
 |{counter:idx}
 |Pratik Patel
@@ -1491,6 +1515,12 @@
 |
 |UK
 |2006
+
+|{counter:idx}
+|Nitsan Wakart
+|https://twitter.com/nitsanw[@nitsanw]
+|South Africa
+|2018
 
 |{counter:idx}
 |Dick Wall
