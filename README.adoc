@@ -1605,4 +1605,22 @@
 |https://twitter.com/chochosmx[@chochosmx]
 |Mexico
 |2015
+
+|{counter:idx}
+|Miro Wengner
+|https://twitter.com/chochosmx[@miragemiko]
+|Germany
+|2018
+
+|{counter:idx}
+|Claus Ibsen
+|https://twitter.com/chochosmx[@davsclaus]
+|Denmark
+|2018
+
+|{counter:idx}
+|Alberto Salazar
+|https://twitter.com/chochosmx[@betoSalazar]
+|USA
+|2018
 |===
