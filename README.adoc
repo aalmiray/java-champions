@@ -689,6 +689,12 @@
 |2005
 
 |{counter:idx}
+|Claus Ibsen
+|https://twitter.com/davsclaus[@davsclaus]
+|Denmark
+|2018
+
+|{counter:idx}
 |Eder Ignatowicz
 |https://twitter.com/ederign[@ederign]
 |Brazil
@@ -1211,6 +1217,12 @@
 |
 
 |{counter:idx}
+|Alberto Salazar
+|https://twitter.com/betoSalazar[@betoSalazar]
+|Ecuador
+|2018
+
+|{counter:idx}
 |Otávio Gonçalves de Santana
 |https://twitter.com/otaviojava[@otaviojava]
 |Brazil
@@ -1545,6 +1557,12 @@
 |
 |USA
 |2005
+
+|{counter:idx}
+|Miro Wengner
+|https://twitter.com/miragemiko[@miragemiko]
+|Germany
+|2018
 
 |{counter:idx}
 |https://alan.is/about/[Alan Williamson]
