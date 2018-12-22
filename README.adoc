@@ -689,6 +689,12 @@
 |2005
 
 |{counter:idx}
+|Michael Hunger
+|https://twitter.com/mesirii[@mesirii]
+|Germany
+|2018
+
+|{counter:idx}
 |Claus Ibsen
 |https://twitter.com/davsclaus[@davsclaus]
 |Denmark
@@ -765,6 +771,12 @@
 |https://twitter.com/1ovthafew[@1ovthafew]
 |UK
 |2005
+
+|{counter:idx}
+|Victor Klang
+|https://twitter.com/viktorklang[@viktorklang]
+|Sweden
+|2018
 
 |{counter:idx}
 |Aslak Knutsen
@@ -1079,6 +1091,12 @@
 |2018
 
 |{counter:idx}
+|Bethan Palmer
+|https://twitter.com/BethanKP[@BethanKP]
+|
+|2018
+
+|{counter:idx}
 |Pratik Patel
 |https://twitter.com/prpatel[@prpatel]
 |USA
@@ -1185,6 +1203,12 @@
 |https://twitter.com/SvenNB[@SvenNB]
 |Germany
 |2015
+
+|{counter:idx}
+|Roy van Rijn
+|https://twitter.com/royvanrijn[@royvanrijn]
+|The Netherlands
+|2018
 
 |{counter:idx}
 |Leonardo de Moura Rocha Lima
