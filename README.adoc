@@ -413,6 +413,12 @@
 |Founding Member
 
 |{counter:idx}
+|Ken Fogel
+|https://twitter.com/omniprof[@omniprof]
+|Canada
+|2018
+
+|{counter:idx}
 |Axel Fontaine
 |https://twitter.com/axelfontaine[@axelfontaine]
 |Germany
