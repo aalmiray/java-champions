@@ -233,6 +233,12 @@
 |Alumnus
 
 |{counter:idx}
+|Hillmer Chona
+|https://twitter.com/HillmerCh[@HillmerCh]
+|Colombia
+|2019
+
+|{counter:idx}
 |Cagatay Civici
 |https://twitter.com/cagataycivici[@cagataycivici]
 |Turkey
@@ -729,6 +735,12 @@
 |https://twitter.com/Stephan007[@Stephan007]
 |Belgium
 |2005
+
+|{counter:idx}
+|Emily Jiang
+|https://twitter.com/emilyfhjiang[@emilyfhjiang]
+|UK
+|2019
 
 |{counter:idx}
 |Rod Johnson
