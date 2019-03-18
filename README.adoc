@@ -1451,6 +1451,12 @@
 |2005
 
 |{counter:idx}
+|Chris Thalinger
+|https://twitter.com/christhalinger/[@christhalinger]
+|USA
+|2019
+
+|{counter:idx}
 |Alex Theedom
 |https://twitter.com/alextheedom[@alextheedom]
 |UK
