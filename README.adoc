@@ -1643,6 +1643,12 @@
 |Founding Member
 
 |{counter:idx}
+|Yusuke Yamamoto
+|https://twitter.com/yusuke[@yusuke]
+|Japan
+|2019
+
+|{counter:idx}
 |Edson Yanaga
 |https://twitter.com/yanaga[@yanaga]
 |Brazil
