@@ -1043,6 +1043,12 @@
 |2018
 
 |{counter:idx}
+|Gunnar Morling
+|https://twitter.com/gunnarmorling[@gunnarmorling]
+|Germany
+|2019
+
+|{counter:idx}
 |Maurice Naftalin
 |https://twitter.com/mauricenaftalin[@mauricenaftalin]
 |Scotland
@@ -1191,6 +1197,12 @@
 |
 |USA
 |2005
+
+|{counter:idx}
+|Victor Rentea
+|https://twitter.com/VictorRentea[@VictorRentea]
+|Romania
+|2019
 
 |{counter:idx}
 |Chris Richardson
@@ -1389,6 +1401,12 @@
 |https://twitter.com/jstrachan[@jstrachan]
 |UK
 |2011
+
+|{counter:idx}
+|Mark Struberg
+|https://twitter.com/struberg[@struberg]
+|Austria
+|2019
 
 |{counter:idx}
 |Venkat Subramaniam
