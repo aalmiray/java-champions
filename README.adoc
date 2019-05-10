@@ -67,7 +67,7 @@
 |{counter:idx}
 |Jean-François Arcand
 |https://twitter.com/jfarcand[@jfarcand]
-|France
+|Canada
 |2018
 
 |{counter:idx}
