@@ -647,6 +647,12 @@
 |2016
 
 |{counter:idx}
+|Marcus Hirt
+|https://twitter.com/hirt[@hirt]
+|Sweden/Switzerland
+|2019
+
+|{counter:idx}
 |Ron Hitchens
 |https://twitter.com/ronhitchens[@ronhitchens]
 |USA
