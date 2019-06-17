@@ -335,6 +335,12 @@
 |2014
 
 |{counter:idx}
+|Oliver Drotbohm
+|https://twitter.com/odrotbohm[@odrotbohm]
+|Germany
+|2017
+
+|{counter:idx}
 |Julien Dubois
 |https://twitter.com/juliendubois[@juliendubois]
 |France
@@ -495,12 +501,6 @@
 |https://twitter.com/javabird[@javabird]
 |Italy
 |2005
-
-|{counter:idx}
-|Oliver Gierke
-|https://twitter.com/olivergierke[@olivergierke]
-|Germany
-|2017
 
 |{counter:idx}
 |Jonathan Giles
