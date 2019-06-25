@@ -71,6 +71,12 @@
 |2018
 
 |{counter:idx}
+|Katia Aresti
+|https://twitter.com/karesti[@karesti]
+|France/Spain
+|2019
+
+|{counter:idx}
 |Anton Arhipov
 |https://twitter.com/antonarhipov[@antonarhipov]
 |Estonia
@@ -177,6 +183,12 @@
 |https://twitter.com/simonebordet[@simonebordet]
 |Italy
 |2016
+
+|{counter:idx}
+|Jeanne Boyarsky
+|https://twitter.com/jeanneboyarsky[@jeanneboyarsky]
+|USA
+|2019
 
 |{counter:idx}
 |https://www.linkedin.com/in/bbossola[Bruno Bossola]
@@ -1253,6 +1265,12 @@
 |2017
 
 |{counter:idx}
+|Graeme Rocher
+|https://twitter.com/graemerocher[@graemerocher]
+|Spain/UK
+|2019
+
+|{counter:idx}
 |Ix-chel Ruiz
 |https://twitter.com/ixchelruiz[@ixchelruiz]
 |Mexico/Switzerland
@@ -1412,6 +1430,12 @@
 |Mark Struberg
 |https://twitter.com/struberg[@struberg]
 |Austria
+|2019
+
+|{counter:idx}
+|Domingo Suarez
+|https://twitter.com/domix[@domix]
+|Mexico
 |2019
 
 |{counter:idx}
