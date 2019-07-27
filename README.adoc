@@ -185,6 +185,12 @@
 |2016
 
 |{counter:idx}
+|Bruno Borges
+|https://twitter.com/brunoborges[@brunoborges]
+|Brazil/Canada
+|2019
+
+|{counter:idx}
 |Jeanne Boyarsky
 |https://twitter.com/jeanneboyarsky[@jeanneboyarsky]
 |USA
@@ -587,6 +593,12 @@
 |2015
 
 |{counter:idx}
+|Chandra Guntur
+|https://twitter.com/CGuntur[@CGuntur]
+|USA
+|2019
+
+|{counter:idx}
 |Arun Gupta
 |https://twitter.com/arungupta[@arungupta]
 |USA
@@ -915,6 +927,12 @@
 |https://twitter.com/evanchooly[@evanchooly]
 |USA
 |2014
+
+|{counter:idx}
+|Dirk Lemmermann
+|https://twitter.com/dlemmermann[@dlemmermann]
+|Switzerland
+|2019
 
 |{counter:idx}
 |Michael Levin
