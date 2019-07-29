@@ -248,7 +248,7 @@
 |Stephen Chin
 |https://twitter.com/steveonjava[@steveonjava]
 |USA
-|Alumnus
+|2009
 
 |{counter:idx}
 |Hillmer Chona
