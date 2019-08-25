@@ -34,7 +34,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/aalmiray/medium[]
-|Andres Almiray
+|https://www.linkedin.com/in/aalmiray[Andres Almiray]
 |https://twitter.com/aalmiray[@aalmiray]
 |Mexico/Switzerland
 |2010
