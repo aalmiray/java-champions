@@ -1776,7 +1776,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/alextheedom/medium[]
+|image:https://avatars.io/twitter/christhalinger/medium[]
 |Chris Thalinger
 |https://twitter.com/christhalinger/[@christhalinger]
 |USA
@@ -1818,7 +1818,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/henri_tremblay/medium[]
+|image:https://avatars.io/twitter/neugens/medium[]
 |Mario Torre
 |https://twitter.com/neugens[@neugens]
 |Italy
@@ -1839,7 +1839,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javabuch/medium[]
+|image:https://avatars.io/twitter/ktukker/medium[]
 |Klaasjan Tukker
 |https://twitter.com/ktukker[@ktukker]
 |The Netherlands
@@ -1965,7 +1965,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JoeWinchester/medium[]
+|image:https://avatars.io/twitter/a1anw2/medium[]
 |https://alan.is/about/[Alan Williamson]
 |https://twitter.com/a1anw2[@a1anw2]
 |Scotland
