@@ -270,7 +270,7 @@
 
 |{counter:idx}
 |Flavia Coelho
-|https://twitter.com/flavinhaco[@flavinhaco]
+|
 |Brazil
 |2006
 
@@ -414,7 +414,7 @@
 
 |{counter:idx}
 |Bert Ertman
-|https://twitter.com/BertErtman[@BertErman]
+|https://twitter.com/BertErtman[@BertErtman]
 |The Netherlands
 |2008
 
@@ -978,7 +978,7 @@
 
 |{counter:idx}
 |https://www.linkedin.com/in/acelopezco[Alexis Lopez]
-|https://twitter.com/aa_lopez[@aa_lopez]
+|https://twitter.com/acelopezco[@acelopezco]
 |Colombia
 |2017
 
@@ -1560,7 +1560,7 @@
 
 |{counter:idx}
 |http://blog.tremblay.pro/[Henri Tremblay]
-|https://twitter.com/henri_temblay[@henri_temblay]
+|https://twitter.com/henri_tremblay[@henri_tremblay]
 |Canada
 |2016
 
