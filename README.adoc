@@ -1193,6 +1193,12 @@
 |2006
 
 |{counter:idx}
+|John Paul "JP" Petines
+|https://twitter.com/jppetines[@jppetines]
+|Phillipines
+|Founding Member
+
+|{counter:idx}
 |Sean M. Phillips
 |https://twitter.com/SeanMiPhillips[@SeanMiPhillips]
 |USA
