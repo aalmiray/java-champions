@@ -1769,9 +1769,9 @@
 |2016
 
 |{counter:idx}
-|
+|image:https://avatars.io/twitter/fthamura/medium[]
 |Frans Thamura
-|
+|https://twitter.com/fthamura[@fthamura]
 |Indonesia
 |2005
 
