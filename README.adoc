@@ -1,4 +1,5 @@
 = Java Champions
+:icons: font
 
 [%header]
 |===
