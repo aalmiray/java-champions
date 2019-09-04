@@ -558,9 +558,9 @@
 |2007
 
 |{counter:idx}
-|
+|image:https://avatars.io/twitter/dgageot/medium[]
 |David Gageot
-|
+|https://twitter.com/dgageot[@dgageot]
 |France
 |2014
 
