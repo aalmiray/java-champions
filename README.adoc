@@ -271,9 +271,9 @@
 |2006
 
 |{counter:idx}
-|
+|image:https://avatars.io/twitter/imifos/medium[]
 |Tasha Carl
-|
+|https://twitter.com/imifos[@imifos]
 |Belgium
 |2013
 
@@ -1951,9 +1951,9 @@
 |2008
 
 |{counter:idx}
-|
+|image:https://avatars.io/twitter/CaptainWebber/medium[]
 |Paul Webber
-|
+|https://twitter.com/CaptainWebber[@CaptainWebber]
 |USA
 |2005
 
