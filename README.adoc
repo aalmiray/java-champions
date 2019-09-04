@@ -628,9 +628,9 @@
 |2008
 
 |{counter:idx}
-|
+|image:https://avatars.io/twitter/errcraft/medium[]
 |James Gosling
-|
+|https://twitter.com/errcraft[@errcraft]
 |USA
 |Honorary Member
 
