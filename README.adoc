@@ -278,9 +278,9 @@
 |2013
 
 |{counter:idx}
-|
+|image:https://avatars.io/twitter/magnocav/medium[]
 |Magno Cavalcante
-|
+|https://twitter.com/magnocav[@magnocav]
 |Brazil
 |2006
 
