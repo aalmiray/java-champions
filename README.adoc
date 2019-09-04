@@ -1770,7 +1770,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/fthamura/medium[]
-|Frans Thamura
+|Frans Thamura icon:ribbon[]
 |https://twitter.com/fthamura[@fthamura]
 |Indonesia
 |2005
