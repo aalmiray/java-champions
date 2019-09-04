@@ -1,5 +1,4 @@
 = Java Champions
-:icons: font
 
 [%header]
 |===
@@ -1771,7 +1770,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/fthamura/medium[]
-|Frans Thamura icon:ribbon[]
+|Frans Thamura
 |https://twitter.com/fthamura[@fthamura]
 |Indonesia
 |2005
