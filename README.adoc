@@ -1741,9 +1741,9 @@
 |2018
 
 |{counter:idx}
-|
+|image:https://avatars.io/twitter/redrapids/medium[]
 |Bruce Tate
-|
+|https://twitter.com/redrapids[@redrapids]
 |USA
 |2006
 
