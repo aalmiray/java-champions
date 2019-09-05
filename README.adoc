@@ -1601,6 +1601,13 @@
 |2017
 
 |{counter:idx}
+|image:https://avatars.io/twitter/ebullientworks/medium[]
+|Erin Schnabel
+|https://twitter.com/ebullientworks[@ebullientworks]
+|USA
+|2019
+
+|{counter:idx}
 |image:https://avatars.io/twitter/bjschrijver/medium[]
 |Bert Jan Schrijver
 |https://twitter.com/bjschrijver[@bjschrijver]
