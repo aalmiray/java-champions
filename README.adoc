@@ -1195,6 +1195,13 @@
 |2017
 
 |{counter:idx}
+|image:https://avatars.io/twitter/dervis_m/medium[]
+|Dervis Mansuroglu
+|https://twitter.com/dervis_m[@dervis_m]
+|Norway
+|2019
+
+|{counter:idx}
 |image:https://avatars.io/twitter/sjmaple/medium[]
 |Simon Maple
 |https://twitter.com/sjmaple[@sjmaple]
@@ -1347,6 +1354,13 @@
 |https://twitter.com/BethanKP[@BethanKP]
 |
 |2018
+
+|{counter:idx}
+|image:https://avatars.io/twitter/nipafx/medium[]
+|Nicolai Parlog
+|https://twitter.com/nipafx[@nipafx]
+|Germany
+|2019
 
 |{counter:idx}
 |image:https://avatars.io/twitter/prpatel/medium[]
@@ -1578,6 +1592,13 @@
 |
 |France
 |Founding Member
+
+|{counter:idx}
+|image:https://avatars.io/twitter/rfscholte/medium[]
+|Robert Scholte
+|https://twitter.com/rfscholte[@rfscholte]
+|The Netherlands
+|2019
 
 |{counter:idx}
 |image:https://avatars.io/twitter/OmniFaces/medium[]
