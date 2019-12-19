@@ -299,6 +299,13 @@
 |2019
 
 |{counter:idx}
+|image:https://avatars.io/twitter/cliff_click/medium[]
+|Cliff Click
+|https://twitter.com/cliff_click[@cliff_click]
+|USA
+|2019
+
+|{counter:idx}
 |image:https://avatars.io/twitter/cagataycivici/medium[]
 |Cagatay Civici
 |https://twitter.com/cagataycivici[@cagataycivici]
@@ -404,6 +411,13 @@
 |2005
 
 |{counter:idx}
+|image:https://avatars.io/twitter/OlehDokuka/medium[]
+|Oleh Dokuka
+|https://twitter.com/OlehDokuka[@OlehDokuka]
+|Ukraine
+|2019
+
+|{counter:idx}
 |image:https://avatars.io/twitter/jmdoudoux/medium[]
 |Jean-Michel Doudoux
 |https://twitter.com/jmdoudoux[@jmdoudoux]
@@ -486,6 +500,13 @@
 |https://twitter.com/BertErtman[@BertErtman]
 |The Netherlands
 |2008
+
+|{counter:idx}
+|image:https://avatars.io/twitter/clementplop/medium[]
+|Clement Escoffier
+|https://twitter.com/clementplop[@clementplop]
+|France
+|2019
 
 |{counter:idx}
 |image:https://avatars.io/twitter/kittylyst/medium[]
@@ -1249,6 +1270,13 @@
 |https://twitter.com/rmehmandarov[@rmehmandarov]
 |Norway
 |2017
+
+|{counter:idx}
+|image:https://avatars.io/twitter/OndroMih/medium[]
+|Ondro Mihályi
+|https://twitter.com/OndroMih[@OndroMih]
+|Czech Republic
+|2019
 
 |{counter:idx}
 |image:https://avatars.io/twitter/vlad_mihalcea/medium[]
