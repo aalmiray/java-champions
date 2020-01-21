@@ -1776,6 +1776,13 @@
 |2005
 
 |{counter:idx}
+|image:https://avatars.io/twitter/siruslan/medium[]
+|Ruslan Synytsky
+|https://twitter.com/siruslan[@siruslan]
+|Ukraine
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/asz/medium[]
 |Attila Szegedi
 |https://twitter.com/asz[@asz]
