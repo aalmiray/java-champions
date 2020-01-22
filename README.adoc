@@ -180,6 +180,13 @@
 |2005
 
 |{counter:idx}
+|image:https://avatars.io/twitter/sebi2706/medium[]
+|Sébastien Blanc
+|https://twitter.com/sebi2706[@sebi2706]
+|France
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/dblevins/medium[]
 |David Blevins
 |https://twitter.com/dblevins[@dblevins]
