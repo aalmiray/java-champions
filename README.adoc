@@ -649,6 +649,13 @@
 |2006
 
 |{counter:idx}
+|image:https://avatars.io/twitter/dgomezg/medium[]
+|David Gómez
+|https://twitter.com/dgomezg[@dgomezg]
+|Spain
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/agoncal/medium[]
 |Antonio Goncalves
 |https://twitter.com/agoncal[@agoncal]
