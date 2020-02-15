@@ -2030,7 +2030,7 @@
 |{counter:idx}
 |image:https://avatars.io/twitter/CaptainWebber/medium[]
 |Paul Webber
-|https://twitter.com/CaptainWebber[@CaptainWebber]
+|https://twitter.com/sdjug[@sdjug] https://twitter.com/CaptainWebber[@CaptainWebber]
 |USA
 |2005
 
