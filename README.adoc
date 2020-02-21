@@ -467,6 +467,13 @@
 |2015
 
 |{counter:idx}
+|image:https://avatars.io/twitter/bsideup/medium[]
+|Sergei Egorov
+|https://twitter.com/bsideup[@bsideup]
+|Estonia/Germany
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/myfear/medium[]
 |Markus Eisele
 |https://twitter.com/myfear[@myfear]
