@@ -334,6 +334,13 @@
 |2006
 
 |{counter:idx}
+|image:https://avatars.io/twitter/_pitest/medium[]
+|Henry Coles
+|https://twitter.com/_pitest[@_pitest]
+|Scottland
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/jodastephen/medium[]
 |Stephen Colebourne
 |https://twitter.com/jodastephen[@jodastephen]
@@ -983,6 +990,13 @@
 |https://twitter.com/matkar[@matkar]
 |Sweden
 |2009
+
+|{counter:idx}
+|image:https://avatars.io/twitter/kohsukekawa/medium[]
+|Kohsuke Kawaguchi
+|https://twitter.com/kohsukekawa[@kohsukekawa]
+|USA/Japan
+|2020
 
 |{counter:idx}
 |image:https://avatars.io/twitter/rkennke/medium[]
