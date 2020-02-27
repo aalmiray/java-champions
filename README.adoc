@@ -337,7 +337,7 @@
 |image:https://avatars.io/twitter/_pitest/medium[]
 |Henry Coles
 |https://twitter.com/_pitest[@_pitest]
-|Scottland
+|Scotland
 |2020
 
 |{counter:idx}
