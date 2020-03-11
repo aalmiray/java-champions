@@ -264,6 +264,13 @@
 |Founding Member
 
 |{counter:idx}
+|image:https://avatars.io/twitter/edburns/medium[]
+|Ed Burns
+|https://twitter.com/edburns[@edburns]
+|USA
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/mertcal/medium[]
 |https://www.linkedin.com/in/mertcaliskan[Mert Caliskan]
 |https://twitter.com/mertcal[@mertcal]
