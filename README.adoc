@@ -691,13 +691,6 @@
 |Honorary Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/frankgreco/medium[]
-|Frank Greco
-|https://twitter.com/frankgreco[@frankgreco]
-|USA
-|2007
-
-|{counter:idx}
 |image:https://avatars.io/twitter/rgransberger/medium[]
 |Rabea Gransberger
 |https://twitter.com/rgransberger[@rgransberger]
@@ -712,6 +705,13 @@
 |2012
 
 |{counter:idx}
+|image:https://avatars.io/twitter/frankgreco/medium[]
+|Frank Greco
+|https://twitter.com/frankgreco[@frankgreco]
+|USA
+|2007
+
+|{counter:idx}
 |image:https://avatars.io/twitter/NeilGriffin95/medium[]
 |Neil Griffin
 |https://twitter.com/NeilGriffin95[@NeilGriffin95]
@@ -724,6 +724,13 @@
 |https://twitter.com/ivar_grimstad[@ivar_grimstad]
 |Sweden
 |2016
+
+|{counter:idx}
+|image:https://avatars.io/twitter/SanneGrinovero/medium[]
+|Sanne Grinovero 
+|https://twitter.com/SanneGrinovero[@SanneGrinovero]
+|Italy / UK
+|2020
 
 |{counter:idx}
 |image:https://avatars.io/twitter/hansolo_/medium[]
