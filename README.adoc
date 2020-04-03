@@ -8,8 +8,8 @@
 |image:https://avatars.io/twitter/oezcanacar/medium[]
 |Oezcan Acar
 |https://twitter.com/oezcanacar[@oezcanacar]
-|
-|Turkey
+|Frankfurt
+|Germany
 |2009
 
 |{counter:idx}
@@ -24,7 +24,7 @@
 |image:https://avatars.io/twitter/mojavelinux/medium[]
 |Dan Allen
 |https://twitter.com/mojavelinux[@mojavelinux]
-|
+|Denver, Colorado
 |USA
 |2013
 
@@ -32,7 +32,7 @@
 |image:https://avatars.io/twitter/dalmaer/medium[]
 |Dion Almaer
 |https://twitter.com/dalmaer[@dalmaer]
-|
+|San Francisco, California
 |USA
 |2005
 
@@ -56,7 +56,7 @@
 |image:https://avatars.io/twitter/gail_asgteach/medium[]
 |Gail C. Anderson
 |https://twitter.com/gail_asgteach[@gail_asgteach]
-|
+|San Diego, California
 |USA
 |2016
 
@@ -64,7 +64,7 @@
 |image:https://avatars.io/twitter/Paul_ASGTeach/medium[]
 |Paul L. Anderson
 |https://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
-|
+|San Diego, California
 |USA
 |2016
 
@@ -80,15 +80,15 @@
 |image:https://avatars.io/twitter/javapapo/medium[]
 |Paris Apostolopoulos
 |https://twitter.com/javapapo[@javapapo]
-|
-|Greece
+|London
+|UK
 |2007
 
 |{counter:idx}
 |image:https://avatars.io/twitter/jfarcand/medium[]
 |Jean-François Arcand
 |https://twitter.com/jfarcand[@jfarcand]
-|
+|Montreal
 |Canada
 |2018
 
@@ -120,7 +120,7 @@
 |
 |Calvin Austin
 |
-|
+|San Francisco, California
 |USA
 |2005
 
@@ -128,15 +128,15 @@
 |
 |Hovhannes Avoyan
 |
-|
-|Armenia
+|San Francisco, California
+|USA
 |2015
 
 |{counter:idx}
 |image:https://avatars.io/twitter/babadopulos/medium[]
 |Fernando Babadopulos
 |https://twitter.com/babadopulos[@babadopulos]
-|
+|São Paulo
 |Brazil
 |2017
 
@@ -144,7 +144,7 @@
 |image:https://avatars.io/twitter/pbakker/medium[]
 |Paul Bakker
 |https://twitter.com/pbakker[@pbakker]
-|
+|San Francisco, CA
 |USA
 |2017
 
@@ -160,7 +160,7 @@
 |image:https://avatars.io/twitter/mon_beck/medium[]
 |Monica Beckwith
 |https://twitter.com/mon_beck[@mon_beck]
-|
+|Texas
 |USA
 |2017
 
@@ -168,7 +168,7 @@
 |image:https://avatars.io/twitter/luciobenfante/medium[]
 |Lucio Benfante
 |https://twitter.com/luciobenfante[@luciobenfante]
-|
+|Verona
 |Italy
 |2006
 
@@ -176,7 +176,7 @@
 |image:https://avatars.io/twitter/emmanuelbernard/medium[]
 |Emmanuel Bernard
 |https://twitter.com/emmanuelbernard[@emmanuelbernard]
-|
+|Paris
 |France
 |2017
 
@@ -208,7 +208,7 @@
 |image:https://avatars.io/twitter/sebi2706/medium[]
 |Sébastien Blanc
 |https://twitter.com/sebi2706[@sebi2706]
-|
+|Nice
 |France
 |2020
 
@@ -216,7 +216,7 @@
 |image:https://avatars.io/twitter/dblevins/medium[]
 |David Blevins
 |https://twitter.com/dblevins[@dblevins]
-|
+|Santa Monica, California
 |USA
 |2015
 
@@ -224,7 +224,7 @@
 |image:https://avatars.io/twitter/joshbloch/medium[]
 |Joshua Bloch
 |https://twitter.com/joshbloch[@joshbloch]
-|
+|San Francisco, California
 |USA
 |2005
 
@@ -232,7 +232,7 @@
 |image:https://avatars.io/twitter/bokmann/medium[]
 |David Bock
 |https://github.com/bokmann[@bokmann]
-|
+|Washington DC
 |USA
 |2006
 
@@ -248,7 +248,7 @@
 |image:https://avatars.io/twitter/simonebordet/medium[]
 |Simone Bordet
 |https://twitter.com/simonebordet[@simonebordet]
-|
+|Turin
 |Italy
 |2016
 
@@ -264,7 +264,7 @@
 |image:https://avatars.io/twitter/jeanneboyarsky/medium[]
 |Jeanne Boyarsky
 |https://twitter.com/jeanneboyarsky[@jeanneboyarsky]
-|
+|New York City, New York
 |USA
 |2019
 
@@ -288,7 +288,7 @@
 |image:https://avatars.io/twitter/danielbryantuk/medium[]
 |Daniel Bryant
 |https://twitter.com/danielbryantuk[@danielbryantuk]
-|
+|London
 |UK
 |2018
 
@@ -304,7 +304,7 @@
 |image:https://avatars.io/twitter/edburns/medium[]
 |Ed Burns
 |https://twitter.com/edburns[@edburns]
-|
+|Florida
 |USA
 |2020
 
