@@ -1,5 +1,7 @@
 = Java Champions
 
+`*` - Indicates a member has passed away.
+
 [%header]
 |===
 | | |Name |Twitter |City/State |Country |Year
@@ -470,7 +472,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/danieldfjug/medium[]
-|Daniel deOliveira
+|Daniel deOliveira *
 |https://twitter.com/danieldfjug[@danieldfjug]
 |
 |Brazil
@@ -702,7 +704,7 @@
 
 |{counter:idx}
 |
-|Felipe Gaúcho
+|Felipe Gaúcho *
 |
 |
 |Brazil
@@ -2150,7 +2152,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/fthamura/medium[]
-|Frans Thamura
+|Frans Thamura *
 |https://twitter.com/fthamura[@fthamura]
 |
 |Indonesia
