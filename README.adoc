@@ -2,7 +2,7 @@
 
 [%header]
 |===
-| | |Name |Twitter |City/state| Country |Year
+| | |Name |Twitter |City/State |Country |Year
 
 |{counter:idx}
 |image:https://avatars.io/twitter/oezcanacar/medium[]
@@ -40,8 +40,8 @@
 |image:https://avatars.io/twitter/aalmiray/medium[]
 |https://www.linkedin.com/in/aalmiray[Andres Almiray]
 |https://twitter.com/aalmiray[@aalmiray]
-|
-|Mexico/Switzerland
+|Basel
+|Switzerland/Mexico
 |2010
 
 |{counter:idx}
@@ -833,7 +833,7 @@
 |Sanne Grinovero 
 |https://twitter.com/SanneGrinovero[@SanneGrinovero]
 |
-|Italy / UK
+|UK/Italy
 |2020
 
 |{counter:idx}
@@ -1832,8 +1832,8 @@
 |image:https://avatars.io/twitter/ixchelruiz/medium[]
 |Ix-chel Ruiz
 |https://twitter.com/ixchelruiz[@ixchelruiz]
-|
-|Mexico/Switzerland
+|Basel
+|Switzerland/Mexico
 |2017
 
 |{counter:idx}
