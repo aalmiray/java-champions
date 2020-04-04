@@ -1351,7 +1351,7 @@
 |
 
 |{counter:idx}
-|
+|image:images/daniel-liang-128x128.jpg[]
 |Dr. Daniel Liang
 |
 |
