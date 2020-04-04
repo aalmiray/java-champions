@@ -11,7 +11,7 @@
 |Oezcan Acar
 |https://twitter.com/oezcanacar[@oezcanacar]
 |Frankfurt
-|Germany
+|Germany/Turkey
 |2009
 
 |{counter:idx}
@@ -82,7 +82,7 @@
 |image:https://avatars.io/twitter/javapapo/medium[]
 |Paris Apostolopoulos
 |https://twitter.com/javapapo[@javapapo]
-|London
+|London/Greece
 |UK
 |2007
 
@@ -131,7 +131,7 @@
 |Hovhannes Avoyan
 |
 |San Francisco, California
-|USA
+|USA/Armenia
 |2015
 
 |{counter:idx}
