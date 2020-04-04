@@ -1,17 +1,15 @@
 = Java Champions
 
-`*` - Indicates a member has passed away.
-
 [%header]
 |===
-| | |Name |Twitter |City/State |Country |Year
+| | |Name |Twitter |City/state| Country |Year
 
 |{counter:idx}
 |image:https://avatars.io/twitter/oezcanacar/medium[]
 |Oezcan Acar
 |https://twitter.com/oezcanacar[@oezcanacar]
 |Frankfurt
-|Germany
+|Germany/Turkey
 |2009
 
 |{counter:idx}
@@ -42,8 +40,8 @@
 |image:https://avatars.io/twitter/aalmiray/medium[]
 |https://www.linkedin.com/in/aalmiray[Andres Almiray]
 |https://twitter.com/aalmiray[@aalmiray]
-|Basel
-|Switzerland/Mexico
+|
+|Mexico/Switzerland
 |2010
 
 |{counter:idx}
@@ -83,7 +81,7 @@
 |Paris Apostolopoulos
 |https://twitter.com/javapapo[@javapapo]
 |London
-|UK
+|UK/Greece
 |2007
 
 |{counter:idx}
@@ -131,7 +129,7 @@
 |Hovhannes Avoyan
 |
 |San Francisco, California
-|USA
+|USA/Armenia
 |2015
 
 |{counter:idx}
@@ -472,7 +470,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/danieldfjug/medium[]
-|Daniel deOliveira *
+|Daniel deOliveira
 |https://twitter.com/danieldfjug[@danieldfjug]
 |
 |Brazil
@@ -704,7 +702,7 @@
 
 |{counter:idx}
 |
-|Felipe Gaúcho *
+|Felipe Gaúcho
 |
 |
 |Brazil
@@ -835,7 +833,7 @@
 |Sanne Grinovero 
 |https://twitter.com/SanneGrinovero[@SanneGrinovero]
 |
-|UK/Italy
+|Italy / UK
 |2020
 
 |{counter:idx}
@@ -1351,7 +1349,7 @@
 |
 
 |{counter:idx}
-|image:images/daniel-liang-128x128.jpg[]
+|
 |Dr. Daniel Liang
 |
 |
@@ -1834,8 +1832,8 @@
 |image:https://avatars.io/twitter/ixchelruiz/medium[]
 |Ix-chel Ruiz
 |https://twitter.com/ixchelruiz[@ixchelruiz]
-|Basel
-|Switzerland/Mexico
+|
+|Mexico/Switzerland
 |2017
 
 |{counter:idx}
@@ -2152,7 +2150,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/fthamura/medium[]
-|Frans Thamura *
+|Frans Thamura
 |https://twitter.com/fthamura[@fthamura]
 |
 |Indonesia
