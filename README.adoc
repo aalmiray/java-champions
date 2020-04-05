@@ -2402,7 +2402,7 @@
 |image:https://avatars.io/twitter/rafaelcodes/medium[]
 |Rafael Winterhalter
 |https://twitter.com/rafaelcodes[@rafaelcodes]
-|
+|Oslo
 |Norway
 |2015
 
