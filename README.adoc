@@ -570,7 +570,7 @@
 |image:https://avatars.io/twitter/badrelhouari/medium[]
 |Badr El Houari
 |https://twitter.com/badrelhouari[@badrelhouari]
-|Casablanca Prefecture
+|Casablanca
 |Morocco
 |2016
 
@@ -650,7 +650,7 @@
 |image:https://avatars.io/twitter/omniprof/medium[]
 |Ken Fogel
 |https://twitter.com/omniprof[@omniprof]
-|Cote Saint-Luc, Quebec,
+|Cote Saint-Luc, Quebec
 |Canada
 |2018
 
@@ -1170,7 +1170,7 @@
 |image:https://avatars.io/twitter/1ovthafew/medium[]
 |Gavin King
 |https://twitter.com/1ovthafew[@1ovthafew]
-|https://twitter.com/1ovthafe
+|
 |Spain/UK
 |2005
 
