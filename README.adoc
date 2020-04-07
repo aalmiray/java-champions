@@ -839,6 +839,14 @@
 |2020
 
 |{counter:idx}
+|image:https://avatars.io/twitter/loiane/medium[]
+|Loiane Groner
+|https://twitter.com/loiane[@loiane]
+|Tampa, Florida
+|USA/Brazil
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/hansolo_/medium[]
 |Gerrit Grunwald
 |https://twitter.com/hansolo_[@hansolo_]
