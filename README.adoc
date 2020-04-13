@@ -1735,6 +1735,14 @@
 |2007
 
 |{counter:idx}
+|image:https://avatars.io/twitter/cquinn/medium[]
+|Carl Quinn *
+|https://twitter.com/cquinn[@cquinn]
+|California
+|USA
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/TheDonRaab/medium[]
 |Donald Raab
 |https://twitter.com/TheDonRaab[@TheDonRaab]
