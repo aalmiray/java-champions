@@ -223,6 +223,14 @@
 |2015
 
 |{counter:idx}
+|image:https://avatars.io/twitter/alblue/medium[]
+|Alex Blewitt
+|https://twitter.com/alblue[@alblue]
+|Milton Keynes
+|UK
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/joshbloch/medium[]
 |Joshua Bloch
 |https://twitter.com/joshbloch[@joshbloch]
