@@ -1591,6 +1591,14 @@
 |2018
 
 |{counter:idx}
+|image:https://avatars.io/twitter/Audrey_Neveu/medium[]
+|Audrey Neveu
+|https://twitter.com/Audrey_Neveu[@Audrey_Neveu]
+|Rouen
+|France
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/chriswhocodes/medium[]
 |Chris Newland
 |https://twitter.com/chriswhocodes[@chriswhocodes]
