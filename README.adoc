@@ -2295,6 +2295,14 @@
 |2018
 
 |{counter:idx}
+|image:https://avatars.io/twitter/tagir_valeev/medium[]
+|Tagir Valeev
+|https://twitter.com/tagir_valeev[@tagir_valeev]
+|Novosibirsk
+|Russia
+|2020
+
+|{counter:idx}
 |image:https://avatars.io/twitter/DuchessFounder/medium[]
 |Linda van der Pal
 |https://twitter.com/DuchessFounder[@DuchessFounder]
