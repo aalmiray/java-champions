@@ -132,7 +132,7 @@
 |
 |San Francisco, California
 |USA/Armenia
-|2015
+|2005
 
 |{counter:idx}
 |image:https://avatars.io/twitter/babadopulos/medium[]
@@ -200,7 +200,7 @@
 
 |{counter:idx}
 |
-|Xu Bin
+|Dr. Xu Bin
 |
 |
 |China
@@ -224,7 +224,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/alblue/medium[]
-|Alex Blewitt
+|Dr. Alex Blewitt
 |https://twitter.com/alblue[@alblue]
 |Milton Keynes
 |UK
@@ -232,7 +232,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/joshbloch/medium[]
-|Joshua Bloch
+|Dr. Joshua Bloch
 |https://twitter.com/joshbloch[@joshbloch]
 |San Francisco, California
 |USA
@@ -296,7 +296,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/danielbryantuk/medium[]
-|Daniel Bryant
+|Dr. Daniel Bryant
 |https://twitter.com/danielbryantuk[@danielbryantuk]
 |London
 |UK
@@ -368,7 +368,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/cliff_click/medium[]
-|Cliff Click
+|Dr. Cliff Click
 |https://twitter.com/cliff_click[@cliff_click]
 |Sunnyvale, California
 |USA
@@ -432,7 +432,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/holly_cummins/medium[]
-|Holly Cummins
+|Dr. Holly Cummins
 |https://twitter.com/holly_cummins[@holly_cummins]
 |London
 |UK
@@ -616,7 +616,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/clementplop/medium[]
-|Clement Escoffier
+|Dr. Clement Escoffier
 |https://twitter.com/clementplop[@clementplop]
 |Valence, Rhône-Alpes
 |France
@@ -656,7 +656,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/omniprof/medium[]
-|Ken Fogel
+|Prof. Ken Fogel
 |https://twitter.com/omniprof[@omniprof]
 |Cote Saint-Luc, Quebec
 |Canada
@@ -672,7 +672,7 @@
 
 |{counter:idx}
 |
-|Remi Forax
+|Dr. Remi Forax
 |
 |
 |France
@@ -688,7 +688,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/23derevo/medium[]
-|Alexey Fyodorov
+|Dr. Alexey Fyodorov
 |https://twitter.com/23derevo[@23derevo]
 |Saint Petersburg
 |Russian Federation
@@ -792,7 +792,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/errcraft/medium[]
-|James Gosling
+|Dr. James Gosling
 |https://twitter.com/errcraft[@errcraft]
 |San Francisco, California
 |USA
@@ -1032,7 +1032,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/cayhorstmann/medium[]
-|Cay Horstmann
+|Dr. Cay Horstmann
 |https://twitter.com/cayhorstmann[@cayhorstmann]
 |San Francisco, California
 |USA
@@ -1120,7 +1120,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/springrod/medium[]
-|Rod Johnson
+|Dr. Rod Johnson
 |https://twitter.com/springrod[@springrod]
 |Sydney
 |Australia/USA
@@ -1144,7 +1144,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/matjazbj/medium[]
-|Matjaz Juric
+|Prof. Matjaz Juric
 |https://twitter.com/matjazbj[@matjazbj]
 |
 |Slovenia
@@ -1152,7 +1152,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/heinzkabutz/medium[]
-|https://www.javaspecialists.eu[Heinz Kabutz]
+|https://www.javaspecialists.eu[Dr. Heinz M. Kabutz]
 |https://twitter.com/heinzkabutz[@heinzkabutz]
 |Chorafakia, Chania
 |Greece
@@ -1224,7 +1224,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/kenkousen/medium[]
-|Ken Kousen
+|Dr. Ken Kousen
 |https://twitter.com/kenkousen[@kenkousen]
 |Marlborough, Connecticut
 |USA
@@ -1232,7 +1232,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/michaelkolling/medium[]
-|Michael Kolling
+|Dr. Michael Kölling
 |https://twitter.com/michaelkolling[@michaelkolling]
 |London
 |UK
@@ -1240,7 +1240,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/mittie/medium[]
-|Dierk König
+|Prof. Dierk König
 |https://twitter.com/mittie[@mittie]
 |Zürich
 |Switzerland
@@ -1280,7 +1280,7 @@
 
 |{counter:idx}
 |
-|Edward Lank
+|Dr. Edward Lank
 |
 |Kitchener
 |Canada
@@ -1312,7 +1312,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/douglea/medium[]
-|Doug Lea
+|Dr. Doug Lea
 |https://twitter.com/douglea[@douglea]
 |Syracuse, New York
 |USA
@@ -1352,7 +1352,7 @@
 
 |{counter:idx}
 |
-|Barry Levine
+|Dr. Barry Levine
 |
 |
 |USA
@@ -1416,7 +1416,7 @@
 
 |{counter:idx}
 |
-|Qusay Mahmoud
+|Dr. Qusay Mahmoud
 |
 |
 |Canada
@@ -1568,7 +1568,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/NikhilNanivade/medium[]
-|Nikhil Nanivade
+|Nikhil Nanivadekar
 |https://twitter.com/NikhilNanivade[@NikhilNanivade]
 |
 |USA
@@ -1576,7 +1576,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/fabianenardon/medium[]
-|Fabiane Bizinella Nardon
+|Dr. Fabiane Bizinella Nardon
 |https://twitter.com/fabianenardon[@fabianenardon]
 |São Paulo
 |Brazil
@@ -1688,7 +1688,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/JosePaumard/medium[]
-|José Paumard
+|Dr. José Paumard
 |https://twitter.com/JosePaumard[@JosePaumard]
 |Paris
 |France
@@ -1704,7 +1704,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/JPeredaDnr/medium[]
-|Jose Pereda
+|Dr. Jose Pereda
 |https://twitter.com/JPeredaDnr[@JPeredaDnr]
 |Valladolid
 |Spain
@@ -1712,7 +1712,7 @@
 
 |{counter:idx}
 |
-|Paul Perrone
+|Dr. Paul Perrone
 |
 |
 |USA
@@ -1744,7 +1744,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/wpugh/medium[]
-|William Pugh
+|Prof. William Pugh
 |https://twitter.com/wpugh[@wpugh]
 |Maryland
 |USA
@@ -1792,7 +1792,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/VictorRentea/medium[]
-|Victor Rentea
+|Dr. Victor Rentea
 |https://twitter.com/VictorRentea[@VictorRentea]
 |Bucharest
 |Romania
@@ -1968,7 +1968,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/shelajev/medium[]
-|Oleg Shelajev
+|Dr. Oleg Shelajev
 |https://twitter.com/shelajev[@shelajev]
 |Tartu
 |Estonia
@@ -2008,7 +2008,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/zsevarac/medium[]
-|Zoran Sevarac
+|Dr. Zoran Sevarac
 |https://twitter.com/zsevarac[@zsevarac]
 |
 |Serbia
@@ -2104,7 +2104,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/venkat_s/medium[]
-|Venkat Subramaniam
+|Dr. Venkat Subramaniam
 |https://twitter.com/venkat_s[@venkat_s]
 |Broomfield, Colorado
 |USA
@@ -2280,7 +2280,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/raoulUK/medium[]
-|Raoul-Gabriel Urma
+|Dr. Raoul-Gabriel Urma
 |https://twitter.com/raoulUK[@raoulUK]
 |Cambridge
 |UK
@@ -2352,7 +2352,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/johanvos/medium[]
-|Johan Vos
+|Dr. Johan Vos
 |https://twitter.com/johanvos[@johanvos]
 |Leuven, Flanders
 |Belgium
@@ -2384,7 +2384,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/RichardWarburto/medium[]
-|Richard Warburton
+|Dr. Richard Warburton
 |https://twitter.com/RichardWarburto[@RichardWarburto]
 |London
 |UK
@@ -2488,7 +2488,7 @@
 
 |{counter:idx}
 |image:https://avatars.io/twitter/juntao/medium[]
-|Michael Juntao Yuan
+|Dr. Michael Juntao Yuan
 |https://twitter.com/juntao[@juntao]
 |Austin, Texas
 |USA
