@@ -7,7 +7,7 @@
 | | |Name |Twitter |City/State |Country |Year
 
 |{counter:idx}
-|image:https://avatars.io/twitter/oezcanacar/medium[]
+|image:http://twivatar.glitch.me/oezcanacar[]
 |Oezcan Acar
 |https://twitter.com/oezcanacar[@oezcanacar]
 |Frankfurt
@@ -15,7 +15,7 @@
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bercut2000/medium[]
+|image:https://twivatar.glitch.me/bercut2000[]
 |Dmitry Aleksandrov
 |https://twitter.com/bercut2000[@bercut2000]
 |
@@ -23,7 +23,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mojavelinux/medium[]
+|image:https://twivatar.glitch.me/mojavelinux[]
 |Dan Allen
 |https://twitter.com/mojavelinux[@mojavelinux]
 |Denver, Colorado
@@ -31,7 +31,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dalmaer/medium[]
+|image:https://twivatar.glitch.me/dalmaer[]
 |Dion Almaer
 |https://twitter.com/dalmaer[@dalmaer]
 |San Francisco, California
@@ -39,7 +39,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/aalmiray/medium[]
+|image:https://twivatar.glitch.me/aalmiray[]
 |https://www.linkedin.com/in/aalmiray[Andres Almiray]
 |https://twitter.com/aalmiray[@aalmiray]
 |Basel
@@ -47,7 +47,7 @@
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/deepakalur/medium[]
+|image:https://twivatar.glitch.me/deepakalur[]
 |Deepak Alur
 |https://twitter.com/deepakalur[@deepakalur]
 |
@@ -55,7 +55,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/gail_asgteach/medium[]
+|image:https://twivatar.glitch.me/gail_asgteach[]
 |Gail C. Anderson
 |https://twitter.com/gail_asgteach[@gail_asgteach]
 |San Diego, California
@@ -63,7 +63,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/Paul_ASGTeach/medium[]
+|image:https://twivatar.glitch.me/Paul_ASGTeach[]
 |Paul L. Anderson
 |https://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
 |San Diego, California
@@ -79,7 +79,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javapapo/medium[]
+|image:https://twivatar.glitch.me/javapapo[]
 |Paris Apostolopoulos
 |https://twitter.com/javapapo[@javapapo]
 |London/Greece
@@ -87,7 +87,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jfarcand/medium[]
+|image:https://twivatar.glitch.me/jfarcand[]
 |Jean-François Arcand
 |https://twitter.com/jfarcand[@jfarcand]
 |Montreal
@@ -95,7 +95,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/karesti/medium[]
+|image:https://twivatar.glitch.me/karesti[]
 |Katia Aresti
 |https://twitter.com/karesti[@karesti]
 |
@@ -103,7 +103,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/antonarhipov/medium[]
+|image:https://twivatar.glitch.me/antonarhipov[]
 |Anton Arhipov
 |https://twitter.com/antonarhipov[@antonarhipov]
 |
@@ -135,7 +135,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/babadopulos/medium[]
+|image:https://twivatar.glitch.me/babadopulos[]
 |Fernando Babadopulos
 |https://twitter.com/babadopulos[@babadopulos]
 |São Paulo
@@ -143,7 +143,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/pbakker/medium[]
+|image:https://twivatar.glitch.me/pbakker[]
 |Paul Bakker
 |https://twitter.com/pbakker[@pbakker]
 |San Francisco, CA
@@ -151,7 +151,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BertBates/medium[]
+|image:https://twivatar.glitch.me/BertBates[]
 |Bert Bates
 |https://twitter.com/BertBates[@BertBates]
 |
@@ -159,7 +159,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mon_beck/medium[]
+|image:https://twivatar.glitch.me/mon_beck[]
 |Monica Beckwith
 |https://twitter.com/mon_beck[@mon_beck]
 |Texas
@@ -167,7 +167,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/luciobenfante/medium[]
+|image:https://twivatar.glitch.me/luciobenfante[]
 |Lucio Benfante
 |https://twitter.com/luciobenfante[@luciobenfante]
 |Verona
@@ -175,7 +175,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/emmanuelbernard/medium[]
+|image:https://twivatar.glitch.me/emmanuelbernard[]
 |Emmanuel Bernard
 |https://twitter.com/emmanuelbernard[@emmanuelbernard]
 |Paris
@@ -183,7 +183,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/gbevin/medium[]
+|image:https://twivatar.glitch.me/gbevin[]
 |Geert Bevin
 |https://twitter.com/gbevin[@gbevin]
 |
@@ -191,7 +191,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/AdamBien/medium[]
+|image:https://twivatar.glitch.me/AdamBien[]
 |Adam Bien
 |https://twitter.com/AdamBien[@AdamBien]
 |
@@ -207,7 +207,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/sebi2706/medium[]
+|image:https://twivatar.glitch.me/sebi2706[]
 |Sébastien Blanc
 |https://twitter.com/sebi2706[@sebi2706]
 |Nice
@@ -215,7 +215,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dblevins/medium[]
+|image:https://twivatar.glitch.me/dblevins[]
 |David Blevins
 |https://twitter.com/dblevins[@dblevins]
 |Santa Monica, California
@@ -223,7 +223,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/alblue/medium[]
+|image:https://twivatar.glitch.me/alblue[]
 |Dr. Alex Blewitt
 |https://twitter.com/alblue[@alblue]
 |Milton Keynes
@@ -231,7 +231,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/joshbloch/medium[]
+|image:https://twivatar.glitch.me/joshbloch[]
 |Dr. Joshua Bloch
 |https://twitter.com/joshbloch[@joshbloch]
 |San Francisco, California
@@ -239,7 +239,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bokmann/medium[]
+|image:https://twivatar.glitch.me/bokmann[]
 |David Bock
 |https://github.com/bokmann[@bokmann]
 |Washington DC
@@ -247,7 +247,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jboner/medium[]
+|image:https://twivatar.glitch.me/jboner[]
 |Jonas Bonér
 |https://twitter.com/jboner[@jboner]
 |
@@ -255,7 +255,7 @@
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/simonebordet/medium[]
+|image:https://twivatar.glitch.me/simonebordet[]
 |Simone Bordet
 |https://twitter.com/simonebordet[@simonebordet]
 |Turin
@@ -263,7 +263,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/brunoborges/medium[]
+|image:https://twivatar.glitch.me/brunoborges[]
 |Bruno Borges
 |https://twitter.com/brunoborges[@brunoborges]
 |
@@ -271,7 +271,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jeanneboyarsky/medium[]
+|image:https://twivatar.glitch.me/jeanneboyarsky[]
 |Jeanne Boyarsky
 |https://twitter.com/jeanneboyarsky[@jeanneboyarsky]
 |New York City, New York
@@ -279,7 +279,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bbossola/medium[]
+|image:https://twivatar.glitch.me/bbossola[]
 |https://www.linkedin.com/in/bbossola[Bruno Bossola]
 |https://twitter.com/bbossola[@bbossola]
 |
@@ -287,7 +287,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vbrabant/medium[]
+|image:https://twivatar.glitch.me/vbrabant[]
 |Vincent Brabant
 |https://twitter.com/vbrabant[@vbrabant]
 |
@@ -295,7 +295,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/danielbryantuk/medium[]
+|image:https://twivatar.glitch.me/danielbryantuk[]
 |Dr. Daniel Bryant
 |https://twitter.com/danielbryantuk[@danielbryantuk]
 |London
@@ -311,7 +311,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/edburns/medium[]
+|image:https://twivatar.glitch.me/edburns[]
 |Ed Burns
 |https://twitter.com/edburns[@edburns]
 |Florida
@@ -319,7 +319,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mertcal/medium[]
+|image:https://twivatar.glitch.me/mertcal[]
 |https://www.linkedin.com/in/mertcaliskan[Mert Caliskan]
 |https://twitter.com/mertcal[@mertcal]
 |Ankara
@@ -327,7 +327,7 @@
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mcannonbrookes/medium[]
+|image:https://twivatar.glitch.me/mcannonbrookes[]
 |Mike Cannon-Brookes
 |https://twitter.com/mcannonbrookes[@mcannonbrookes]
 |Sydney
@@ -335,7 +335,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/imifos/medium[]
+|image:https://twivatar.glitch.me/imifos[]
 |Tasha Carl
 |https://twitter.com/imifos[@imifos]
 |
@@ -343,7 +343,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/magnocav/medium[]
+|image:https://twivatar.glitch.me/magnocav[]
 |Magno Cavalcante
 |https://twitter.com/magnocav[@magnocav]
 |Rio de Janeiro
@@ -351,7 +351,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/steveonjava/medium[]
+|image:https://twivatar.glitch.me/steveonjava[]
 |Stephen Chin
 |https://twitter.com/steveonjava[@steveonjava]
 |Belmont, California
@@ -359,7 +359,7 @@
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/HillmerCh/medium[]
+|image:https://twivatar.glitch.me/HillmerCh[]
 |Hillmer Chona
 |https://twitter.com/HillmerCh[@HillmerCh]
 |
@@ -367,7 +367,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/cliff_click/medium[]
+|image:https://twivatar.glitch.me/cliff_click[]
 |Dr. Cliff Click
 |https://twitter.com/cliff_click[@cliff_click]
 |Sunnyvale, California
@@ -375,7 +375,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/cagataycivici/medium[]
+|image:https://twivatar.glitch.me/cagataycivici[]
 |Cagatay Civici
 |https://twitter.com/cagataycivici[@cagataycivici]
 |
@@ -399,7 +399,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/_pitest/medium[]
+|image:https://twivatar.glitch.me/_pitest[]
 |Henry Coles
 |https://twitter.com/_pitest[@_pitest]
 |Edinburgh
@@ -407,7 +407,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jodastephen/medium[]
+|image:https://twivatar.glitch.me/jodastephen[]
 |Stephen Colebourne
 |https://twitter.com/jodastephen[@jodastephen]
 |London
@@ -415,7 +415,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/radcortez/medium[]
+|image:https://twivatar.glitch.me/radcortez[]
 |Roberto Cortez
 |https://twitter.com/radcortez[@radcortez]
 |Coimbra
@@ -423,7 +423,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/agnes_crepet/medium[]
+|image:https://twivatar.glitch.me/agnes_crepet[]
 |Agnes Crepet
 |https://twitter.com/agnes_crepet[@agnes_crepet]
 |Amsterdam
@@ -431,7 +431,7 @@
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/holly_cummins/medium[]
+|image:https://twivatar.glitch.me/holly_cummins[]
 |Dr. Holly Cummins
 |https://twitter.com/holly_cummins[@holly_cummins]
 |London
@@ -439,7 +439,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/Ian_Darwin/medium[]
+|image:https://twivatar.glitch.me/Ian_Darwin[]
 |Ian F. Darwin
 |https://twitter.com/Ian_Darwin[@Ian_Darwin]
 |Ontario
@@ -447,7 +447,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/DaschnerS/medium[]
+|image:https://twivatar.glitch.me/DaschnerS[]
 |Sebastian Daschner
 |https://twitter.com/DaschnerS[@DaschnerS]
 |Munich
@@ -471,7 +471,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/danieldeluca/medium[]
+|image:https://twivatar.glitch.me/danieldeluca[]
 |Daniel De Luca
 |https://twitter.com/danieldeluca[@danieldeluca]
 |Brussels
@@ -479,7 +479,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/danieldfjug/medium[]
+|image:https://twivatar.glitch.me/danieldfjug[]
 |Daniel deOliveira *
 |https://twitter.com/danieldfjug[@danieldfjug]
 |
@@ -487,7 +487,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jamdiazdiaz/medium[]
+|image:https://twivatar.glitch.me/jamdiazdiaz[]
 |José Díaz
 |https://twitter.com/jamdiazdiaz[@jamdiazdiaz]
 |
@@ -495,7 +495,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/fdiotalevi/medium[]
+|image:https://twivatar.glitch.me/fdiotalevi[]
 |Filippo Diotalevi
 |https://twitter.com/fdiotalevi[@fdiotalevi]
 |London
@@ -503,7 +503,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/OlehDokuka/medium[]
+|image:https://twivatar.glitch.me/OlehDokuka[]
 |Oleh Dokuka
 |https://twitter.com/OlehDokuka[@OlehDokuka]
 |
@@ -511,7 +511,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jmdoudoux/medium[]
+|image:https://twivatar.glitch.me/jmdoudoux[]
 |Jean-Michel Doudoux
 |https://twitter.com/jmdoudoux[@jmdoudoux]
 |Metz
@@ -519,7 +519,7 @@
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/odrotbohm/medium[]
+|image:https://twivatar.glitch.me/odrotbohm[]
 |Oliver Drotbohm
 |https://twitter.com/odrotbohm[@odrotbohm]
 |Dresden
@@ -527,7 +527,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/juliendubois/medium[]
+|image:https://twivatar.glitch.me/juliendubois[]
 |Julien Dubois
 |https://twitter.com/juliendubois[@juliendubois]
 |Paris
@@ -535,7 +535,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hendrikEbbers/medium[]
+|image:https://twivatar.glitch.me/hendrikEbbers[]
 |Hendrik Ebbers
 |https://twitter.com/hendrikEbbers[@hendrikEbbers]
 |Dortmund
@@ -543,7 +543,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BruceEckel/medium[]
+|image:https://twivatar.glitch.me/BruceEckel[]
 |Bruce Eckel
 |https://twitter.com/BruceEckel[@BruceEckel]
 |Colorado
@@ -551,7 +551,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/lukaseder/medium[]
+|image:https://twivatar.glitch.me/lukaseder[]
 |Lukas Eder
 |https://twitter.com/lukaseder[@lukaseder]
 |Zürich
@@ -559,7 +559,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bsideup/medium[]
+|image:https://twivatar.glitch.me/bsideup[]
 |Sergei Egorov
 |https://twitter.com/bsideup[@bsideup]
 |
@@ -567,7 +567,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/myfear/medium[]
+|image:https://twivatar.glitch.me/myfear[]
 |Markus Eisele
 |https://twitter.com/myfear[@myfear]
 |Munich
@@ -575,7 +575,7 @@
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/badrelhouari/medium[]
+|image:https://twivatar.glitch.me/badrelhouari[]
 |Badr El Houari
 |https://twitter.com/badrelhouari[@badrelhouari]
 |Casablanca
@@ -583,7 +583,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/relizarov/medium[]
+|image:https://twivatar.glitch.me/relizarov[]
 |Roman Elizarov
 |https://twitter.com/relizarov[@relizarov]
 |
@@ -591,7 +591,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/noctarius2k/medium[]
+|image:https://twivatar.glitch.me/noctarius2k[]
 |Christoph Engelbert
 |https://twitter.com/noctarius2k[@noctarius2k]
 |Haan, North Rhine-Westphalia
@@ -599,7 +599,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/monacotoni/medium[]
+|image:https://twivatar.glitch.me/monacotoni[]
 |Anton (Toni) Epple
 |https://twitter.com/monacotoni[@monacotoni]
 |Munich
@@ -607,7 +607,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BertErtman/medium[]
+|image:https://twivatar.glitch.me/BertErtman[]
 |Bert Ertman
 |https://twitter.com/BertErtman[@BertErtman]
 |Nijmegen
@@ -615,7 +615,7 @@
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/clementplop/medium[]
+|image:https://twivatar.glitch.me/clementplop[]
 |Dr. Clement Escoffier
 |https://twitter.com/clementplop[@clementplop]
 |Valence, Rhône-Alpes
@@ -623,7 +623,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/kittylyst/medium[]
+|image:https://twivatar.glitch.me/kittylyst[]
 |Ben Evans
 |https://twitter.com/kittylyst[@kittylyst]
 |
@@ -631,7 +631,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yfain/medium[]
+|image:https://twivatar.glitch.me/yfain[]
 |https://yakovfain.com/[Yakov Fain]
 |https://twitter.com/yfain[@yfain]
 |New York City, New York
@@ -639,7 +639,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rom/medium[]
+|image:https://twivatar.glitch.me/rom[]
 |Rommel Feria
 |https://twitter.com/rom[@rom]
 |
@@ -647,7 +647,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/__DavidFlanagan/medium[]
+|image:https://twivatar.glitch.me/__DavidFlanagan[]
 |David Flanagan
 |https://twitter.com/\__DavidFlanagan[@__DavidFlanagan]
 |Washington State
@@ -655,7 +655,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/omniprof/medium[]
+|image:https://twivatar.glitch.me/omniprof[]
 |Prof. Ken Fogel
 |https://twitter.com/omniprof[@omniprof]
 |Cote Saint-Luc, Quebec
@@ -663,7 +663,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/axelfontaine/medium[]
+|image:https://twivatar.glitch.me/axelfontaine[]
 |Axel Fontaine
 |https://twitter.com/axelfontaine[@axelfontaine]
 |
@@ -679,7 +679,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mariofusco/medium[]
+|image:https://twivatar.glitch.me/mariofusco[]
 |Mario Fusco
 |https://twitter.com/mariofusco[@mariofusco]
 |Milan
@@ -687,7 +687,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/23derevo/medium[]
+|image:https://twivatar.glitch.me/23derevo[]
 |Dr. Alexey Fyodorov
 |https://twitter.com/23derevo[@23derevo]
 |Saint Petersburg
@@ -695,7 +695,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/gafter/medium[]
+|image:https://twivatar.glitch.me/gafter[]
 |Dr. Neal Gafter
 |https://twitter.com/gafter[@gafter]
 |Seattle, Washington
@@ -703,7 +703,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dgageot/medium[]
+|image:https://twivatar.glitch.me/dgageot[]
 |David Gageot
 |https://twitter.com/dgageot[@dgageot]
 |Paris
@@ -719,7 +719,7 @@
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/davidgeary/medium[]
+|image:https://twivatar.glitch.me/davidgeary[]
 |David Geary
 |https://twitter.com/davidgeary[@davidgeary]
 |Loveland, Colorado
@@ -727,7 +727,7 @@
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/trisha_gee/medium[]
+|image:https://twivatar.glitch.me/trisha_gee[]
 |Trisha Gee
 |https://twitter.com/trisha_gee[@trisha_gee]
 |Seville, Andalusia
@@ -735,7 +735,7 @@
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jgenender/medium[]
+|image:https://twivatar.glitch.me/jgenender[]
 |Jeff Genender
 |https://twitter.com/jgenender[@jgenender]
 |Denver, Colorado
@@ -751,7 +751,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javabird/medium[]
+|image:https://twivatar.glitch.me/javabird[]
 |Fabrizio Gianneschi
 |https://twitter.com/javabird[@javabird]
 |Cagliari, Sardinia
@@ -759,7 +759,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JonathanGiles/medium[]
+|image:https://twivatar.glitch.me/JonathanGiles[]
 |Jonathan Giles
 |https://twitter.com/JonathanGiles[@JonathanGiles]
 |
@@ -767,7 +767,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BrianGoetz/medium[]
+|image:https://twivatar.glitch.me/BrianGoetz[]
 |Brian Goetz
 |https://twitter.com/BrianGoetz[@BrianGoetz]
 |Burlington, Vermont 
@@ -775,7 +775,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dgomezg/medium[]
+|image:https://twivatar.glitch.me/dgomezg[]
 |David Gómez
 |https://twitter.com/dgomezg[@dgomezg]
 |Madrid
@@ -783,7 +783,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/agoncal/medium[]
+|image:https://twivatar.glitch.me/agoncal[]
 |Antonio Goncalves
 |https://twitter.com/agoncal[@agoncal]
 |Paris
@@ -791,7 +791,7 @@
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/errcraft/medium[]
+|image:https://twivatar.glitch.me/errcraft[]
 |Dr. James Gosling
 |https://twitter.com/errcraft[@errcraft]
 |San Francisco, California
@@ -799,7 +799,7 @@
 |Honorary Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rgransberger/medium[]
+|image:https://twivatar.glitch.me/rgransberger[]
 |Rabea Gransberger
 |https://twitter.com/rgransberger[@rgransberger]
 |Bremen
@@ -807,7 +807,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vgrazi/medium[]
+|image:https://twivatar.glitch.me/vgrazi[]
 |Victor Grazi
 |https://twitter.com/vgrazi[@vgrazi]
 |New York City, New York
@@ -815,7 +815,7 @@
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/frankgreco/medium[]
+|image:https://twivatar.glitch.me/frankgreco[]
 |Frank Greco
 |https://twitter.com/frankgreco[@frankgreco]
 |New York City, New York
@@ -823,7 +823,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/NeilGriffin95/medium[]
+|image:https://twivatar.glitch.me/NeilGriffin95[]
 |Neil Griffin
 |https://twitter.com/NeilGriffin95[@NeilGriffin95]
 |Orlando, Florida
@@ -831,7 +831,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ivar_grimstad/medium[]
+|image:https://twivatar.glitch.me/ivar_grimstad[]
 |Ivar Grimstad
 |https://twitter.com/ivar_grimstad[@ivar_grimstad]
 |Malmo
@@ -839,7 +839,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/SanneGrinovero/medium[]
+|image:https://twivatar.glitch.me/SanneGrinovero[]
 |Sanne Grinovero 
 |https://twitter.com/SanneGrinovero[@SanneGrinovero]
 |London
@@ -847,7 +847,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/loiane/medium[]
+|image:https://twivatar.glitch.me/loiane[]
 |Loiane Groner
 |https://twitter.com/loiane[@loiane]
 |Tampa, Florida
@@ -855,7 +855,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hansolo_/medium[]
+|image:https://twivatar.glitch.me/hansolo_[]
 |Gerrit Grunwald
 |https://twitter.com/hansolo_[@hansolo_]
 |Münster, North Rhine-Westphalia
@@ -863,7 +863,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ags313/medium[]
+|image:https://twivatar.glitch.me/ags313[]
 |Andrzej Grzesik
 |https://twitter.com/ags313[@ags313]
 |London
@@ -871,7 +871,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/fguime/medium[]
+|image:https://twivatar.glitch.me/fguime[]
 |Freddy Guime
 |https://twitter.com/fguime[@fguime]
 |Seattle, Washington
@@ -879,7 +879,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/CGuntur/medium[]
+|image:https://twivatar.glitch.me/CGuntur[]
 |Chandra Guntur
 |https://twitter.com/CGuntur[@CGuntur]
 |New Jersey
@@ -887,7 +887,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/arungupta/medium[]
+|image:https://twivatar.glitch.me/arungupta[]
 |Arun Gupta
 |https://twitter.com/arungupta[@arungupta]
 |San Francisco, California
@@ -895,7 +895,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/eMalaGupta/medium[]
+|image:https://twivatar.glitch.me/eMalaGupta[]
 |Mala Gupta
 |https://twitter.com/eMalaGupta[@eMalaGupta]
 |New Delhi, Delhi
@@ -903,7 +903,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/romainguy/medium[]
+|image:https://twivatar.glitch.me/romainguy[]
 |Romain Guy
 |https://twitter.com/romainguy[@romainguy]
 |Los Altos, California 
@@ -911,7 +911,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ahmed_hashim/medium[]
+|image:https://twivatar.glitch.me/ahmed_hashim[]
 |Ahmed Hashim
 |https://twitter.com/ahmed_hashim[@ahmed_hashim]
 |Cairo
@@ -919,7 +919,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/MkHeck/medium[]
+|image:https://twivatar.glitch.me/MkHeck[]
 |Mark Heckler
 |https://twitter.com/MkHeck[@MkHeck]
 |Godfrey, Illinois 
@@ -927,7 +927,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ensode/medium[]
+|image:https://twivatar.glitch.me/ensode[]
 |David Heffelfinger
 |https://twitter.com/ensode[@ensode]
 |Washington DC
@@ -935,7 +935,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rajonjava/medium[]
+|image:https://twivatar.glitch.me/rajonjava[]
 |Rajmahendra Hegde
 |https://twitter.com/rajonjava[@rajonjava]
 |Hyderabad, Telangana
@@ -943,7 +943,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/net0pyr/medium[]
+|image:https://twivatar.glitch.me/net0pyr[]
 |Michael Heinrichs
 |https://twitter.com/net0pyr[@net0pyr]
 |Freiburg
@@ -951,7 +951,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/CesarHgt/medium[]
+|image:https://twivatar.glitch.me/CesarHgt[]
 |César Hernández
 |https://twitter.com/CesarHgt[@CesarHgt]
 |
@@ -959,7 +959,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javatotto/medium[]
+|image:https://twivatar.glitch.me/javatotto[]
 |https://www.linkedin.com/in/thorhenninghetland/[Thor Henning Hetland]
 |https://twitter.com/javatotto[@javatotto]
 |Oslo
@@ -967,7 +967,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/RickHigh/medium[]
+|image:https://twivatar.glitch.me/RickHigh[]
 |Rick Hightower
 |https://twitter.com/RickHigh[@RickHigh]
 |Dublin, California
@@ -975,7 +975,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ghillert/medium[]
+|image:https://twivatar.glitch.me/ghillert[]
 |Gunnar Hillert
 |https://twitter.com/ghillert[@ghillert]
 |Holualoa, Hawaii
@@ -983,7 +983,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hirt/medium[]
+|image:https://twivatar.glitch.me/hirt[]
 |Marcus Hirt
 |https://twitter.com/hirt[@hirt]
 |Zürich
@@ -991,7 +991,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ronhitchens/medium[]
+|image:https://twivatar.glitch.me/ronhitchens[]
 |Ron Hitchens
 |https://twitter.com/ronhitchens[@ronhitchens]
 |London
@@ -999,7 +999,7 @@
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/springjuergen/medium[]
+|image:https://twivatar.glitch.me/springjuergen[]
 |Juergen Hoeller
 |https://twitter.com/springjuergen[@springjuergen]
 |Linz, Upper Austria
@@ -1007,7 +1007,7 @@
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/marcandsweep/medium[]
+|image:https://twivatar.glitch.me/marcandsweep[]
 |Marc Hoffmann
 |https://twitter.com/marcandsweep[@marcandsweep]
 |
@@ -1015,7 +1015,7 @@
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jacobhookom/medium[]
+|image:https://twivatar.glitch.me/jacobhookom[]
 |Jacob Hookom
 |https://twitter.com/jacobhookom[@jacobhookom]
 |Minneapolis-St. Paul, Minnesota
@@ -1031,7 +1031,7 @@
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/cayhorstmann/medium[]
+|image:https://twivatar.glitch.me/cayhorstmann[]
 |Dr. Cay Horstmann
 |https://twitter.com/cayhorstmann[@cayhorstmann]
 |San Francisco, California
@@ -1039,7 +1039,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/magoghm/medium[]
+|image:https://twivatar.glitch.me/magoghm[]
 |Gerardo Horvilleur
 |https://twitter.com/magoghm[@magoghm]
 |Mexico City
@@ -1047,7 +1047,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/huettermann/medium[]
+|image:https://twivatar.glitch.me/huettermann[]
 |Michael Huettermann
 |https://twitter.com/huettermann[@huettermann]
 |Cologne
@@ -1055,7 +1055,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hunterhacker/medium[]
+|image:https://twivatar.glitch.me/hunterhacker[]
 |Jason Hunter
 |https://twitter.com/hunterhacker[@hunterhacker]
 |
@@ -1063,7 +1063,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mesirii/medium[]
+|image:https://twivatar.glitch.me/mesirii[]
 |Michael Hunger
 |https://twitter.com/mesirii[@mesirii]
 |Dresden
@@ -1071,7 +1071,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/davsclaus/medium[]
+|image:https://twivatar.glitch.me/davsclaus[]
 |Claus Ibsen
 |https://twitter.com/davsclaus[@davsclaus]
 |Esbjerg
@@ -1079,7 +1079,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ederign/medium[]
+|image:https://twivatar.glitch.me/ederign[]
 |Eder Ignatowicz
 |https://twitter.com/ederign[@ederign]
 |Boston, Massachusetts
@@ -1087,7 +1087,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/oliverihns/medium[]
+|image:https://twivatar.glitch.me/oliverihns[]
 |Oliver Ihns
 |https://twitter.com/oliverihns[@oliverihns]
 |Hamburg
@@ -1095,7 +1095,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ivan_stefanov/medium[]
+|image:https://twivatar.glitch.me/ivan_stefanov[]
 |Ivan St. Ivanov
 |https://twitter.com/ivan_stefanov[@ivan_stefanov]
 |Sofia
@@ -1103,7 +1103,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/Stephan007/medium[]
+|image:https://twivatar.glitch.me/Stephan007[]
 |Stephan Janssen
 |https://twitter.com/Stephan007[@Stephan007]
 |Bruges
@@ -1111,7 +1111,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/emilyfhjiang/medium[]
+|image:https://twivatar.glitch.me/emilyfhjiang[]
 |Emily Jiang
 |https://twitter.com/emilyfhjiang[@emilyfhjiang]
 |Southampton
@@ -1119,7 +1119,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/springrod/medium[]
+|image:https://twivatar.glitch.me/springrod[]
 |Dr. Rod Johnson
 |https://twitter.com/springrod[@springrod]
 |Sydney
@@ -1127,7 +1127,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javajudd/medium[]
+|image:https://twivatar.glitch.me/javajudd[]
 |Christopher Judd
 |https://twitter.com/javajudd[@javajudd]
 |Columbus, Ohio
@@ -1135,7 +1135,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javajuneau/medium[]
+|image:https://twivatar.glitch.me/javajuneau[]
 |Josh Juneau
 |https://twitter.com/javajuneau[@javajuneau]
 |Chicago, Illinois
@@ -1143,7 +1143,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/matjazbj/medium[]
+|image:https://twivatar.glitch.me/matjazbj[]
 |Prof. Matjaz Juric
 |https://twitter.com/matjazbj[@matjazbj]
 |
@@ -1151,7 +1151,7 @@
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/heinzkabutz/medium[]
+|image:http://twivatar.glitch.me/heinzkabutz[]
 |https://www.javaspecialists.eu[Dr. Heinz M. Kabutz]
 |https://twitter.com/heinzkabutz[@heinzkabutz]
 |Chorafakia, Chania
@@ -1159,7 +1159,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/matkar/medium[]
+|image:https://twivatar.glitch.me/matkar[]
 |Mattias Karlsson
 |https://twitter.com/matkar[@matkar]
 |Stockholm
@@ -1167,7 +1167,7 @@
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/kohsukekawa/medium[]
+|image:https://twivatar.glitch.me/kohsukekawa[]
 |Kohsuke Kawaguchi
 |https://twitter.com/kohsukekawa[@kohsukekawa]
 |San Jose, California
@@ -1175,7 +1175,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rkennke/medium[]
+|image:https://twivatar.glitch.me/rkennke[]
 |Roman Kennke
 |https://twitter.com/rkennke[@rkennke]
 |Freiburg
@@ -1183,7 +1183,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/1ovthafew/medium[]
+|image:https://twivatar.glitch.me/1ovthafew[]
 |Gavin King
 |https://twitter.com/1ovthafew[@1ovthafew]
 |
@@ -1191,7 +1191,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/viktorklang/medium[]
+|image:https://twivatar.glitch.me/viktorklang[]
 |Viktor Klang
 |https://twitter.com/viktorklang[@viktorklang]
 |Angelholm
@@ -1199,7 +1199,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/aslakknutsen/medium[]
+|image:https://twivatar.glitch.me/aslakknutsen[]
 |Aslak Knutsen
 |https://twitter.com/aslakknutsen[@aslakknutsen]
 |Oslo
@@ -1207,7 +1207,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/clarako/medium[]
+|image:https://twivatar.glitch.me/clarako[]
 |Clara Ko
 |https://twitter.com/clarako[@clarako]
 |San Francisco, California
@@ -1215,7 +1215,7 @@
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/panoskonst/medium[]
+|image:https://twivatar.glitch.me/panoskonst[]
 |Panos Konstantinidis
 |https://twitter.com/panoskonst[@panoskonst]
 |
@@ -1223,7 +1223,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/kenkousen/medium[]
+|image:https://twivatar.glitch.me/kenkousen[]
 |Dr. Ken Kousen
 |https://twitter.com/kenkousen[@kenkousen]
 |Marlborough, Connecticut
@@ -1231,7 +1231,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/michaelkolling/medium[]
+|image:https://twivatar.glitch.me/michaelkolling[]
 |Dr. Michael Kölling
 |https://twitter.com/michaelkolling[@michaelkolling]
 |London
@@ -1239,7 +1239,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mittie/medium[]
+|image:https://twivatar.glitch.me/mittie[]
 |Prof. Dierk König
 |https://twitter.com/mittie[@mittie]
 |Zürich
@@ -1247,7 +1247,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/glaforge/medium[]
+|image:https://twivatar.glitch.me/glaforge[]
 |Guillaume Laforge
 |https://twitter.com/glaforge[@glaforge]
 |Paris
@@ -1255,7 +1255,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/lagergren/medium[]
+|image:https://twivatar.glitch.me/lagergren[]
 |Marcus Lagergren
 |https://twitter.com/lagergren[@lagergren]
 |
@@ -1263,7 +1263,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/MiraLak/medium[]
+|image:https://twivatar.glitch.me/MiraLak[]
 |Amira Lakhal
 |https://twitter.com/MiraLak[@MiraLak]
 |
@@ -1271,7 +1271,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/AngelikaLanger/medium[]
+|image:https://twivatar.glitch.me/AngelikaLanger[]
 |Angelika Langer
 |https://twitter.com/AngelikaLanger[@AngelikaLanger]
 |Munich
@@ -1287,7 +1287,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jaceklaskowski/medium[]
+|image:https://twivatar.glitch.me/jaceklaskowski[]
 |Jacek Laskowski
 |https://twitter.com/jaceklaskowski[@jaceklaskowski]
 |Warsaw
@@ -1303,7 +1303,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/PeterLawrey/medium[]
+|image:https://twivatar.glitch.me/PeterLawrey[]
 |Peter Lawrey
 |https://twitter.com/PeterLawrey[@PeterLawrey]
 |Surrey
@@ -1311,7 +1311,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/douglea/medium[]
+|image:https://twivatar.glitch.me/douglea[]
 |Dr. Doug Lea
 |https://twitter.com/douglea[@douglea]
 |Syracuse, New York
@@ -1319,7 +1319,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/crazybob/medium[]
+|image:https://twivatar.glitch.me/crazybob[]
 |Bob Lee
 |https://twitter.com/crazybob[@crazybob]
 |San Francisco, California
@@ -1327,7 +1327,7 @@
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/evanchooly/medium[]
+|image:https://twivatar.glitch.me/evanchooly[]
 |Justin Lee
 |https://twitter.com/evanchooly[@evanchooly]
 |New York City, New York
@@ -1335,7 +1335,7 @@
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dlemmermann/medium[]
+|image:https://twivatar.glitch.me/dlemmermann[]
 |Dirk Lemmermann
 |https://twitter.com/dlemmermann[@dlemmermann]
 |
@@ -1343,7 +1343,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mikelevin/medium[]
+|image:https://twivatar.glitch.me/mikelevin[]
 |Michael Levin
 |https://twitter.com/mikelevin[@mikelevin]
 |
@@ -1375,7 +1375,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/plinskey/medium[]
+|image:https://twivatar.glitch.me/plinskey[]
 |Patrick Linskey
 |https://twitter.com/plinskey[@plinskey]
 |
@@ -1391,7 +1391,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/starbuxman/medium[]
+|image:https://twivatar.glitch.me/starbuxman[]
 |Josh Long
 |https://twitter.com/starbuxman[@starbuxman]
 |San Francisco, California
@@ -1399,7 +1399,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/acelopezco/medium[]
+|image:https://twivatar.glitch.me/acelopezco[]
 |https://www.linkedin.com/in/acelopezco[Alexis Lopez]
 |https://twitter.com/acelopezco[@acelopezco]
 |
@@ -1407,7 +1407,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/geirmagnusson/medium[]
+|image:https://twivatar.glitch.me/geirmagnusson[]
 |Geir Magnusson
 |https://twitter.com/geirmagnusson[@geirmagnusson]
 |Wilton, Connecticut 
@@ -1423,7 +1423,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/Sander_Mak/medium[]
+|image:https://twivatar.glitch.me/Sander_Mak[]
 |Sander Mak
 |https://twitter.com/Sander_Mak[@Sander_Mak]
 |Nijmegen
@@ -1431,7 +1431,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ktosopl/medium[]
+|image:https://twivatar.glitch.me/ktosopl[]
 |Konrad Malawski
 |https://twitter.com/ktosopl[@ktosopl]
 |
@@ -1447,7 +1447,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/manicode/medium[]
+|image:https://twivatar.glitch.me/manicode[]
 |Jim Manico
 |https://twitter.com/manicode[@manicode]
 |Anahola, Hawaii
@@ -1455,7 +1455,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/kito99/medium[]
+|image:https://twivatar.glitch.me/kito99[]
 |Kito Mann
 |https://twitter.com/kito99[@kito99]
 |Glen Allen, Virginia 
@@ -1463,7 +1463,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dervis_m/medium[]
+|image:https://twivatar.glitch.me/dervis_m[]
 |Dervis Mansuroglu
 |https://twitter.com/dervis_m[@dervis_m]
 |Oslo
@@ -1471,7 +1471,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/sjmaple/medium[]
+|image:https://twivatar.glitch.me/sjmaple[]
 |Simon Maple
 |https://twitter.com/sjmaple[@sjmaple]
 |Basingstoke, Hampshire
@@ -1479,7 +1479,7 @@
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/joshmarinacci/medium[]
+|image:https://twivatar.glitch.me/joshmarinacci[]
 |Joshua Marinacci
 |https://twitter.com/joshmarinacci[@joshmarinacci]
 |Eugene, Oregon
@@ -1487,7 +1487,7 @@
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/floydmarinescu/medium[]
+|image:https://twivatar.glitch.me/floydmarinescu[]
 |Floyd Marinescu
 |https://twitter.com/floydmarinescu[@floydmarinescu]
 |Etobicoke, Ontario
@@ -1495,7 +1495,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vmassol/medium[]
+|image:https://twivatar.glitch.me/vmassol[]
 |Vincent Massol
 |https://twitter.com/vmassol[@vmassol]
 |Paris
@@ -1503,7 +1503,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/normanmaurer/medium[]
+|image:https://twivatar.glitch.me/normanmaurer[]
 |Norman Maurer
 |https://twitter.com/normanmaurer[@normanmaurer]
 |Frankfurt
@@ -1511,7 +1511,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vincentmayers/medium[]
+|image:https://twivatar.glitch.me/vincentmayers[]
 |Vincent Mayers
 |https://twitter.com/vincentmayers[@vincentmayers]
 |Atlanta, Georgia
@@ -1519,7 +1519,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rmehmandarov/medium[]
+|image:https://twivatar.glitch.me/rmehmandarov[]
 |Rustam Mehmandarov
 |https://twitter.com/rmehmandarov[@rmehmandarov]
 |
@@ -1527,7 +1527,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/OndroMih/medium[]
+|image:https://twivatar.glitch.me/OndroMih[]
 |Ondro Mihályi
 |https://twitter.com/OndroMih[@OndroMih]
 |Prague
@@ -1535,7 +1535,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vlad_mihalcea/medium[]
+|image:https://twivatar.glitch.me/vlad_mihalcea[]
 |Vlad Mihalcea
 |https://twitter.com/vlad_mihalcea[@vlad_mihalcea]
 |Cluj County
@@ -1543,7 +1543,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/michaelminella/medium[]
+|image:https://twivatar.glitch.me/michaelminella[]
 |Michael T. Minella
 |https://twitter.com/michaelminella[@michaelminella]
 |Naperville, Illinois
@@ -1551,7 +1551,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/gunnarmorling/medium[]
+|image:https://twivatar.glitch.me/gunnarmorling[]
 |Gunnar Morling
 |https://twitter.com/gunnarmorling[@gunnarmorling]
 |Hamburg
@@ -1559,7 +1559,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mauricenaftalin/medium[]
+|image:https://twivatar.glitch.me/mauricenaftalin[]
 |Maurice Naftalin
 |https://twitter.com/mauricenaftalin[@mauricenaftalin]
 |Edinburgh
@@ -1567,7 +1567,7 @@
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/NikhilNanivade/medium[]
+|image:https://twivatar.glitch.me/NikhilNanivade[]
 |Nikhil Nanivadekar
 |https://twitter.com/NikhilNanivade[@NikhilNanivade]
 |
@@ -1575,7 +1575,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/fabianenardon/medium[]
+|image:https://twivatar.glitch.me/fabianenardon[]
 |Dr. Fabiane Bizinella Nardon
 |https://twitter.com/fabianenardon[@fabianenardon]
 |São Paulo
@@ -1583,7 +1583,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/RafaDelNero/medium[]
+|image:https://twivatar.glitch.me/RafaDelNero[]
 |Rafael Del Nero
 |https://twitter.com/RafaDelNero[@RafaDelNero]
 |Dublin, Leinster
@@ -1591,7 +1591,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/Audrey_Neveu/medium[]
+|image:https://twivatar.glitch.me/Audrey_Neveu[]
 |Audrey Neveu
 |https://twitter.com/Audrey_Neveu[@Audrey_Neveu]
 |Rouen
@@ -1599,7 +1599,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/chriswhocodes/medium[]
+|image:https://twivatar.glitch.me/chriswhocodes[]
 |Chris Newland
 |https://twitter.com/chriswhocodes[@chriswhocodes]
 |London
@@ -1607,7 +1607,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javaclimber/medium[]
+|image:https://twivatar.glitch.me/javaclimber[]
 |Kevin Nilson
 |https://twitter.com/javaclimber[@javaclimber]
 |San Francisco, California
@@ -1615,7 +1615,7 @@
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/tnurkiewicz/medium[]
+|image:https://twivatar.glitch.me/tnurkiewicz[]
 |Tomasz Nurkiewicz
 |https://twitter.com/tnurkiewicz[@tnurkiewicz]
 |Warsaw
@@ -1623,7 +1623,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/headius/medium[]
+|image:https://twivatar.glitch.me/headius[]
 |Charles Oliver Nutter
 |https://twitter.com/headius[@headius]
 |Minneapolis, Minnesota
@@ -1631,7 +1631,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/HarshadOak/medium[]
+|image:https://twivatar.glitch.me/HarshadOak[]
 |Harshad Oak
 |https://twitter.com/HarshadOak[@HarshadOak]
 |Pune, Maharashtra
@@ -1639,7 +1639,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rickardoberg/medium[]
+|image:https://twivatar.glitch.me/rickardoberg[]
 |Rickard Oberg
 |https://twitter.com/rickardoberg[@rickardoberg]
 |Selangor
@@ -1647,7 +1647,7 @@
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/tuxtor/medium[]
+|image:https://twivatar.glitch.me/tuxtor[]
 |Víctor Orozco
 |https://twitter.com/tuxtor[@tuxtor]
 |Guatemala City
@@ -1655,7 +1655,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BethanKP/medium[]
+|image:https://twivatar.glitch.me/BethanKP[]
 |Bethan Palmer
 |https://twitter.com/BethanKP[@BethanKP]
 |
@@ -1663,7 +1663,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/nipafx/medium[]
+|image:https://twivatar.glitch.me/nipafx[]
 |Nicolai Parlog
 |https://twitter.com/nipafx[@nipafx]
 |Karlsruhe
@@ -1671,7 +1671,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/prpatel/medium[]
+|image:https://twivatar.glitch.me/prpatel[]
 |Pratik Patel
 |https://twitter.com/prpatel[@prpatel]
 |Atlanta, Georgia
@@ -1679,7 +1679,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bobpaulin/medium[]
+|image:https://twivatar.glitch.me/bobpaulin[]
 |Bob Paulin
 |https://twitter.com/bobpaulin[@bobpaulin]
 |Chicago, Illinois
@@ -1687,7 +1687,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JosePaumard/medium[]
+|image:https://twivatar.glitch.me/JosePaumard[]
 |Dr. José Paumard
 |https://twitter.com/JosePaumard[@JosePaumard]
 |Paris
@@ -1695,7 +1695,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/kcpeppe/medium[]
+|image:https://twivatar.glitch.me/kcpeppe[]
 |Kirk Pepperdine
 |https://twitter.com/kcpeppe[@kcpeppe]
 |Ottawa, Ontario
@@ -1703,7 +1703,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JPeredaDnr/medium[]
+|image:https://twivatar.glitch.me/JPeredaDnr[]
 |Dr. Jose Pereda
 |https://twitter.com/JPeredaDnr[@JPeredaDnr]
 |Valladolid
@@ -1719,7 +1719,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jppetines/medium[]
+|image:https://twivatar.glitch.me/jppetines[]
 |John Paul "JP" Petines
 |https://twitter.com/jppetines[@jppetines]
 |Toronto, Ontario
@@ -1727,7 +1727,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/SeanMiPhillips/medium[]
+|image:https://twivatar.glitch.me/SeanMiPhillips[]
 |Sean M. Phillips
 |https://twitter.com/SeanMiPhillips[@SeanMiPhillips]
 |Washington DC 
@@ -1735,7 +1735,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/peter_pilgrim/medium[]
+|image:https://twivatar.glitch.me/peter_pilgrim[]
 |Peter Pilgrim
 |https://twitter.com/peter_pilgrim[@peter_pilgrim]
 |Milton Keynes, England
@@ -1743,7 +1743,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/wpugh/medium[]
+|image:https://twivatar.glitch.me/wpugh[]
 |Prof. William Pugh
 |https://twitter.com/wpugh[@wpugh]
 |Maryland
@@ -1751,7 +1751,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/cquinn/medium[]
+|image:https://twivatar.glitch.me/cquinn[]
 |Carl Quinn *
 |https://twitter.com/cquinn[@cquinn]
 |California
@@ -1759,7 +1759,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/TheDonRaab/medium[]
+|image:https://twivatar.glitch.me/TheDonRaab[]
 |Donald Raab
 |https://twitter.com/TheDonRaab[@TheDonRaab]
 |Metuchen, New Jersey
@@ -1767,7 +1767,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mraible/medium[]
+|image:https://twivatar.glitch.me/mraible[]
 |Matt Raible
 |https://twitter.com/mraible[@mraible]
 |Denver, Colorado
@@ -1791,7 +1791,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/VictorRentea/medium[]
+|image:https://twivatar.glitch.me/VictorRentea[]
 |Dr. Victor Rentea
 |https://twitter.com/VictorRentea[@VictorRentea]
 |Bucharest
@@ -1799,7 +1799,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/crichardson/medium[]
+|image:https://twivatar.glitch.me/crichardson[]
 |Chris Richardson
 |https://twitter.com/crichardson[@crichardson]
 |San Francisco, California
@@ -1815,7 +1815,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mnriem/medium[]
+|image:https://twivatar.glitch.me/mnriem[]
 |Manfred Riem
 |https://twitter.com/mnriem[@mnriem]
 |Provo, Utah
@@ -1823,7 +1823,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/speakjava/medium[]
+|image:https://twivatar.glitch.me/speakjava[]
 |Simon Ritter
 |https://twitter.com/speakjava[@speakjava]
 |Twickenham
@@ -1831,7 +1831,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/SvenNB/medium[]
+|image:https://twivatar.glitch.me/SvenNB[]
 |Sven Reimers
 |https://twitter.com/SvenNB[@SvenNB]
 |Konstanz
@@ -1839,7 +1839,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/royvanrijn/medium[]
+|image:https://twivatar.glitch.me/royvanrijn[]
 |Roy van Rijn
 |https://twitter.com/royvanrijn[@royvanrijn]
 |Maassluis, South Holland Province
@@ -1847,7 +1847,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/leomrlima/medium[]
+|image:https://twivatar.glitch.me/leomrlima[]
 |Leonardo de Moura Rocha Lima
 |https://twitter.com/leomrlima[@leomrlima]
 |São Paulo,
@@ -1855,7 +1855,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/graemerocher/medium[]
+|image:https://twivatar.glitch.me/graemerocher[]
 |Graeme Rocher
 |https://twitter.com/graemerocher[@graemerocher]
 |Bilbao
@@ -1863,7 +1863,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ixchelruiz/medium[]
+|image:https://twivatar.glitch.me/ixchelruiz[]
 |Ix-chel Ruiz
 |https://twitter.com/ixchelruiz[@ixchelruiz]
 |Basel
@@ -1871,7 +1871,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/antoine_sd/medium[]
+|image:https://twivatar.glitch.me/antoine_sd[]
 |Antoine Sabot-Durand
 |https://twitter.com/antoine_sd[@antoine_sd]
 |Paris
@@ -1879,7 +1879,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jyukutyo/medium[]
+|image:https://twivatar.glitch.me/jyukutyo[]
 |Koichi Sakata
 |https://twitter.com/jyukutyo[@jyukutyo]
 |Osaka
@@ -1887,7 +1887,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/skrb/medium[]
+|image:https://twivatar.glitch.me/skrb[]
 |Yuuichi Sakuraba
 |https://twitter.com/skrb[@skrb]
 |
@@ -1895,7 +1895,7 @@
 |
 
 |{counter:idx}
-|image:https://avatars.io/twitter/betoSalazar/medium[]
+|image:https://twivatar.glitch.me/betoSalazar[]
 |Alberto Salazar
 |https://twitter.com/betoSalazar[@betoSalazar]
 |
@@ -1903,7 +1903,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/otaviojava/medium[]
+|image:https://twivatar.glitch.me/otaviojava[]
 |Otávio Gonçalves de Santana
 |https://twitter.com/otaviojava[@otaviojava]
 |São Paulo
@@ -1911,7 +1911,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mr__m/medium[]
+|image:https://twivatar.glitch.me/mr__m[]
 |Michael Nascimento Santos
 |https://twitter.com/mr\__m[@mr__m]
 |Michael Nascimento Santos
@@ -1919,7 +1919,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/theNeomatrix369/medium[]
+|image:https://twivatar.glitch.me/theNeomatrix369[]
 |Mani Sarkar
 |https://twitter.com/theNeomatrix369[@theNeomatrix369]
 |
@@ -1927,7 +1927,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/tomsontom/medium[]
+|image:https://twivatar.glitch.me/tomsontom[]
 |Tom Schindl
 |https://twitter.com/tomsontom[@tomsontom]
 |
@@ -1943,7 +1943,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rfscholte/medium[]
+|image:https://twivatar.glitch.me/rfscholte[]
 |Robert Scholte
 |https://twitter.com/rfscholte[@rfscholte]
 |Groningen
@@ -1951,7 +1951,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/OmniFaces/medium[]
+|image:https://twivatar.glitch.me/OmniFaces[]
 |Bauke Scholtz
 |https://twitter.com/OmniFaces[@OmniFaces]
 |
@@ -1959,7 +1959,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/shipilev/medium[]
+|image:https://twivatar.glitch.me/shipilev[]
 |Aleksey Shipilev
 |https://twitter.com/shipilev[@shipilev]
 |Potsdam, Brandenburg
@@ -1967,7 +1967,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/shelajev/medium[]
+|image:https://twivatar.glitch.me/shelajev[]
 |Dr. Oleg Shelajev
 |https://twitter.com/shelajev[@shelajev]
 |Tartu
@@ -1975,7 +1975,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ebullientworks/medium[]
+|image:https://twivatar.glitch.me/ebullientworks[]
 |Erin Schnabel
 |https://twitter.com/ebullientworks[@ebullientworks]
 |Wappingers Falls, New York
@@ -1983,7 +1983,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bjschrijver/medium[]
+|image:https://twivatar.glitch.me/bjschrijver[]
 |Bert Jan Schrijver
 |https://twitter.com/bjschrijver[@bjschrijver]
 |Utrecht
@@ -1991,7 +1991,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vsenger/medium[]
+|image:https://twivatar.glitch.me/vsenger[]
 |Vinicius Senger
 |https://twitter.com/vsenger[@vsenger]
 |
@@ -1999,7 +1999,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yarasenger/medium[]
+|image:https://twivatar.glitch.me/yarasenger[]
 |Yara Senger
 |https://twitter.com/yarasenger[@yarasenger]
 |São Paulo
@@ -2007,7 +2007,7 @@
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/zsevarac/medium[]
+|image:https://twivatar.glitch.me/zsevarac[]
 |Dr. Zoran Sevarac
 |https://twitter.com/zsevarac[@zsevarac]
 |
@@ -2015,7 +2015,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hlship/medium[]
+|image:https://twivatar.glitch.me/hlship[]
 |Howard Lewis Ship
 |https://twitter.com/hlship[@hlship]
 |Portland, Oregon
@@ -2039,7 +2039,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rotnroll666/medium[]
+|image:https://twivatar.glitch.me/rotnroll666[]
 |Michael Simons
 |https://twitter.com/rotnroll666[@rotnroll666]
 |Aachen, North Rhine-Westphalia
@@ -2047,7 +2047,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yakov_sirotkin/medium[]
+|image:https://twivatar.glitch.me/yakov_sirotkin[]
 |Yakov Sirotkin
 |https://twitter.com/yakov_sirotkin[@yakov_sirotkin]
 |Saint Petersburg
@@ -2063,7 +2063,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/brjavaman/medium[]
+|image:https://twivatar.glitch.me/brjavaman[]
 |https://code4.life/[Bruno Souza]
 |https://twitter.com/brjavaman[@brjavaman]
 |São Paulo
@@ -2071,7 +2071,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/alexsotob/medium[]
+|image:https://twivatar.glitch.me/alexsotob[]
 |Alex Soto
 |https://twitter.com/alexsotob[@alexsotob]
 |Barcelona
@@ -2079,7 +2079,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jstrachan/medium[]
+|image:https://twivatar.glitch.me/jstrachan[]
 |James Strachan
 |https://twitter.com/jstrachan[@jstrachan]
 |Mells, Somerset
@@ -2087,7 +2087,7 @@
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/struberg/medium[]
+|image:https://twivatar.glitch.me/struberg[]
 |Mark Struberg
 |https://twitter.com/struberg[@struberg]
 |Vienna
@@ -2095,7 +2095,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/domix/medium[]
+|image:https://twivatar.glitch.me/domix[]
 |Domingo Suarez
 |https://twitter.com/domix[@domix]
 |
@@ -2103,7 +2103,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/venkat_s/medium[]
+|image:https://twivatar.glitch.me/venkat_s[]
 |Dr. Venkat Subramaniam
 |https://twitter.com/venkat_s[@venkat_s]
 |Broomfield, Colorado
@@ -2111,7 +2111,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/burrsutter/medium[]
+|image:https://twivatar.glitch.me/burrsutter[]
 |Burr Sutter
 |https://twitter.com/burrsutter[@burrsutter]
 |Raleigh-Durham, North Carolina
@@ -2119,7 +2119,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/siruslan/medium[]
+|image:https://twivatar.glitch.me/siruslan[]
 |Ruslan Synytsky
 |https://twitter.com/siruslan[@siruslan]
 |Cyprus
@@ -2127,7 +2127,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/asz/medium[]
+|image:https://twivatar.glitch.me/asz[]
 |Attila Szegedi
 |https://twitter.com/asz[@asz]
 |Szeged, Csongrád,
@@ -2135,7 +2135,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/_tamanm/medium[]
+|image:https://twivatar.glitch.me/_tamanm[]
 |Mohamed Taman
 |https://twitter.com/_tamanm[@_tamanm]
 |Belgrade
@@ -2143,7 +2143,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/cero_t/medium[]
+|image:https://twivatar.glitch.me/cero_t[]
 |Shin Tanimoto
 |https://twitter.com/cero_t[@cero_t]
 |Yokohama, Kanagawa
@@ -2151,7 +2151,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/redrapids/medium[]
+|image:https://twivatar.glitch.me/redrapids[]
 |Bruce Tate
 |https://twitter.com/redrapids[@redrapids]
 |Chattanooga, Tennessee 
@@ -2159,7 +2159,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/reginatb38/medium[]
+|image:https://twivatar.glitch.me/reginatb38[]
 |Régina ten Bruggencate
 |https://twitter.com/reginatb38[@reginatb38]
 |Apeldoorn
@@ -2167,7 +2167,7 @@
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/giltene/medium[]
+|image:https://twivatar.glitch.me/giltene[]
 |Gil Tene
 |https://twitter.com/giltene[@giltene]
 |San Francisco, California
@@ -2175,7 +2175,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yoshioterada/medium[]
+|image:https://twivatar.glitch.me/yoshioterada[]
 |Yoshio Terada
 |https://twitter.com/yoshioterada[@yoshioterada]
 |Yokohama, Kanagawa
@@ -2183,7 +2183,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/fthamura/medium[]
+|image:https://twivatar.glitch.me/fthamura[]
 |Frans Thamura *
 |https://twitter.com/fthamura[@fthamura]
 |Jakarta
@@ -2191,7 +2191,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/christhalinger/medium[]
+|image:https://twivatar.glitch.me/christhalinger[]
 |Chris Thalinger
 |https://twitter.com/christhalinger/[@christhalinger]
 |Haleiwa, Hawaii
@@ -2199,7 +2199,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/alextheedom/medium[]
+|image:https://twivatar.glitch.me/alextheedom[]
 |Alex Theedom
 |https://twitter.com/alextheedom[@alextheedom]
 |London
@@ -2207,7 +2207,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mjpt777/medium[]
+|image:https://twivatar.glitch.me/mjpt777[]
 |Martin Thompson
 |https://twitter.com/mjpt777[@mjpt777]
 |
@@ -2215,7 +2215,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/drkrab/medium[]
+|image:https://twivatar.glitch.me/drkrab[]
 |Dr. Kresten Krab Thorup
 |https://twitter.com/drkrab[@drkrab]
 |
@@ -2231,7 +2231,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/robilad/medium[]
+|image:https://twivatar.glitch.me/robilad[]
 |Dalibor Topic
 |https://twitter.com/robilad[@robilad]
 |Hamburg
@@ -2239,7 +2239,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/neugens/medium[]
+|image:https://twivatar.glitch.me/neugens[]
 |Mario Torre
 |https://twitter.com/neugens[@neugens]
 |Hamburg
@@ -2247,7 +2247,7 @@
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/henri_tremblay/medium[]
+|image:https://twivatar.glitch.me/henri_tremblay[]
 |http://blog.tremblay.pro/[Henri Tremblay]
 |https://twitter.com/henri_tremblay[@henri_tremblay]
 |Montreal, Quebec
@@ -2255,7 +2255,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/saturnism/medium[]
+|image:https://twivatar.glitch.me/saturnism[]
 |Ray Tsang
 |https://twitter.com/saturnism[@saturnism]
 |New York City, New York
@@ -2263,7 +2263,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ktukker/medium[]
+|image:https://twivatar.glitch.me/ktukker[]
 |Klaasjan Tukker
 |https://twitter.com/ktukker[@ktukker]
 |Seattle, Washington
@@ -2271,7 +2271,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javabuch/medium[]
+|image:https://twivatar.glitch.me/javabuch[]
 |Christian Ullenboom
 |https://twitter.com/javabuch[@javabuch]
 |Nürnberg, Bavaria
@@ -2279,7 +2279,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/raoulUK/medium[]
+|image:https://twivatar.glitch.me/raoulUK[]
 |Dr. Raoul-Gabriel Urma
 |https://twitter.com/raoulUK[@raoulUK]
 |Cambridge
@@ -2287,7 +2287,7 @@
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ustarahman/medium[]
+|image:https://twivatar.glitch.me/ustarahman[]
 |Rahman Usta
 |https://twitter.com/ustarahman[@ustarahman]
 |Krakow
@@ -2295,7 +2295,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/tagir_valeev/medium[]
+|image:https://twivatar.glitch.me/tagir_valeev[]
 |Tagir Valeev
 |https://twitter.com/tagir_valeev[@tagir_valeev]
 |Novosibirsk
@@ -2303,7 +2303,7 @@
 |2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/DuchessFounder/medium[]
+|image:https://twivatar.glitch.me/DuchessFounder[]
 |Linda van der Pal
 |https://twitter.com/DuchessFounder[@DuchessFounder]
 |Amsterdam
@@ -2311,7 +2311,7 @@
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vanriper/medium[]
+|image:https://twivatar.glitch.me/vanriper[]
 |Michael Van Riper
 |https://twitter.com/vanriper[@vanriper]
 |Silicon Valley, California
@@ -2319,7 +2319,7 @@
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/edivargas/medium[]
+|image:https://twivatar.glitch.me/edivargas[]
 |Jorge Vargas
 |https://twitter.com/edivargas[@edivargas]
 |Benito Juarez
@@ -2327,7 +2327,7 @@
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bvenners/medium[]
+|image:https://twivatar.glitch.me/bvenners[]
 |Bill Venners
 |https://twitter.com/bvenners[@bvenners]
 |
@@ -2335,7 +2335,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/karianna/medium[]
+|image:https://twivatar.glitch.me/karianna[]
 |Martijn Verburg
 |https://twitter.com/karianna[@karianna]
 |London
@@ -2343,7 +2343,7 @@
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vogella/medium[]
+|image:https://twivatar.glitch.me/vogella[]
 |Lars Vogel
 |https://twitter.com/vogella[@vogella]
 |Hamburg
@@ -2351,7 +2351,7 @@
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/johanvos/medium[]
+|image:https://twivatar.glitch.me/johanvos[]
 |Dr. Johan Vos
 |https://twitter.com/johanvos[@johanvos]
 |Leuven, Flanders
@@ -2367,7 +2367,7 @@
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/nitsanw/medium[]
+|image:https://twivatar.glitch.me/nitsanw[]
 |Nitsan Wakart
 |https://twitter.com/nitsanw[@nitsanw]
 |Cape Town
@@ -2375,7 +2375,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dickwall/medium[]
+|image:https://twivatar.glitch.me/dickwall[]
 |Dick Wall
 |https://twitter.com/dickwall[@dickwall]
 |
@@ -2383,7 +2383,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/RichardWarburto/medium[]
+|image:https://twivatar.glitch.me/RichardWarburto[]
 |Dr. Richard Warburton
 |https://twitter.com/RichardWarburto[@RichardWarburto]
 |London
@@ -2391,7 +2391,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JavaFXpert/medium[]
+|image:https://twivatar.glitch.me/JavaFXpert[]
 |Jim Weaver
 |https://twitter.com/JavaFXpert[@JavaFXpert]
 |Indianapolis, Indiana
@@ -2399,7 +2399,7 @@
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/CaptainWebber/medium[]
+|image:https://twivatar.glitch.me/CaptainWebber[]
 |Paul Webber
 |https://twitter.com/sdjug[@sdjug] https://twitter.com/CaptainWebber[@CaptainWebber]
 |Poway, California
@@ -2407,7 +2407,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/miragemiko/medium[]
+|image:https://twivatar.glitch.me/miragemiko[]
 |Miro Wengner
 |https://twitter.com/miragemiko[@miragemiko]
 |Munich, Bavaria
@@ -2415,7 +2415,7 @@
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/a1anw2/medium[]
+|image:https://twivatar.glitch.me/a1anw2[]
 |https://alan.is/about/[Alan Williamson]
 |https://twitter.com/a1anw2[@a1anw2]
 |Virginia
@@ -2423,7 +2423,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JoeWinchester/medium[]
+|image:https://twivatar.glitch.me/JoeWinchester[]
 |Joe Winchester
 |https://twitter.com/JoeWinchester[@JoeWinchester]
 |Southampton
@@ -2439,7 +2439,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rafaelcodes/medium[]
+|image:https://twivatar.glitch.me/rafaelcodes[]
 |Rafael Winterhalter
 |https://twitter.com/rafaelcodes[@rafaelcodes]
 |Oslo
@@ -2447,7 +2447,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ewolff/medium[]
+|image:https://twivatar.glitch.me/ewolff[]
 |Eberhard Wolff
 |https://twitter.com/ewolff[@ewolff]
 |Berlin
@@ -2455,7 +2455,7 @@
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yusuke/medium[]
+|image:https://twivatar.glitch.me/yusuke[]
 |Yusuke Yamamoto
 |https://twitter.com/yusuke[@yusuke]
 |Tokyo
@@ -2463,7 +2463,7 @@
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yanaga/medium[]
+|image:https://twivatar.glitch.me/yanaga[]
 |Edson Yanaga
 |https://twitter.com/yanaga[@yanaga]
 |Raleigh-Durham, North Carolina
@@ -2479,7 +2479,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yenerm/medium[]
+|image:https://twivatar.glitch.me/yenerm[]
 |Murat Yener
 |https://twitter.com/yenerm[@yenerm]
 |
@@ -2487,7 +2487,7 @@
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/juntao/medium[]
+|image:https://twivatar.glitch.me/juntao[]
 |Dr. Michael Juntao Yuan
 |https://twitter.com/juntao[@juntao]
 |Austin, Texas
@@ -2495,7 +2495,7 @@
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/chochosmx/medium[]
+|image:https://twivatar.glitch.me/chochosmx[]
 |Enrique Zamudio
 |https://twitter.com/chochosmx[@chochosmx]
 |Mexico City
