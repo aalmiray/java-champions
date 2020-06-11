@@ -7,7 +7,7 @@
 | | |Name |Twitter |City/State |Country |Year
 
 |{counter:idx}
-|image:http://twivatar.glitch.me/oezcanacar[]
+|image:https://twivatar.glitch.me/oezcanacar[]
 |Oezcan Acar
 |https://twitter.com/oezcanacar[@oezcanacar]
 |Frankfurt
@@ -1151,7 +1151,7 @@
 |2010
 
 |{counter:idx}
-|image:http://twivatar.glitch.me/heinzkabutz[]
+|image:https://twivatar.glitch.me/heinzkabutz[]
 |https://www.javaspecialists.eu[Dr. Heinz M. Kabutz]
 |https://twitter.com/heinzkabutz[@heinzkabutz]
 |Chorafakia, Chania
@@ -2248,7 +2248,7 @@
 
 |{counter:idx}
 |image:https://twivatar.glitch.me/henri_tremblay[]
-|http://blog.tremblay.pro/[Henri Tremblay]
+|https://blog.tremblay.pro/[Henri Tremblay]
 |https://twitter.com/henri_tremblay[@henri_tremblay]
 |Montreal, Quebec
 |Canada
