@@ -935,9 +935,9 @@
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rajonjava[]
+|image:https://twivatar.glitch.me/rajmahendrar[]
 |Rajmahendra Hegde
-|https://twitter.com/rajonjava[@rajonjava]
+|https://twitter.com/rajmahendrar[@rajmahendrar]
 |Hyderabad, Telangana
 |India
 |2016
