@@ -175,6 +175,14 @@
 |2006
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/bbenz[]
+|Brian Benz
+|https://twitter.com/bbenz[@bbenz]
+|Las Vegas
+|USA
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/emmanuelbernard[]
 |Emmanuel Bernard
 |https://twitter.com/emmanuelbernard[@emmanuelbernard]
