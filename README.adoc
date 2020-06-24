@@ -2231,6 +2231,14 @@
 |2005
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/arjan_tijms[]
+|Arjan Tijms
+|https://twitter.com/arjan_tijms[@arjan_tijms]
+|Arnhem, Gelderland
+|The Netherlands
+|2020
+
+|{counter:idx}
 |
 |Neal Tisdale
 |
