@@ -807,6 +807,14 @@
 |Honorary Member
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/Jim__Gough[]
+|Jim Gough
+|https://twitter.com/Jim__Gough[@Jim__Gough]
+|London
+|UK
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/rgransberger[]
 |Rabea Gransberger
 |https://twitter.com/rgransberger[@rgransberger]
