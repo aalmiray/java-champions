@@ -1,4 +1,6 @@
 = Java Champions
+// use an attribute to avoid char substitutions
+:link-jim-gough:link:https://twitter.com/Jim__Gough[@Jim__Gough]
 
 `*` - Indicates a member has passed away.
 
@@ -807,8 +809,6 @@
 |USA
 |Honorary Member
 
-// use an attribute to avoid char substitutions
-:link-jim-gough:link:https://twitter.com/Jim__Gough[@Jim__Gough]
 |{counter:idx}
 |image:https://twivatar.glitch.me/Jim__Gough[]
 |Jim Gough
