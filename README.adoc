@@ -3,6 +3,7 @@
 `*` - Indicates a member has passed away.
 
 [%header]
+[subs="attributes"]
 |===
 | | |Name |Twitter |City/State |Country |Year
 
@@ -806,10 +807,12 @@
 |USA
 |Honorary Member
 
+// use an attribute to avoid char substitutions
+:link-jim-gough:link:https://twitter.com/Jim__Gough[@Jim__Gough]
 |{counter:idx}
 |image:https://twivatar.glitch.me/Jim__Gough[]
 |Jim Gough
-|link:https://twitter.com/Jim__Gough[@Jim__Gough]
+|{link-jim-gough}
 |London
 |UK
 |2020
