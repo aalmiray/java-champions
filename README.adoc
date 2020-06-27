@@ -1,6 +1,6 @@
 = Java Champions
 // use an attribute to avoid char substitutions
-:link-jim-gough:link:https://twitter.com/Jim__Gough[@Jim__Gough]
+:link-jim-gough: link:https://twitter.com/Jim__Gough[@Jim__Gough]
 
 `*` - Indicates a member has passed away.
 
