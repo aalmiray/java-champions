@@ -1082,6 +1082,14 @@
 |2005
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/BurkHufnagel[]
+|Burk Hufnagel
+|link:https://twitter.com/BurkHufnagel[@BurkHufnagel]
+|Atlanta
+|USA
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/mesirii[]
 |Michael Hunger
 |link:https://twitter.com/mesirii[@mesirii]
