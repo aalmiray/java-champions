@@ -1154,6 +1154,14 @@
 |2006
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/techgirl1908[]
+|Angie Jones
+|link:https://twitter.com/techgirl1908[@techgirl1908]
+|San Francisco, California
+|USA
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/javajudd[]
 |Christopher Judd
 |link:https://twitter.com/javajudd[@javajudd]
