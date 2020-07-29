@@ -438,7 +438,7 @@
 |Agnes Crepet
 |link:https://twitter.com/agnes_crepet[@agnes_crepet]
 |Amsterdam
-|Netherlands/France
+|The Netherlands/France
 |2012
 
 |{counter:idx}
@@ -2456,6 +2456,14 @@
 |Munich, Bavaria
 |Germany
 |2018
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/GeertjanW[]
+|Geertjan Wielenga
+|link:https://twitter.com/GeertjanW[@GeertjanW]
+|Amsterdam
+|The Netherlands
+|2020
 
 |{counter:idx}
 |image:https://twivatar.glitch.me/a1anw2[]
