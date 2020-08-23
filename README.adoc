@@ -1,7 +1,25 @@
 = Java Champions
+
+== What is a Java Champion?
+
+One of the best descriptions was given in the 2009 JavaOne
+Conference PDF:
+
+"The Java Champions community was started by Sun at the 2005
+JavaOne conference to recognize key influencers in the Java
+community. Java Champions are influential Rock Star presenters
+and Java technology educators, authors, and consultants; Java
+platform event organizers; and others within the Java technology
+ecosystem. For the third consecutive year, Java Champions have
+contributed to the JavaOne conference process as technical
+reviewers for paper submissions, have been recognized for their
+achievements, and have shared their thoughts about the state of
+the Java platform at their BOF sessions."
+
+== Who are the Java Champions?
+
 // use an attribute to avoid char substitutions
 :link-jim-gough: link:https://twitter.com/Jim__Gough[@Jim__Gough]
-
 `*` - Indicates a member has passed away.
 
 [%header]
