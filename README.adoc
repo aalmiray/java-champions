@@ -1,62 +1,93 @@
 = Java Champions
 
+== What is a Java Champion?
+
+One of the best descriptions was given in the 2009 JavaOne
+Conference PDF:
+
+"The Java Champions community was started by Sun at the 2005
+JavaOne conference to recognize key influencers in the Java
+community. Java Champions are influential Rock Star presenters
+and Java technology educators, authors, and consultants; Java
+platform event organizers; and others within the Java technology
+ecosystem. For the third consecutive year, Java Champions have
+contributed to the JavaOne conference process as technical
+reviewers for paper submissions, have been recognized for their
+achievements, and have shared their thoughts about the state of
+the Java platform at their BOF sessions."
+
+== Who are the Java Champions?
+
+// use an attribute to avoid char substitutions
+:link-jim-gough: link:https://twitter.com/Jim__Gough[@Jim__Gough]
+`*` - Indicates a member has passed away.
+
 [%header]
+[subs="attributes"]
 |===
-| | |Name |Twitter |Country |Year
+| | |Name |Twitter |City/State |Country |Year
 
 |{counter:idx}
-|image:https://avatars.io/twitter/oezcanacar/medium[]
+|image:https://twivatar.glitch.me/oezcanacar[]
 |Oezcan Acar
-|https://twitter.com/oezcanacar[@oezcanacar]
-|Turkey
+|link:https://twitter.com/oezcanacar[@oezcanacar]
+|Frankfurt
+|Germany/Turkey
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bercut2000/medium[]
+|image:https://twivatar.glitch.me/bercut2000[]
 |Dmitry Aleksandrov
-|https://twitter.com/bercut2000[@bercut2000]
+|link:https://twitter.com/bercut2000[@bercut2000]
+|
 |Bulgaria
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mojavelinux/medium[]
+|image:https://twivatar.glitch.me/mojavelinux[]
 |Dan Allen
-|https://twitter.com/mojavelinux[@mojavelinux]
+|link:https://twitter.com/mojavelinux[@mojavelinux]
+|Denver, Colorado
 |USA
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dalmaer/medium[]
+|image:https://twivatar.glitch.me/dalmaer[]
 |Dion Almaer
-|https://twitter.com/dalmaer[@dalmaer]
+|link:https://twitter.com/dalmaer[@dalmaer]
+|San Francisco, California
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/aalmiray/medium[]
-|https://www.linkedin.com/in/aalmiray[Andres Almiray]
-|https://twitter.com/aalmiray[@aalmiray]
-|Mexico/Switzerland
+|image:https://twivatar.glitch.me/aalmiray[]
+|link:https://www.linkedin.com/in/aalmiray[Andres Almiray]
+|link:https://twitter.com/aalmiray[@aalmiray]
+|Basel
+|Switzerland/Mexico
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/deepakalur/medium[]
+|image:https://twivatar.glitch.me/deepakalur[]
 |Deepak Alur
-|https://twitter.com/deepakalur[@deepakalur]
+|link:https://twitter.com/deepakalur[@deepakalur]
+|
 |USA
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/gail_asgteach/medium[]
+|image:https://twivatar.glitch.me/gail_asgteach[]
 |Gail C. Anderson
-|https://twitter.com/gail_asgteach[@gail_asgteach]
+|link:https://twitter.com/gail_asgteach[@gail_asgteach]
+|San Diego, California
 |USA
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/Paul_ASGTeach/medium[]
+|image:https://twivatar.glitch.me/Paul_ASGTeach[]
 |Paul L. Anderson
-|https://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
+|link:https://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
+|San Diego, California
 |USA
 |2016
 
@@ -64,40 +95,46 @@
 |
 |Fernando Anselmo
 |
+|
 |Brazil
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javapapo/medium[]
+|image:https://twivatar.glitch.me/javapapo[]
 |Paris Apostolopoulos
-|https://twitter.com/javapapo[@javapapo]
-|Greece
+|link:https://twitter.com/javapapo[@javapapo]
+|London/Greece
+|UK
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jfarcand/medium[]
+|image:https://twivatar.glitch.me/jfarcand[]
 |Jean-François Arcand
-|https://twitter.com/jfarcand[@jfarcand]
+|link:https://twitter.com/jfarcand[@jfarcand]
+|Montreal
 |Canada
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/karesti/medium[]
+|image:https://twivatar.glitch.me/karesti[]
 |Katia Aresti
-|https://twitter.com/karesti[@karesti]
+|link:https://twitter.com/karesti[@karesti]
+|
 |France/Spain
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/antonarhipov/medium[]
+|image:https://twivatar.glitch.me/antonarhipov[]
 |Anton Arhipov
-|https://twitter.com/antonarhipov[@antonarhipov]
+|link:https://twitter.com/antonarhipov[@antonarhipov]
+|
 |Estonia
 |2014
 
 |{counter:idx}
 |
 |Sergey Astakhov
+|
 |
 |Russian Federation
 |2005
@@ -106,6 +143,7 @@
 |
 |Calvin Austin
 |
+|San Francisco, California
 |USA
 |2005
 
@@ -113,139 +151,183 @@
 |
 |Hovhannes Avoyan
 |
-|Armenia
-|2015
+|San Francisco, California
+|USA/Armenia
+|2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/babadopulos/medium[]
+|image:https://twivatar.glitch.me/babadopulos[]
 |Fernando Babadopulos
-|https://twitter.com/babadopulos[@babadopulos]
+|link:https://twitter.com/babadopulos[@babadopulos]
+|São Paulo
 |Brazil
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/pbakker/medium[]
+|image:https://twivatar.glitch.me/pbakker[]
 |Paul Bakker
-|https://twitter.com/pbakker[@pbakker]
+|link:https://twitter.com/pbakker[@pbakker]
+|San Francisco, CA
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BertBates/medium[]
+|image:https://twivatar.glitch.me/BertBates[]
 |Bert Bates
-|https://twitter.com/BertBates[@BertBates]
+|link:https://twitter.com/BertBates[@BertBates]
+|
 |USA
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mon_beck/medium[]
+|image:https://twivatar.glitch.me/mon_beck[]
 |Monica Beckwith
-|https://twitter.com/mon_beck[@mon_beck]
+|link:https://twitter.com/mon_beck[@mon_beck]
+|Texas
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/luciobenfante/medium[]
+|image:https://twivatar.glitch.me/luciobenfante[]
 |Lucio Benfante
-|https://twitter.com/luciobenfante[@luciobenfante]
+|link:https://twitter.com/luciobenfante[@luciobenfante]
+|Verona
 |Italy
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/emmanuelbernard/medium[]
+|image:https://twivatar.glitch.me/bbenz[]
+|Brian Benz
+|link:https://twitter.com/bbenz[@bbenz]
+|Las Vegas
+|USA
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/emmanuelbernard[]
 |Emmanuel Bernard
-|https://twitter.com/emmanuelbernard[@emmanuelbernard]
+|link:https://twitter.com/emmanuelbernard[@emmanuelbernard]
+|Paris
 |France
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/gbevin/medium[]
+|image:https://twivatar.glitch.me/gbevin[]
 |Geert Bevin
-|https://twitter.com/gbevin[@gbevin]
+|link:https://twitter.com/gbevin[@gbevin]
+|
 |Belgium
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/AdamBien/medium[]
+|image:https://twivatar.glitch.me/AdamBien[]
 |Adam Bien
-|https://twitter.com/AdamBien[@AdamBien]
+|link:https://twitter.com/AdamBien[@AdamBien]
+|
 |Germany
 |2007
 
 |{counter:idx}
 |
-|Xu Bin
+|Dr. Xu Bin
+|
 |
 |China
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dblevins/medium[]
+|image:https://twivatar.glitch.me/sebi2706[]
+|Sébastien Blanc
+|link:https://twitter.com/sebi2706[@sebi2706]
+|Nice
+|France
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/dblevins[]
 |David Blevins
-|https://twitter.com/dblevins[@dblevins]
+|link:https://twitter.com/dblevins[@dblevins]
+|Santa Monica, California
 |USA
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/joshbloch/medium[]
-|Joshua Bloch
-|https://twitter.com/joshbloch[@joshbloch]
+|image:https://twivatar.glitch.me/alblue[]
+|Dr. Alex Blewitt
+|link:https://twitter.com/alblue[@alblue]
+|Milton Keynes
+|UK
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/joshbloch[]
+|Dr. Joshua Bloch
+|link:https://twitter.com/joshbloch[@joshbloch]
+|San Francisco, California
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bokmann/medium[]
+|image:https://twivatar.glitch.me/bokmann[]
 |David Bock
-|https://github.com/bokmann[@bokmann]
+|link:https://github.com/bokmann[@bokmann]
+|Washington DC
 |USA
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jboner/medium[]
+|image:https://twivatar.glitch.me/jboner[]
 |Jonas Bonér
-|https://twitter.com/jboner[@jboner]
+|link:https://twitter.com/jboner[@jboner]
+|
 |Sweden
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/simonebordet/medium[]
+|image:https://twivatar.glitch.me/simonebordet[]
 |Simone Bordet
-|https://twitter.com/simonebordet[@simonebordet]
+|link:https://twitter.com/simonebordet[@simonebordet]
+|Turin
 |Italy
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/brunoborges/medium[]
+|image:https://twivatar.glitch.me/brunoborges[]
 |Bruno Borges
-|https://twitter.com/brunoborges[@brunoborges]
+|link:https://twitter.com/brunoborges[@brunoborges]
+|
 |Brazil/Canada
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jeanneboyarsky/medium[]
+|image:https://twivatar.glitch.me/jeanneboyarsky[]
 |Jeanne Boyarsky
-|https://twitter.com/jeanneboyarsky[@jeanneboyarsky]
+|link:https://twitter.com/jeanneboyarsky[@jeanneboyarsky]
+|New York City, New York
 |USA
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bbossola/medium[]
-|https://www.linkedin.com/in/bbossola[Bruno Bossola]
-|https://twitter.com/bbossola[@bbossola]
-|Italy
+|image:https://twivatar.glitch.me/bbossola[]
+|link:https://www.linkedin.com/in/bbossola[Bruno Bossola]
+|link:https://twitter.com/bbossola[@bbossola]
+|London
+|UK
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vbrabant/medium[]
+|image:https://twivatar.glitch.me/vbrabant[]
 |Vincent Brabant
-|https://twitter.com/vbrabant[@vbrabant]
+|link:https://twitter.com/vbrabant[@vbrabant]
+|
 |Belgium
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/danielbryantuk/medium[]
-|Daniel Bryant
-|https://twitter.com/danielbryantuk[@danielbryantuk]
+|image:https://twivatar.glitch.me/danielbryantuk[]
+|Dr. Daniel Bryant
+|link:https://twitter.com/danielbryantuk[@danielbryantuk]
+|London
 |UK
 |2018
 
@@ -253,68 +335,86 @@
 |
 |Bill Burke
 |
+|
 |USA
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mertcal/medium[]
-|https://www.linkedin.com/in/mertcaliskan[Mert Caliskan]
-|https://twitter.com/mertcal[@mertcal]
+|image:https://twivatar.glitch.me/edburns[]
+|Ed Burns
+|link:https://twitter.com/edburns[@edburns]
+|Florida
+|USA
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/mertcal[]
+|link:https://www.linkedin.com/in/mertcaliskan[Mert Caliskan]
+|link:https://twitter.com/mertcal[@mertcal]
+|Ankara
 |Turkey
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mcannonbrookes/medium[]
+|image:https://twivatar.glitch.me/mcannonbrookes[]
 |Mike Cannon-Brookes
-|https://twitter.com/mcannonbrookes[@mcannonbrookes]
+|link:https://twitter.com/mcannonbrookes[@mcannonbrookes]
+|Sydney
 |Australia
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/imifos/medium[]
+|image:https://twivatar.glitch.me/imifos[]
 |Tasha Carl
-|https://twitter.com/imifos[@imifos]
+|link:https://twitter.com/imifos[@imifos]
+|
 |Belgium
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/magnocav/medium[]
+|image:https://twivatar.glitch.me/magnocav[]
 |Magno Cavalcante
-|https://twitter.com/magnocav[@magnocav]
+|link:https://twitter.com/magnocav[@magnocav]
+|Rio de Janeiro
 |Brazil
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/steveonjava/medium[]
+|image:https://twivatar.glitch.me/steveonjava[]
 |Stephen Chin
-|https://twitter.com/steveonjava[@steveonjava]
+|link:https://twitter.com/steveonjava[@steveonjava]
+|Belmont, California
 |USA
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/HillmerCh/medium[]
+|image:https://twivatar.glitch.me/HillmerCh[]
 |Hillmer Chona
-|https://twitter.com/HillmerCh[@HillmerCh]
+|link:https://twitter.com/HillmerCh[@HillmerCh]
+|
 |Colombia
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/cliff_click/medium[]
-|Cliff Click
-|https://twitter.com/cliff_click[@cliff_click]
+|image:https://twivatar.glitch.me/cliff_click[]
+|Dr. Cliff Click
+|link:https://twitter.com/cliff_click[@cliff_click]
+|Sunnyvale, California
 |USA
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/cagataycivici/medium[]
+|image:https://twivatar.glitch.me/cagataycivici[]
 |Cagatay Civici
-|https://twitter.com/cagataycivici[@cagataycivici]
+|link:https://twitter.com/cagataycivici[@cagataycivici]
+|
 |Turkey
 |2017
 
 |{counter:idx}
 |
 |Jeff Cobb
+|
 |
 |USA
 |2005
@@ -323,55 +423,71 @@
 |
 |Flavia Coelho
 |
+|São Paulo
 |Brazil
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jodastephen/medium[]
+|image:https://twivatar.glitch.me/_pitest[]
+|Henry Coles
+|link:https://twitter.com/_pitest[@_pitest]
+|Edinburgh
+|Scotland
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/jodastephen[]
 |Stephen Colebourne
-|https://twitter.com/jodastephen[@jodastephen]
+|link:https://twitter.com/jodastephen[@jodastephen]
+|London
 |UK
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/radcortez/medium[]
+|image:https://twivatar.glitch.me/radcortez[]
 |Roberto Cortez
-|https://twitter.com/radcortez[@radcortez]
+|link:https://twitter.com/radcortez[@radcortez]
+|Coimbra
 |Portugal
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/agnes_crepet/medium[]
+|image:https://twivatar.glitch.me/agnes_crepet[]
 |Agnes Crepet
-|https://twitter.com/agnes_crepet[@agnes_crepet]
-|France
+|link:https://twitter.com/agnes_crepet[@agnes_crepet]
+|Amsterdam
+|The Netherlands/France
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/holly_cummins/medium[]
-|Holly Cummins
-|https://twitter.com/holly_cummins[@holly_cummins]
+|image:https://twivatar.glitch.me/holly_cummins[]
+|Dr. Holly Cummins
+|link:https://twitter.com/holly_cummins[@holly_cummins]
+|London
 |UK
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/Ian_Darwin/medium[]
+|image:https://twivatar.glitch.me/Ian_Darwin[]
 |Ian F. Darwin
-|https://twitter.com/Ian_Darwin[@Ian_Darwin]
+|link:https://twitter.com/Ian_Darwin[@Ian_Darwin]
+|Ontario
 |Canada
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/DaschnerS/medium[]
+|image:https://twivatar.glitch.me/DaschnerS[]
 |Sebastian Daschner
-|https://twitter.com/DaschnerS[@DaschnerS]
+|link:https://twitter.com/DaschnerS[@DaschnerS]
+|Munich
 |Germany
 |2016
 
 |{counter:idx}
 |image:http://i.picasion.com/resize89/e4a02b14694e419dbd39f90befecd1ee.jpg[]
 |Paul J. Deitel
-|https://twitter.com/deitel[@deitel]
+|link:https://twitter.com/deitel[@deitel]
+|Sudbury, Massachusetts 
 |USA
 |2005
 
@@ -379,237 +495,279 @@
 |
 |Valere Dejardin
 |
+|
 |France
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/danieldeluca/medium[]
+|image:https://twivatar.glitch.me/danieldeluca[]
 |Daniel De Luca
-|https://twitter.com/danieldeluca[@danieldeluca]
+|link:https://twitter.com/danieldeluca[@danieldeluca]
+|Brussels
 |Belgium
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/danieldfjug/medium[]
-|Daniel deOliveira
-|https://twitter.com/danieldfjug[@danieldfjug]
+|image:https://twivatar.glitch.me/danieldfjug[]
+|Daniel deOliveira *
+|link:https://twitter.com/danieldfjug[@danieldfjug]
+|
 |Brazil
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jamdiazdiaz/medium[]
+|image:https://twivatar.glitch.me/jamdiazdiaz[]
 |José Díaz
-|https://twitter.com/jamdiazdiaz[@jamdiazdiaz]
+|link:https://twitter.com/jamdiazdiaz[@jamdiazdiaz]
+|
 |Perú
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/fdiotalevi/medium[]
+|image:https://twivatar.glitch.me/fdiotalevi[]
 |Filippo Diotalevi
-|https://twitter.com/fdiotalevi[@fdiotalevi]
-|Italy
+|link:https://twitter.com/fdiotalevi[@fdiotalevi]
+|London
+|UK/Italy
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/OlehDokuka/medium[]
+|image:https://twivatar.glitch.me/OlehDokuka[]
 |Oleh Dokuka
-|https://twitter.com/OlehDokuka[@OlehDokuka]
+|link:https://twitter.com/OlehDokuka[@OlehDokuka]
+|
 |Ukraine
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jmdoudoux/medium[]
+|image:https://twivatar.glitch.me/jmdoudoux[]
 |Jean-Michel Doudoux
-|https://twitter.com/jmdoudoux[@jmdoudoux]
+|link:https://twitter.com/jmdoudoux[@jmdoudoux]
+|Metz
 |France
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/odrotbohm/medium[]
+|image:https://twivatar.glitch.me/odrotbohm[]
 |Oliver Drotbohm
-|https://twitter.com/odrotbohm[@odrotbohm]
+|link:https://twitter.com/odrotbohm[@odrotbohm]
+|Dresden
 |Germany
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/juliendubois/medium[]
+|image:https://twivatar.glitch.me/juliendubois[]
 |Julien Dubois
-|https://twitter.com/juliendubois[@juliendubois]
+|link:https://twitter.com/juliendubois[@juliendubois]
+|Paris
 |France
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hendrikEbbers/medium[]
+|image:https://twivatar.glitch.me/hendrikEbbers[]
 |Hendrik Ebbers
-|https://twitter.com/hendrikEbbers[@hendrikEbbers]
+|link:https://twitter.com/hendrikEbbers[@hendrikEbbers]
+|Dortmund
 |Germany
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BruceEckel/medium[]
+|image:https://twivatar.glitch.me/BruceEckel[]
 |Bruce Eckel
-|https://twitter.com/BruceEckel[@BruceEckel]
+|link:https://twitter.com/BruceEckel[@BruceEckel]
+|Colorado
 |USA
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/lukaseder/medium[]
+|image:https://twivatar.glitch.me/lukaseder[]
 |Lukas Eder
-|https://twitter.com/lukaseder[@lukaseder]
+|link:https://twitter.com/lukaseder[@lukaseder]
+|Zürich
 |Switzerland
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/myfear/medium[]
+|image:https://twivatar.glitch.me/bsideup[]
+|Sergei Egorov
+|link:https://twitter.com/bsideup[@bsideup]
+|
+|Estonia/Germany
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/myfear[]
 |Markus Eisele
-|https://twitter.com/myfear[@myfear]
+|link:https://twitter.com/myfear[@myfear]
+|Munich
 |Germany
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/badrelhouari/medium[]
+|image:https://twivatar.glitch.me/badrelhouari[]
 |Badr El Houari
-|https://twitter.com/badrelhouari[@badrelhouari]
+|link:https://twitter.com/badrelhouari[@badrelhouari]
+|Casablanca
 |Morocco
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/relizarov/medium[]
+|image:https://twivatar.glitch.me/relizarov[]
 |Roman Elizarov
-|https://twitter.com/relizarov[@relizarov]
+|link:https://twitter.com/relizarov[@relizarov]
+|
 |Russian Federation
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/noctarius2k/medium[]
+|image:https://twivatar.glitch.me/noctarius2k[]
 |Christoph Engelbert
-|https://twitter.com/noctarius2k[@noctarius2k]
+|link:https://twitter.com/noctarius2k[@noctarius2k]
+|Haan, North Rhine-Westphalia
 |Germany
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/monacotoni/medium[]
+|image:https://twivatar.glitch.me/monacotoni[]
 |Anton (Toni) Epple
-|https://twitter.com/monacotoni[@monacotoni]
+|link:https://twitter.com/monacotoni[@monacotoni]
+|Munich
 |Germany
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BertErtman/medium[]
+|image:https://twivatar.glitch.me/BertErtman[]
 |Bert Ertman
-|https://twitter.com/BertErtman[@BertErtman]
+|link:https://twitter.com/BertErtman[@BertErtman]
+|Nijmegen
 |The Netherlands
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/clementplop/medium[]
-|Clement Escoffier
-|https://twitter.com/clementplop[@clementplop]
+|image:https://twivatar.glitch.me/clementplop[]
+|Dr. Clement Escoffier
+|link:https://twitter.com/clementplop[@clementplop]
+|Valence, Rhône-Alpes
 |France
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/kittylyst/medium[]
+|image:https://twivatar.glitch.me/kittylyst[]
 |Ben Evans
-|https://twitter.com/kittylyst[@kittylyst]
-|UK
+|link:https://twitter.com/kittylyst[@kittylyst]
+|
+|Spain/UK
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yfain/medium[]
-|https://yakovfain.com/[Yakov Fain]
-|https://twitter.com/yfain[@yfain]
+|image:https://twivatar.glitch.me/yfain[]
+|link:https://yakovfain.com/[Yakov Fain]
+|link:https://twitter.com/yfain[@yfain]
+|New York City, New York
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rom/medium[]
+|image:https://twivatar.glitch.me/rom[]
 |Rommel Feria
-|https://twitter.com/rom[@rom]
+|link:https://twitter.com/rom[@rom]
+|
 |Philippines
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/__DavidFlanagan/medium[]
+|image:https://twivatar.glitch.me/__DavidFlanagan[]
 |David Flanagan
-|https://twitter.com/\__DavidFlanagan[@__DavidFlanagan]
+|link:https://twitter.com/\__DavidFlanagan[@__DavidFlanagan]
+|Washington State
 |USA
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/omniprof/medium[]
-|Ken Fogel
-|https://twitter.com/omniprof[@omniprof]
+|image:https://twivatar.glitch.me/omniprof[]
+|Prof. Ken Fogel
+|link:https://twitter.com/omniprof[@omniprof]
+|Cote Saint-Luc, Quebec
 |Canada
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/axelfontaine/medium[]
+|image:https://twivatar.glitch.me/axelfontaine[]
 |Axel Fontaine
-|https://twitter.com/axelfontaine[@axelfontaine]
+|link:https://twitter.com/axelfontaine[@axelfontaine]
+|
 |Germany
 |2016
 
 |{counter:idx}
 |
-|Remi Forax
+|Dr. Remi Forax
+|
 |
 |France
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mariofusco/medium[]
+|image:https://twivatar.glitch.me/mariofusco[]
 |Mario Fusco
-|https://twitter.com/mariofusco[@mariofusco]
+|link:https://twitter.com/mariofusco[@mariofusco]
+|Milan
 |Italy
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/23derevo/medium[]
-|Alexey Fyodorov
-|https://twitter.com/23derevo[@23derevo]
+|image:https://twivatar.glitch.me/23derevo[]
+|Dr. Alexey Fyodorov
+|link:https://twitter.com/23derevo[@23derevo]
+|Saint Petersburg
 |Russian Federation
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/gafter/medium[]
+|image:https://twivatar.glitch.me/gafter[]
 |Dr. Neal Gafter
-|https://twitter.com/gafter[@gafter]
+|link:https://twitter.com/gafter[@gafter]
+|Seattle, Washington
 |USA
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dgageot/medium[]
+|image:https://twivatar.glitch.me/dgageot[]
 |David Gageot
-|https://twitter.com/dgageot[@dgageot]
+|link:https://twitter.com/dgageot[@dgageot]
+|Paris
 |France
 |2014
 
 |{counter:idx}
 |
-|Felipe Gaúcho
+|Felipe Gaúcho *
 |
+|Rio de Janeiro
 |Brazil
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/davidgeary/medium[]
+|image:https://twivatar.glitch.me/davidgeary[]
 |David Geary
-|https://twitter.com/davidgeary[@davidgeary]
+|link:https://twitter.com/davidgeary[@davidgeary]
+|Loveland, Colorado
 |USA
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/trisha_gee/medium[]
+|image:https://twivatar.glitch.me/trisha_gee[]
 |Trisha Gee
-|https://twitter.com/trisha_gee[@trisha_gee]
-|Spain
+|link:https://twitter.com/trisha_gee[@trisha_gee]
+|Seville, Andalusia
+|Spain/UK
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jgenender/medium[]
+|image:https://twivatar.glitch.me/jgenender[]
 |Jeff Genender
-|https://twitter.com/jgenender[@jgenender]
+|link:https://twitter.com/jgenender[@jgenender]
+|Denver, Colorado
 |USA
 |2009
 
@@ -617,223 +775,287 @@
 |
 |Bruno Ghisi
 |
+|Florianópolis, Santa Catarina
 |Brazil
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javabird/medium[]
+|image:https://twivatar.glitch.me/javabird[]
 |Fabrizio Gianneschi
-|https://twitter.com/javabird[@javabird]
+|link:https://twitter.com/javabird[@javabird]
+|Cagliari, Sardinia
 |Italy
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JonathanGiles/medium[]
+|image:https://twivatar.glitch.me/JonathanGiles[]
 |Jonathan Giles
-|https://twitter.com/JonathanGiles[@JonathanGiles]
+|link:https://twitter.com/JonathanGiles[@JonathanGiles]
+|
 |New Zealand
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BrianGoetz/medium[]
+|image:https://twivatar.glitch.me/BrianGoetz[]
 |Brian Goetz
-|https://twitter.com/BrianGoetz[@BrianGoetz]
+|link:https://twitter.com/BrianGoetz[@BrianGoetz]
+|Burlington, Vermont 
 |USA
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/agoncal/medium[]
+|image:https://twivatar.glitch.me/dgomezg[]
+|David Gómez
+|link:https://twitter.com/dgomezg[@dgomezg]
+|Madrid
+|Spain
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/agoncal[]
 |Antonio Goncalves
-|https://twitter.com/agoncal[@agoncal]
+|link:https://twitter.com/agoncal[@agoncal]
+|Paris
 |France
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/errcraft/medium[]
-|James Gosling
-|https://twitter.com/errcraft[@errcraft]
+|image:https://twivatar.glitch.me/errcraft[]
+|Dr. James Gosling
+|link:https://twitter.com/errcraft[@errcraft]
+|San Francisco, California
 |USA
 |Honorary Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/frankgreco/medium[]
-|Frank Greco
-|https://twitter.com/frankgreco[@frankgreco]
-|USA
-|2007
+|image:https://twivatar.glitch.me/Jim__Gough[]
+|Jim Gough
+|{link-jim-gough}
+|London
+|UK
+|2020
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rgransberger/medium[]
+|image:https://twivatar.glitch.me/rgransberger[]
 |Rabea Gransberger
-|https://twitter.com/rgransberger[@rgransberger]
+|link:https://twitter.com/rgransberger[@rgransberger]
+|Bremen
 |Germany
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vgrazi/medium[]
+|image:https://twivatar.glitch.me/vgrazi[]
 |Victor Grazi
-|https://twitter.com/vgrazi[@vgrazi]
+|link:https://twitter.com/vgrazi[@vgrazi]
+|New York City, New York
 |USA
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/NeilGriffin95/medium[]
+|image:https://twivatar.glitch.me/frankgreco[]
+|Frank Greco
+|link:https://twitter.com/frankgreco[@frankgreco]
+|New York City, New York
+|USA
+|2007
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/NeilGriffin95[]
 |Neil Griffin
-|https://twitter.com/NeilGriffin95[@NeilGriffin95]
+|link:https://twitter.com/NeilGriffin95[@NeilGriffin95]
+|Orlando, Florida
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ivar_grimstad/medium[]
+|image:https://twivatar.glitch.me/ivar_grimstad[]
 |Ivar Grimstad
-|https://twitter.com/ivar_grimstad[@ivar_grimstad]
+|link:https://twitter.com/ivar_grimstad[@ivar_grimstad]
+|Malmo
 |Sweden
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hansolo_/medium[]
+|image:https://twivatar.glitch.me/SanneGrinovero[]
+|Sanne Grinovero 
+|link:https://twitter.com/SanneGrinovero[@SanneGrinovero]
+|London
+|UK/Italy
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/loiane[]
+|Loiane Groner
+|link:https://twitter.com/loiane[@loiane]
+|Tampa, Florida
+|USA/Brazil
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/hansolo_[]
 |Gerrit Grunwald
-|https://twitter.com/hansolo_[@hansolo_]
+|link:https://twitter.com/hansolo_[@hansolo_]
+|Münster, North Rhine-Westphalia
 |Germany
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ags313/medium[]
+|image:https://twivatar.glitch.me/ags313[]
 |Andrzej Grzesik
-|https://twitter.com/ags313[@ags313]
-|Poland
+|link:https://twitter.com/ags313[@ags313]
+|London
+|UK/Poland
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/fguime/medium[]
+|image:https://twivatar.glitch.me/fguime[]
 |Freddy Guime
-|https://twitter.com/fguime[@fguime]
+|link:https://twitter.com/fguime[@fguime]
+|Seattle, Washington
 |USA
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/CGuntur/medium[]
+|image:https://twivatar.glitch.me/CGuntur[]
 |Chandra Guntur
-|https://twitter.com/CGuntur[@CGuntur]
+|link:https://twitter.com/CGuntur[@CGuntur]
+|New Jersey
 |USA
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/arungupta/medium[]
+|image:https://twivatar.glitch.me/arungupta[]
 |Arun Gupta
-|https://twitter.com/arungupta[@arungupta]
+|link:https://twitter.com/arungupta[@arungupta]
+|San Francisco, California
 |USA
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/eMalaGupta/medium[]
+|image:https://twivatar.glitch.me/eMalaGupta[]
 |Mala Gupta
-|https://twitter.com/eMalaGupta[@eMalaGupta]
+|link:https://twitter.com/eMalaGupta[@eMalaGupta]
+|New Delhi, Delhi
 |India
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/romainguy/medium[]
+|image:https://twivatar.glitch.me/romainguy[]
 |Romain Guy
-|https://twitter.com/romainguy[@romainguy]
+|link:https://twitter.com/romainguy[@romainguy]
+|Los Altos, California 
 |USA
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ahmed_hashim/medium[]
+|image:https://twivatar.glitch.me/ahmed_hashim[]
 |Ahmed Hashim
-|https://twitter.com/ahmed_hashim[@ahmed_hashim]
+|link:https://twitter.com/ahmed_hashim[@ahmed_hashim]
+|Cairo
 |Egypt
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/MkHeck/medium[]
+|image:https://twivatar.glitch.me/MkHeck[]
 |Mark Heckler
-|https://twitter.com/MkHeck[@MkHeck]
+|link:https://twitter.com/MkHeck[@MkHeck]
+|Godfrey, Illinois 
 |USA
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ensode/medium[]
+|image:https://twivatar.glitch.me/ensode[]
 |David Heffelfinger
-|https://twitter.com/ensode[@ensode]
+|link:https://twitter.com/ensode[@ensode]
+|Washington DC
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rajonjava/medium[]
+|image:https://twivatar.glitch.me/rajmahendrar[]
 |Rajmahendra Hegde
-|https://twitter.com/rajonjava[@rajonjava]
+|link:https://twitter.com/rajmahendrar[@rajmahendrar]
+|Hyderabad, Telangana
 |India
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/net0pyr/medium[]
+|image:https://twivatar.glitch.me/net0pyr[]
 |Michael Heinrichs
-|https://twitter.com/net0pyr[@net0pyr]
+|link:https://twitter.com/net0pyr[@net0pyr]
+|Freiburg
 |Germany
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/CesarHgt/medium[]
+|image:https://twivatar.glitch.me/CesarHgt[]
 |César Hernández
-|https://twitter.com/CesarHgt[@CesarHgt]
+|link:https://twitter.com/CesarHgt[@CesarHgt]
+|
 |Guatemala
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javatotto/medium[]
-|https://www.linkedin.com/in/thorhenninghetland/[Thor Henning Hetland]
-|https://twitter.com/javatotto[@javatotto]
+|image:https://twivatar.glitch.me/javatotto[]
+|link:https://www.linkedin.com/in/thorhenninghetland/[Thor Henning Hetland]
+|link:https://twitter.com/javatotto[@javatotto]
+|Oslo
 |Norway
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/RickHigh/medium[]
+|image:https://twivatar.glitch.me/RickHigh[]
 |Rick Hightower
-|https://twitter.com/RickHigh[@RickHigh]
+|link:https://twitter.com/RickHigh[@RickHigh]
+|Dublin, California
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ghillert/medium[]
+|image:https://twivatar.glitch.me/ghillert[]
 |Gunnar Hillert
-|https://twitter.com/ghillert[@ghillert]
+|link:https://twitter.com/ghillert[@ghillert]
+|Holualoa, Hawaii
 |USA/Germany
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hirt/medium[]
+|image:https://twivatar.glitch.me/hirt[]
 |Marcus Hirt
-|https://twitter.com/hirt[@hirt]
+|link:https://twitter.com/hirt[@hirt]
+|Zürich
 |Sweden/Switzerland
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ronhitchens/medium[]
+|image:https://twivatar.glitch.me/ronhitchens[]
 |Ron Hitchens
-|https://twitter.com/ronhitchens[@ronhitchens]
-|USA
+|link:https://twitter.com/ronhitchens[@ronhitchens]
+|London
+|UK/USA
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/springjuergen/medium[]
+|image:https://twivatar.glitch.me/springjuergen[]
 |Juergen Hoeller
-|https://twitter.com/springjuergen[@springjuergen]
+|link:https://twitter.com/springjuergen[@springjuergen]
+|Linz, Upper Austria
 |Austria
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/marcandsweep/medium[]
+|image:https://twivatar.glitch.me/marcandsweep[]
 |Marc Hoffmann
-|https://twitter.com/marcandsweep[@marcandsweep]
+|link:https://twitter.com/marcandsweep[@marcandsweep]
+|
 |Germany/Switzerland
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jacobhookom/medium[]
+|image:https://twivatar.glitch.me/jacobhookom[]
 |Jacob Hookom
-|https://twitter.com/jacobhookom[@jacobhookom]
+|link:https://twitter.com/jacobhookom[@jacobhookom]
+|Minneapolis-St. Paul, Minnesota
 |USA
 |Founding Member
 
@@ -841,230 +1063,287 @@
 |
 |Bruce Hopkins
 |
+|
 |USA
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/cayhorstmann/medium[]
-|Cay Horstmann
-|https://twitter.com/cayhorstmann[@cayhorstmann]
+|image:https://twivatar.glitch.me/cayhorstmann[]
+|Dr. Cay Horstmann
+|link:https://twitter.com/cayhorstmann[@cayhorstmann]
+|San Francisco, California
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/magoghm/medium[]
+|image:https://twivatar.glitch.me/magoghm[]
 |Gerardo Horvilleur
-|https://twitter.com/magoghm[@magoghm]
+|link:https://twitter.com/magoghm[@magoghm]
+|Mexico City
 |Mexico
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/huettermann/medium[]
+|image:https://twivatar.glitch.me/huettermann[]
 |Michael Huettermann
-|https://twitter.com/huettermann[@huettermann]
+|link:https://twitter.com/huettermann[@huettermann]
+|Cologne
 |Germany
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hunterhacker/medium[]
+|image:https://twivatar.glitch.me/hunterhacker[]
 |Jason Hunter
-|https://twitter.com/hunterhacker[@hunterhacker]
-|USA
+|link:https://twitter.com/hunterhacker[@hunterhacker]
+|
+|Signapore/USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mesirii/medium[]
+|image:https://twivatar.glitch.me/BurkHufnagel[]
+|Burk Hufnagel
+|link:https://twitter.com/BurkHufnagel[@BurkHufnagel]
+|Atlanta
+|USA
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/mesirii[]
 |Michael Hunger
-|https://twitter.com/mesirii[@mesirii]
+|link:https://twitter.com/mesirii[@mesirii]
+|Dresden
 |Germany
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/davsclaus/medium[]
+|image:https://twivatar.glitch.me/davsclaus[]
 |Claus Ibsen
-|https://twitter.com/davsclaus[@davsclaus]
+|link:https://twitter.com/davsclaus[@davsclaus]
+|Esbjerg
 |Denmark
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ederign/medium[]
+|image:https://twivatar.glitch.me/ederign[]
 |Eder Ignatowicz
-|https://twitter.com/ederign[@ederign]
-|Brazil
+|link:https://twitter.com/ederign[@ederign]
+|Boston, Massachusetts
+|USA/Brazil
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/oliverihns/medium[]
+|image:https://twivatar.glitch.me/oliverihns[]
 |Oliver Ihns
-|https://twitter.com/oliverihns[@oliverihns]
+|link:https://twitter.com/oliverihns[@oliverihns]
+|Hamburg
 |Germany
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ivan_stefanov/medium[]
+|image:https://twivatar.glitch.me/ivan_stefanov[]
 |Ivan St. Ivanov
-|https://twitter.com/ivan_stefanov[@ivan_stefanov]
+|link:https://twitter.com/ivan_stefanov[@ivan_stefanov]
+|Sofia
 |Bulgaria
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/Stephan007/medium[]
+|image:https://twivatar.glitch.me/Stephan007[]
 |Stephan Janssen
-|https://twitter.com/Stephan007[@Stephan007]
+|link:https://twitter.com/Stephan007[@Stephan007]
+|Bruges
 |Belgium
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/emilyfhjiang/medium[]
+|image:https://twivatar.glitch.me/emilyfhjiang[]
 |Emily Jiang
-|https://twitter.com/emilyfhjiang[@emilyfhjiang]
+|link:https://twitter.com/emilyfhjiang[@emilyfhjiang]
+|Southampton
 |UK
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/springrod/medium[]
-|Rod Johnson
-|https://twitter.com/springrod[@springrod]
+|image:https://twivatar.glitch.me/springrod[]
+|Dr. Rod Johnson
+|link:https://twitter.com/springrod[@springrod]
+|Sydney
 |Australia/USA
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javajudd/medium[]
+|image:https://twivatar.glitch.me/techgirl1908[]
+|Angie Jones
+|link:https://twitter.com/techgirl1908[@techgirl1908]
+|San Francisco, California
+|USA
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/javajudd[]
 |Christopher Judd
-|https://twitter.com/javajudd[@javajudd]
+|link:https://twitter.com/javajudd[@javajudd]
+|Columbus, Ohio
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javajuneau/medium[]
+|image:https://twivatar.glitch.me/javajuneau[]
 |Josh Juneau
-|https://twitter.com/javajuneau[@javajuneau]
+|link:https://twitter.com/javajuneau[@javajuneau]
+|Chicago, Illinois
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/matjazbj/medium[]
-|Matjaz Juric
-|https://twitter.com/matjazbj[@matjazbj]
+|image:https://twivatar.glitch.me/matjazbj[]
+|Prof. Matjaz Juric
+|link:https://twitter.com/matjazbj[@matjazbj]
+|
 |Slovenia
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/heinzkabutz/medium[]
-|https://www.javaspecialists.eu[Heinz Kabutz]
-|https://twitter.com/heinzkabutz[@heinzkabutz]
+|image:https://twivatar.glitch.me/heinzkabutz[]
+|link:https://www.javaspecialists.eu[Dr. Heinz M. Kabutz]
+|link:https://twitter.com/heinzkabutz[@heinzkabutz]
+|Chorafakia, Chania
 |Greece
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/matkar/medium[]
+|image:https://twivatar.glitch.me/matkar[]
 |Mattias Karlsson
-|https://twitter.com/matkar[@matkar]
+|link:https://twitter.com/matkar[@matkar]
+|Stockholm
 |Sweden
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rkennke/medium[]
+|image:https://twivatar.glitch.me/kohsukekawa[]
+|Kohsuke Kawaguchi
+|link:https://twitter.com/kohsukekawa[@kohsukekawa]
+|San Jose, California
+|USA/Japan
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/rkennke[]
 |Roman Kennke
-|https://twitter.com/rkennke[@rkennke]
+|link:https://twitter.com/rkennke[@rkennke]
+|Freiburg
 |Germany
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/1ovthafew/medium[]
+|image:https://twivatar.glitch.me/1ovthafew[]
 |Gavin King
-|https://twitter.com/1ovthafew[@1ovthafew]
-|UK
+|link:https://twitter.com/1ovthafew[@1ovthafew]
+|
+|Spain/UK
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/viktorklang/medium[]
+|image:https://twivatar.glitch.me/viktorklang[]
 |Viktor Klang
-|https://twitter.com/viktorklang[@viktorklang]
+|link:https://twitter.com/viktorklang[@viktorklang]
+|Angelholm
 |Sweden
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/aslakknutsen/medium[]
+|image:https://twivatar.glitch.me/aslakknutsen[]
 |Aslak Knutsen
-|https://twitter.com/aslakknutsen[@aslakknutsen]
+|link:https://twitter.com/aslakknutsen[@aslakknutsen]
+|Oslo
 |Norway
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/clarako/medium[]
+|image:https://twivatar.glitch.me/clarako[]
 |Clara Ko
-|https://twitter.com/clarako[@clarako]
-|The Netherlands
+|link:https://twitter.com/clarako[@clarako]
+|San Francisco, California
+|USA/The Netherlands
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/panoskonst/medium[]
+|image:https://twivatar.glitch.me/panoskonst[]
 |Panos Konstantinidis
-|https://twitter.com/panoskonst[@panoskonst]
+|link:https://twitter.com/panoskonst[@panoskonst]
+|
 |Greece
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/kenkousen/medium[]
-|Ken Kousen
-|https://twitter.com/kenkousen[@kenkousen]
+|image:https://twivatar.glitch.me/kenkousen[]
+|Dr. Ken Kousen
+|link:https://twitter.com/kenkousen[@kenkousen]
+|Marlborough, Connecticut
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/michaelkolling/medium[]
-|Michael Kolling
-|https://twitter.com/michaelkolling[@michaelkolling]
+|image:https://twivatar.glitch.me/michaelkolling[]
+|Dr. Michael Kölling
+|link:https://twitter.com/michaelkolling[@michaelkolling]
+|London
 |UK
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mittie/medium[]
-|Dierk König
-|https://twitter.com/mittie[@mittie]
+|image:https://twivatar.glitch.me/mittie[]
+|Prof. Dierk König
+|link:https://twitter.com/mittie[@mittie]
+|Zürich
 |Switzerland
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/glaforge/medium[]
+|image:https://twivatar.glitch.me/glaforge[]
 |Guillaume Laforge
-|https://twitter.com/glaforge[@glaforge]
+|link:https://twitter.com/glaforge[@glaforge]
+|Paris
 |France
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/lagergren/medium[]
+|image:https://twivatar.glitch.me/lagergren[]
 |Marcus Lagergren
-|https://twitter.com/lagergren[@lagergren]
+|link:https://twitter.com/lagergren[@lagergren]
+|
 |Sweden
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/MiraLak/medium[]
+|image:https://twivatar.glitch.me/MiraLak[]
 |Amira Lakhal
-|https://twitter.com/MiraLak[@MiraLak]
+|link:https://twitter.com/MiraLak[@MiraLak]
+|
 |Switzerland
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/AngelikaLanger/medium[]
+|image:https://twivatar.glitch.me/AngelikaLanger[]
 |Angelika Langer
-|https://twitter.com/AngelikaLanger[@AngelikaLanger]
+|link:https://twitter.com/AngelikaLanger[@AngelikaLanger]
+|Munich
 |Germany
 |2005
 
 |{counter:idx}
 |
-|Edward Lank
+|Dr. Edward Lank
 |
+|Kitchener
 |Canada
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jaceklaskowski/medium[]
+|image:https://twivatar.glitch.me/jaceklaskowski[]
 |Jacek Laskowski
-|https://twitter.com/jaceklaskowski[@jaceklaskowski]
+|link:https://twitter.com/jaceklaskowski[@jaceklaskowski]
+|Warsaw
 |Poland
 |2015
 
@@ -1072,54 +1351,62 @@
 |
 |Enrique Lasterra
 |
+|Bilbao
 |Spain
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/PeterLawrey/medium[]
+|image:https://twivatar.glitch.me/PeterLawrey[]
 |Peter Lawrey
-|https://twitter.com/PeterLawrey[@PeterLawrey]
+|link:https://twitter.com/PeterLawrey[@PeterLawrey]
+|Surrey
 |UK
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/douglea/medium[]
-|Doug Lea
-|https://twitter.com/douglea[@douglea]
+|image:https://twivatar.glitch.me/douglea[]
+|Dr. Doug Lea
+|link:https://twitter.com/douglea[@douglea]
+|Syracuse, New York
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/crazybob/medium[]
+|image:https://twivatar.glitch.me/crazybob[]
 |Bob Lee
-|https://twitter.com/crazybob[@crazybob]
+|link:https://twitter.com/crazybob[@crazybob]
+|San Francisco, California
 |USA
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/evanchooly/medium[]
+|image:https://twivatar.glitch.me/evanchooly[]
 |Justin Lee
-|https://twitter.com/evanchooly[@evanchooly]
+|link:https://twitter.com/evanchooly[@evanchooly]
+|New York City, New York
 |USA
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dlemmermann/medium[]
+|image:https://twivatar.glitch.me/dlemmermann[]
 |Dirk Lemmermann
-|https://twitter.com/dlemmermann[@dlemmermann]
+|link:https://twitter.com/dlemmermann[@dlemmermann]
+|
 |Switzerland
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mikelevin/medium[]
+|image:https://twivatar.glitch.me/mikelevin[]
 |Michael Levin
-|https://twitter.com/mikelevin[@mikelevin]
+|link:https://twitter.com/mikelevin[@mikelevin]
+|
 |USA
 |2011
 
 |{counter:idx}
 |
-|Barry Levine
+|Dr. Barry Levine
+|
 |
 |USA
 |2005
@@ -1128,20 +1415,23 @@
 |
 |Mo Li
 |
+|
 |China
 |
 
 |{counter:idx}
-|
+|image:images/daniel-liang-128x128.jpg[]
 |Dr. Daniel Liang
+|
 |
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/plinskey/medium[]
+|image:https://twivatar.glitch.me/plinskey[]
 |Patrick Linskey
-|https://twitter.com/plinskey[@plinskey]
+|link:https://twitter.com/plinskey[@plinskey]
+|
 |USA
 |2005
 
@@ -1149,48 +1439,55 @@
 |
 |Paul Lipton
 |
+|
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/starbuxman/medium[]
+|image:https://twivatar.glitch.me/starbuxman[]
 |Josh Long
-|https://twitter.com/starbuxman[@starbuxman]
+|link:https://twitter.com/starbuxman[@starbuxman]
+|San Francisco, California
 |USA
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/acelopezco/medium[]
-|https://www.linkedin.com/in/acelopezco[Alexis Lopez]
-|https://twitter.com/acelopezco[@acelopezco]
+|image:https://twivatar.glitch.me/acelopezco[]
+|link:https://www.linkedin.com/in/acelopezco[Alexis Lopez]
+|link:https://twitter.com/acelopezco[@acelopezco]
+|Cali, Valle del Cauca
 |Colombia
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/geirmagnusson/medium[]
+|image:https://twivatar.glitch.me/geirmagnusson[]
 |Geir Magnusson
-|https://twitter.com/geirmagnusson[@geirmagnusson]
+|link:https://twitter.com/geirmagnusson[@geirmagnusson]
+|Wilton, Connecticut 
 |USA
 |2006
 
 |{counter:idx}
 |
-|Qusay Mahmoud
+|Dr. Qusay Mahmoud
+|
 |
 |Canada
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/Sander_Mak/medium[]
+|image:https://twivatar.glitch.me/Sander_Mak[]
 |Sander Mak
-|https://twitter.com/Sander_Mak[@Sander_Mak]
+|link:https://twitter.com/Sander_Mak[@Sander_Mak]
+|Nijmegen
 |The Netherlands
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ktosopl/medium[]
+|image:https://twivatar.glitch.me/ktosopl[]
 |Konrad Malawski
-|https://twitter.com/ktosopl[@ktosopl]
+|link:https://twitter.com/ktosopl[@ktosopl]
+|
 |Poland
 |2017
 
@@ -1198,285 +1495,342 @@
 |
 |Dan Malks
 |
+|
 |USA
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/manicode/medium[]
+|image:https://twivatar.glitch.me/manicode[]
 |Jim Manico
-|https://twitter.com/manicode[@manicode]
+|link:https://twitter.com/manicode[@manicode]
+|Anahola, Hawaii
 |USA
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/kito99/medium[]
+|image:https://twivatar.glitch.me/kito99[]
 |Kito Mann
-|https://twitter.com/kito99[@kito99]
+|link:https://twitter.com/kito99[@kito99]
+|Glen Allen, Virginia 
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dervis_m/medium[]
+|image:https://twivatar.glitch.me/dervis_m[]
 |Dervis Mansuroglu
-|https://twitter.com/dervis_m[@dervis_m]
+|link:https://twitter.com/dervis_m[@dervis_m]
+|Oslo
 |Norway
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/sjmaple/medium[]
+|image:https://twivatar.glitch.me/sjmaple[]
 |Simon Maple
-|https://twitter.com/sjmaple[@sjmaple]
+|link:https://twitter.com/sjmaple[@sjmaple]
+|Basingstoke, Hampshire
 |UK
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/joshmarinacci/medium[]
+|image:https://twivatar.glitch.me/joshmarinacci[]
 |Joshua Marinacci
-|https://twitter.com/joshmarinacci[@joshmarinacci]
+|link:https://twitter.com/joshmarinacci[@joshmarinacci]
+|Eugene, Oregon
 |USA
 |2010
 
 |{counter:idx}
-|image:https://avatars.io/twitter/floydmarinescu/medium[]
+|image:https://twivatar.glitch.me/floydmarinescu[]
 |Floyd Marinescu
-|https://twitter.com/floydmarinescu[@floydmarinescu]
-|USA
+|link:https://twitter.com/floydmarinescu[@floydmarinescu]
+|Etobicoke, Ontario
+|Canada/USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vmassol/medium[]
+|image:https://twivatar.glitch.me/vmassol[]
 |Vincent Massol
-|https://twitter.com/vmassol[@vmassol]
+|link:https://twitter.com/vmassol[@vmassol]
+|Paris
 |France
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/normanmaurer/medium[]
+|image:https://twivatar.glitch.me/normanmaurer[]
 |Norman Maurer
-|https://twitter.com/normanmaurer[@normanmaurer]
+|link:https://twitter.com/normanmaurer[@normanmaurer]
+|Frankfurt
 |Germany
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vincentmayers/medium[]
+|image:https://twivatar.glitch.me/vincentmayers[]
 |Vincent Mayers
-|https://twitter.com/vincentmayers[@vincentmayers]
+|link:https://twitter.com/vincentmayers[@vincentmayers]
+|Atlanta, Georgia
 |USA
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rmehmandarov/medium[]
+|image:https://twivatar.glitch.me/rmehmandarov[]
 |Rustam Mehmandarov
-|https://twitter.com/rmehmandarov[@rmehmandarov]
+|link:https://twitter.com/rmehmandarov[@rmehmandarov]
+|
 |Norway
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/OndroMih/medium[]
+|image:https://twivatar.glitch.me/OndroMih[]
 |Ondro Mihályi
-|https://twitter.com/OndroMih[@OndroMih]
+|link:https://twitter.com/OndroMih[@OndroMih]
+|Prague
 |Czech Republic
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vlad_mihalcea/medium[]
+|image:https://twivatar.glitch.me/vlad_mihalcea[]
 |Vlad Mihalcea
-|https://twitter.com/vlad_mihalcea[@vlad_mihalcea]
+|link:https://twitter.com/vlad_mihalcea[@vlad_mihalcea]
+|Cluj County
 |Romania
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/michaelminella/medium[]
+|image:https://twivatar.glitch.me/michaelminella[]
 |Michael T. Minella
-|https://twitter.com/michaelminella[@michaelminella]
+|link:https://twitter.com/michaelminella[@michaelminella]
+|Naperville, Illinois
 |USA
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/gunnarmorling/medium[]
+|image:https://twivatar.glitch.me/gunnarmorling[]
 |Gunnar Morling
-|https://twitter.com/gunnarmorling[@gunnarmorling]
+|link:https://twitter.com/gunnarmorling[@gunnarmorling]
+|Hamburg
 |Germany
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mauricenaftalin/medium[]
+|image:https://twivatar.glitch.me/mauricenaftalin[]
 |Maurice Naftalin
-|https://twitter.com/mauricenaftalin[@mauricenaftalin]
+|link:https://twitter.com/mauricenaftalin[@mauricenaftalin]
+|Edinburgh
 |Scotland
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/NikhilNanivade/medium[]
-|Nikhil Nanivade
-|https://twitter.com/NikhilNanivade[@NikhilNanivade]
+|image:https://twivatar.glitch.me/NikhilNanivade[]
+|Nikhil Nanivadekar
+|link:https://twitter.com/NikhilNanivade[@NikhilNanivade]
+|
 |USA
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/fabianenardon/medium[]
-|Fabiane Bizinella Nardon
-|https://twitter.com/fabianenardon[@fabianenardon]
+|image:https://twivatar.glitch.me/fabianenardon[]
+|Dr. Fabiane Bizinella Nardon
+|link:https://twitter.com/fabianenardon[@fabianenardon]
+|São Paulo
 |Brazil
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/RafaDelNero/medium[]
+|image:https://twivatar.glitch.me/RafaDelNero[]
 |Rafael Del Nero
-|https://twitter.com/RafaDelNero[@RafaDelNero]
+|link:https://twitter.com/RafaDelNero[@RafaDelNero]
+|Dublin, Leinster
 |Ireland
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/chriswhocodes/medium[]
+|image:https://twivatar.glitch.me/Audrey_Neveu[]
+|Audrey Neveu
+|link:https://twitter.com/Audrey_Neveu[@Audrey_Neveu]
+|Rouen
+|France
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/chriswhocodes[]
 |Chris Newland
-|https://twitter.com/chriswhocodes[@chriswhocodes]
+|link:https://twitter.com/chriswhocodes[@chriswhocodes]
+|London
 |UK
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javaclimber/medium[]
+|image:https://twivatar.glitch.me/javaclimber[]
 |Kevin Nilson
-|https://twitter.com/javaclimber[@javaclimber]
+|link:https://twitter.com/javaclimber[@javaclimber]
+|San Francisco, California
 |USA
 |2009
 
 |{counter:idx}
-|image:https://avatars.io/twitter/tnurkiewicz/medium[]
+|image:https://twivatar.glitch.me/tnurkiewicz[]
 |Tomasz Nurkiewicz
-|https://twitter.com/tnurkiewicz[@tnurkiewicz]
+|link:https://twitter.com/tnurkiewicz[@tnurkiewicz]
+|Warsaw
 |Poland
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/headius/medium[]
+|image:https://twivatar.glitch.me/headius[]
 |Charles Oliver Nutter
-|https://twitter.com/headius[@headius]
+|link:https://twitter.com/headius[@headius]
+|Minneapolis, Minnesota
 |USA
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/HarshadOak/medium[]
+|image:https://twivatar.glitch.me/HarshadOak[]
 |Harshad Oak
-|https://twitter.com/HarshadOak[@HarshadOak]
+|link:https://twitter.com/HarshadOak[@HarshadOak]
+|Pune, Maharashtra
 |India
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rickardoberg/medium[]
+|image:https://twivatar.glitch.me/rickardoberg[]
 |Rickard Oberg
-|https://twitter.com/rickardoberg[@rickardoberg]
+|link:https://twitter.com/rickardoberg[@rickardoberg]
+|Selangor
 |Malaysia
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/tuxtor/medium[]
+|image:https://twivatar.glitch.me/tuxtor[]
 |Víctor Orozco
-|https://twitter.com/tuxtor[@tuxtor]
+|link:https://twitter.com/tuxtor[@tuxtor]
+|Guatemala City
 |Guatemala
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/BethanKP/medium[]
+|image:https://twivatar.glitch.me/BethanKP[]
 |Bethan Palmer
-|https://twitter.com/BethanKP[@BethanKP]
+|link:https://twitter.com/BethanKP[@BethanKP]
 |
+|United Kingdom 
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/nipafx/medium[]
+|image:https://twivatar.glitch.me/nipafx[]
 |Nicolai Parlog
-|https://twitter.com/nipafx[@nipafx]
+|link:https://twitter.com/nipafx[@nipafx]
+|Karlsruhe
 |Germany
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/prpatel/medium[]
+|image:https://twivatar.glitch.me/prpatel[]
 |Pratik Patel
-|https://twitter.com/prpatel[@prpatel]
+|link:https://twitter.com/prpatel[@prpatel]
+|Atlanta, Georgia
 |USA
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bobpaulin/medium[]
+|image:https://twivatar.glitch.me/bobpaulin[]
 |Bob Paulin
-|https://twitter.com/bobpaulin[@bobpaulin]
+|link:https://twitter.com/bobpaulin[@bobpaulin]
+|Chicago, Illinois
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JosePaumard/medium[]
-|José Paumard
-|https://twitter.com/JosePaumard[@JosePaumard]
+|image:https://twivatar.glitch.me/JosePaumard[]
+|Dr. José Paumard
+|link:https://twitter.com/JosePaumard[@JosePaumard]
+|Paris
 |France
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/kcpeppe/medium[]
+|image:https://twivatar.glitch.me/kcpeppe[]
 |Kirk Pepperdine
-|https://twitter.com/kcpeppe[@kcpeppe]
-|Hungary
+|link:https://twitter.com/kcpeppe[@kcpeppe]
+|Ottawa, Ontario
+|Canada/Hungary
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JPeredaDnr/medium[]
-|Jose Pereda
-|https://twitter.com/JPeredaDnr[@JPeredaDnr]
+|image:https://twivatar.glitch.me/JPeredaDnr[]
+|Dr. Jose Pereda
+|link:https://twitter.com/JPeredaDnr[@JPeredaDnr]
+|Valladolid
 |Spain
 |2017
 
 |{counter:idx}
 |
-|Paul Perrone
+|Dr. Paul Perrone
+|
 |
 |USA
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jppetines/medium[]
+|image:https://twivatar.glitch.me/jppetines[]
 |John Paul "JP" Petines
-|https://twitter.com/jppetines[@jppetines]
-|Phillipines
+|link:https://twitter.com/jppetines[@jppetines]
+|Toronto, Ontario
+|Canada/Phillipines
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/SeanMiPhillips/medium[]
+|image:https://twivatar.glitch.me/SeanMiPhillips[]
 |Sean M. Phillips
-|https://twitter.com/SeanMiPhillips[@SeanMiPhillips]
+|link:https://twitter.com/SeanMiPhillips[@SeanMiPhillips]
+|Washington DC 
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/peter_pilgrim/medium[]
+|image:https://twivatar.glitch.me/peter_pilgrim[]
 |Peter Pilgrim
-|https://twitter.com/peter_pilgrim[@peter_pilgrim]
+|link:https://twitter.com/peter_pilgrim[@peter_pilgrim]
+|Milton Keynes, England
 |UK
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/wpugh/medium[]
-|William Pugh
-|https://twitter.com/wpugh[@wpugh]
+|image:https://twivatar.glitch.me/wpugh[]
+|Prof. William Pugh
+|link:https://twitter.com/wpugh[@wpugh]
+|Maryland
 |USA
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/TheDonRaab/medium[]
+|image:https://twivatar.glitch.me/cquinn[]
+|Carl Quinn *
+|link:https://twitter.com/cquinn[@cquinn]
+|California
+|USA
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/TheDonRaab[]
 |Donald Raab
-|https://twitter.com/TheDonRaab[@TheDonRaab]
-|UK
+|link:https://twitter.com/TheDonRaab[@TheDonRaab]
+|Metuchen, New Jersey
+|USA/UK
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mraible/medium[]
+|image:https://twivatar.glitch.me/mraible[]
 |Matt Raible
-|https://twitter.com/mraible[@mraible]
+|link:https://twitter.com/mraible[@mraible]
+|Denver, Colorado
 |USA
 |2016
 
 |{counter:idx}
 |
 |Srikanth Raju
+|
 |
 |USA
 |2006
@@ -1485,20 +1839,23 @@
 |
 |Jayson Raymond
 |
+|
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/VictorRentea/medium[]
-|Victor Rentea
-|https://twitter.com/VictorRentea[@VictorRentea]
+|image:https://twivatar.glitch.me/VictorRentea[]
+|Dr. Victor Rentea
+|link:https://twitter.com/VictorRentea[@VictorRentea]
+|Bucharest
 |Romania
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/crichardson/medium[]
+|image:https://twivatar.glitch.me/crichardson[]
 |Chris Richardson
-|https://twitter.com/crichardson[@crichardson]
+|link:https://twitter.com/crichardson[@crichardson]
+|San Francisco, California
 |USA
 |2007
 
@@ -1506,111 +1863,127 @@
 |
 |Clark D. Richey Jr.
 |
+|
 |USA
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mnriem/medium[]
+|image:https://twivatar.glitch.me/mnriem[]
 |Manfred Riem
-|https://twitter.com/mnriem[@mnriem]
+|link:https://twitter.com/mnriem[@mnriem]
+|Provo, Utah
 |USA
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/speakjava/medium[]
+|image:https://twivatar.glitch.me/speakjava[]
 |Simon Ritter
-|https://twitter.com/speakjava[@speakjava]
+|link:https://twitter.com/speakjava[@speakjava]
+|Twickenham
 |United Kingdom
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/SvenNB/medium[]
+|image:https://twivatar.glitch.me/SvenNB[]
 |Sven Reimers
-|https://twitter.com/SvenNB[@SvenNB]
+|link:https://twitter.com/SvenNB[@SvenNB]
+|Konstanz
 |Germany
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/royvanrijn/medium[]
+|image:https://twivatar.glitch.me/royvanrijn[]
 |Roy van Rijn
-|https://twitter.com/royvanrijn[@royvanrijn]
+|link:https://twitter.com/royvanrijn[@royvanrijn]
+|Maassluis, South Holland Province
 |The Netherlands
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/leomrlima/medium[]
+|image:https://twivatar.glitch.me/leomrlima[]
 |Leonardo de Moura Rocha Lima
-|https://twitter.com/leomrlima[@leomrlima]
+|link:https://twitter.com/leomrlima[@leomrlima]
+|São Paulo,
 |Brazil
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/graemerocher/medium[]
+|image:https://twivatar.glitch.me/graemerocher[]
 |Graeme Rocher
-|https://twitter.com/graemerocher[@graemerocher]
+|link:https://twitter.com/graemerocher[@graemerocher]
+|Bilbao
 |Spain/UK
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ixchelruiz/medium[]
+|image:https://twivatar.glitch.me/ixchelruiz[]
 |Ix-chel Ruiz
-|https://twitter.com/ixchelruiz[@ixchelruiz]
-|Mexico/Switzerland
+|link:https://twitter.com/ixchelruiz[@ixchelruiz]
+|Basel
+|Switzerland/Mexico
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/antoine_sd/medium[]
+|image:https://twivatar.glitch.me/antoine_sd[]
 |Antoine Sabot-Durand
-|https://twitter.com/antoine_sd[@antoine_sd]
+|link:https://twitter.com/antoine_sd[@antoine_sd]
+|Paris
 |France
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jyukutyo/medium[]
+|image:https://twivatar.glitch.me/jyukutyo[]
 |Koichi Sakata
-|https://twitter.com/jyukutyo[@jyukutyo]
+|link:https://twitter.com/jyukutyo[@jyukutyo]
+|Osaka
 |Japan
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/skrb/medium[]
+|image:https://twivatar.glitch.me/skrb[]
 |Yuuichi Sakuraba
-|https://twitter.com/skrb[@skrb]
+|link:https://twitter.com/skrb[@skrb]
+|
 |Japan
 |
 
 |{counter:idx}
-|image:https://avatars.io/twitter/betoSalazar/medium[]
+|image:https://twivatar.glitch.me/betoSalazar[]
 |Alberto Salazar
-|https://twitter.com/betoSalazar[@betoSalazar]
+|link:https://twitter.com/betoSalazar[@betoSalazar]
+|
 |Ecuador
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/otaviojava/medium[]
+|image:https://twivatar.glitch.me/otaviojava[]
 |Otávio Gonçalves de Santana
-|https://twitter.com/otaviojava[@otaviojava]
+|link:https://twitter.com/otaviojava[@otaviojava]
+|São Paulo
 |Brazil
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mr__m/medium[]
+|image:https://twivatar.glitch.me/mr__m[]
 |Michael Nascimento Santos
-|https://twitter.com/mr\__m[@mr__m]
+|link:https://twitter.com/mr\__m[@mr__m]
+|Michael Nascimento Santos
 |Brazil
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/theNeomatrix369/medium[]
+|image:https://twivatar.glitch.me/theNeomatrix369[]
 |Mani Sarkar
-|https://twitter.com/theNeomatrix369[@theNeomatrix369]
+|link:https://twitter.com/theNeomatrix369[@theNeomatrix369]
+|
 |UK
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/tomsontom/medium[]
+|image:https://twivatar.glitch.me/tomsontom[]
 |Tom Schindl
-|https://twitter.com/tomsontom[@tomsontom]
+|link:https://twitter.com/tomsontom[@tomsontom]
+|
 |Austria
 |2015
 
@@ -1618,76 +1991,87 @@
 |
 |Olivier Schmitt
 |
-|France
+|Geneva
+|Switzerland/France
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rfscholte/medium[]
+|image:https://twivatar.glitch.me/rfscholte[]
 |Robert Scholte
-|https://twitter.com/rfscholte[@rfscholte]
+|link:https://twitter.com/rfscholte[@rfscholte]
+|Groningen
 |The Netherlands
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/OmniFaces/medium[]
+|image:https://twivatar.glitch.me/OmniFaces[]
 |Bauke Scholtz
-|https://twitter.com/OmniFaces[@OmniFaces]
+|link:https://twitter.com/OmniFaces[@OmniFaces]
+|
 |The Netherlands
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/shipilev/medium[]
+|image:https://twivatar.glitch.me/shipilev[]
 |Aleksey Shipilev
-|https://twitter.com/shipilev[@shipilev]
+|link:https://twitter.com/shipilev[@shipilev]
+|Potsdam, Brandenburg
 |Germany
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/shelajev/medium[]
-|Oleg Shelajev
-|https://twitter.com/shelajev[@shelajev]
+|image:https://twivatar.glitch.me/shelajev[]
+|Dr. Oleg Shelajev
+|link:https://twitter.com/shelajev[@shelajev]
+|Tartu
 |Estonia
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ebullientworks/medium[]
+|image:https://twivatar.glitch.me/ebullientworks[]
 |Erin Schnabel
-|https://twitter.com/ebullientworks[@ebullientworks]
+|link:https://twitter.com/ebullientworks[@ebullientworks]
+|Wappingers Falls, New York
 |USA
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bjschrijver/medium[]
+|image:https://twivatar.glitch.me/bjschrijver[]
 |Bert Jan Schrijver
-|https://twitter.com/bjschrijver[@bjschrijver]
+|link:https://twitter.com/bjschrijver[@bjschrijver]
+|Utrecht
 |The Netherlands
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vsenger/medium[]
+|image:https://twivatar.glitch.me/vsenger[]
 |Vinicius Senger
-|https://twitter.com/vsenger[@vsenger]
+|link:https://twitter.com/vsenger[@vsenger]
+|
 |Brazil
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yarasenger/medium[]
+|image:https://twivatar.glitch.me/yarasenger[]
 |Yara Senger
-|https://twitter.com/yarasenger[@yarasenger]
+|link:https://twitter.com/yarasenger[@yarasenger]
+|São Paulo
 |Brazil
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/zsevarac/medium[]
-|Zoran Sevarac
-|https://twitter.com/zsevarac[@zsevarac]
+|image:https://twivatar.glitch.me/zsevarac[]
+|Dr. Zoran Sevarac
+|link:https://twitter.com/zsevarac[@zsevarac]
+|
 |Serbia
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/hlship/medium[]
+|image:https://twivatar.glitch.me/hlship[]
 |Howard Lewis Ship
-|https://twitter.com/hlship[@hlship]
+|link:https://twitter.com/hlship[@hlship]
+|Portland, Oregon
 |USA
 |2010
 
@@ -1695,6 +2079,7 @@
 |
 |Jack Shirazi
 |
+|Westminster Abbey, Greater London
 |UK
 |2005
 
@@ -1702,20 +2087,23 @@
 |
 |Kathy Sierra
 |
+|
 |USA
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rotnroll666/medium[]
+|image:https://twivatar.glitch.me/rotnroll666[]
 |Michael Simons
-|https://twitter.com/rotnroll666[@rotnroll666]
+|link:https://twitter.com/rotnroll666[@rotnroll666]
+|Aachen, North Rhine-Westphalia
 |Germany
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yakov_sirotkin/medium[]
+|image:https://twivatar.glitch.me/yakov_sirotkin[]
 |Yakov Sirotkin
-|https://twitter.com/yakov_sirotkin[@yakov_sirotkin]
+|link:https://twitter.com/yakov_sirotkin[@yakov_sirotkin]
+|Saint Petersburg
 |Russian Federation
 |2005
 
@@ -1723,251 +2111,311 @@
 |
 |Bruce Snyder
 |
+|Louisville, Colorado
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/brjavaman/medium[]
-|https://code4.life/[Bruno Souza]
-|https://twitter.com/brjavaman[@brjavaman]
+|image:https://twivatar.glitch.me/brjavaman[]
+|link:https://code4.life/[Bruno Souza]
+|link:https://twitter.com/brjavaman[@brjavaman]
+|São Paulo
 |Brazil
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/alexsotob/medium[]
+|image:https://twivatar.glitch.me/alexsotob[]
 |Alex Soto
-|https://twitter.com/alexsotob[@alexsotob]
+|link:https://twitter.com/alexsotob[@alexsotob]
+|Barcelona
 |Spain
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/jstrachan/medium[]
+|image:https://twivatar.glitch.me/jstrachan[]
 |James Strachan
-|https://twitter.com/jstrachan[@jstrachan]
+|link:https://twitter.com/jstrachan[@jstrachan]
+|Mells, Somerset
 |UK
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/struberg/medium[]
+|image:https://twivatar.glitch.me/struberg[]
 |Mark Struberg
-|https://twitter.com/struberg[@struberg]
+|link:https://twitter.com/struberg[@struberg]
+|Vienna
 |Austria
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/domix/medium[]
+|image:https://twivatar.glitch.me/domix[]
 |Domingo Suarez
-|https://twitter.com/domix[@domix]
+|link:https://twitter.com/domix[@domix]
+|
 |Mexico
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/venkat_s/medium[]
-|Venkat Subramaniam
-|https://twitter.com/venkat_s[@venkat_s]
+|image:https://twivatar.glitch.me/venkat_s[]
+|Dr. Venkat Subramaniam
+|link:https://twitter.com/venkat_s[@venkat_s]
+|Broomfield, Colorado
 |USA
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/burrsutter/medium[]
+|image:https://twivatar.glitch.me/burrsutter[]
 |Burr Sutter
-|https://twitter.com/burrsutter[@burrsutter]
+|link:https://twitter.com/burrsutter[@burrsutter]
+|Raleigh-Durham, North Carolina
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/asz/medium[]
+|image:https://twivatar.glitch.me/siruslan[]
+|Ruslan Synytsky
+|link:https://twitter.com/siruslan[@siruslan]
+|Cyprus
+|Ukraine
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/asz[]
 |Attila Szegedi
-|https://twitter.com/asz[@asz]
+|link:https://twitter.com/asz[@asz]
+|Szeged, Csongrád,
 |Hungary
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/_tamanm/medium[]
+|image:https://twivatar.glitch.me/_tamanm[]
 |Mohamed Taman
-|https://twitter.com/_tamanm[@_tamanm]
-|Egypt
+|link:https://twitter.com/_tamanm[@_tamanm]
+|Belgrade
+|Serbia/Egypt
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/cero_t/medium[]
+|image:https://twivatar.glitch.me/cero_t[]
 |Shin Tanimoto
-|https://twitter.com/cero_t[@cero_t]
+|link:https://twitter.com/cero_t[@cero_t]
+|Yokohama, Kanagawa
 |Japan
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/redrapids/medium[]
+|image:https://twivatar.glitch.me/redrapids[]
 |Bruce Tate
-|https://twitter.com/redrapids[@redrapids]
+|link:https://twitter.com/redrapids[@redrapids]
+|Chattanooga, Tennessee 
 |USA
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/reginatb38/medium[]
+|image:https://twivatar.glitch.me/reginatb38[]
 |Régina ten Bruggencate
-|https://twitter.com/reginatb38[@reginatb38]
+|link:https://twitter.com/reginatb38[@reginatb38]
+|Apeldoorn
 |The Netherlands
 |2011
 
 |{counter:idx}
-|image:https://avatars.io/twitter/giltene/medium[]
+|image:https://twivatar.glitch.me/giltene[]
 |Gil Tene
-|https://twitter.com/giltene[@giltene]
+|link:https://twitter.com/giltene[@giltene]
+|San Francisco, California
 |USA
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yoshioterada/medium[]
+|image:https://twivatar.glitch.me/yoshioterada[]
 |Yoshio Terada
-|https://twitter.com/yoshioterada[@yoshioterada]
+|link:https://twitter.com/yoshioterada[@yoshioterada]
+|Yokohama, Kanagawa
 |Japan
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/fthamura/medium[]
-|Frans Thamura
-|https://twitter.com/fthamura[@fthamura]
+|image:https://twivatar.glitch.me/fthamura[]
+|Frans Thamura *
+|link:https://twitter.com/fthamura[@fthamura]
+|Jakarta
 |Indonesia
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/christhalinger/medium[]
+|image:https://twivatar.glitch.me/christhalinger[]
 |Chris Thalinger
-|https://twitter.com/christhalinger/[@christhalinger]
+|link:https://twitter.com/christhalinger/[@christhalinger]
+|Haleiwa, Hawaii
 |USA
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/alextheedom/medium[]
+|image:https://twivatar.glitch.me/alextheedom[]
 |Alex Theedom
-|https://twitter.com/alextheedom[@alextheedom]
+|link:https://twitter.com/alextheedom[@alextheedom]
+|London
 |UK
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/mjpt777/medium[]
+|image:https://twivatar.glitch.me/mjpt777[]
 |Martin Thompson
-|https://twitter.com/mjpt777[@mjpt777]
+|link:https://twitter.com/mjpt777[@mjpt777]
+|
 |UK
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/drkrab/medium[]
+|image:https://twivatar.glitch.me/drkrab[]
 |Dr. Kresten Krab Thorup
-|https://twitter.com/drkrab[@drkrab]
+|link:https://twitter.com/drkrab[@drkrab]
+|
 |Denmark
 |2005
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/arjan_tijms[]
+|Arjan Tijms
+|link:https://twitter.com/arjan_tijms[@arjan_tijms]
+|Arnhem, Gelderland
+|The Netherlands
+|2020
 
 |{counter:idx}
 |
 |Neal Tisdale
 |
+|Marietta, Georgia 
 |USA
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/robilad/medium[]
+|image:https://twivatar.glitch.me/robilad[]
 |Dalibor Topic
-|https://twitter.com/robilad[@robilad]
+|link:https://twitter.com/robilad[@robilad]
+|Hamburg
 |Germany
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/neugens/medium[]
+|image:https://twivatar.glitch.me/neugens[]
 |Mario Torre
-|https://twitter.com/neugens[@neugens]
-|Italy
+|link:https://twitter.com/neugens[@neugens]
+|Hamburg
+|Germany/Italy
 |2014
 
 |{counter:idx}
-|image:https://avatars.io/twitter/henri_tremblay/medium[]
-|http://blog.tremblay.pro/[Henri Tremblay]
-|https://twitter.com/henri_tremblay[@henri_tremblay]
+|image:https://twivatar.glitch.me/henri_tremblay[]
+|link:https://blog.tremblay.pro/[Henri Tremblay]
+|link:https://twitter.com/henri_tremblay[@henri_tremblay]
+|Montreal, Quebec
 |Canada
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/saturnism/medium[]
+|image:https://twivatar.glitch.me/saturnism[]
 |Ray Tsang
-|https://twitter.com/saturnism[@saturnism]
+|link:https://twitter.com/saturnism[@saturnism]
+|New York City, New York
 |USA
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ktukker/medium[]
+|image:https://twivatar.glitch.me/ktukker[]
 |Klaasjan Tukker
-|https://twitter.com/ktukker[@ktukker]
-|The Netherlands
+|link:https://twitter.com/ktukker[@ktukker]
+|Seattle, Washington
+|USA/The Netherlands
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/javabuch/medium[]
+|image:https://twivatar.glitch.me/javabuch[]
 |Christian Ullenboom
-|https://twitter.com/javabuch[@javabuch]
+|link:https://twitter.com/javabuch[@javabuch]
+|Nürnberg, Bavaria
 |Germany
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/raoulUK/medium[]
-|Raoul-Gabriel Urma
-|https://twitter.com/raoulUK[@raoulUK]
+|image:https://twivatar.glitch.me/raoulUK[]
+|Dr. Raoul-Gabriel Urma
+|link:https://twitter.com/raoulUK[@raoulUK]
+|Cambridge
 |UK
 |2017
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ustarahman/medium[]
+|image:https://twivatar.glitch.me/ustarahman[]
 |Rahman Usta
-|https://twitter.com/ustarahman[@ustarahman]
-|Turkey
+|link:https://twitter.com/ustarahman[@ustarahman]
+|Krakow
+|Poland/Turkey
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/DuchessFounder/medium[]
+|image:https://twivatar.glitch.me/tagir_valeev[]
+|Tagir Valeev
+|link:https://twitter.com/tagir_valeev[@tagir_valeev]
+|Novosibirsk
+|Russia
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/DuchessFounder[]
 |Linda van der Pal
-|https://twitter.com/DuchessFounder[@DuchessFounder]
+|link:https://twitter.com/DuchessFounder[@DuchessFounder]
+|Amsterdam
 |The Netherlands
 |2013
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vanriper/medium[]
+|image:https://twivatar.glitch.me/vanriper[]
 |Michael Van Riper
-|https://twitter.com/vanriper[@vanriper]
+|link:https://twitter.com/vanriper[@vanriper]
+|Silicon Valley, California
 |USA
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/edivargas/medium[]
+|image:https://twivatar.glitch.me/edivargas[]
 |Jorge Vargas
-|https://twitter.com/edivargas[@edivargas]
+|link:https://twitter.com/edivargas[@edivargas]
+|Benito Juarez
 |Mexico
 |2007
 
 |{counter:idx}
-|image:https://avatars.io/twitter/bvenners/medium[]
+|image:https://twivatar.glitch.me/bvenners[]
 |Bill Venners
-|https://twitter.com/bvenners[@bvenners]
+|link:https://twitter.com/bvenners[@bvenners]
+|
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/karianna/medium[]
+|image:https://twivatar.glitch.me/karianna[]
 |Martijn Verburg
-|https://twitter.com/karianna[@karianna]
+|link:https://twitter.com/karianna[@karianna]
+|London
 |UK
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/vogella/medium[]
+|image:https://twivatar.glitch.me/vogella[]
 |Lars Vogel
-|https://twitter.com/vogella[@vogella]
+|link:https://twitter.com/vogella[@vogella]
+|Hamburg
 |Germany
 |2012
 
 |{counter:idx}
-|image:https://avatars.io/twitter/johanvos/medium[]
-|Johan Vos
-|https://twitter.com/johanvos[@johanvos]
+|image:https://twivatar.glitch.me/johanvos[]
+|Dr. Johan Vos
+|link:https://twitter.com/johanvos[@johanvos]
+|Leuven, Flanders
 |Belgium
 |2012
 
@@ -1975,62 +2423,79 @@
 |
 |Joe Walker
 |
+|Leicester
 |UK
 |2006
 
 |{counter:idx}
-|image:https://avatars.io/twitter/nitsanw/medium[]
+|image:https://twivatar.glitch.me/nitsanw[]
 |Nitsan Wakart
-|https://twitter.com/nitsanw[@nitsanw]
+|link:https://twitter.com/nitsanw[@nitsanw]
+|Cape Town
 |South Africa
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/dickwall/medium[]
+|image:https://twivatar.glitch.me/dickwall[]
 |Dick Wall
-|https://twitter.com/dickwall[@dickwall]
+|link:https://twitter.com/dickwall[@dickwall]
+|
 |UK
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/RichardWarburto/medium[]
-|Richard Warburton
-|https://twitter.com/RichardWarburto[@RichardWarburto]
+|image:https://twivatar.glitch.me/RichardWarburto[]
+|Dr. Richard Warburton
+|link:https://twitter.com/RichardWarburto[@RichardWarburto]
+|London
 |UK
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JavaFXpert/medium[]
+|image:https://twivatar.glitch.me/JavaFXpert[]
 |Jim Weaver
-|https://twitter.com/JavaFXpert[@JavaFXpert]
+|link:https://twitter.com/JavaFXpert[@JavaFXpert]
+|Indianapolis, Indiana
 |USA
 |2008
 
 |{counter:idx}
-|image:https://avatars.io/twitter/CaptainWebber/medium[]
+|image:https://twivatar.glitch.me/CaptainWebber[]
 |Paul Webber
-|https://twitter.com/CaptainWebber[@CaptainWebber]
+|link:https://twitter.com/sdjug[@sdjug] https://twitter.com/CaptainWebber[@CaptainWebber]
+|Poway, California
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/miragemiko/medium[]
+|image:https://twivatar.glitch.me/miragemiko[]
 |Miro Wengner
-|https://twitter.com/miragemiko[@miragemiko]
+|link:https://twitter.com/miragemiko[@miragemiko]
+|Munich, Bavaria
 |Germany
 |2018
 
 |{counter:idx}
-|image:https://avatars.io/twitter/a1anw2/medium[]
-|https://alan.is/about/[Alan Williamson]
-|https://twitter.com/a1anw2[@a1anw2]
-|Scotland
+|image:https://twivatar.glitch.me/GeertjanW[]
+|Geertjan Wielenga
+|link:https://twitter.com/GeertjanW[@GeertjanW]
+|Amsterdam
+|The Netherlands
+|2020
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/a1anw2[]
+|link:https://alan.is/about/[Alan Williamson]
+|link:https://twitter.com/a1anw2[@a1anw2]
+|Virginia
+|USA/Scotland
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/JoeWinchester/medium[]
+|image:https://twivatar.glitch.me/JoeWinchester[]
 |Joe Winchester
-|https://twitter.com/JoeWinchester[@JoeWinchester]
+|link:https://twitter.com/JoeWinchester[@JoeWinchester]
+|Southampton
 |UK
 |2006
 
@@ -2038,62 +2503,71 @@
 |
 |Adam Winer
 |
+|San Francisco, California
 |USA
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/rafaelcodes/medium[]
+|image:https://twivatar.glitch.me/rafaelcodes[]
 |Rafael Winterhalter
-|https://twitter.com/rafaelcodes[@rafaelcodes]
+|link:https://twitter.com/rafaelcodes[@rafaelcodes]
+|Oslo
 |Norway
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/ewolff/medium[]
+|image:https://twivatar.glitch.me/ewolff[]
 |Eberhard Wolff
-|https://twitter.com/ewolff[@ewolff]
+|link:https://twitter.com/ewolff[@ewolff]
+|Berlin
 |Germany
 |Founding Member
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yusuke/medium[]
+|image:https://twivatar.glitch.me/yusuke[]
 |Yusuke Yamamoto
-|https://twitter.com/yusuke[@yusuke]
+|link:https://twitter.com/yusuke[@yusuke]
+|Tokyo
 |Japan
 |2019
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yanaga/medium[]
+|image:https://twivatar.glitch.me/yanaga[]
 |Edson Yanaga
-|https://twitter.com/yanaga[@yanaga]
-|Brazil
+|link:https://twitter.com/yanaga[@yanaga]
+|Raleigh-Durham, North Carolina
+|USA/Brazil
 |2015
 
 |{counter:idx}
 |
 |Sooyeul Yang
 |
+|
 |South Korea
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/yenerm/medium[]
+|image:https://twivatar.glitch.me/yenerm[]
 |Murat Yener
-|https://twitter.com/yenerm[@yenerm]
+|link:https://twitter.com/yenerm[@yenerm]
+|
 |Turkey
 |2015
 
 |{counter:idx}
-|image:https://avatars.io/twitter/juntao/medium[]
-|Michael Juntao Yuan
-|https://twitter.com/juntao[@juntao]
+|image:https://twivatar.glitch.me/juntao[]
+|Dr. Michael Juntao Yuan
+|link:https://twitter.com/juntao[@juntao]
+|Austin, Texas
 |USA
 |2005
 
 |{counter:idx}
-|image:https://avatars.io/twitter/chochosmx/medium[]
+|image:https://twivatar.glitch.me/chochosmx[]
 |Enrique Zamudio
-|https://twitter.com/chochosmx[@chochosmx]
+|link:https://twitter.com/chochosmx[@chochosmx]
+|Mexico City
 |Mexico
 |2015
 |===
