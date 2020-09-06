@@ -2570,4 +2570,13 @@ the Java platform at their BOF sessions."
 |Mexico City
 |Mexico
 |2015
+
+|{counter:idx}
+|image:https://twivatar.glitch.me/Vinetos[]
+|Vanitas Zayceured
+|link:https://twitter.com/Vinetos[@Vinetos]
+|Saint Georges d'espéranche
+|France-compté
+|2021
+
 |===
