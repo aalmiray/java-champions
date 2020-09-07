@@ -2175,8 +2175,8 @@ the Java platform at their BOF sessions."
 |image:https://twivatar.glitch.me/siruslan[]
 |Ruslan Synytsky
 |link:https://twitter.com/siruslan[@siruslan]
-|Cyprus
-|Ukraine
+|Zhytomyr/Limassol
+|Ukraine/Cyprus
 |2020
 
 |{counter:idx}
