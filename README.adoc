@@ -1712,7 +1712,7 @@ the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[j
 |Bethan Palmer
 |link:https://twitter.com/BethanKP[@BethanKP]
 |
-|United Kingdom 
+|UK 
 |2018
 
 |{counter:idx}
@@ -1776,7 +1776,7 @@ the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[j
 |John Paul "JP" Petines
 |link:https://twitter.com/jppetines[@jppetines]
 |Toronto, Ontario
-|Canada/Phillipines
+|Canada/Philipines
 |Founding Member
 
 |{counter:idx}
@@ -1880,7 +1880,7 @@ the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[j
 |Simon Ritter
 |link:https://twitter.com/speakjava[@speakjava]
 |Twickenham
-|United Kingdom
+|UK
 |2016
 
 |{counter:idx}
@@ -2360,7 +2360,7 @@ the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[j
 |Tagir Valeev
 |link:https://twitter.com/tagir_valeev[@tagir_valeev]
 |Novosibirsk
-|Russia
+|Russian Federation
 |2020
 
 |{counter:idx}
