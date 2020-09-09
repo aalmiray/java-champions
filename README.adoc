@@ -14,7 +14,7 @@ ecosystem. For the third consecutive year, Java Champions have
 contributed to the JavaOne conference process as technical
 reviewers for paper submissions, have been recognized for their
 achievements, and have shared their thoughts about the state of
-the Java platform at their BOF sessions."
+the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[javaone-2009.pdf]
 
 == Who are the Java Champions?
 
