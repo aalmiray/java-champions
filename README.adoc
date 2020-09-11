@@ -1396,9 +1396,9 @@ the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[j
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mikelevin[]
+|image:https://twivatar.glitch.me/mikelevin77[]
 |Michael Levin
-|link:https://twitter.com/mikelevin[@mikelevin]
+|link:https://twitter.com/mikelevin77[@mikelevin77]
 |
 |USA
 |2011
