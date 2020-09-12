@@ -830,7 +830,7 @@ the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[j
 |{counter:idx}
 |image:https://twivatar.glitch.me/Jim__Gough[]
 |Jim Gough
-|{link-jim-gough}
+|link:https://twitter.com/Jim__Gough[@Jim__Gough]
 |London
 |UK
 |2020
