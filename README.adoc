@@ -1,6 +1,6 @@
 = Java Champions
 
-image:images/duke_champion.jpg[align="center"]
+image:images/duke_champion.png[align="center"]
 
 == What is a Java Champion?
 
