@@ -1020,6 +1020,14 @@ the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[j
 |2016
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/dhinojosa[]
+|Daniel Hinojosa
+|link:https://twitter.com/dhinojosa[@dhinojosa]
+|Albuquerque, NM
+|USA
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/hirt[]
 |Marcus Hirt
 |link:https://twitter.com/hirt[@hirt]
