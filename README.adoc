@@ -1,5 +1,7 @@
 = Java Champions
 
+image:images/duke_champion.jpg[align="center"]
+
 == What is a Java Champion?
 
 One of the best descriptions was given in the 2009 JavaOne
