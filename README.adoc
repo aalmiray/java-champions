@@ -18,6 +18,9 @@ reviewers for paper submissions, have been recognized for their
 achievements, and have shared their thoughts about the state of
 the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[javaone-2009.pdf]
 
+Note: This list is maintained by the Java Champions themselves. The official
+Java Champions Directory can be found link:https://apexapps.oracle.com/pls/apex/f?p=119297:directory[here].
+
 == Who are the Java Champions?
 
 // use an attribute to avoid char substitutions
