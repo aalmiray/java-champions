@@ -1441,6 +1441,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/sanhong_li[]
+|San-Hong Li
+|link:https://twitter.com/sanhong_li[@sanhong_li]
+|
+|China
+|2020
+
+|{counter:idx}
 |image:images/daniel-liang-128x128.jpg[]
 |Dr. Daniel Liang
 |
