@@ -1409,6 +1409,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/trustin[]
+|Trustin Lee
+|link:https://twitter.com/trustin[@trustin]
+|
+|South Korea
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/dlemmermann[]
 |Dirk Lemmermann
 |link:https://twitter.com/dlemmermann[@dlemmermann]
