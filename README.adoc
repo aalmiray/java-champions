@@ -353,6 +353,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/barryburdtweets[]
+|Barry Burd
+|link:https://twitter.com/barryburdtweets[@barryburdtweets]
+|
+|USA
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/edburns[]
 |Ed Burns
 |link:https://twitter.com/edburns[@edburns]
