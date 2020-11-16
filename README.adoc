@@ -1769,6 +1769,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/AndreiPangin[]
+|Andrei Pangin
+|link:https://twitter.com/AndreiPangin[@AndreiPangin]
+|
+|Russia
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/nipafx[]
 |Nicolai Parlog
 |link:https://twitter.com/nipafx[@nipafx]
