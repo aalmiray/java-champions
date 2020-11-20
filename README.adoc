@@ -2465,6 +2465,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2012
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/vilojona[]
+|Jonathan Vila
+|link:https://twitter.com/vilojona[@vilojona]
+|Barcelona
+|Spain
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/vogella[]
 |Lars Vogel
 |link:https://twitter.com/vogella[@vogella]
