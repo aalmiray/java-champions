@@ -1785,6 +1785,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/SandraParsick[]
+|Sandra Parsick
+|link:https://twitter.com/SandraParsick[@SandraParsick]
+|Neuss
+|Germany
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/prpatel[]
 |Pratik Patel
 |link:https://twitter.com/prpatel[@prpatel]
