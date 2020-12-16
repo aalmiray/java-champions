@@ -19,7 +19,7 @@ achievements, and have shared their thoughts about the state of
 the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[javaone-2009.pdf]
 
 Note: This list is maintained by the Java Champions themselves. The official
-Java Champions Directory can be found link:https://apex.oracle.com/champions[here].
+Java Champions Directory can be found link:https://apex.oracle.com/champions[here].  If you would like to follow the Java Champions on twitter you can follow them all collectively [here](https://twitter.com/i/lists/1226854976112254976).
 
 == Who are the Java Champions?
 
