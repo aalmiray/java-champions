@@ -465,6 +465,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/PandaConstantin[]
+|Drabo Constantin
+|link:https://twitter.com/PandaConstantin[@PandaConstantin]
+|
+|Burkina Faso
+|2020
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/radcortez[]
 |Roberto Cortez
 |link:https://twitter.com/radcortez[@radcortez]
