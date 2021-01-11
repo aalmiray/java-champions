@@ -209,6 +209,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/jpbempel[]
+|Jean-Philippe Bempel
+|link:https://twitter.com/jpbempel[@jpbempel]
+|Paris
+|France
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/bbenz[]
 |Brian Benz
 |link:https://twitter.com/bbenz[@bbenz]
