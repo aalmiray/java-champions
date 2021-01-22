@@ -257,6 +257,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/jean_bisutti[]
+|Jean Bisutti
+|link:https://twitter.com/jean_bisutti[@jean_bisutti]
+|Paris
+|France
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/sebi2706[]
 |Sébastien Blanc
 |link:https://twitter.com/sebi2706[@sebi2706]
