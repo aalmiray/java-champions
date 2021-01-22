@@ -2049,6 +2049,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/cowtowncoder[]
+|Tatu Saloranta
+|link:https://twitter.com/cowtowncoder[@cowtowncoder]
+|Seattle
+|USA
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/otaviojava[]
 |Otávio Gonçalves de Santana
 |link:https://twitter.com/otaviojava[@otaviojava]
