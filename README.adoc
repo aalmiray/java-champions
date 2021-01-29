@@ -1665,6 +1665,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/ammbra1508[]
+|Ana-Maria Mihalceanu
+|link:https://twitter.com/ammbra1508[@ammbra1508]
+|
+|Romania
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/michaelminella[]
 |Michael T. Minella
 |link:https://twitter.com/michaelminella[@michaelminella]
