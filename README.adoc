@@ -2521,6 +2521,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/michaelvitz[]
+|Michael Vitz
+|link:https://twitter.com/michaelvitz[michaelvitz]
+|Moenchengladbach
+|Germany
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/vogella[]
 |Lars Vogel
 |link:https://twitter.com/vogella[@vogella]
