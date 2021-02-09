@@ -1521,6 +1521,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/melissajmckay[]
+|Melissa McKay
+|link:https://twitter.com/melissajmckay[@melissajmckay]
+|Colorado
+|USA
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/acelopezco[]
 |link:https://www.linkedin.com/in/acelopezco[Alexis Lopez]
 |link:https://twitter.com/acelopezco[@acelopezco]
