@@ -2521,6 +2521,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2012
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/BrianVerm[]
+|Brian Vermeer
+|link:https://twitter.com/BrianVerm[@BrianVerm]
+|
+|The Netherlands
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/vilojona[]
 |Jonathan Vila
 |link:https://twitter.com/vilojona[@vilojona]
