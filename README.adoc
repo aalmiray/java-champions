@@ -2641,6 +2641,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/russel_winder[]
+|Russel Winder *
+|link:https://twitter.com/russel_winder[@russel_winder]
+|London
+|UK
+|2021
+
+|{counter:idx}
 |
 |Adam Winer
 |
