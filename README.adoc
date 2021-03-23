@@ -2585,6 +2585,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/habuma[]
+|Craig Wall
+|link:https://twitter.com/habuma[@habuma]
+|Castle Rock, Colorado
+|USA
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/dickwall[]
 |Dick Wall
 |link:https://twitter.com/dickwall[@dickwall]
