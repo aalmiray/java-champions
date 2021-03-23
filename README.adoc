@@ -1649,6 +1649,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/caroljmcdonald[]
+|Carole McDonald
+|link:https://twitter.com/caroljmcdonald[@caroljmcdonald]
+|Florida
+|USA
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/rmehmandarov[]
 |Rustam Mehmandarov
 |link:https://twitter.com/rmehmandarov[@rmehmandarov]
