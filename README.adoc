@@ -153,6 +153,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/rotty3000[]
+|Raymond Augé
+|link:https://twitter.com/rotty3000[@rotty3000]
+|
+|Canada
+|2021
+
+|{counter:idx}
 |
 |Calvin Austin
 |
