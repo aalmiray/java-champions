@@ -489,6 +489,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
+|image:https://twivatar.glitch.me/JoCosti[]
+|Joel Costigliola
+|link:https://twitter.com/JoCosti[@JoCosti]
+|
+|New Zealan/France
+|2021
+
+|{counter:idx}
 |image:https://twivatar.glitch.me/radcortez[]
 |Roberto Cortez
 |link:https://twitter.com/radcortez[@radcortez]
