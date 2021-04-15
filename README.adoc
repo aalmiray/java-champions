@@ -2545,10 +2545,10 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2012
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/BrianVerm[]
+|image:https://en.gravatar.com/userimage/204942426/cd77448bc3f739b2b8f2c3e97926c049.jpg?size=200[]
 |Brian Vermeer
 |link:https://twitter.com/BrianVerm[@BrianVerm]
-|
+|Breda
 |The Netherlands
 |2021
 
