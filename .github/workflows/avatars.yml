@@ -26,14 +26,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-jbang-
 
-      - name: Install Jbang
-        run: |
-          curl -Ls https://sh.jbang.dev | bash -s - app setup
-
       - name: Update Avatars
         run: |
           cd resources
-          jbang avatars.java ${{ secrets.TWITTER_TOKEN }} ../images/avatars
+          ./jbang avatars.java ${{ secrets.TWITTER_TOKEN }} ../images/avatars
 
       - name: Commit Changes
         run: |
