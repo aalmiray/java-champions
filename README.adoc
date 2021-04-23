@@ -33,7 +33,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 | | |Name |Twitter |City/State |Country |Year
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/oezcanacar[]
+|image:images/avatars/oezcanacar.png[]
 |Oezcan Acar
 |link:https://twitter.com/oezcanacar[@oezcanacar]
 |Frankfurt
@@ -41,7 +41,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2009
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/bercut2000[]
+|image:images/avatars/bercut2000.png[]
 |Dmitry Aleksandrov
 |link:https://twitter.com/bercut2000[@bercut2000]
 |Sofia
@@ -49,7 +49,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mojavelinux[]
+|image:images/avatars/mojavelinux.png[]
 |Dan Allen
 |link:https://twitter.com/mojavelinux[@mojavelinux]
 |Denver, Colorado
@@ -57,7 +57,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/dalmaer[]
+|image:images/avatars/dalmaer.png[]
 |Dion Almaer
 |link:https://twitter.com/dalmaer[@dalmaer]
 |San Francisco, California
@@ -65,7 +65,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/aalmiray[]
+|image:images/avatars/aalmiray.png[]
 |link:https://www.linkedin.com/in/aalmiray[Andres Almiray]
 |link:https://twitter.com/aalmiray[@aalmiray]
 |Basel
@@ -73,7 +73,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2010
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/deepakalur[]
+|image:images/avatars/deepakalur.png[]
 |Deepak Alur
 |link:https://twitter.com/deepakalur[@deepakalur]
 |
@@ -81,7 +81,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/gail_asgteach[]
+|image:images/avatars/gail_asgteach.png[]
 |Gail C. Anderson
 |link:https://twitter.com/gail_asgteach[@gail_asgteach]
 |San Diego, California
@@ -89,7 +89,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/Paul_ASGTeach[]
+|image:images/avatars/Paul_ASGTeach.png[]
 |Paul L. Anderson
 |link:https://twitter.com/Paul_ASGTeach[@Paul_ASGTeach]
 |San Diego, California
@@ -97,7 +97,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|
+|image:images/avatars/Fernando_Anselmo.png[]
 |Fernando Anselmo
 |
 |
@@ -105,7 +105,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/javapapo[]
+|image:images/avatars/javapapo.png[]
 |Paris Apostolopoulos
 |link:https://twitter.com/javapapo[@javapapo]
 |London/Greece
@@ -113,7 +113,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jfarcand[]
+|image:images/avatars/jfarcand.png[]
 |Jean-François Arcand
 |link:https://twitter.com/jfarcand[@jfarcand]
 |Montreal
@@ -121,7 +121,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/karesti[]
+|image:images/avatars/karesti.png[]
 |Katia Aresti
 |link:https://twitter.com/karesti[@karesti]
 |
@@ -129,7 +129,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/antonarhipov[]
+|image:images/avatars/antonarhipov.png[]
 |Anton Arhipov
 |link:https://twitter.com/antonarhipov[@antonarhipov]
 |
@@ -137,7 +137,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/delawen[]
+|image:images/avatars/delawen.png[]
 |María Arias de Reyna
 |link:https://twitter.com/delawen[@delawen]
 |Seville
@@ -145,7 +145,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|
+|image:images/avatars/Sergey_Astakhov.png[]
 |Sergey Astakhov
 |
 |
@@ -153,7 +153,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rotty3000[]
+|image:images/avatars/rotty3000.png[]
 |Raymond Augé
 |link:https://twitter.com/rotty3000[@rotty3000]
 |
@@ -161,7 +161,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|
+|image:images/avatars/Calvin_Austin.png[]
 |Calvin Austin
 |
 |San Francisco, California
@@ -169,7 +169,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|
+|image:images/avatars/Hovhannes_Avoyan.png[]
 |Hovhannes Avoyan
 |
 |San Francisco, California
@@ -177,7 +177,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/babadopulos[]
+|image:images/avatars/babadopulos.png[]
 |Fernando Babadopulos
 |link:https://twitter.com/babadopulos[@babadopulos]
 |São Paulo
@@ -185,7 +185,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/pbakker[]
+|image:images/avatars/pbakker.png[]
 |Paul Bakker
 |link:https://twitter.com/pbakker[@pbakker]
 |San Francisco, CA
@@ -193,7 +193,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/BertBates[]
+|image:images/avatars/BertBates.png[]
 |Bert Bates
 |link:https://twitter.com/BertBates[@BertBates]
 |
@@ -201,7 +201,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mon_beck[]
+|image:images/avatars/mon_beck.png[]
 |Monica Beckwith
 |link:https://twitter.com/mon_beck[@mon_beck]
 |Texas
@@ -209,7 +209,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/luciobenfante[]
+|image:images/avatars/luciobenfante.png[]
 |Lucio Benfante
 |link:https://twitter.com/luciobenfante[@luciobenfante]
 |Verona
@@ -217,7 +217,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jpbempel[]
+|image:images/avatars/jpbempel.png[]
 |Jean-Philippe Bempel
 |link:https://twitter.com/jpbempel[@jpbempel]
 |Paris
@@ -225,7 +225,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/bbenz[]
+|image:images/avatars/bbenz.png[]
 |Brian Benz
 |link:https://twitter.com/bbenz[@bbenz]
 |Las Vegas
@@ -233,7 +233,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/emmanuelbernard[]
+|image:images/avatars/emmanuelbernard.png[]
 |Emmanuel Bernard
 |link:https://twitter.com/emmanuelbernard[@emmanuelbernard]
 |Paris
@@ -241,7 +241,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/gbevin[]
+|image:images/avatars/gbevin.png[]
 |Geert Bevin
 |link:https://twitter.com/gbevin[@gbevin]
 |
@@ -249,7 +249,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/AdamBien[]
+|image:images/avatars/AdamBien.png[]
 |Adam Bien
 |link:https://twitter.com/AdamBien[@AdamBien]
 |
@@ -257,7 +257,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|
+|image:images/avatars/Xu_Bin.png[]
 |Dr. Xu Bin
 |
 |
@@ -265,7 +265,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jean_bisutti[]
+|image:images/avatars/jean_bisutti.png[]
 |Jean Bisutti
 |link:https://twitter.com/jean_bisutti[@jean_bisutti]
 |Paris
@@ -273,7 +273,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/sebi2706[]
+|image:images/avatars/sebi2706.png[]
 |Sébastien Blanc
 |link:https://twitter.com/sebi2706[@sebi2706]
 |Nice
@@ -281,7 +281,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/dblevins[]
+|image:images/avatars/dblevins.png[]
 |David Blevins
 |link:https://twitter.com/dblevins[@dblevins]
 |Santa Monica, California
@@ -289,7 +289,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/alblue[]
+|image:images/avatars/alblue.png[]
 |Dr. Alex Blewitt
 |link:https://twitter.com/alblue[@alblue]
 |Milton Keynes
@@ -297,7 +297,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/joshbloch[]
+|image:images/avatars/joshbloch.png[]
 |Dr. Joshua Bloch
 |link:https://twitter.com/joshbloch[@joshbloch]
 |San Francisco, California
@@ -305,7 +305,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/bokmann[]
+|image:images/avatars/bokmann.png[]
 |David Bock
 |link:https://github.com/bokmann[@bokmann]
 |Washington DC
@@ -313,7 +313,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jboner[]
+|image:images/avatars/jboner.png[]
 |Jonas Bonér
 |link:https://twitter.com/jboner[@jboner]
 |
@@ -321,7 +321,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2011
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/simonebordet[]
+|image:images/avatars/simonebordet.png[]
 |Simone Bordet
 |link:https://twitter.com/simonebordet[@simonebordet]
 |Turin
@@ -329,7 +329,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/brunoborges[]
+|image:images/avatars/brunoborges.png[]
 |Bruno Borges
 |link:https://twitter.com/brunoborges[@brunoborges]
 |
@@ -337,7 +337,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jeanneboyarsky[]
+|image:images/avatars/jeanneboyarsky.png[]
 |Jeanne Boyarsky
 |link:https://twitter.com/jeanneboyarsky[@jeanneboyarsky]
 |New York City, New York
@@ -345,7 +345,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/bbossola[]
+|image:images/avatars/bbossola.png[]
 |link:https://www.linkedin.com/in/bbossola[Bruno Bossola]
 |link:https://twitter.com/bbossola[@bbossola]
 |London
@@ -353,7 +353,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/vbrabant[]
+|image:images/avatars/vbrabant.png[]
 |Vincent Brabant
 |link:https://twitter.com/vbrabant[@vbrabant]
 |
@@ -361,7 +361,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/danielbryantuk[]
+|image:images/avatars/danielbryantuk.png[]
 |Dr. Daniel Bryant
 |link:https://twitter.com/danielbryantuk[@danielbryantuk]
 |London
@@ -369,7 +369,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|
+|image:images/avatars/Bill_Burke.png[]
 |Bill Burke
 |
 |
@@ -377,7 +377,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/barryburdtweets[]
+|image:images/avatars/barryburdtweets.png[]
 |Barry Burd
 |link:https://twitter.com/barryburdtweets[@barryburdtweets]
 |
@@ -385,7 +385,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/edburns[]
+|image:images/avatars/edburns.png[]
 |Ed Burns
 |link:https://twitter.com/edburns[@edburns]
 |Florida
@@ -393,7 +393,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mertcal[]
+|image:images/avatars/mertcal.png[]
 |link:https://www.linkedin.com/in/mertcaliskan[Mert Caliskan]
 |link:https://twitter.com/mertcal[@mertcal]
 |Ankara
@@ -401,7 +401,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mcannonbrookes[]
+|image:images/avatars/mcannonbrookes.png[]
 |Mike Cannon-Brookes
 |link:https://twitter.com/mcannonbrookes[@mcannonbrookes]
 |Sydney
@@ -409,7 +409,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/imifos[]
+|image:images/avatars/imifos.png[]
 |Tasha Carl
 |link:https://twitter.com/imifos[@imifos]
 |
@@ -417,7 +417,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/magnocav[]
+|image:images/avatars/magnocav.png[]
 |Magno Cavalcante
 |link:https://twitter.com/magnocav[@magnocav]
 |Rio de Janeiro
@@ -425,7 +425,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/steveonjava[]
+|image:images/avatars/steveonjava.png[]
 |Stephen Chin
 |link:https://twitter.com/steveonjava[@steveonjava]
 |Belmont, California
@@ -433,7 +433,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2009
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/HillmerCh[]
+|image:images/avatars/HillmerCh.png[]
 |Hillmer Chona
 |link:https://twitter.com/HillmerCh[@HillmerCh]
 |
@@ -441,7 +441,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/cliff_click[]
+|image:images/avatars/cliff_click.png[]
 |Dr. Cliff Click
 |link:https://twitter.com/cliff_click[@cliff_click]
 |Sunnyvale, California
@@ -449,7 +449,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/cagataycivici[]
+|image:images/avatars/cagataycivici.png[]
 |Cagatay Civici
 |link:https://twitter.com/cagataycivici[@cagataycivici]
 |
@@ -457,7 +457,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|
+|image:images/avatars/Jeff_Cobb.png[]
 |Jeff Cobb
 |
 |
@@ -465,7 +465,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|
+|image:images/avatars/Flavia_Coelho.png[]
 |Flavia Coelho
 |
 |São Paulo
@@ -473,7 +473,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/_pitest[]
+|image:images/avatars/_pitest.png[]
 |Henry Coles
 |link:https://twitter.com/_pitest[@_pitest]
 |Edinburgh
@@ -481,7 +481,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jodastephen[]
+|image:images/avatars/jodastephen.png[]
 |Stephen Colebourne
 |link:https://twitter.com/jodastephen[@jodastephen]
 |London
@@ -489,7 +489,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/PandaConstantin[]
+|image:images/avatars/PandaConstantin.png[]
 |Drabo Constantin
 |link:https://twitter.com/PandaConstantin[@PandaConstantin]
 |
@@ -497,7 +497,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/JoCosti[]
+|image:images/avatars/JoCosti.png[]
 |Joel Costigliola
 |link:https://twitter.com/JoCosti[@JoCosti]
 |
@@ -505,7 +505,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/radcortez[]
+|image:images/avatars/radcortez.png[]
 |Roberto Cortez
 |link:https://twitter.com/radcortez[@radcortez]
 |Coimbra
@@ -513,7 +513,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/agnes_crepet[]
+|image:images/avatars/agnes_crepet.png[]
 |Agnes Crepet
 |link:https://twitter.com/agnes_crepet[@agnes_crepet]
 |Amsterdam
@@ -521,7 +521,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2012
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/holly_cummins[]
+|image:images/avatars/holly_cummins.png[]
 |Dr. Holly Cummins
 |link:https://twitter.com/holly_cummins[@holly_cummins]
 |London
@@ -529,7 +529,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/Ian_Darwin[]
+|image:images/avatars/Ian_Darwin.png[]
 |Ian F. Darwin
 |link:https://twitter.com/Ian_Darwin[@Ian_Darwin]
 |Ontario
@@ -537,7 +537,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/DaschnerS[]
+|image:images/avatars/DaschnerS.png[]
 |Sebastian Daschner
 |link:https://twitter.com/DaschnerS[@DaschnerS]
 |Munich
@@ -553,7 +553,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|
+|image:images/avatars/Valere_Dejardin.png[]
 |Valere Dejardin
 |
 |
@@ -561,7 +561,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/danieldeluca[]
+|image:images/avatars/danieldeluca.png[]
 |Daniel De Luca
 |link:https://twitter.com/danieldeluca[@danieldeluca]
 |Brussels
@@ -569,7 +569,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/danieldfjug[]
+|image:images/avatars/danieldfjug.png[]
 |Daniel deOliveira *
 |link:https://twitter.com/danieldfjug[@danieldfjug]
 |
@@ -577,7 +577,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jamdiazdiaz[]
+|image:images/avatars/jamdiazdiaz.png[]
 |José Díaz
 |link:https://twitter.com/jamdiazdiaz[@jamdiazdiaz]
 |
@@ -585,7 +585,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/fdiotalevi[]
+|image:images/avatars/fdiotalevi.png[]
 |Filippo Diotalevi
 |link:https://twitter.com/fdiotalevi[@fdiotalevi]
 |London
@@ -593,7 +593,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/OlehDokuka[]
+|image:images/avatars/OlehDokuka.png[]
 |Oleh Dokuka
 |link:https://twitter.com/OlehDokuka[@OlehDokuka]
 |
@@ -601,7 +601,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jmdoudoux[]
+|image:images/avatars/jmdoudoux.png[]
 |Jean-Michel Doudoux
 |link:https://twitter.com/jmdoudoux[@jmdoudoux]
 |Metz
@@ -609,7 +609,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/odrotbohm[]
+|image:images/avatars/odrotbohm.png[]
 |Oliver Drotbohm
 |link:https://twitter.com/odrotbohm[@odrotbohm]
 |Dresden
@@ -617,7 +617,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/juliendubois[]
+|image:images/avatars/juliendubois.png[]
 |Julien Dubois
 |link:https://twitter.com/juliendubois[@juliendubois]
 |Paris
@@ -625,7 +625,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/hendrikEbbers[]
+|image:images/avatars/hendrikEbbers.png[]
 |Hendrik Ebbers
 |link:https://twitter.com/hendrikEbbers[@hendrikEbbers]
 |Dortmund
@@ -633,7 +633,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/BruceEckel[]
+|image:images/avatars/BruceEckel.png[]
 |Bruce Eckel
 |link:https://twitter.com/BruceEckel[@BruceEckel]
 |Colorado
@@ -641,7 +641,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/lukaseder[]
+|image:images/avatars/lukaseder.png[]
 |Lukas Eder
 |link:https://twitter.com/lukaseder[@lukaseder]
 |Zürich
@@ -649,7 +649,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/bsideup[]
+|image:images/avatars/bsideup.png[]
 |Sergei Egorov
 |link:https://twitter.com/bsideup[@bsideup]
 |
@@ -657,7 +657,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/myfear[]
+|image:images/avatars/myfear.png[]
 |Markus Eisele
 |link:https://twitter.com/myfear[@myfear]
 |Munich
@@ -665,7 +665,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/badrelhouari[]
+|image:images/avatars/badrelhouari.png[]
 |Badr El Houari
 |link:https://twitter.com/badrelhouari[@badrelhouari]
 |Casablanca
@@ -673,7 +673,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/relizarov[]
+|image:images/avatars/relizarov.png[]
 |Roman Elizarov
 |link:https://twitter.com/relizarov[@relizarov]
 |
@@ -681,7 +681,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/noctarius2k[]
+|image:images/avatars/noctarius2k.png[]
 |Christoph Engelbert
 |link:https://twitter.com/noctarius2k[@noctarius2k]
 |Haan, North Rhine-Westphalia
@@ -689,7 +689,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/monacotoni[]
+|image:images/avatars/monacotoni.png[]
 |Anton (Toni) Epple
 |link:https://twitter.com/monacotoni[@monacotoni]
 |Munich
@@ -697,7 +697,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/BertErtman[]
+|image:images/avatars/BertErtman.png[]
 |Bert Ertman
 |link:https://twitter.com/BertErtman[@BertErtman]
 |Nijmegen
@@ -705,7 +705,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2008
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/clementplop[]
+|image:images/avatars/clementplop.png[]
 |Dr. Clement Escoffier
 |link:https://twitter.com/clementplop[@clementplop]
 |Valence, Rhône-Alpes
@@ -713,7 +713,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/kittylyst[]
+|image:images/avatars/kittylyst.png[]
 |Ben Evans
 |link:https://twitter.com/kittylyst[@kittylyst]
 |
@@ -721,7 +721,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/yfain[]
+|image:images/avatars/yfain.png[]
 |link:https://yakovfain.com/[Yakov Fain]
 |link:https://twitter.com/yfain[@yfain]
 |New York City, New York
@@ -729,7 +729,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rom[]
+|image:images/avatars/rom.png[]
 |Rommel Feria
 |link:https://twitter.com/rom[@rom]
 |
@@ -737,7 +737,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/__DavidFlanagan[]
+|image:images/avatars/__DavidFlanagan.png[]
 |David Flanagan
 |link:https://twitter.com/\__DavidFlanagan[@__DavidFlanagan]
 |Washington State
@@ -745,7 +745,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/omniprof[]
+|image:images/avatars/omniprof.png[]
 |Prof. Ken Fogel
 |link:https://twitter.com/omniprof[@omniprof]
 |Cote Saint-Luc, Quebec
@@ -753,7 +753,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/axelfontaine[]
+|image:images/avatars/axelfontaine.png[]
 |Axel Fontaine
 |link:https://twitter.com/axelfontaine[@axelfontaine]
 |
@@ -761,7 +761,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|
+|image:images/avatars/Remi_Forax.png[]
 |Dr. Remi Forax
 |
 |
@@ -769,7 +769,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mariofusco[]
+|image:images/avatars/mariofusco.png[]
 |Mario Fusco
 |link:https://twitter.com/mariofusco[@mariofusco]
 |Milan
@@ -777,7 +777,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/23derevo[]
+|image:images/avatars/23derevo.png[]
 |Dr. Alexey Fyodorov
 |link:https://twitter.com/23derevo[@23derevo]
 |Saint Petersburg
@@ -785,7 +785,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/gafter[]
+|image:images/avatars/gafter.png[]
 |Dr. Neal Gafter
 |link:https://twitter.com/gafter[@gafter]
 |Seattle, Washington
@@ -793,7 +793,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/dgageot[]
+|image:images/avatars/dgageot.png[]
 |David Gageot
 |link:https://twitter.com/dgageot[@dgageot]
 |Paris
@@ -801,7 +801,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|
+|image:images/avatars/Felipe_Gaucho.png[]
 |Felipe Gaúcho *
 |
 |Rio de Janeiro
@@ -809,7 +809,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2010
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/davidgeary[]
+|image:images/avatars/davidgeary.png[]
 |David Geary
 |link:https://twitter.com/davidgeary[@davidgeary]
 |Loveland, Colorado
@@ -817,7 +817,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2009
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/trisha_gee[]
+|image:images/avatars/trisha_gee.png[]
 |Trisha Gee
 |link:https://twitter.com/trisha_gee[@trisha_gee]
 |Seville, Andalusia
@@ -825,7 +825,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jgenender[]
+|image:images/avatars/jgenender.png[]
 |Jeff Genender
 |link:https://twitter.com/jgenender[@jgenender]
 |Denver, Colorado
@@ -833,7 +833,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2009
 
 |{counter:idx}
-|
+|image:images/avatars/Bruno_Ghisi.png[]
 |Bruno Ghisi
 |
 |Florianópolis, Santa Catarina
@@ -841,7 +841,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/javabird[]
+|image:images/avatars/javabird.png[]
 |Fabrizio Gianneschi
 |link:https://twitter.com/javabird[@javabird]
 |Cagliari, Sardinia
@@ -849,7 +849,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/JonathanGiles[]
+|image:images/avatars/JonathanGiles.png[]
 |Jonathan Giles
 |link:https://twitter.com/JonathanGiles[@JonathanGiles]
 |
@@ -857,7 +857,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/BrianGoetz[]
+|image:images/avatars/BrianGoetz.png[]
 |Brian Goetz
 |link:https://twitter.com/BrianGoetz[@BrianGoetz]
 |Burlington, Vermont 
@@ -865,7 +865,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/dgomezg[]
+|image:images/avatars/dgomezg.png[]
 |David Gómez
 |link:https://twitter.com/dgomezg[@dgomezg]
 |Madrid
@@ -873,7 +873,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/agoncal[]
+|image:images/avatars/agoncal.png[]
 |Antonio Goncalves
 |link:https://twitter.com/agoncal[@agoncal]
 |Paris
@@ -881,7 +881,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2008
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/errcraft[]
+|image:images/avatars/errcraft.png[]
 |Dr. James Gosling
 |link:https://twitter.com/errcraft[@errcraft]
 |San Francisco, California
@@ -889,7 +889,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Honorary Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/Jim__Gough[]
+|image:images/avatars/Jim__Gough.png[]
 |Jim Gough
 |{link-jim-gough}
 |London
@@ -897,7 +897,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rgransberger[]
+|image:images/avatars/rgransberger.png[]
 |Rabea Gransberger
 |link:https://twitter.com/rgransberger[@rgransberger]
 |Bremen
@@ -905,7 +905,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/vgrazi[]
+|image:images/avatars/vgrazi.png[]
 |Victor Grazi
 |link:https://twitter.com/vgrazi[@vgrazi]
 |New York City, New York
@@ -913,7 +913,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2012
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/frankgreco[]
+|image:images/avatars/frankgreco.png[]
 |Frank Greco
 |link:https://twitter.com/frankgreco[@frankgreco]
 |New York City, New York
@@ -921,7 +921,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/NeilGriffin95[]
+|image:images/avatars/NeilGriffin95.png[]
 |Neil Griffin
 |link:https://twitter.com/NeilGriffin95[@NeilGriffin95]
 |Orlando, Florida
@@ -929,7 +929,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ivar_grimstad[]
+|image:images/avatars/ivar_grimstad.png[]
 |Ivar Grimstad
 |link:https://twitter.com/ivar_grimstad[@ivar_grimstad]
 |Malmo
@@ -937,7 +937,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/SanneGrinovero[]
+|image:images/avatars/SanneGrinovero.png[]
 |Sanne Grinovero 
 |link:https://twitter.com/SanneGrinovero[@SanneGrinovero]
 |London
@@ -945,7 +945,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/loiane[]
+|image:images/avatars/loiane.png[]
 |Loiane Groner
 |link:https://twitter.com/loiane[@loiane]
 |Tampa, Florida
@@ -953,7 +953,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/hansolo_[]
+|image:images/avatars/hansolo_.png[]
 |Gerrit Grunwald
 |link:https://twitter.com/hansolo_[@hansolo_]
 |Münster, North Rhine-Westphalia
@@ -961,7 +961,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ags313[]
+|image:images/avatars/ags313.png[]
 |Andrzej Grzesik
 |link:https://twitter.com/ags313[@ags313]
 |London
@@ -969,7 +969,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/fguime[]
+|image:images/avatars/fguime.png[]
 |Freddy Guime
 |link:https://twitter.com/fguime[@fguime]
 |Seattle, Washington
@@ -977,7 +977,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/CGuntur[]
+|image:images/avatars/CGuntur.png[]
 |Chandra Guntur
 |link:https://twitter.com/CGuntur[@CGuntur]
 |New Jersey
@@ -985,7 +985,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/arungupta[]
+|image:images/avatars/arungupta.png[]
 |Arun Gupta
 |link:https://twitter.com/arungupta[@arungupta]
 |San Francisco, California
@@ -993,7 +993,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/eMalaGupta[]
+|image:images/avatars/eMalaGupta.png[]
 |Mala Gupta
 |link:https://twitter.com/eMalaGupta[@eMalaGupta]
 |New Delhi, Delhi
@@ -1001,7 +1001,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/romainguy[]
+|image:images/avatars/romainguy.png[]
 |Romain Guy
 |link:https://twitter.com/romainguy[@romainguy]
 |Los Altos, California 
@@ -1009,7 +1009,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ahmed_hashim[]
+|image:images/avatars/ahmed_hashim.png[]
 |Ahmed Hashim
 |link:https://twitter.com/ahmed_hashim[@ahmed_hashim]
 |Cairo
@@ -1017,7 +1017,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/MkHeck[]
+|image:images/avatars/MkHeck.png[]
 |Mark Heckler
 |link:https://twitter.com/MkHeck[@MkHeck]
 |Godfrey, Illinois 
@@ -1025,7 +1025,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ensode[]
+|image:images/avatars/ensode.png[]
 |David Heffelfinger
 |link:https://twitter.com/ensode[@ensode]
 |Washington DC
@@ -1033,7 +1033,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rajmahendrar[]
+|image:images/avatars/rajmahendrar.png[]
 |Rajmahendra Hegde
 |link:https://twitter.com/rajmahendrar[@rajmahendrar]
 |Hyderabad, Telangana
@@ -1041,7 +1041,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/net0pyr[]
+|image:images/avatars/net0pyr.png[]
 |Michael Heinrichs
 |link:https://twitter.com/net0pyr[@net0pyr]
 |Freiburg
@@ -1049,7 +1049,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/CesarHgt[]
+|image:images/avatars/CesarHgt.png[]
 |César Hernández
 |link:https://twitter.com/CesarHgt[@CesarHgt]
 |
@@ -1057,7 +1057,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/javatotto[]
+|image:images/avatars/javatotto.png[]
 |link:https://www.linkedin.com/in/thorhenninghetland/[Thor Henning Hetland]
 |link:https://twitter.com/javatotto[@javatotto]
 |Oslo
@@ -1065,7 +1065,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/RickHigh[]
+|image:images/avatars/RickHigh.png[]
 |Rick Hightower
 |link:https://twitter.com/RickHigh[@RickHigh]
 |Dublin, California
@@ -1073,7 +1073,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ghillert[]
+|image:images/avatars/ghillert.png[]
 |Gunnar Hillert
 |link:https://twitter.com/ghillert[@ghillert]
 |Holualoa, Hawaii
@@ -1081,7 +1081,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/dhinojosa[]
+|image:images/avatars/dhinojosa.png[]
 |Daniel Hinojosa
 |link:https://twitter.com/dhinojosa[@dhinojosa]
 |Albuquerque, NM
@@ -1089,7 +1089,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/hirt[]
+|image:images/avatars/hirt.png[]
 |Marcus Hirt
 |link:https://twitter.com/hirt[@hirt]
 |Zürich
@@ -1097,7 +1097,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ronhitchens[]
+|image:images/avatars/ronhitchens.png[]
 |Ron Hitchens
 |link:https://twitter.com/ronhitchens[@ronhitchens]
 |London
@@ -1105,7 +1105,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2008
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/springjuergen[]
+|image:images/avatars/springjuergen.png[]
 |Juergen Hoeller
 |link:https://twitter.com/springjuergen[@springjuergen]
 |Linz, Upper Austria
@@ -1113,7 +1113,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2009
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/marcandsweep[]
+|image:images/avatars/marcandsweep.png[]
 |Marc Hoffmann
 |link:https://twitter.com/marcandsweep[@marcandsweep]
 |
@@ -1121,7 +1121,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jacobhookom[]
+|image:images/avatars/jacobhookom.png[]
 |Jacob Hookom
 |link:https://twitter.com/jacobhookom[@jacobhookom]
 |Minneapolis-St. Paul, Minnesota
@@ -1129,7 +1129,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|
+|image:images/avatars/Bruce_Hopkins.png[]
 |Bruce Hopkins
 |
 |
@@ -1137,7 +1137,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2009
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/cayhorstmann[]
+|image:images/avatars/cayhorstmann.png[]
 |Dr. Cay Horstmann
 |link:https://twitter.com/cayhorstmann[@cayhorstmann]
 |San Francisco, California
@@ -1145,7 +1145,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/magoghm[]
+|image:images/avatars/magoghm.png[]
 |Gerardo Horvilleur
 |link:https://twitter.com/magoghm[@magoghm]
 |Mexico City
@@ -1153,7 +1153,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/huettermann[]
+|image:images/avatars/huettermann.png[]
 |Michael Huettermann
 |link:https://twitter.com/huettermann[@huettermann]
 |Cologne
@@ -1161,7 +1161,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/hunterhacker[]
+|image:images/avatars/hunterhacker.png[]
 |Jason Hunter
 |link:https://twitter.com/hunterhacker[@hunterhacker]
 |
@@ -1169,7 +1169,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/BurkHufnagel[]
+|image:images/avatars/BurkHufnagel.png[]
 |Burk Hufnagel
 |link:https://twitter.com/BurkHufnagel[@BurkHufnagel]
 |Atlanta
@@ -1177,7 +1177,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mesirii[]
+|image:images/avatars/mesirii.png[]
 |Michael Hunger
 |link:https://twitter.com/mesirii[@mesirii]
 |Dresden
@@ -1185,7 +1185,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/davsclaus[]
+|image:images/avatars/davsclaus.png[]
 |Claus Ibsen
 |link:https://twitter.com/davsclaus[@davsclaus]
 |Esbjerg
@@ -1193,7 +1193,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ederign[]
+|image:images/avatars/ederign.png[]
 |Eder Ignatowicz
 |link:https://twitter.com/ederign[@ederign]
 |Boston, Massachusetts
@@ -1201,7 +1201,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/oliverihns[]
+|image:images/avatars/oliverihns.png[]
 |Oliver Ihns
 |link:https://twitter.com/oliverihns[@oliverihns]
 |Hamburg
@@ -1209,7 +1209,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ivan_stefanov[]
+|image:images/avatars/ivan_stefanov.png[]
 |Ivan St. Ivanov
 |link:https://twitter.com/ivan_stefanov[@ivan_stefanov]
 |Sofia
@@ -1217,7 +1217,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/Stephan007[]
+|image:images/avatars/Stephan007.png[]
 |Stephan Janssen
 |link:https://twitter.com/Stephan007[@Stephan007]
 |Bruges
@@ -1225,7 +1225,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/emilyfhjiang[]
+|image:images/avatars/emilyfhjiang.png[]
 |Emily Jiang
 |link:https://twitter.com/emilyfhjiang[@emilyfhjiang]
 |Southampton
@@ -1233,7 +1233,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/springrod[]
+|image:images/avatars/springrod.png[]
 |Dr. Rod Johnson
 |link:https://twitter.com/springrod[@springrod]
 |Sydney
@@ -1241,7 +1241,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/techgirl1908[]
+|image:images/avatars/techgirl1908.png[]
 |Angie Jones
 |link:https://twitter.com/techgirl1908[@techgirl1908]
 |San Francisco, California
@@ -1249,7 +1249,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/javajudd[]
+|image:images/avatars/javajudd.png[]
 |Christopher Judd
 |link:https://twitter.com/javajudd[@javajudd]
 |Columbus, Ohio
@@ -1257,7 +1257,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/javajuneau[]
+|image:images/avatars/javajuneau.png[]
 |Josh Juneau
 |link:https://twitter.com/javajuneau[@javajuneau]
 |Chicago, Illinois
@@ -1265,7 +1265,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/matjazbj[]
+|image:images/avatars/matjazbj.png[]
 |Prof. Matjaz Juric
 |link:https://twitter.com/matjazbj[@matjazbj]
 |
@@ -1273,7 +1273,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2010
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/heinzkabutz[]
+|image:images/avatars/heinzkabutz.png[]
 |link:https://www.javaspecialists.eu[Dr. Heinz M. Kabutz]
 |link:https://twitter.com/heinzkabutz[@heinzkabutz]
 |Chorafakia, Chania
@@ -1281,7 +1281,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/matkar[]
+|image:images/avatars/matkar.png[]
 |Mattias Karlsson
 |link:https://twitter.com/matkar[@matkar]
 |Stockholm
@@ -1289,7 +1289,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2009
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/kohsukekawa[]
+|image:images/avatars/kohsukekawa.png[]
 |Kohsuke Kawaguchi
 |link:https://twitter.com/kohsukekawa[@kohsukekawa]
 |San Jose, California
@@ -1297,7 +1297,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rkennke[]
+|image:images/avatars/rkennke.png[]
 |Roman Kennke
 |link:https://twitter.com/rkennke[@rkennke]
 |Freiburg
@@ -1305,7 +1305,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/1ovthafew[]
+|image:images/avatars/1ovthafew.png[]
 |Gavin King
 |link:https://twitter.com/1ovthafew[@1ovthafew]
 |
@@ -1313,7 +1313,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/viktorklang[]
+|image:images/avatars/viktorklang.png[]
 |Viktor Klang
 |link:https://twitter.com/viktorklang[@viktorklang]
 |Angelholm
@@ -1321,7 +1321,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/aslakknutsen[]
+|image:images/avatars/aslakknutsen.png[]
 |Aslak Knutsen
 |link:https://twitter.com/aslakknutsen[@aslakknutsen]
 |Oslo
@@ -1329,7 +1329,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/clarako[]
+|image:images/avatars/clarako.png[]
 |Clara Ko
 |link:https://twitter.com/clarako[@clarako]
 |San Francisco, California
@@ -1337,7 +1337,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2011
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/panoskonst[]
+|image:images/avatars/panoskonst.png[]
 |Panos Konstantinidis
 |link:https://twitter.com/panoskonst[@panoskonst]
 |
@@ -1345,7 +1345,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/kenkousen[]
+|image:images/avatars/kenkousen.png[]
 |Dr. Ken Kousen
 |link:https://twitter.com/kenkousen[@kenkousen]
 |Marlborough, Connecticut
@@ -1353,7 +1353,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/michaelkolling[]
+|image:images/avatars/michaelkolling.png[]
 |Dr. Michael Kölling
 |link:https://twitter.com/michaelkolling[@michaelkolling]
 |London
@@ -1361,7 +1361,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mittie[]
+|image:images/avatars/mittie.png[]
 |Prof. Dierk König
 |link:https://twitter.com/mittie[@mittie]
 |Zürich
@@ -1369,7 +1369,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/glaforge[]
+|image:images/avatars/glaforge.png[]
 |Guillaume Laforge
 |link:https://twitter.com/glaforge[@glaforge]
 |Paris
@@ -1377,7 +1377,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/lagergren[]
+|image:images/avatars/lagergren.png[]
 |Marcus Lagergren
 |link:https://twitter.com/lagergren[@lagergren]
 |
@@ -1385,7 +1385,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/MiraLak[]
+|image:images/avatars/MiraLak.png[]
 |Amira Lakhal
 |link:https://twitter.com/MiraLak[@MiraLak]
 |
@@ -1393,7 +1393,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/AngelikaLanger[]
+|image:images/avatars/AngelikaLanger.png[]
 |Angelika Langer
 |link:https://twitter.com/AngelikaLanger[@AngelikaLanger]
 |Munich
@@ -1401,7 +1401,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|
+|image:images/avatars/Edward_Lank.png[]
 |Dr. Edward Lank
 |
 |Kitchener
@@ -1409,7 +1409,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jaceklaskowski[]
+|image:images/avatars/jaceklaskowski.png[]
 |Jacek Laskowski
 |link:https://twitter.com/jaceklaskowski[@jaceklaskowski]
 |Warsaw
@@ -1417,7 +1417,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|
+|image:images/avatars/Enriqu_Lasterra.png[]
 |Enrique Lasterra
 |
 |Bilbao
@@ -1425,7 +1425,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/PeterLawrey[]
+|image:images/avatars/PeterLawrey.png[]
 |Peter Lawrey
 |link:https://twitter.com/PeterLawrey[@PeterLawrey]
 |Surrey
@@ -1433,7 +1433,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/douglea[]
+|image:images/avatars/douglea.png[]
 |Dr. Doug Lea
 |link:https://twitter.com/douglea[@douglea]
 |Syracuse, New York
@@ -1441,7 +1441,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/crazybob[]
+|image:images/avatars/crazybob.png[]
 |Bob Lee
 |link:https://twitter.com/crazybob[@crazybob]
 |San Francisco, California
@@ -1449,7 +1449,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2010
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/evanchooly[]
+|image:images/avatars/evanchooly.png[]
 |Justin Lee
 |link:https://twitter.com/evanchooly[@evanchooly]
 |New York City, New York
@@ -1457,7 +1457,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/trustin[]
+|image:images/avatars/trustin.png[]
 |Trustin Lee
 |link:https://twitter.com/trustin[@trustin]
 |
@@ -1465,7 +1465,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/dlemmermann[]
+|image:images/avatars/dlemmermann.png[]
 |Dirk Lemmermann
 |link:https://twitter.com/dlemmermann[@dlemmermann]
 |
@@ -1473,7 +1473,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mikelevin77[]
+|image:images/avatars/mikelevin77.png[]
 |Michael Levin
 |link:https://twitter.com/mikelevin77[@mikelevin77]
 |
@@ -1481,7 +1481,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2011
 
 |{counter:idx}
-|
+|image:images/avatars/Barry_Levine.png[]
 |Dr. Barry Levine
 |
 |
@@ -1489,7 +1489,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|
+|image:images/avatars/Mo_Li.png[]
 |Mo Li
 |
 |
@@ -1497,7 +1497,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/sanhong_li[]
+|image:images/avatars/sanhong_li.png[]
 |San-Hong Li
 |link:https://twitter.com/sanhong_li[@sanhong_li]
 |
@@ -1513,7 +1513,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/plinskey[]
+|image:images/avatars/plinskey.png[]
 |Patrick Linskey
 |link:https://twitter.com/plinskey[@plinskey]
 |
@@ -1521,7 +1521,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|
+|image:images/avatars/Paul_Lipton.png[]
 |Paul Lipton
 |
 |
@@ -1529,7 +1529,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/starbuxman[]
+|image:images/avatars/starbuxman.png[]
 |Josh Long
 |link:https://twitter.com/starbuxman[@starbuxman]
 |San Francisco, California
@@ -1537,7 +1537,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/melissajmckay[]
+|image:images/avatars/melissajmckay.png[]
 |Melissa McKay
 |link:https://twitter.com/melissajmckay[@melissajmckay]
 |Colorado
@@ -1545,7 +1545,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/acelopezco[]
+|image:images/avatars/acelopezco.png[]
 |link:https://www.linkedin.com/in/acelopezco[Alexis Lopez]
 |link:https://twitter.com/acelopezco[@acelopezco]
 |Cali, Valle del Cauca
@@ -1553,7 +1553,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/geirmagnusson[]
+|image:images/avatars/geirmagnusson.png[]
 |Geir Magnusson
 |link:https://twitter.com/geirmagnusson[@geirmagnusson]
 |Wilton, Connecticut 
@@ -1561,7 +1561,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|
+|image:images/avatars/Qusay_Mahmoud.png[]
 |Dr. Qusay Mahmoud
 |
 |
@@ -1569,7 +1569,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/Sander_Mak[]
+|image:images/avatars/Sander_Mak.png[]
 |Sander Mak
 |link:https://twitter.com/Sander_Mak[@Sander_Mak]
 |Nijmegen
@@ -1577,7 +1577,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ktosopl[]
+|image:images/avatars/ktosopl.png[]
 |Konrad Malawski
 |link:https://twitter.com/ktosopl[@ktosopl]
 |
@@ -1585,7 +1585,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|
+|image:images/avatars/Dan_Malks.png[]
 |Dan Malks
 |
 |
@@ -1593,7 +1593,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/manicode[]
+|image:images/avatars/manicode.png[]
 |Jim Manico
 |link:https://twitter.com/manicode[@manicode]
 |Anahola, Hawaii
@@ -1601,7 +1601,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/kito99[]
+|image:images/avatars/kito99.png[]
 |Kito Mann
 |link:https://twitter.com/kito99[@kito99]
 |Glen Allen, Virginia 
@@ -1609,7 +1609,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/dervis_m[]
+|image:images/avatars/dervis_m.png[]
 |Dervis Mansuroglu
 |link:https://twitter.com/dervis_m[@dervis_m]
 |Oslo
@@ -1617,7 +1617,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/sjmaple[]
+|image:images/avatars/sjmaple.png[]
 |Simon Maple
 |link:https://twitter.com/sjmaple[@sjmaple]
 |Basingstoke, Hampshire
@@ -1625,7 +1625,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/joshmarinacci[]
+|image:images/avatars/joshmarinacci.png[]
 |Joshua Marinacci
 |link:https://twitter.com/joshmarinacci[@joshmarinacci]
 |Eugene, Oregon
@@ -1633,7 +1633,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2010
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/floydmarinescu[]
+|image:images/avatars/floydmarinescu.png[]
 |Floyd Marinescu
 |link:https://twitter.com/floydmarinescu[@floydmarinescu]
 |Etobicoke, Ontario
@@ -1641,7 +1641,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/vmassol[]
+|image:images/avatars/vmassol.png[]
 |Vincent Massol
 |link:https://twitter.com/vmassol[@vmassol]
 |Paris
@@ -1649,7 +1649,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/normanmaurer[]
+|image:images/avatars/normanmaurer.png[]
 |Norman Maurer
 |link:https://twitter.com/normanmaurer[@normanmaurer]
 |Frankfurt
@@ -1657,7 +1657,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/vincentmayers[]
+|image:images/avatars/vincentmayers.png[]
 |Vincent Mayers
 |link:https://twitter.com/vincentmayers[@vincentmayers]
 |Atlanta, Georgia
@@ -1665,7 +1665,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/caroljmcdonald[]
+|image:images/avatars/caroljmcdonald.png[]
 |Carole McDonald
 |link:https://twitter.com/caroljmcdonald[@caroljmcdonald]
 |Florida
@@ -1673,7 +1673,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rmehmandarov[]
+|image:images/avatars/rmehmandarov.png[]
 |Rustam Mehmandarov
 |link:https://twitter.com/rmehmandarov[@rmehmandarov]
 |
@@ -1681,7 +1681,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/OndroMih[]
+|image:images/avatars/OndroMih.png[]
 |Ondro Mihályi
 |link:https://twitter.com/OndroMih[@OndroMih]
 |Prague
@@ -1689,7 +1689,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/vlad_mihalcea[]
+|image:images/avatars/vlad_mihalcea.png[]
 |Vlad Mihalcea
 |link:https://twitter.com/vlad_mihalcea[@vlad_mihalcea]
 |Cluj County
@@ -1697,7 +1697,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ammbra1508[]
+|image:images/avatars/ammbra1508.png[]
 |Ana-Maria Mihalceanu
 |link:https://twitter.com/ammbra1508[@ammbra1508]
 |
@@ -1705,7 +1705,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/michaelminella[]
+|image:images/avatars/michaelminella.png[]
 |Michael T. Minella
 |link:https://twitter.com/michaelminella[@michaelminella]
 |Naperville, Illinois
@@ -1713,7 +1713,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/elderjava[]
+|image:images/avatars/elderjava.png[]
 |Elder Moraes
 |link:https://twitter.com/elderjava[@elderjava]
 |
@@ -1721,7 +1721,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/gunnarmorling[]
+|image:images/avatars/gunnarmorling.png[]
 |Gunnar Morling
 |link:https://twitter.com/gunnarmorling[@gunnarmorling]
 |Hamburg
@@ -1729,7 +1729,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mauricenaftalin[]
+|image:images/avatars/mauricenaftalin.png[]
 |Maurice Naftalin
 |link:https://twitter.com/mauricenaftalin[@mauricenaftalin]
 |Edinburgh
@@ -1737,7 +1737,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/NikhilNanivade[]
+|image:images/avatars/NikhilNanivade.png[]
 |Nikhil Nanivadekar
 |link:https://twitter.com/NikhilNanivade[@NikhilNanivade]
 |
@@ -1745,7 +1745,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/fabianenardon[]
+|image:images/avatars/fabianenardon.png[]
 |Dr. Fabiane Bizinella Nardon
 |link:https://twitter.com/fabianenardon[@fabianenardon]
 |São Paulo
@@ -1753,7 +1753,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/RafaDelNero[]
+|image:images/avatars/RafaDelNero.png[]
 |Rafael Del Nero
 |link:https://twitter.com/RafaDelNero[@RafaDelNero]
 |Dublin, Leinster
@@ -1761,7 +1761,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/Audrey_Neveu[]
+|image:images/avatars/Audrey_Neveu.png[]
 |Audrey Neveu
 |link:https://twitter.com/Audrey_Neveu[@Audrey_Neveu]
 |Rouen
@@ -1769,7 +1769,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/chriswhocodes[]
+|image:images/avatars/chriswhocodes.png[]
 |Chris Newland
 |link:https://twitter.com/chriswhocodes[@chriswhocodes]
 |London
@@ -1777,7 +1777,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/javaclimber[]
+|image:images/avatars/javaclimber.png[]
 |Kevin Nilson
 |link:https://twitter.com/javaclimber[@javaclimber]
 |San Francisco, California
@@ -1785,7 +1785,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2009
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/tnurkiewicz[]
+|image:images/avatars/tnurkiewicz.png[]
 |Tomasz Nurkiewicz
 |link:https://twitter.com/tnurkiewicz[@tnurkiewicz]
 |Warsaw
@@ -1793,7 +1793,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/headius[]
+|image:images/avatars/headius.png[]
 |Charles Oliver Nutter
 |link:https://twitter.com/headius[@headius]
 |Minneapolis, Minnesota
@@ -1801,7 +1801,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/HarshadOak[]
+|image:images/avatars/HarshadOak.png[]
 |Harshad Oak
 |link:https://twitter.com/HarshadOak[@HarshadOak]
 |Pune, Maharashtra
@@ -1809,7 +1809,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rickardoberg[]
+|image:images/avatars/rickardoberg.png[]
 |Rickard Oberg
 |link:https://twitter.com/rickardoberg[@rickardoberg]
 |Selangor
@@ -1817,7 +1817,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2011
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/tuxtor[]
+|image:images/avatars/tuxtor.png[]
 |Víctor Orozco
 |link:https://twitter.com/tuxtor[@tuxtor]
 |Guatemala City
@@ -1825,7 +1825,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/BethanKP[]
+|image:images/avatars/BethanKP.png[]
 |Bethan Palmer
 |link:https://twitter.com/BethanKP[@BethanKP]
 |
@@ -1833,7 +1833,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/AndreiPangin[]
+|image:images/avatars/AndreiPangin.png[]
 |Andrei Pangin
 |link:https://twitter.com/AndreiPangin[@AndreiPangin]
 |
@@ -1841,7 +1841,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/nipafx[]
+|image:images/avatars/nipafx.png[]
 |Nicolai Parlog
 |link:https://twitter.com/nipafx[@nipafx]
 |Karlsruhe
@@ -1849,7 +1849,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/SandraParsick[]
+|image:images/avatars/SandraParsick.png[]
 |Sandra Parsick
 |link:https://twitter.com/SandraParsick[@SandraParsick]
 |Neuss
@@ -1857,7 +1857,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/prpatel[]
+|image:images/avatars/prpatel.png[]
 |Pratik Patel
 |link:https://twitter.com/prpatel[@prpatel]
 |Atlanta, Georgia
@@ -1865,7 +1865,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/bobpaulin[]
+|image:images/avatars/bobpaulin.png[]
 |Bob Paulin
 |link:https://twitter.com/bobpaulin[@bobpaulin]
 |Chicago, Illinois
@@ -1873,7 +1873,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/JosePaumard[]
+|image:images/avatars/JosePaumard.png[]
 |Dr. José Paumard
 |link:https://twitter.com/JosePaumard[@JosePaumard]
 |Paris
@@ -1881,7 +1881,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/kcpeppe[]
+|image:images/avatars/kcpeppe.png[]
 |Kirk Pepperdine
 |link:https://twitter.com/kcpeppe[@kcpeppe]
 |Ottawa, Ontario
@@ -1889,7 +1889,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/JPeredaDnr[]
+|image:images/avatars/JPeredaDnr.png[]
 |Dr. Jose Pereda
 |link:https://twitter.com/JPeredaDnr[@JPeredaDnr]
 |Valladolid
@@ -1897,7 +1897,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|
+|image:images/avatars/Paul_Perrone.png[]
 |Dr. Paul Perrone
 |
 |
@@ -1905,7 +1905,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jppetines[]
+|image:images/avatars/jppetines.png[]
 |John Paul "JP" Petines
 |link:https://twitter.com/jppetines[@jppetines]
 |Toronto, Ontario
@@ -1913,7 +1913,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/SeanMiPhillips[]
+|image:images/avatars/SeanMiPhillips.png[]
 |Sean M. Phillips
 |link:https://twitter.com/SeanMiPhillips[@SeanMiPhillips]
 |Washington DC 
@@ -1921,7 +1921,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/peter_pilgrim[]
+|image:images/avatars/peter_pilgrim.png[]
 |Peter Pilgrim
 |link:https://twitter.com/peter_pilgrim[@peter_pilgrim]
 |Milton Keynes, England
@@ -1929,7 +1929,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/wpugh[]
+|image:images/avatars/wpugh.png[]
 |Prof. William Pugh
 |link:https://twitter.com/wpugh[@wpugh]
 |Maryland
@@ -1937,7 +1937,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/cquinn[]
+|image:images/avatars/cquinn.png[]
 |Carl Quinn *
 |link:https://twitter.com/cquinn[@cquinn]
 |California
@@ -1945,7 +1945,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/TheDonRaab[]
+|image:images/avatars/TheDonRaab.png[]
 |Donald Raab
 |link:https://twitter.com/TheDonRaab[@TheDonRaab]
 |Metuchen, New Jersey
@@ -1953,7 +1953,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mraible[]
+|image:images/avatars/mraible.png[]
 |Matt Raible
 |link:https://twitter.com/mraible[@mraible]
 |Denver, Colorado
@@ -1961,7 +1961,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|
+|image:images/avatars/Srikanth_Raju.png[]
 |Srikanth Raju
 |
 |
@@ -1969,7 +1969,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|
+|image:images/avatars/Jayson_Raymond.png[]
 |Jayson Raymond
 |
 |
@@ -1977,7 +1977,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/VictorRentea[]
+|image:images/avatars/VictorRentea.png[]
 |Dr. Victor Rentea
 |link:https://twitter.com/VictorRentea[@VictorRentea]
 |Bucharest
@@ -1985,7 +1985,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/crichardson[]
+|image:images/avatars/crichardson.png[]
 |Chris Richardson
 |link:https://twitter.com/crichardson[@crichardson]
 |San Francisco, California
@@ -1993,7 +1993,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|
+|image:images/avatars/Clark_D_Richey_Jr.png[]
 |Clark D. Richey Jr.
 |
 |
@@ -2001,7 +2001,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mnriem[]
+|image:images/avatars/mnriem.png[]
 |Manfred Riem
 |link:https://twitter.com/mnriem[@mnriem]
 |Provo, Utah
@@ -2009,7 +2009,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/speakjava[]
+|image:images/avatars/speakjava.png[]
 |Simon Ritter
 |link:https://twitter.com/speakjava[@speakjava]
 |Twickenham
@@ -2017,7 +2017,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/SvenNB[]
+|image:images/avatars/SvenNB.png[]
 |Sven Reimers
 |link:https://twitter.com/SvenNB[@SvenNB]
 |Konstanz
@@ -2025,7 +2025,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/royvanrijn[]
+|image:images/avatars/royvanrijn.png[]
 |Roy van Rijn
 |link:https://twitter.com/royvanrijn[@royvanrijn]
 |Maassluis, South Holland Province
@@ -2033,7 +2033,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/leomrlima[]
+|image:images/avatars/leomrlima.png[]
 |Leonardo de Moura Rocha Lima
 |link:https://twitter.com/leomrlima[@leomrlima]
 |São Paulo,
@@ -2041,7 +2041,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/graemerocher[]
+|image:images/avatars/graemerocher.png[]
 |Graeme Rocher
 |link:https://twitter.com/graemerocher[@graemerocher]
 |Bilbao
@@ -2049,7 +2049,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ixchelruiz[]
+|image:images/avatars/ixchelruiz.png[]
 |Ix-chel Ruiz
 |link:https://twitter.com/ixchelruiz[@ixchelruiz]
 |Basel
@@ -2057,7 +2057,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/antoine_sd[]
+|image:images/avatars/antoine_sd.png[]
 |Antoine Sabot-Durand
 |link:https://twitter.com/antoine_sd[@antoine_sd]
 |Paris
@@ -2065,7 +2065,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jyukutyo[]
+|image:images/avatars/jyukutyo.png[]
 |Koichi Sakata
 |link:https://twitter.com/jyukutyo[@jyukutyo]
 |Osaka
@@ -2073,7 +2073,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/skrb[]
+|image:images/avatars/skrb.png[]
 |Yuuichi Sakuraba
 |link:https://twitter.com/skrb[@skrb]
 |
@@ -2081,7 +2081,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/betoSalazar[]
+|image:images/avatars/betoSalazar.png[]
 |Alberto Salazar
 |link:https://twitter.com/betoSalazar[@betoSalazar]
 |
@@ -2089,7 +2089,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/cowtowncoder[]
+|image:images/avatars/cowtowncoder.png[]
 |Tatu Saloranta
 |link:https://twitter.com/cowtowncoder[@cowtowncoder]
 |Seattle
@@ -2097,7 +2097,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/otaviojava[]
+|image:images/avatars/otaviojava.png[]
 |Otávio Gonçalves de Santana
 |link:https://twitter.com/otaviojava[@otaviojava]
 |São Paulo
@@ -2105,7 +2105,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mr__m[]
+|image:images/avatars/mr__m.png[]
 |Michael Nascimento Santos
 |link:https://twitter.com/mr\__m[@mr__m]
 |Michael Nascimento Santos
@@ -2113,7 +2113,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/theNeomatrix369[]
+|image:images/avatars/theNeomatrix369.png[]
 |Mani Sarkar
 |link:https://twitter.com/theNeomatrix369[@theNeomatrix369]
 |
@@ -2121,7 +2121,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/tomsontom[]
+|image:images/avatars/tomsontom.png[]
 |Tom Schindl
 |link:https://twitter.com/tomsontom[@tomsontom]
 |
@@ -2129,7 +2129,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|
+|image:images/avatars/Olivier_Schmitt.png[]
 |Olivier Schmitt
 |
 |Geneva
@@ -2137,7 +2137,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rfscholte[]
+|image:images/avatars/rfscholte.png[]
 |Robert Scholte
 |link:https://twitter.com/rfscholte[@rfscholte]
 |Groningen
@@ -2145,7 +2145,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/OmniFaces[]
+|image:images/avatars/OmniFaces.png[]
 |Bauke Scholtz
 |link:https://twitter.com/OmniFaces[@OmniFaces]
 |
@@ -2153,7 +2153,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/shipilev[]
+|image:images/avatars/shipilev.png[]
 |Aleksey Shipilev
 |link:https://twitter.com/shipilev[@shipilev]
 |Potsdam, Brandenburg
@@ -2161,7 +2161,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/shelajev[]
+|image:images/avatars/shelajev.png[]
 |Dr. Oleg Shelajev
 |link:https://twitter.com/shelajev[@shelajev]
 |Tartu
@@ -2169,7 +2169,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ebullientworks[]
+|image:images/avatars/ebullientworks.png[]
 |Erin Schnabel
 |link:https://twitter.com/ebullientworks[@ebullientworks]
 |Wappingers Falls, New York
@@ -2177,7 +2177,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/bjschrijver[]
+|image:images/avatars/bjschrijver.png[]
 |Bert Jan Schrijver
 |link:https://twitter.com/bjschrijver[@bjschrijver]
 |Utrecht
@@ -2185,7 +2185,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/vsenger[]
+|image:images/avatars/vsenger.png[]
 |Vinicius Senger
 |link:https://twitter.com/vsenger[@vsenger]
 |
@@ -2193,7 +2193,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/yarasenger[]
+|image:images/avatars/yarasenger.png[]
 |Yara Senger
 |link:https://twitter.com/yarasenger[@yarasenger]
 |São Paulo
@@ -2201,7 +2201,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2012
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/zsevarac[]
+|image:images/avatars/zsevarac.png[]
 |Dr. Zoran Sevarac
 |link:https://twitter.com/zsevarac[@zsevarac]
 |
@@ -2209,7 +2209,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/hlship[]
+|image:images/avatars/hlship.png[]
 |Howard Lewis Ship
 |link:https://twitter.com/hlship[@hlship]
 |Portland, Oregon
@@ -2217,7 +2217,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2010
 
 |{counter:idx}
-|
+|image:images/avatars/Jack_Shirazi.png[]
 |Jack Shirazi
 |
 |Westminster Abbey, Greater London
@@ -2225,7 +2225,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|
+|image:images/avatars/Kathy_Sierra.png[]
 |Kathy Sierra
 |
 |
@@ -2233,7 +2233,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rotnroll666[]
+|image:images/avatars/rotnroll666.png[]
 |Michael Simons
 |link:https://twitter.com/rotnroll666[@rotnroll666]
 |Aachen, North Rhine-Westphalia
@@ -2241,7 +2241,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/yakov_sirotkin[]
+|image:images/avatars/yakov_sirotkin.png[]
 |Yakov Sirotkin
 |link:https://twitter.com/yakov_sirotkin[@yakov_sirotkin]
 |Saint Petersburg
@@ -2249,7 +2249,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|
+|image:images/avatars/Bruce_Snyder.png[]
 |Bruce Snyder
 |
 |Louisville, Colorado
@@ -2257,7 +2257,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/brjavaman[]
+|image:images/avatars/brjavaman.png[]
 |link:https://code4.life/[Bruno Souza]
 |link:https://twitter.com/brjavaman[@brjavaman]
 |São Paulo
@@ -2265,7 +2265,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/alexsotob[]
+|image:images/avatars/alexsotob.png[]
 |Alex Soto
 |link:https://twitter.com/alexsotob[@alexsotob]
 |Barcelona
@@ -2273,7 +2273,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/jstrachan[]
+|image:images/avatars/jstrachan.png[]
 |James Strachan
 |link:https://twitter.com/jstrachan[@jstrachan]
 |Mells, Somerset
@@ -2281,7 +2281,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2011
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/struberg[]
+|image:images/avatars/struberg.png[]
 |Mark Struberg
 |link:https://twitter.com/struberg[@struberg]
 |Vienna
@@ -2289,7 +2289,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/domix[]
+|image:images/avatars/domix.png[]
 |Domingo Suarez
 |link:https://twitter.com/domix[@domix]
 |
@@ -2297,7 +2297,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/venkat_s[]
+|image:images/avatars/venkat_s.png[]
 |Dr. Venkat Subramaniam
 |link:https://twitter.com/venkat_s[@venkat_s]
 |Broomfield, Colorado
@@ -2305,7 +2305,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/burrsutter[]
+|image:images/avatars/burrsutter.png[]
 |Burr Sutter
 |link:https://twitter.com/burrsutter[@burrsutter]
 |Raleigh-Durham, North Carolina
@@ -2313,7 +2313,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/siruslan[]
+|image:images/avatars/siruslan.png[]
 |Ruslan Synytsky
 |link:https://twitter.com/siruslan[@siruslan]
 |Zhytomyr/Limassol
@@ -2321,7 +2321,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/asz[]
+|image:images/avatars/asz.png[]
 |Attila Szegedi
 |link:https://twitter.com/asz[@asz]
 |Szeged, Csongrád,
@@ -2329,7 +2329,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/_tamanm[]
+|image:images/avatars/_tamanm.png[]
 |Mohamed Taman
 |link:https://twitter.com/_tamanm[@_tamanm]
 |Belgrade
@@ -2337,7 +2337,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/cero_t[]
+|image:images/avatars/cero_t.png[]
 |Shin Tanimoto
 |link:https://twitter.com/cero_t[@cero_t]
 |Yokohama, Kanagawa
@@ -2345,7 +2345,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/redrapids[]
+|image:images/avatars/redrapids.png[]
 |Bruce Tate
 |link:https://twitter.com/redrapids[@redrapids]
 |Chattanooga, Tennessee 
@@ -2353,7 +2353,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/reginatb38[]
+|image:images/avatars/reginatb38.png[]
 |Régina ten Bruggencate
 |link:https://twitter.com/reginatb38[@reginatb38]
 |Apeldoorn
@@ -2361,7 +2361,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2011
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/giltene[]
+|image:images/avatars/giltene.png[]
 |Gil Tene
 |link:https://twitter.com/giltene[@giltene]
 |San Francisco, California
@@ -2369,7 +2369,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/yoshioterada[]
+|image:images/avatars/yoshioterada.png[]
 |Yoshio Terada
 |link:https://twitter.com/yoshioterada[@yoshioterada]
 |Yokohama, Kanagawa
@@ -2377,7 +2377,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/fthamura[]
+|image:images/avatars/fthamura.png[]
 |Frans Thamura *
 |link:https://twitter.com/fthamura[@fthamura]
 |Jakarta
@@ -2385,7 +2385,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/christhalinger[]
+|image:images/avatars/christhalinger.png[]
 |Chris Thalinger
 |link:https://twitter.com/christhalinger/[@christhalinger]
 |Haleiwa, Hawaii
@@ -2393,7 +2393,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/alextheedom[]
+|image:images/avatars/alextheedom.png[]
 |Alex Theedom
 |link:https://twitter.com/alextheedom[@alextheedom]
 |London
@@ -2401,7 +2401,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/mjpt777[]
+|image:images/avatars/mjpt777.png[]
 |Martin Thompson
 |link:https://twitter.com/mjpt777[@mjpt777]
 |
@@ -2409,7 +2409,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/drkrab[]
+|image:images/avatars/drkrab.png[]
 |Dr. Kresten Krab Thorup
 |link:https://twitter.com/drkrab[@drkrab]
 |
@@ -2417,7 +2417,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/arjan_tijms[]
+|image:images/avatars/arjan_tijms.png[]
 |Arjan Tijms
 |link:https://twitter.com/arjan_tijms[@arjan_tijms]
 |Arnhem, Gelderland
@@ -2425,7 +2425,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|
+|image:images/avatars/Neal_Tisdale.png[]
 |Neal Tisdale
 |
 |Marietta, Georgia 
@@ -2433,7 +2433,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/robilad[]
+|image:images/avatars/robilad.png[]
 |Dalibor Topic
 |link:https://twitter.com/robilad[@robilad]
 |Hamburg
@@ -2441,7 +2441,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/neugens[]
+|image:images/avatars/neugens.png[]
 |Mario Torre
 |link:https://twitter.com/neugens[@neugens]
 |Hamburg
@@ -2449,7 +2449,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/henri_tremblay[]
+|image:images/avatars/henri_tremblay.png[]
 |link:https://blog.tremblay.pro/[Henri Tremblay]
 |link:https://twitter.com/henri_tremblay[@henri_tremblay]
 |Montreal, Quebec
@@ -2457,7 +2457,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/saturnism[]
+|image:images/avatars/saturnism.png[]
 |Ray Tsang
 |link:https://twitter.com/saturnism[@saturnism]
 |New York City, New York
@@ -2465,7 +2465,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ktukker[]
+|image:images/avatars/ktukker.png[]
 |Klaasjan Tukker
 |link:https://twitter.com/ktukker[@ktukker]
 |Seattle, Washington
@@ -2473,7 +2473,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/javabuch[]
+|image:images/avatars/javabuch.png[]
 |Christian Ullenboom
 |link:https://twitter.com/javabuch[@javabuch]
 |Nürnberg, Bavaria
@@ -2481,7 +2481,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/raoulUK[]
+|image:images/avatars/raoulUK.png[]
 |Dr. Raoul-Gabriel Urma
 |link:https://twitter.com/raoulUK[@raoulUK]
 |Cambridge
@@ -2489,7 +2489,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ustarahman[]
+|image:images/avatars/ustarahman.png[]
 |Rahman Usta
 |link:https://twitter.com/ustarahman[@ustarahman]
 |Krakow
@@ -2497,7 +2497,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/tagir_valeev[]
+|image:images/avatars/tagir_valeev.png[]
 |Tagir Valeev
 |link:https://twitter.com/tagir_valeev[@tagir_valeev]
 |Novosibirsk
@@ -2505,7 +2505,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/DuchessFounder[]
+|image:images/avatars/DuchessFounder.png[]
 |Linda van der Pal
 |link:https://twitter.com/DuchessFounder[@DuchessFounder]
 |Amsterdam
@@ -2513,7 +2513,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/vanriper[]
+|image:images/avatars/vanriper.png[]
 |Michael Van Riper
 |link:https://twitter.com/vanriper[@vanriper]
 |Silicon Valley, California
@@ -2521,7 +2521,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2008
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/edivargas[]
+|image:images/avatars/edivargas.png[]
 |Jorge Vargas
 |link:https://twitter.com/edivargas[@edivargas]
 |Benito Juarez
@@ -2529,7 +2529,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2007
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/bvenners[]
+|image:images/avatars/bvenners.png[]
 |Bill Venners
 |link:https://twitter.com/bvenners[@bvenners]
 |
@@ -2537,7 +2537,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/karianna[]
+|image:images/avatars/karianna.png[]
 |Martijn Verburg
 |link:https://twitter.com/karianna[@karianna]
 |London
@@ -2553,7 +2553,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/vilojona[]
+|image:images/avatars/vilojona.png[]
 |Jonathan Vila
 |link:https://twitter.com/vilojona[@vilojona]
 |Barcelona
@@ -2561,7 +2561,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/michaelvitz[]
+|image:images/avatars/michaelvitz.png[]
 |Michael Vitz
 |link:https://twitter.com/michaelvitz[michaelvitz]
 |Moenchengladbach
@@ -2569,7 +2569,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/vogella[]
+|image:images/avatars/vogella.png[]
 |Lars Vogel
 |link:https://twitter.com/vogella[@vogella]
 |Hamburg
@@ -2577,7 +2577,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2012
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/johanvos[]
+|image:images/avatars/johanvos.png[]
 |Dr. Johan Vos
 |link:https://twitter.com/johanvos[@johanvos]
 |Leuven, Flanders
@@ -2585,7 +2585,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2012
 
 |{counter:idx}
-|
+|image:images/avatars/Joe_Walker.png[]
 |Joe Walker
 |
 |Leicester
@@ -2593,7 +2593,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/nitsanw[]
+|image:images/avatars/nitsanw.png[]
 |Nitsan Wakart
 |link:https://twitter.com/nitsanw[@nitsanw]
 |Cape Town
@@ -2601,7 +2601,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/dickwall[]
+|image:images/avatars/dickwall.png[]
 |Dick Wall
 |link:https://twitter.com/dickwall[@dickwall]
 |
@@ -2609,7 +2609,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/habuma[]
+|image:images/avatars/habuma.png[]
 |Craig Walls
 |link:https://twitter.com/habuma[@habuma]
 |Castle Rock, Colorado
@@ -2617,7 +2617,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/RichardWarburto[]
+|image:images/avatars/RichardWarburto.png[]
 |Dr. Richard Warburton
 |link:https://twitter.com/RichardWarburto[@RichardWarburto]
 |London
@@ -2625,7 +2625,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/JavaFXpert[]
+|image:images/avatars/JavaFXpert.png[]
 |Jim Weaver
 |link:https://twitter.com/JavaFXpert[@JavaFXpert]
 |Indianapolis, Indiana
@@ -2633,7 +2633,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2008
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/CaptainWebber[]
+|image:images/avatars/CaptainWebber.png[]
 |Paul Webber
 |link:https://twitter.com/sdjug[@sdjug] https://twitter.com/CaptainWebber[@CaptainWebber]
 |Poway, California
@@ -2641,7 +2641,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/miragemiko[]
+|image:images/avatars/miragemiko.png[]
 |Miro Wengner
 |link:https://twitter.com/miragemiko[@miragemiko]
 |Munich, Bavaria
@@ -2649,7 +2649,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/GeertjanW[]
+|image:images/avatars/GeertjanW.png[]
 |Geertjan Wielenga
 |link:https://twitter.com/GeertjanW[@GeertjanW]
 |Amsterdam
@@ -2657,7 +2657,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/a1anw2[]
+|image:images/avatars/a1anw2.png[]
 |link:https://alan.is/about/[Alan Williamson]
 |link:https://twitter.com/a1anw2[@a1anw2]
 |Virginia
@@ -2665,7 +2665,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/JoeWinchester[]
+|image:images/avatars/JoeWinchester.png[]
 |Joe Winchester
 |link:https://twitter.com/JoeWinchester[@JoeWinchester]
 |Southampton
@@ -2673,7 +2673,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/russel_winder[]
+|image:images/avatars/russel_winder.png[]
 |Russel Winder *
 |link:https://twitter.com/russel_winder[@russel_winder]
 |London
@@ -2681,7 +2681,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2021
 
 |{counter:idx}
-|
+|image:images/avatars/Adam_Winer.png[]
 |Adam Winer
 |
 |San Francisco, California
@@ -2689,7 +2689,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/rafaelcodes[]
+|image:images/avatars/rafaelcodes.png[]
 |Rafael Winterhalter
 |link:https://twitter.com/rafaelcodes[@rafaelcodes]
 |Oslo
@@ -2697,7 +2697,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/ewolff[]
+|image:images/avatars/ewolff.png[]
 |Eberhard Wolff
 |link:https://twitter.com/ewolff[@ewolff]
 |Kaiserslautern
@@ -2705,7 +2705,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/yusuke[]
+|image:images/avatars/yusuke.png[]
 |Yusuke Yamamoto
 |link:https://twitter.com/yusuke[@yusuke]
 |Tokyo
@@ -2713,7 +2713,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2019
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/yanaga[]
+|image:images/avatars/yanaga.png[]
 |Edson Yanaga
 |link:https://twitter.com/yanaga[@yanaga]
 |Raleigh-Durham, North Carolina
@@ -2721,7 +2721,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|
+|image:images/avatars/Sooyeul_Yang.png[]
 |Sooyeul Yang
 |
 |
@@ -2729,7 +2729,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/yenerm[]
+|image:images/avatars/yenerm.png[]
 |Murat Yener
 |link:https://twitter.com/yenerm[@yenerm]
 |
@@ -2737,7 +2737,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/juntao[]
+|image:images/avatars/juntao.png[]
 |Dr. Michael Juntao Yuan
 |link:https://twitter.com/juntao[@juntao]
 |Austin, Texas
@@ -2745,7 +2745,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
-|image:https://twivatar.glitch.me/chochosmx[]
+|image:images/avatars/chochosmx.png[]
 |Enrique Zamudio
 |link:https://twitter.com/chochosmx[@chochosmx]
 |Mexico City
