@@ -13,6 +13,8 @@ import java.time.temporal.ChronoUnit;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class avatars {
+    private static final long PAUSE = 20000;
+
     public static void main(String... args) throws Exception {
         if (null == args || args.length != 2) {
             System.out.println("❌ Usage: java avatars.java [TOKEN] [DIRECTORY]");
@@ -30,7 +32,7 @@ public class avatars {
 
         var objectMapper = new ObjectMapper();
 
-        Files.list(directory).forEach(image-> {
+        Files.list(directory).forEach(image -> {
             var imageName = image.getFileName().toString();
             var username = imageName.substring(0, imageName.length() - 4);
 
@@ -44,17 +46,29 @@ public class avatars {
                     .build();
                 var response = client.send(request, HttpResponse.BodyHandlers.ofByteArray()::apply);
 
-                String profileImageUrl = objectMapper.readTree(response.body()).findValue("profile_image_url").asText();
-                profileImageUrl = profileImageUrl.replace("_normal", "_bigger");
-
-                try (var stream = new URL(profileImageUrl).openStream()) {
-                    Files.copy(stream, image, StandardCopyOption.REPLACE_EXISTING);
-                    System.out.printf("✅ %s updated successfully%n", username);
+                var node = objectMapper.readTree(response.body()).findValue("profile_image_url");
+                if (null == node) {
+                    System.out.printf("❌ %s%n", username);
+                    Thread.sleep(PAUSE);
+                    return;
                 }
 
-                Thread.sleep(1000);
+                String profileImageUrl = node.asText();
+                if (profileImageUrl.contains("default_profile_images")) {
+                    System.out.printf("❌ %s%n", username);
+                    Thread.sleep(PAUSE);
+                    return;
+                }
+
+                profileImageUrl = profileImageUrl.replace("_normal", "_bigger");
+                try (var stream = new URL(profileImageUrl).openStream()) {
+                    Files.copy(stream, image, StandardCopyOption.REPLACE_EXISTING);
+                    System.out.printf("✅ %s%n", username);
+                }
+
+                Thread.sleep(PAUSE);
             } catch (Exception e) {
-                System.out.printf("❌ %s was not updated: %s%n", username, e.toString());
+                System.out.printf("❌ %s -> %s%n", username, e.toString());
             }
         });
     }
