@@ -13,7 +13,7 @@ import java.time.temporal.ChronoUnit;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class avatars {
-    private static final long PAUSE = 20000;
+    private static final long PAUSE = 5000;
 
     public static void main(String... args) throws Exception {
         if (null == args || args.length != 2) {
