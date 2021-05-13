@@ -1730,10 +1730,10 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/bmuskalla.png[]
-|bmuskalla
+|Benjamin Muskalla
 |link:https://twitter.com/bmuskalla[@bmuskalla]
 |
-|Switzerland
+|Germany
 |2021
 
 |{counter:idx}
