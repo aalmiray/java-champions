@@ -41,6 +41,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2009
 
 |{counter:idx}
+|image:images/avatars/gdams_.png[]
+|George Adams
+|link:https://twitter.com/gdams_[@gdams_]
+|Winchester
+|England
+|2021
+
+|{counter:idx}
 |image:images/avatars/bercut2000.png[]
 |Dmitry Aleksandrov
 |link:https://twitter.com/bercut2000[@bercut2000]
