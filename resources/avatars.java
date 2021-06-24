@@ -32,7 +32,7 @@ public class avatars {
 
         var objectMapper = new ObjectMapper();
 
-        Files.list(directory).forEach(image -> {
+        Files.list(directory).sorted().forEach(image -> {
             var imageName = image.getFileName().toString();
             var username = imageName.substring(0, imageName.length() - 4);
 
