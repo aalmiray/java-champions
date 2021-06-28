@@ -42,7 +42,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/gdams_.png[]
-|George Adams
+|link:https://www.linkedin.com/in/gdams[George Adams]
 |link:https://twitter.com/gdams_[@gdams_]
 |Winchester
 |England
