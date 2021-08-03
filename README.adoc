@@ -2227,7 +2227,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |{counter:idx}
 |image:images/avatars/hlship.png[]
 |Howard Lewis Ship
-|link:https://twitter.com/hlship[@hlship]
+|
 |Portland, Oregon
 |USA
 |2010
