@@ -577,6 +577,22 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
+|image:images/avatars/briandemers.png[]
+|Brian Demers
+|link:https://twitter.com/briandemers[@briandemers]
+|New Hampshire
+|USA
+|2021
+
+|{counter:idx}
+|image:images/avatars/edwinderks.png[]
+|Edwin Derks
+|link:https://twitter.com/edwinderks[@edwinderks]
+|
+|The Netherlands
+|2021
+
+|{counter:idx}
 |image:images/avatars/danieldfjug.png[]
 |Daniel deOliveira *
 |link:https://twitter.com/danieldfjug[@danieldfjug]
@@ -2639,6 +2655,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |London
 |UK
 |2016
+
+|{counter:idx}
+|image:images/avatars/_JamesWard.png[]
+|James Ward
+|link:https://twitter.com/_JamesWard[@_JamesWard]
+|Crested Butte, Colorado
+|USA
+|2021
 
 |{counter:idx}
 |image:images/avatars/JavaFXpert.png[]
