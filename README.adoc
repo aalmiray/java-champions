@@ -1635,7 +1635,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |{counter:idx}
 |image:images/avatars/dervis_m.png[]
 |Dervis Mansuroglu
-|link:https://twitter.com/dervis_m[@dervis_m]
+|link:https://twitter.com/dervismn[@dervismn]
 |Oslo
 |Norway
 |2019
