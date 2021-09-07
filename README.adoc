@@ -2595,7 +2595,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |{counter:idx}
 |image:images/avatars/michaelvitz.png[]
 |Michael Vitz
-|link:https://twitter.com/michaelvitz[michaelvitz]
+|link:https://twitter.com/michaelvitz[@michaelvitz]
 |Moenchengladbach
 |Germany
 |2021
