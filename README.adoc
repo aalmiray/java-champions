@@ -835,7 +835,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |{counter:idx}
 |image:images/avatars/davidgeary.png[]
 |David Geary
-|link:https://twitter.com/davidgeary[@davidgeary]
+|
 |Loveland, Colorado
 |USA
 |2009
