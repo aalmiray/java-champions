@@ -72,9 +72,12 @@ public class avatars {
     }
 
     private static boolean downloadImage(String username, String profileImageUrl, Path image) throws Exception {
+        var tmpImage = Files.createTempFile("jc", "");
+
         try (var stream = new URL(profileImageUrl).openStream()) {
-            var size = Files.copy(stream, image, StandardCopyOption.REPLACE_EXISTING);
+            var size = Files.copy(stream, tmpImage, StandardCopyOption.REPLACE_EXISTING);
             if (size > 0L) {
+                Files.move(tmpImage, image, StandardCopyOption.REPLACE_EXISTING);
                 System.out.printf("✅ %s%n", username);
                 return true;
             }
