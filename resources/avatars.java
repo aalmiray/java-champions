@@ -13,7 +13,7 @@ import java.time.temporal.ChronoUnit;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class avatars {
-    private static final long PAUSE = 2500;
+    private static final long PAUSE = 5000;
 
     public static void main(String... args) throws Exception {
         if (null == args || args.length != 2) {
@@ -62,8 +62,11 @@ public class avatars {
 
                 profileImageUrl = profileImageUrl.replace("_normal", "_bigger");
                 try (var stream = new URL(profileImageUrl).openStream()) {
-                    Files.copy(stream, image, StandardCopyOption.REPLACE_EXISTING);
+                    var size = Files.copy(stream, image, StandardCopyOption.REPLACE_EXISTING);
                     System.out.printf("✅ %s%n", username);
+                }
+                if (!downloadImage(username, profileImageUrl.replace("_normal", "_bigger"))) {
+                    downloadImage(username, profileImageUrl);
                 }
 
                 Thread.sleep(PAUSE);
@@ -71,5 +74,17 @@ public class avatars {
                 System.out.printf("❌ %s -> %s%n", username, e.toString());
             }
         });
+    }
+
+    private static boolean downloadImage(String username, String profileImageUrl) {
+        try (var stream = new URL(profileImageUrl).openStream()) {
+            var size = Files.copy(stream, image, StandardCopyOption.REPLACE_EXISTING);
+            if (size > 0L) {
+                System.out.printf("✅ %s%n", username);
+                return true;
+            }
+        }
+
+        return false;
     }
 }
