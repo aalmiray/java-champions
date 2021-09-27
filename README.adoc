@@ -588,7 +588,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |image:images/avatars/edwinderks.png[]
 |Edwin Derks
 |link:https://twitter.com/edwinderks[@edwinderks]
-|
+|Tilburg
 |The Netherlands
 |2021
 
