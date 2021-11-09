@@ -2305,6 +2305,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
+|image:images/avatars/KateStanley91.png[]
+|Kate Stanley
+|link:https://twitter.com/KateStanley91[@KateStanley91]
+|Hampshire
+|UK
+|2021
+
+|{counter:idx}
 |image:images/avatars/jstrachan.png[]
 |James Strachan
 |link:https://twitter.com/jstrachan[@jstrachan]
