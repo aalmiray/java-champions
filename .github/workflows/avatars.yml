@@ -31,7 +31,12 @@ jobs:
           cd resources
           ./jbang avatars.java ${{ secrets.TWITTER_TOKEN }} ../images/avatars
 
+      - name: Reset Avatars
+        run: |
+          BASEDIR=. sh resources/reset-avatars.sh
+
       - name: Commit Changes
+        if: always()
         run: |
           git add images/avatars
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
