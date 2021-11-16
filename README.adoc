@@ -825,6 +825,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2014
 
 |{counter:idx}
+|image:images/avatars/gAmUssA.png[]
+|Viktor Gamov
+|link:https://twitter.com/gAmUssA[@gAmUssA]
+|
+|USA
+|2021
+
+|{counter:idx}
 |image:images/avatars/Felipe_Gaucho.png[]
 |Felipe Gaúcho *
 |
