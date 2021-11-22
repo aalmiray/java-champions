@@ -25,7 +25,8 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 // use an attribute to avoid char substitutions
 :link-jim-gough: link:https://twitter.com/Jim__Gough[@Jim__Gough]
-`*` - Indicates a member has passed away.
+`🎗` - Indicates a member has passed away.
+`🍁` - Indicates a member is an Alumni.
 
 [%header]
 [subs="attributes"]
@@ -50,7 +51,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/bercut2000.png[]
-|Dmitry Aleksandrov
+|Dmitry Aleksandrov 🍁
 |link:https://twitter.com/bercut2000[@bercut2000]
 |Sofia
 |Bulgaria
@@ -74,7 +75,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/aalmiray.png[]
-|link:https://www.linkedin.com/in/aalmiray[Andres Almiray]
+|link:https://www.linkedin.com/in/aalmiray[Andres Almiray] 🍁
 |link:https://twitter.com/aalmiray[@aalmiray]
 |Basel
 |Switzerland/Mexico
@@ -602,7 +603,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/danieldfjug.png[]
-|Daniel deOliveira *
+|Daniel deOliveira 🎗
 |link:https://twitter.com/danieldfjug[@danieldfjug]
 |
 |Brazil
@@ -842,7 +843,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/Felipe_Gaucho.png[]
-|Felipe Gaúcho *
+|Felipe Gaúcho 🎗
 |
 |Rio de Janeiro
 |Brazil
@@ -898,7 +899,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/BrianGoetz.png[]
-|Brian Goetz
+|Brian Goetz 🍁
 |link:https://twitter.com/BrianGoetz[@BrianGoetz]
 |Burlington, Vermont 
 |USA
@@ -1114,7 +1115,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/ghillert.png[]
-|Gunnar Hillert
+|Gunnar Hillert 🍁
 |link:https://twitter.com/ghillert[@ghillert]
 |Holualoa, Hawaii
 |USA/Germany
@@ -1890,7 +1891,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/nipafx.png[]
-|Nicolai Parlog
+|Nicolai Parlog 🍁
 |link:https://twitter.com/nipafx[@nipafx]
 |Karlsruhe
 |Germany
@@ -1922,7 +1923,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/JosePaumard.png[]
-|Dr. José Paumard
+|Dr. José Paumard 🍁
 |link:https://twitter.com/JosePaumard[@JosePaumard]
 |Paris
 |France
@@ -1986,7 +1987,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/cquinn.png[]
-|Carl Quinn *
+|Carl Quinn 🎗
 |link:https://twitter.com/cquinn[@cquinn]
 |California
 |USA
@@ -2090,7 +2091,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/graemerocher.png[]
-|Graeme Rocher
+|Graeme Rocher 🍁
 |link:https://twitter.com/graemerocher[@graemerocher]
 |Bilbao
 |Spain/UK
@@ -2434,7 +2435,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/fthamura.png[]
-|Frans Thamura *
+|Frans Thamura 🎗
 |link:https://twitter.com/fthamura[@fthamura]
 |Jakarta
 |Indonesia
@@ -2490,7 +2491,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/robilad.png[]
-|Dalibor Topic
+|Dalibor Topic 🍁
 |link:https://twitter.com/robilad[@robilad]
 |Hamburg
 |Germany
@@ -2738,7 +2739,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/russel_winder.png[]
-|Russel Winder *
+|Russel Winder 🎗
 |link:https://twitter.com/russel_winder[@russel_winder]
 |London
 |UK
