@@ -25,7 +25,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 // use an attribute to avoid char substitutions
 :link-jim-gough: link:https://twitter.com/Jim__Gough[@Jim__Gough]
-`🎗` - Indicates a member has passed away.
+`🎗` - Indicates a member has passed away. +
 `🍁` - Indicates a member is an Alumni.
 
 [%header]
