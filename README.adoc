@@ -2084,7 +2084,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |{counter:idx}
 |image:images/avatars/leomrlima.png[]
 |Leonardo de Moura Rocha Lima
-|link:https://twitter.com/leomrlima[@leomrlima]
+|
 |São Paulo,
 |Brazil
 |2017
