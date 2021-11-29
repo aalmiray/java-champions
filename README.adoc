@@ -1002,6 +1002,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2013
 
 |{counter:idx}
+|image:images/avatars/mgrygles.png[]
+|Mary Grygleski
+|link:https://twitter.com/mgrygles[@mgrygles]
+|Chicago
+|USA
+|2021
+
+|{counter:idx}
 |image:images/avatars/ags313.png[]
 |Andrzej Grzesik
 |link:https://twitter.com/ags313[@ags313]
