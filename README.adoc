@@ -1898,6 +1898,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2020
 
 |{counter:idx}
+|image:images/avatars/baeldung.png[]
+|Eugene Paraschiv
+|link:https://twitter.com/baeldung[@baeldung]
+|
+|Romania
+|2021
+
+|{counter:idx}
 |image:images/avatars/nipafx.png[]
 |Nicolai Parlog 🍁
 |link:https://twitter.com/nipafx[@nipafx]
