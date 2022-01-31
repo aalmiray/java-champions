@@ -1642,6 +1642,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
+|image:images/avatars/smaldini.png[]
+|Stephane Maldini 🎗
+|link:https://twitter.com/smaldini[@smaldini]
+|California
+|USA / France
+|2022
+
+|{counter:idx}
 |image:images/avatars/Dan_Malks.png[]
 |Dan Malks
 |
