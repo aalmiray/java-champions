@@ -2186,6 +2186,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
+|image:images/avatars/deepu105.png[]
+|Deepu K Sasidharan
+|link:https://twitter.com/deepu105[@deepu105]
+|
+|The Netherlands
+|2022
+
+|{counter:idx}
 |image:images/avatars/tomsontom.png[]
 |Tom Schindl
 |link:https://twitter.com/tomsontom[@tomsontom]
