@@ -442,6 +442,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2006
 
 |{counter:idx}
+|image:images/avatars/ludoch.png[]
+|Ludovic Champenois
+|link:https://twitter.com/ludoch[@ludoch]
+|Mountain View, California
+|USA
+|2022
+
+|{counter:idx}
 |image:images/avatars/steveonjava.png[]
 |Stephen Chin
 |link:https://twitter.com/steveonjava[@steveonjava]
