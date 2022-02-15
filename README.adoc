@@ -538,6 +538,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
+|image:images/avatars/icougil.png[]
+|Nacho Cougil
+|link:https://twitter.com/icougil[@icougil]
+|Barcelona
+|Spain
+|2022
+
+|{counter:idx}
 |image:images/avatars/agnes_crepet.png[]
 |Agnes Crepet
 |link:https://twitter.com/agnes_crepet[@agnes_crepet]
