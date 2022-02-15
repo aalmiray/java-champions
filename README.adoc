@@ -2818,6 +2818,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Founding Member
 
 |{counter:idx}
+|image:images/avatars/lifeyx.png[]
+|Haim Yadid
+|link:https://twitter.com/lifeyx[@lifeyx]
+|
+|Israel
+|2022
+
+|{counter:idx}
 |image:images/avatars/yusuke.png[]
 |Yusuke Yamamoto
 |link:https://twitter.com/yusuke[@yusuke]
