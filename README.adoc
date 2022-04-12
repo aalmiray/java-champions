@@ -1898,6 +1898,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2011
 
 |{counter:idx}
+|image:images/avatars/gaijinco.png[]
+|Carlos Obregon
+|link:https://twitter.com/gaijinco[@gaijinco]
+|Bogota
+|Colombia
+|2022
+
+|{counter:idx}
 |image:images/avatars/tuxtor.png[]
 |Víctor Orozco
 |link:https://twitter.com/tuxtor[@tuxtor]
