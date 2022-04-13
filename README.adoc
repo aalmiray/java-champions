@@ -2613,8 +2613,8 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |image:images/avatars/tagir_valeev.png[]
 |Tagir Valeev
 |link:https://twitter.com/tagir_valeev[@tagir_valeev]
-|Novosibirsk
-|Russian Federation
+|Munich
+|Germany
 |2020
 
 |{counter:idx}
