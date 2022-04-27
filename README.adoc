@@ -1290,6 +1290,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2005
 
 |{counter:idx}
+|image:images/avatars/jjenkov.png[]
+|Jakob Jenkov
+|link:https://twitter.com/jjenkov[@jjenkov]
+|Copenhagen
+|Denmark
+|2022
+
+|{counter:idx}
 |image:images/avatars/emilyfhjiang.png[]
 |Emily Jiang
 |link:https://twitter.com/emilyfhjiang[@emilyfhjiang]
