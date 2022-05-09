@@ -2058,6 +2058,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
+|image:images/avatars/bazlur_rahman.png[]
+|Bazlur Rahman
+|link:https://twitter.com/bazlur_rahman[@bazlur_rahman]
+|Toronto
+|Canada/Bangladesh
+|2022
+
+|{counter:idx}
 |image:images/avatars/mraible.png[]
 |Matt Raible
 |link:https://twitter.com/mraible[@mraible]
