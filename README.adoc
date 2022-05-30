@@ -1282,6 +1282,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2018
 
 |{counter:idx}
+|image:images/avatars/gracejansen27.png[]
+|Grace Jansen
+|link:https://twitter.com/gracejansen27[@gracejansen27]
+|
+|UK
+|2022
+
+|{counter:idx}
 |image:images/avatars/Stephan007.png[]
 |Stephan Janssen
 |link:https://twitter.com/Stephan007[@Stephan007]
