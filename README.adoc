@@ -299,7 +299,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/alblue.png[]
-|Dr. Alex Blewitt
+|Dr. Alex Blewitt  🎗
 |link:https://twitter.com/alblue[@alblue]
 |Milton Keynes
 |UK
