@@ -702,7 +702,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Sergei Egorov
 |link:https://twitter.com/bsideup[@bsideup]
 |
-|Estonia/Germany
+|Russia
 |2020
 
 |{counter:idx}
