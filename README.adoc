@@ -2858,14 +2858,6 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2015
 
 |{counter:idx}
-|image:images/avatars/ewolff.png[]
-|Eberhard Wolff
-|link:https://twitter.com/ewolff[@ewolff]
-|Kaiserslautern
-|Germany
-|Founding Member
-
-|{counter:idx}
 |image:images/avatars/lifeyx.png[]
 |Haim Yadid
 |link:https://twitter.com/lifeyx[@lifeyx]
