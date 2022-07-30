@@ -27,6 +27,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 :link-jim-gough: link:https://twitter.com/Jim__Gough[@Jim__Gough]
 `🎗` - Indicates a member has passed away. +
 `🍁` - Indicates a member is an Alumni.
+`⛱` - Indicates a member has retired from the program.
 
 [%header]
 [subs="attributes"]
@@ -1523,7 +1524,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/crazybob.png[]
-|Bob Lee
+|Bob Lee ⛱
 |link:https://twitter.com/crazybob[@crazybob]
 |San Francisco, California
 |USA
@@ -1915,7 +1916,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/rickardoberg.png[]
-|Rickard Oberg
+|Rickard Oberg ⛱
 |link:https://twitter.com/rickardoberg[@rickardoberg]
 |Selangor
 |Malaysia
@@ -2859,7 +2860,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 
 |{counter:idx}
 |image:images/avatars/ewolff.png[]
-|Eberhard Wolff
+|Eberhard Wolff ⛱
 |link:https://twitter.com/ewolff[@ewolff]
 |Kaiserslautern
 |Germany
