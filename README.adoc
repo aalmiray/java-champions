@@ -1830,7 +1830,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |image:images/avatars/mthmulders.png[]
 |Maarten Mulders
 |link:https://twitter.com/mthmulders[@mthmulders]
-|
+|Apeldoorn
 |The Netherlands
 |2022
 
