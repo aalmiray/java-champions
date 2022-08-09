@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <h2 class="post-list-heading">{{ page.list_title | default: "Current Java Champions" }}</h2>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Avatar</th>
+      <th>Twitter</th>
+      <th>City/State</th>
+      <th>Country</th>
+      <th>Year of inception</th>
+    </tr>
+    {%- for champion in site.data.champions -%}
+    <tr>
+      <td><a class="post-link" href="{{ champion.link }}">{{ champion.name | escape }}</a></td>
+      <td><img src="{{ champion.image }}" alt="{{ champion.name }}"></td>
+      <td>{% if champion.twitter %}<a href="https://twitter.com/{{ champion.twitter }}">@{{ champion.twitter }}</a>{% endif %}</td>
+      <td>{{ champion.city }}</td>
+      <td>{{ champion.country }}</td>
+      <td>{{ champion.year }}</td>
+    </tr>
+    {%- endfor -%}
+  </table>
+
+</div>

@@ -1,0 +1,16 @@
+= Website development
+
+== To install
+
+Ideally, use rbenv to pick up the right Ruby version directly.
+Then:
+
+`bundle install`
+
+== To develop
+
+To launch with live reload:
+
+`bundle exec jekyll serve --live-reload`
+
+To change something in the Jekyll theme see https://jekyllrb.com/docs/themes/#overriding-theme-defaults[this].

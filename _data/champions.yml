@@ -1,0 +1,15 @@
+- name: Henri Tremblay
+  image: images/avatars/henri_tremblay.png
+  link: https://blog.tremblay.pro
+  twitter: henri_tremblay
+  city: Montreal, Quebec
+  country: Canada
+  year: 2016
+
+- name: Andres Almiray
+  image: images/avatars/aalmiray.png
+  link: https://www.linkedin.com/in/aalmiray
+  twitter: https://twitter.com/aalmiray
+  city: Basel
+  country: Switzerland/Mexico
+  year: 2010
