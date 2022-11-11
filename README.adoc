@@ -32,7 +32,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 [%header]
 [subs="attributes"]
 |===
-| | |Name |Twitter |City/State |Country |Year
+| | |Name |Social |City/State |Country |Year
 
 |{counter:idx}
 |image:images/avatars/oezcanacar.png[]
@@ -2325,7 +2325,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |{counter:idx}
 |image:images/avatars/ebullientworks.png[]
 |Erin Schnabel
-|link:https://twitter.com/ebullientworks[@ebullientworks]
+|link:https://twitter.com/ebullientworks[@ebullientworks] link:https://fosstodon.org/@ebullient[@ebullient@fosstodon.org]
 |Wappingers Falls, New York
 |USA
 |2019
