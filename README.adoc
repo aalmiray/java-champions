@@ -963,6 +963,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2017
 
 |{counter:idx}
+|image:images/avatars/rodrigograciano.png[]
+|Rodrigo Graciano
+|link:https://twitter.com/rodrigograciano[@rodrigograciano]
+|New York City, New York
+|USA/Brazil
+|2022
+
+|{counter:idx}
 |image:images/avatars/vgrazi.png[]
 |Victor Grazi
 |link:https://twitter.com/vgrazi[@vgrazi]
