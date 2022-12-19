@@ -179,9 +179,10 @@ members:
     year: 2017
     country:
       nomination: USA
-    city: San Francisco, CA
+    city: San Jose, CA
     social:
       twitter: https://twitter.com/pbakker
+      mastodon: https://mastodon.online/@paulbakker
     avatar: images/avatars/pbakker.png
   - name: Bert Bates
     year: Founding Member
