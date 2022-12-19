@@ -1349,10 +1349,13 @@ members:
   - name: Dr. Heinz M. Kabutz
     year: 2005
     country:
-      nomination: Greece
-    city: Chorafakia, Chania
+      nomination: South Africa
+      residence: Greece
+    city: Chorafakia, Chania, Crete
     social:
       twitter: https://twitter.com/heinzkabutz
+      mastodon: https://mastodon.social/@heinzkabutz
+      linkedin: https://www.linkedin.com/in/heinzkabutz
       website: https://www.javaspecialists.eu
     avatar: images/avatars/heinzkabutz.png
   - name: Mattias Karlsson
