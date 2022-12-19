@@ -1115,6 +1115,14 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |2016
 
 |{counter:idx}
+|image:images/avatars/DanHeidinga.png[]
+|Dan Heidinga
+|link:https://twitter.com/DanHeidinga[@DanHeidinga]
+|Ottawa, Ontario
+|Canada
+|2022
+
+|{counter:idx}
 |image:images/avatars/net0pyr.png[]
 |Michael Heinrichs
 |link:https://twitter.com/net0pyr[@net0pyr]
