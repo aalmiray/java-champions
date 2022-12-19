@@ -1,0 +1,2897 @@
+####################################################################################
+#
+# country:
+#  nomination: country of residence at the time of nomination
+#  residence: current residence
+#  citizenship: primary citizenship (if different from nomination, residence, birth
+#  birth: country of birth
+#
+# status:
+#  - founding-member
+#  - alumni
+#  - retired
+#  - passed-away
+#  - honorary-member
+#
+####################################################################################
+
+members:
+  - name: Oezcan Acar
+    year: 2009
+    country:
+      nomination: Turkey
+      residence: Germany
+    city: Frankfurt
+    social:
+      twitter: https://twitter.com/oezcanacar
+    avatar: images/avatars/oezcanacar.png
+  - name: George Adams
+    year: 2021
+    country:
+      nomination: England
+    city: Winchester
+    social:
+      twitter: https://twitter.com/gdams_
+      linkedin: https://www.linkedin.com/in/gdams
+    avatar: images/avatars/gdams_.png
+  - name: Dmitry Aleksandrov
+    year: 2017
+    country:
+      nomination: Bulgaria
+    city: Sofia
+    social:
+      twitter: https://twitter.com/bercut2000
+    avatar: images/avatars/bercut2000.png
+    status:
+      - alumni
+  - name: Dan Allen
+    year: 2013
+    country:
+      nomination: USA
+    city: Denver, Colorado
+    social:
+      twitter: https://twitter.com/mojavelinux
+    avatar: images/avatars/mojavelinux.png
+  - name: Dion Almaer
+    year: 2005
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/dalmaer
+    avatar: images/avatars/dalmaer.png
+  - name: Andres Almiray
+    year: 2010
+    country:
+      nomination: Switzerland
+      citizenship: Mexico
+      birth: Colombia
+    city: Basel
+    social:
+      twitter: https://twitter.com/aalmiray
+        - mastodon: https://mastodon.social/@aalmiray
+      linkedin: https://www.linkedin.com/in/aalmiray
+    avatar: images/avatars/aalmiray.png
+    status:
+      - alumni
+  - name: Deepak Alur
+    year: 2006
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/deepakalur
+    avatar: images/avatars/deepakalur.png
+  - name: Gail C. Anderson
+    year: 2016
+    country:
+      nomination: USA
+    city: San Diego, California
+    social:
+      twitter: https://twitter.com/gail_asgteach
+    avatar: images/avatars/gail_asgteach.png
+  - name: Paul L. Anderson
+    year: 2016
+    country:
+      nomination: USA
+    city: San Diego, California
+    social:
+      twitter: https://twitter.com/Paul_ASGTeach
+    avatar: images/avatars/Paul_ASGTeach.png
+  - name: Fernando Anselmo
+    year: 2006
+    country:
+      nomination: Brazil
+    avatar: images/avatars/Fernando_Anselmo.png
+  - name: Paris Apostolopoulos
+    year: 2007
+    country:
+      nomination: UK
+      citizenship: Greece
+    city: London
+    social:
+      twitter: https://twitter.com/javapapo
+    avatar: images/avatars/javapapo.png
+  - name: Jean-François Arcand
+    year: 2018
+    country:
+      nomination: Canada
+    city: Montreal
+    social:
+      twitter: https://twitter.com/jfarcand
+    avatar: images/avatars/jfarcand.png
+  - name: Katia Aresti
+    year: 2019
+    country:
+      nomination: France
+      citizenship: Spain
+    social:
+      twitter: https://twitter.com/karesti
+    avatar: images/avatars/karesti.png
+  - name: Anton Arhipov
+    year: 2014
+    country:
+      nomination: Estonia
+    social:
+      twitter: https://twitter.com/antonarhipov
+    avatar: images/avatars/antonarhipov.png
+  - name: María Arias de Reyna
+    year: 2020
+    country:
+      nomination: Spain
+    city: Seville
+    social:
+      twitter: https://twitter.com/delawen
+    avatar: images/avatars/delawen.png
+  - name: Sergey Astakhov
+    year: 2005
+    country:
+      nomination: Russian Federation
+    avatar: images/avatars/Sergey_Astakhov.png
+  - name: Raymond Augé
+    year: 2021
+    country:
+      nomination: Canada
+    social:
+      twitter: https://twitter.com/rotty3000
+    avatar: images/avatars/rotty3000.png
+  - name: Calvin Austin
+    year: 2005
+    country:
+      nomination: USA
+    city: San Francisco, California
+    avatar: images/avatars/Calvin_Austin.png
+  - name: Hovhannes Avoyan
+    year: 2005
+    country:
+      nomination: USA
+      citizenship: Armenia
+    city: San Francisco, California
+    avatar: images/avatars/Hovhannes_Avoyan.png
+  - name: Fernando Babadopulos
+    year: 2017
+    country:
+      -nomination: Brazil
+    city: São Paulo
+    social:
+      twitter: https://twitter.com/babadopulos
+    avatar: images/avatars/babadopulos.png
+  - name: Paul Bakker
+    year: 2017
+    country:
+      nomination: USA
+    city: San Francisco, CA
+    social:
+      twitter: https://twitter.com/pbakker
+    avatar: images/avatars/pbakker.png
+  - name: Bert Bates
+    year: Founding Member
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/BertBates
+    avatar: images/avatars/BertBates.png
+  - name: Monica Beckwith
+    year: 2017
+    country:
+      nomination: USA
+    city: Texas
+    social:
+      twitter: https://twitter.com/mon_beck
+    avatar: images/avatars/mon_beck.png
+  - name: Lucio Benfante
+    year: 2006
+    country:
+      nomination: Italy
+    city: Verona
+    social:
+      twitter: https://twitter.com/luciobenfante
+    avatar: images/avatars/luciobenfante.png
+  - name: Jean-Philippe Bempel
+    year: 2021
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/jpbempel
+    avatar: images/avatars/jpbempel.png
+  - name: Brian Benz
+    year: 2020
+    country:
+      nomination: USA
+    city: Las Vegas
+    social:
+      twitter: https://twitter.com/bbenz
+    avatar: images/avatars/bbenz.png
+  - name: Emmanuel Bernard
+    year: 2017
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/emmanuelbernard
+    avatar: images/avatars/emmanuelbernard.png
+  - name: Geert Bevin
+    year: 2006
+    country:
+      nomination: Belgium
+    social:
+      twitter: https://twitter.com/gbevin
+    avatar: images/avatars/gbevin.png
+  - name: Adam Bien
+    year: 2007
+    country:
+      nomination: Germany
+    social:
+      twitter: https://twitter.com/AdamBien
+    avatar: images/avatars/AdamBien.png
+  - name: Dr. Xu Bin
+    year: 2005
+    country:
+      nomination: China
+    avatar: images/avatars/Xu_Bin.png
+  - name: Jean Bisutti
+    year: 2021
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/jean_bisutti
+    avatar: images/avatars/jean_bisutti.png
+  - name: Sébastien Blanc
+    year: 2020
+    country:
+      nomination: France
+    city: Nice
+    social:
+      twitter: https://twitter.com/sebi2706
+    avatar: images/avatars/sebi2706.png
+  - name: David Blevins
+    year: 2015
+    country:
+      nomination: USA
+    city: Santa Monica, California
+    social:
+      twitter: https://twitter.com/dblevins
+    avatar: images/avatars/dblevins.png
+  - name: Dr. Alex Blewitt
+    year: 2020
+    country:
+      nomination: UK
+    city: Milton Keynes
+    social:
+      twitter: https://twitter.com/alblue
+    avatar: images/avatars/alblue.png
+    status:
+      - passed-away
+  - name: Dr. Joshua Bloch
+    year: 2005
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/joshbloch
+    avatar: images/avatars/joshbloch.png
+  - name: David Bock
+    year: 2006
+    country:
+      nomination: USA
+    city: Washington DC
+    social:
+      twitter: https://github.com/bokmann
+    avatar: images/avatars/bokmann.png
+  - name: Jonas Bonér
+    year: 2011
+    country:
+      nomination: Sweden
+    social:
+      twitter: https://twitter.com/jboner
+    avatar: images/avatars/jboner.png
+  - name: Simone Bordet
+    year: 2016
+    country:
+      nomination: Italy
+    city: Turin
+    social:
+      twitter: https://twitter.com/simonebordet
+    avatar: images/avatars/simonebordet.png
+  - name: Bruno Borges
+    year: 2019
+    country:
+      nomination: Canada
+      citizenship: Brazil
+    social:
+      twitter: https://twitter.com/brunoborges
+    avatar: images/avatars/brunoborges.png
+  - name: Jeanne Boyarsky
+    year: 2019
+    country:
+      nomination: USA
+    city: New York City, New York
+    social:
+      twitter: https://twitter.com/jeanneboyarsky
+    avatar: images/avatars/jeanneboyarsky.png
+  - name: Bruno Bossola
+    year: 2005
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/bbossola
+      linkedin: https://www.linkedin.com/in/bbossola
+    avatar: images/avatars/bbossola.png
+  - name: Vincent Brabant
+    year: 2005
+    country:
+      nomination: Belgium
+    social:
+      twitter: https://twitter.com/vbrabant
+    avatar: images/avatars/vbrabant.png
+    status:
+      - founding-member
+  - name: Aristides Villareal
+    year: 2021
+    country:
+      nomination: Panama
+    social:
+      twitter: https://twitter.com/aristidesvbravo
+    avatar: images/avatars/aristidesvbravo.png
+  - name: Dr. Daniel Bryant
+    year: 2018
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/danielbryantuk
+    avatar: images/avatars/danielbryantuk.png
+  - name: Bill Burke
+    year: 2005
+    country:
+      nomination: USA
+    avatar: images/avatars/Bill_Burke.png
+    status:
+      - founding-member
+  - name: Barry Burd
+    year: 2020
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/barryburdtweets
+    avatar: images/avatars/barryburdtweets.png
+  - name: Ed Burns
+    year: 2020
+    country:
+      nomination: USA
+    city: Florida
+    social:
+      twitter: https://twitter.com/edburns
+    avatar: images/avatars/edburns.png
+  - name: Mert Caliskan
+    year: 2014
+    country:
+      - nomination: Turkey
+    city: Ankara
+    social:
+      twitter: https://twitter.com/mertcal
+      linkedin: https://www.linkedin.com/in/mertcaliskan
+    avatar: images/avatars/mertcal.png
+  - name: Mike Cannon-Brookes
+    year: 2006
+    country:
+      - nomination: Australia
+    city: Sydney
+    social:
+      twitter: https://twitter.com/mcannonbrookes
+    avatar: images/avatars/mcannonbrookes.png
+  - name: Tasha Carl
+    year: 2013
+    country:
+      - nomination: Belgium
+    social:
+      twitter: https://twitter.com/imifos
+    avatar: images/avatars/imifos.png
+  - name: Magno Cavalcante
+    year: 2006
+    country:
+      nomination: Brazil
+    city: Rio de Janeiro
+    social:
+      twitter: https://twitter.com/magnocav
+    avatar: images/avatars/magnocav.png
+  - name: Ludovic Champenois
+    year: 2022
+    country:
+      nomination: USA
+    city: Mountain View, California
+    social:
+      twitter: https://twitter.com/ludoch
+    avatar: images/avatars/ludoch.png
+  - name: Stephen Chin
+    year: 2009
+    country:
+      nomination: USA
+    city: Belmont, California
+    social:
+      twitter: https://twitter.com/steveonjava
+    avatar: images/avatars/steveonjava.png
+  - name: Hillmer Chona
+    year: 2019
+    country:
+      nomination: Colombia
+    social:
+      twitter: https://twitter.com/HillmerCh
+    avatar: images/avatars/HillmerCh.png
+  - name: Dr. Cliff Click
+    year: 2019
+    country:
+      nomination: USA
+    city: Sunnyvale, California
+    social:
+      twitter: https://twitter.com/cliff_click
+    avatar: images/avatars/cliff_click.png
+  - name: Cagatay Civici
+    year: 2017
+    country:
+      nomination: Turkey
+    social:
+      twitter: https://twitter.com/cagataycivici
+    avatar: images/avatars/cagataycivici.png
+  - name: Jeff Cobb
+    year: 2005
+    country:
+      nomination: USA
+    avatar: images/avatars/Jeff_Cobb.png
+  - name: Flavia Coelho
+    year: 2006
+    country:
+      nomination: Brazil
+    city: São Paulo
+    avatar: images/avatars/Flavia_Coelho.png
+  - name: Henry Coles
+    year: 2020
+    country:
+      nomination: Scotland
+    city: Edinburgh
+    social:
+      twitter: https://twitter.com/_pitest
+    avatar: images/avatars/_pitest.png
+  - name: Stephen Colebourne
+    year: 2007
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/jodastephen
+    avatar: images/avatars/jodastephen.png
+  - name: Drabo Constantin
+    year: 2020
+    country:
+      nomination: Burkina Faso
+    social:
+      twitter: https://twitter.com/PandaConstantin
+    avatar: images/avatars/PandaConstantin.png
+  - name: Joel Costigliola
+    year: 2021
+    country:
+      nomination: New Zealand
+      citizenship: France
+    social:
+      twitter: https://twitter.com/JoCosti
+    avatar: images/avatars/JoCosti.png
+  - name: Roberto Cortez
+    year: 2016
+    country:
+      nomination: Portugal
+    city: Coimbra
+    social:
+      twitter: https://twitter.com/radcortez
+    avatar: images/avatars/radcortez.png
+  - name: Nacho Cougil
+    year: 2022
+    country:
+      nomination: Spain
+    city: Barcelona
+    social:
+      twitter: https://twitter.com/icougil
+    avatar: images/avatars/icougil.png
+  - name: Agnes Crepet
+    year: 2012
+    country:
+      nomination: The Netherlands
+      citizenship: France
+    city: Amsterdam
+    social:
+      twitter: https://twitter.com/agnes_crepet
+    avatar: images/avatars/agnes_crepet.png
+  - name: Dr. Holly Cummins
+    year: 2017
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/holly_cummins
+    avatar: images/avatars/holly_cummins.png
+  - name: Ian F. Darwin
+    year: 2005
+    country:
+      nomination: Canada
+    city: Ontario
+    social:
+      twitter: https://twitter.com/Ian_Darwin
+    avatar: images/avatars/Ian_Darwin.png
+    status:
+      - founding-member
+  - name: Sebastian Daschner
+    year: 2016
+    country:
+      nomination: Germany
+    city: Munich
+    social:
+      twitter: https://twitter.com/DaschnerS
+    avatar: images/avatars/DaschnerS.png
+  - name: Paul J. Deitel
+    year: 2005
+    country:
+      nomination: USA
+    city: Sudbury, Massachusetts
+    social:
+      twitter: https://twitter.com/deitel
+    avatar: http://i.picasion.com/resize89/e4a02b14694e419dbd39f90befecd1ee.jpg[]
+  - name: Valere Dejardin
+    year: 2005
+    country:
+      nomination: France
+    avatar: images/avatars/Valere_Dejardin.png
+    status:
+      - founding-member
+  - name: Daniel De Luca
+    year: 2015
+    country:
+      nomination: Belgium
+    city: Brussels
+    social:
+      twitter: https://twitter.com/danieldeluca
+    avatar: images/avatars/danieldeluca.png
+  - name: Brian Demers
+    year: 2021
+    country:
+      nomination: USA
+    city: New Hampshire
+    social:
+      twitter: https://twitter.com/briandemers
+    avatar: images/avatars/briandemers.png
+  - name: Edwin Derks
+    year: 2021
+    country:
+      nomination: The Netherlands
+    city: Tilburg
+    social:
+      twitter: https://twitter.com/edwinderks
+    avatar: images/avatars/edwinderks.png
+  - name: Daniel deOliveira
+    year: 2005
+    country:
+      nomination: Brazil
+    social:
+      twitter: https://twitter.com/danieldfjug[
+    avatar: images/avatars/danieldfjug.png
+    status:
+      - founding-member
+      - passed-away
+  - name: José Díaz
+    year: 2018
+    country:
+      nomination: Perú
+    social:
+      twitter: https://twitter.com/jamdiazdiaz
+    avatar: images/avatars/jamdiazdiaz.png
+  - name: Filippo Diotalevi
+    year: 2005
+    country:
+      nomination: UK
+      citizenship: Italy
+    city: London
+    social:
+      twitter: https://twitter.com/fdiotalevi
+    avatar: images/avatars/fdiotalevi.png
+  - name: Oleh Dokuka
+    year: 2019
+    country:
+      nomination: Ukraine
+    social:
+      twitter: https://twitter.com/OlehDokuka
+    avatar: images/avatars/OlehDokuka.png
+  - name: Jean-Michel Doudoux
+    year: 2014
+    country:
+      nomination: France
+    city: Metz
+    social:
+      twitter: https://twitter.com/jmdoudoux
+    avatar: images/avatars/jmdoudoux.png
+  - name: Oliver Drotbohm
+    year: 2017
+    country:
+      nomination: Germany
+    city: Dresden
+    social:
+      twitter: https://twitter.com/odrotbohm
+    avatar: images/avatars/odrotbohm.png
+  - name: Julien Dubois
+    year: 2018
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/juliendubois
+    avatar: images/avatars/juliendubois.png
+  - name: Hendrik Ebbers
+    year: 2016
+    country:
+      nomination: Germany
+    city: Dortmund
+    social:
+      twitter: https://twitter.com/hendrikEbbers
+    avatar: images/avatars/hendrikEbbers.png
+  - name: Bruce Eckel
+    year: 2006
+    country:
+      nomination: USA
+    city: Colorado
+    social:
+      twitter: https://twitter.com/BruceEckel
+    avatar: images/avatars/BruceEckel.png
+  - name: Lukas Eder
+    year: 2015
+    country:
+      nomination: Switzerland
+    city: St. Gallen
+    social:
+      twitter: https://twitter.com/lukaseder
+    avatar: images/avatars/lukaseder.png
+  - name: Sergei Egorov
+    year: 2020
+    country:
+      nomination: Russian Federation
+    social:
+      twitter: https://twitter.com/bsideup
+    avatar: images/avatars/bsideup.png
+  - name: Markus Eisele
+    year: 2014
+    country:
+      nomination: Germany
+    city: Munich
+    social:
+      twitter: https://twitter.com/myfear
+    avatar: images/avatars/myfear.png
+  - name: Badr El Houari
+    year: 2016
+    country:
+      nomination: Morocco
+    city: Casablanca
+    social:
+      twitter: https://twitter.com/badrelhouari
+    avatar: images/avatars/badrelhouari.png
+  - name: Roman Elizarov
+    year: 2006
+    country:
+      nomination: Russian Federation
+    social:
+      twitter: https://twitter.com/relizarov
+    avatar: images/avatars/relizarov.png
+  - name: Christoph Engelbert
+    year: 2018
+    country:
+      nomination: Germany
+    city: Haan, North Rhine-Westphalia
+    social:
+      twitter: https://twitter.com/noctarius2k
+    avatar: images/avatars/noctarius2k.png
+  - name: Anton (Toni) Epple
+    year: 2013
+    country:
+      nomination: Germany
+    city: Munich
+    social:
+      twitter: https://twitter.com/monacotoni
+    avatar: images/avatars/monacotoni.png
+  - name: Bert Ertman
+    year: 2008
+    country:
+      nomination: The Netherlands
+    city: Nijmegen
+    social:
+      twitter: https://twitter.com/BertErtman
+    avatar: images/avatars/BertErtman.png
+  - name: Dr. Clement Escoffier
+    year: 2019
+    country:
+      nomination: France
+    city: Valence, Rhône-Alpes
+    social:
+      twitter: https://twitter.com/clementplop
+    avatar: images/avatars/clementplop.png
+  - name: Ben Evans
+    year: 2013
+    country:
+      nomination: Spain
+      citizenship: UK
+    social:
+      twitter: https://twitter.com/kittylyst
+    avatar: images/avatars/kittylyst.png
+  - name: link:https://yakovfain.com/[Yakov Fain]
+    year: 2005
+    country:
+      nomination: USA
+    city: New York City, New York
+    social:
+      twitter: https://twitter.com/yfain
+    avatar: images/avatars/yfain.png
+  - name: Rommel Feria
+    year: 2--5
+    country:
+      nomination: Philippines
+    social:
+      twitter: https://twitter.com/rom
+    avatar: images/avatars/rom.png
+    status:
+      - founding-member
+  - name: David Flanagan
+    year: 2005
+    country:
+      nomination: USA
+    city: Washington State
+    social:
+      twitter: https://twitter.com/\__DavidFlanagan
+    avatar: images/avatars/__DavidFlanagan.png
+    status:
+      - founding-member
+  - name: Prof. Ken Fogel
+    year: 2018
+    country:
+      nomination: Canada
+    city: Cote Saint-Luc, Quebec
+    social:
+      twitter: https://twitter.com/omniprof
+    avatar: images/avatars/omniprof.png
+  - name: Axel Fontaine
+    year: 2016
+    country:
+      nomination: Germany
+    social:
+      twitter: https://twitter.com/axelfontaine
+    avatar: images/avatars/axelfontaine.png
+  - name: Dr. Remi Forax
+    year: 2016
+    country:
+      nomination: France
+    avatar: images/avatars/Remi_Forax.png
+  - name: Mario Fusco
+    year: 2016
+    country:
+      nomination: Italy
+    city: Milan
+    social:
+      twitter: https://twitter.com/mariofusco
+    avatar: images/avatars/mariofusco.png
+  - name: Dr. Alexey Fyodorov
+    year: 2016
+    country:
+      nomination: Russian Federation
+    city: Saint Petersburg
+    social:
+      twitter: https://twitter.com/23derevo
+    avatar: images/avatars/23derevo.png
+  - name: Dr. Neal Gafter
+    year: 2007
+    country:
+      nomination: USA
+    city: Seattle, Washington
+    social:
+      twitter: https://twitter.com/gafter
+    avatar: images/avatars/gafter.png
+  - name: David Gageot
+    year: 2014
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/dgageot
+    avatar: images/avatars/dgageot.png
+  - name: Viktor Gamov
+    year: 2021
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/gAmUssA
+    avatar: images/avatars/gAmUssA.png
+  - name: Felipe Gaúcho
+    year: 2010
+    country:
+      nomination: Brazil
+    city: Rio de Janeiro
+    avatar: images/avatars/Felipe_Gaucho.png
+    status:
+      - passed-away
+  - name: David Geary
+    year: 2009
+    country:
+      nomination: USA
+    city: Loveland, Colorado
+    avatar: images/avatars/davidgeary.png
+  - name: Trisha Gee
+    year: 2014
+    country:
+      nomination: Spain
+      citizenship: UK
+    city: Seville, Andalusia
+    social:
+      twitter: https://twitter.com/trisha_gee
+    avatar: images/avatars/trisha_gee.png
+  - name: Jeff Genender
+    year: 2009
+    country:
+      nomination: USA
+    city: Denver, Colorado
+    social:
+      twitter: https://twitter.com/jgenender
+    avatar: images/avatars/jgenender.png
+  - name: Bruno Ghisi
+    year: 2007
+    country:
+      nomination: Brazil
+    city: Florianópolis, Santa Catarina
+    avatar: images/avatars/Bruno_Ghisi.png
+  - name: Fabrizio Gianneschi
+    year: 2005
+    country:
+      nomination: Italy
+    city: Cagliari, Sardinia
+    social:
+      twitter: https://twitter.com/javabird
+    avatar: images/avatars/javabird.png
+  - name: Jonathan Giles
+    year: 2018
+    country:
+      nomination: New Zealand
+    social:
+      twitter: https://twitter.com/JonathanGiles
+    avatar: images/avatars/JonathanGiles.png
+  - name: Brian Goetz
+    year: 2006
+    country:
+      nomination: USA
+    city: Burlington, Vermont
+    social:
+      twitter: https://twitter.com/BrianGoetz
+    avatar: images/avatars/BrianGoetz.png
+    status:
+      - alumni
+  - name: David Gómez
+    year: 2020
+    country:
+      nomination: Spain
+    city: Madrid
+    social:
+      twitter: https://twitter.com/dgomezg
+    avatar: images/avatars/dgomezg.png
+  - name: Antonio Goncalves
+    year: 2008
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/agoncal
+    avatar: images/avatars/agoncal.png
+  - name: Dr. James Gosling
+    year: 2005
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/errcraft
+    avatar: images/avatars/errcraft.png
+    status:
+      - honorary-member
+  - name: Jim Gough
+    year: 2020
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/Jim__Gough
+    avatar: images/avatars/Jim__Gough.png
+  - name: Rabea Gransberger
+    year: 2017
+    country:
+      nomination: Germany
+    city: Bremen
+    social:
+      twitter: https://twitter.com/rgransberger
+    avatar: images/avatars/rgransberger.png
+  - name: Rodrigo Graciano
+    year: 2022
+    country:
+      nomination: USA
+      citizenship: Brazil
+    city: New York City, New York
+    social:
+      twitter: https://twitter.com/rodrigograciano
+    avatar: images/avatars/rodrigograciano.png
+  - name: Victor Grazi
+    year: 2012
+    country:
+      nomination: USA
+    city: New York City, New York
+    social:
+      twitter: https://twitter.com/vgrazi
+    avatar: images/avatars/vgrazi.png
+  - name: Frank Greco
+    year: 2007
+    country:
+      nomination: USA
+    city: New York City, New York
+    social:
+      twitter: https://twitter.com/frankgreco
+    avatar: images/avatars/frankgreco.png
+  - name: Neil Griffin
+    year: 2017
+    country:
+      nomination: USA
+    city: Orlando, Florida
+    social:
+      twitter: https://twitter.com/NeilGriffin95
+    avatar: images/avatars/NeilGriffin95.png
+  - name: Ivar Grimstad
+    year: 2016
+    country:
+      nomination: Sweden
+    city: Malmo
+    social:
+      twitter: https://twitter.com/ivar_grimstad
+    avatar: images/avatars/ivar_grimstad.png
+  - name: Sanne Grinovero
+    year: 2020
+    country:
+      nomination: UK
+      citizenship: Italy
+    city: London
+    social:
+      twitter: https://twitter.com/SanneGrinovero
+    avatar: images/avatars/SanneGrinovero.png
+  - name: Loiane Groner
+    year: 2020
+    country:
+      nomination: USA
+      citizenshpi: Brazil
+    city: Tampa, Florida
+    social:
+      twitter: https://twitter.com/loiane
+    avatar: images/avatars/loiane.png
+  - name: Gerrit Grunwald
+    year: 2013
+    country:
+      nomination: Germany
+    city: Münster, North Rhine-Westphalia
+    social:
+      twitter: https://twitter.com/hansolo_
+    avatar: images/avatars/hansolo_.png
+  - name: Mary Grygleski
+    year: 2021
+    country:
+      nomination: USA
+    city: Chicago
+    social:
+      twitter: https://twitter.com/mgrygles
+    avatar: images/avatars/mgrygles.png
+  - name: Andrzej Grzesik
+    year: 2016
+    country:
+      nomination: UK
+      citizenship: Poland
+    city: London
+    social:
+      twitter: https://twitter.com/ags313
+    avatar: images/avatars/ags313.png
+  - name: Freddy Guime
+    year: 2015
+    country:
+      nomination: USA
+    city: Seattle, Washington
+    social:
+      twitter: https://twitter.com/fguime
+    avatar: images/avatars/fguime.png
+  - name: Chandra Guntur
+    year: 2019
+    country:
+      nomination: USA
+    city: New Jersey
+    social:
+      twitter: https://twitter.com/CGuntur
+    avatar: images/avatars/CGuntur.png
+  - name: Arun Gupta
+    year: 2013
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/arungupta
+    avatar: images/avatars/arungupta.png
+  - name: Mala Gupta
+    year: 2018
+    country:
+      nomination: India
+    city: New Delhi, Delhi
+    social:
+      twitter: https://twitter.com/eMalaGupta[
+    avatar: images/avatars/eMalaGupta.png
+  - name: Romain Guy
+    year: 2006
+    country:
+      nomination: USA
+    city: Los Altos, California
+    social:
+      twitter: https://twitter.com/romainguy
+    avatar: images/avatars/romainguy.png
+  - name: Ahmed Hashim
+    year: 2007
+    country:
+      nomination: Egypt
+    city: Cairo
+    social:
+      twitter: https://twitter.com/ahmed_hashim
+    avatar: images/avatars/ahmed_hashim.png
+  - name: Mark Heckler
+    year: 2016
+    country:
+      nomination: USA
+    city: Godfrey, Illinois
+    social:
+      twitter: https://twitter.com/MkHeck[@MkHeck]
+    avatar: images/avatars/MkHeck.png
+  - name: David Heffelfinger
+    year: 2017
+    country:
+      nomination: USA
+    city: Washington DC
+    social:
+      twitter: https://twitter.com/ensode
+    avatar: images/avatars/ensode.png
+  - name: Rajmahendra Hegde
+    year: 2016
+    country:
+      nomination: India
+    city: Hyderabad, Telangana
+    social:
+      twitter: https://twitter.com/rajmahendrar
+    avatar: images/avatars/rajmahendrar.png
+  - name: Dan Heidinga
+    year: 2022
+    country:
+      nomination: Canada
+    city: Ottawa, Ontario
+    social:
+      twitter: https://twitter.com/DanHeidinga
+    avatar: images/avatars/DanHeidinga.png
+  - name: Michael Heinrichs
+    year: 2017
+    country:
+      nomination: Germany
+    city: Freiburg
+    social:
+      twitter: https://twitter.com/net0pyr
+    avatar: images/avatars/net0pyr.png
+  - name: César Hernández
+    year: 2016
+    country:
+      nomination: Guatemala
+    social:
+      twitter: https://twitter.com/CesarHgt
+    avatar: images/avatars/CesarHgt.png
+  - name: Thor Henning Hetland
+    year: 2005
+    country:
+      nomination: Norway
+    city: Oslo
+    social:
+      twitter: https://twitter.com/javatotto
+      linkedin: https://www.linkedin.com/in/thorhenninghetland
+    avatar: images/avatars/javatotto.png
+  - name: Rick Hightower
+    year: 2017
+    country:
+      nomination: USA
+    city: Dublin, California
+    social:
+      twitter: https://twitter.com/RickHigh
+    avatar: images/avatars/RickHigh.png
+  - name: Gunnar Hillert
+    year: 2016
+    country:
+      nomination: USA
+      citizenship: Germany
+    city: Holualoa, Hawaii
+    social:
+      twitter: https://twitter.com/ghillert
+    avatar: images/avatars/ghillert.png
+    status:
+      - alumni
+  - name: Daniel Hinojosa
+    year: 2020
+    country:
+      nomination: USA
+    city: Albuquerque, NM
+    social:
+      twitter: https://twitter.com/dhinojosa
+    avatar: images/avatars/dhinojosa.png
+  - name: Marcus Hirt
+    year: 2019
+    country:
+      nomination: Sweden
+      residence: Switzerland
+    city: Zürich
+    social:
+      twitter: https://twitter.com/hirt
+    avatar: images/avatars/hirt.png
+  - name: Ron Hitchens
+    year: 2008
+    country:
+      nomination: UK
+      citizenship: USA
+    city: London
+    social:
+      twitter: https://twitter.com/ronhitchens
+    avatar: images/avatars/ronhitchens.png
+  - name: Juergen Hoeller
+    year: 2009
+    country:
+      nomination: Austria
+    city: Linz, Upper Austria
+    social:
+      twitter: https://twitter.com/springjuergen
+    avatar: images/avatars/springjuergen.png
+  - name: Marc Hoffmann
+    year: 2014
+    country:
+      nomination: Germany
+    social:
+      twitter: https://twitter.com/marcandsweep
+    avatar: images/avatars/marcandsweep.png
+  - name: Jacob Hookom
+    year: 2005
+    country:
+      nomination: USA
+    city: Minneapolis-St. Paul, Minnesota
+    social:
+      twitter: https://twitter.com/jacobhookom
+    avatar: images/avatars/jacobhookom.png
+    status:
+      - founding-member
+  - name: Bruce Hopkins
+    year: 2009
+    country:
+      nomination: USA
+    avatar: images/avatars/Bruce_Hopkins.png
+  - name: Dr. Cay Horstmann
+    year: 2005
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/cayhorstmann
+    avatar: images/avatars/cayhorstmann.png
+  - name: Gerardo Horvilleur
+    year: 2005
+    country:
+      nomination: Mexico
+    city: Mexico City
+    social:
+      twitter: https://twitter.com/magoghm
+    avatar: images/avatars/magoghm.png
+    status:
+      - founding-member
+  - name: Michael Huettermann
+    year: 2006
+    country:
+      nomination: Germany
+    city: Cologne
+    social:
+      twitter: https://twitter.com/huettermann
+    avatar: images/avatars/huettermann.png
+  - name: Jason Hunter
+    year: 2005
+    country:
+      nomination: Signapore
+      citizenship: USA
+    social:
+      twitter: https://twitter.com/hunterhacker
+    avatar: images/avatars/hunterhacker.png
+  - name: Burk Hufnagel
+    year: 2020
+    country:
+      nomination: USA
+    city: Atlanta
+    social:
+      twitter: https://twitter.com/BurkHufnagel
+    avatar: images/avatars/BurkHufnagel.png
+  - name: Michael Hunger
+    year: 2018
+    country:
+      nomination: Germany
+    city: Dresden
+    social:
+      twitter: https://twitter.com/mesirii
+    avatar: images/avatars/mesirii.png
+  - name: Claus Ibsen
+    year: 2018
+    country:
+      nomination: Denmark
+    city: Esbjerg
+    social:
+      twitter: https://twitter.com/davsclaus
+    avatar: images/avatars/davsclaus.png
+  - name: Eder Ignatowicz
+    year: 2017
+    country:
+      nomination: USA
+      ciitizenship: Brazil
+    city: Boston, Massachusetts
+    social:
+      twitter: https://twitter.com/ederign
+    avatar: images/avatars/ederign.png
+  - name: Oliver Ihns
+    year: 2005
+    country:
+      nomination: Germany
+    city: Hamburg
+    social:
+      twitter: https://twitter.com/oliverihns
+    avatar: images/avatars/oliverihns.png
+  - name: Ivan St. Ivanov
+    year: 2018
+    country:
+      nomination: Bulgaria
+    city: Sofia
+    social:
+      twitter: https://twitter.com/ivan_stefanov[
+    avatar: images/avatars/ivan_stefanov.png
+  - name: Grace Jansen
+    year: 2022
+    country:
+      nomination: UK
+    social:
+      twitter: https://twitter.com/gracejansen27[
+    avatar: images/avatars/gracejansen27.png
+  - name: Stephan Janssen
+    year: 2005
+    country:
+      nomination: Belgium
+    city: Bruges
+    social:
+      twitter: https://twitter.com/Stephan007
+    avatar: images/avatars/Stephan007.png
+  - name: Jakob Jenkov
+    year: 2022
+    country:
+      nomination: Denmark
+    city: Copenhagen
+    social:
+      twitter: https://twitter.com/jjenkov
+    avatar: images/avatars/jjenkov.png
+  - name: Emily Jiang
+    year: 2019
+    country:
+      nomination: UK
+    city: Southampton
+    social:
+      twitter: https://twitter.com/emilyfhjiang
+    avatar: images/avatars/emilyfhjiang.png
+  - name: Dr. Rod Johnson
+    year: 2006
+    country:
+      nomination: USA
+      citizenship: Australia
+    city: Sydney
+    social:
+      twitter: https://twitter.com/springrod
+    avatar: images/avatars/springrod.png
+  - name: Angie Jones
+    year: 2020
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/techgirl1908
+    avatar: images/avatars/techgirl1908.png
+  - name: Christopher Judd
+    year: 2017
+    country:
+      nomination: USA
+    city: Columbus, Ohio
+    social:
+      twitter: https://twitter.com/javajudd
+    avatar: images/avatars/javajudd.png
+  - name: Josh Juneau
+    year: 2017
+    country:
+      nomination: USA
+    city: Chicago, Illinois
+    social:
+      twitter: https://twitter.com/javajuneau
+    avatar: images/avatars/javajuneau.png
+  - name: Prof. Matjaz Juric
+    year: 2010
+    country:
+      nomination: Slovenia
+    social:
+      twitter: https://twitter.com/matjazbj
+    avatar: images/avatars/matjazbj.png
+  - name: Dr. Heinz M. Kabutz
+    year: 2005
+    country:
+      nomination: Greece
+    city: Chorafakia, Chania
+    social:
+      twitter: https://twitter.com/heinzkabutz
+      website: https://www.javaspecialists.eu
+    avatar: images/avatars/heinzkabutz.png
+  - name: Mattias Karlsson
+    year: 2009
+    country:
+      nomination: Sweden
+    city: Stockholm
+    social:
+      twitter: https://twitter.com/matkar
+    avatar: images/avatars/matkar.png
+  - name: Kohsuke Kawaguchi
+    year: 2020
+    country:
+      nomination: USA
+      birth: Japan
+    city: San Jose, California
+    social:
+      twitter: https://twitter.com/kohsukekawa
+    avatar: images/avatars/kohsukekawa.png
+  - name: Roman Kennke
+    year: 2017
+    country:
+      nomination: Germany
+    city: Freiburg
+    social:
+      twitter: https://twitter.com/rkennke
+    avatar: images/avatars/rkennke.png
+  - name: Gavin King
+    year: 2005
+    country:
+      nomination: Spain
+      citizenship: UK
+    social:
+      twitter: https://twitter.com/1ovthafew
+    avatar: images/avatars/1ovthafew.png
+  - name: Viktor Klang
+    year: 2018
+    country:
+      nomination: Sweden
+    city: Angelholm
+    social:
+      twitter: https://twitter.com/viktorklang
+    avatar: images/avatars/viktorklang.png
+    status:
+      - alumni
+  - name: Aslak Knutsen
+    year: 2015
+    country:
+      nomination: Norway
+    city: Oslo
+    social:
+      twitter: https://twitter.com/aslakknutsen
+    avatar: images/avatars/aslakknutsen.png
+  - name: Clara Ko
+    year: 2011
+    country:
+      nomination: USA
+      citizenshpi: The Netherlands
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/clarako
+    avatar: images/avatars/clarako.png
+  - name: Panos Konstantinidis
+    year: 2007
+    country:
+      nomination: Greece
+    social:
+      twitter: https://twitter.com/panoskonst
+    avatar: images/avatars/panoskonst.png
+  - name: Dr. Ken Kousen
+    year: 2017
+    country:
+      nomination: USA
+    city: Marlborough, Connecticut
+    social:
+      twitter: https://twitter.com/kenkousen
+    avatar: images/avatars/kenkousen.png
+  - name: Dr. Michael Kölling
+    year: 2007
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/michaelkolling
+    avatar: images/avatars/michaelkolling.png
+  - name: Prof. Dierk König
+    year: 2016
+    country:
+      nomination: Switzerland
+    city: Zürich
+    social:
+      twitter: https://twitter.com/mittie
+    avatar: images/avatars/mittie.png
+  - name: Guillaume Laforge
+    year: 2017
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/glaforge
+    avatar: images/avatars/glaforge.png
+  - name: Marcus Lagergren
+    year: 2016
+    country:
+      nomination: Sweden
+    social:
+      twitter: https://twitter.com/lagergren
+    avatar: images/avatars/lagergren.png
+  - name: Amira Lakhal
+    year: 2016
+    country:
+      nomination: Switzerland
+    social:
+      twitter: https://twitter.com/MiraLak
+    avatar: images/avatars/MiraLak.png
+  - name: Angelika Langer
+    year: 2005
+    country:
+      nomination: Germany
+    city: Munich
+    social:
+      twitter: https://twitter.com/AngelikaLanger
+    avatar: images/avatars/AngelikaLanger.png
+  - name: Dr. Edward Lank
+    year: 2005
+    country:
+      nomination: Canada
+    city: Kitchener
+    avatar: images/avatars/Edward_Lank.png
+  - name: Jacek Laskowski
+    year: 2015
+    country:
+      nomination: Poland
+    city: Warsaw
+    social:
+      twitter: https://twitter.com/jaceklaskowski
+    avatar: images/avatars/jaceklaskowski.png
+  - name: Enrique Lasterra
+    year: 2005
+    country:
+      nomination: Spain
+    city: Bilbao
+    avatar: images/avatars/Enriqu_Lasterra.png
+  - name: Peter Lawrey
+    year: 2015
+    country:
+      nomination: UK
+    city: Surrey
+    social:
+      twitter: https://twitter.com/PeterLawrey
+    avatar: images/avatars/PeterLawrey.png
+  - name: Dr. Doug Lea
+    year: 2005
+    country:
+      nomination: USA
+    city: Syracuse, New York
+    social:
+      twitter: https://twitter.com/douglea
+    avatar: images/avatars/douglea.png
+  - name: Bob Lee
+    year: 2010
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/crazybob[@crazybob]
+    avatar: images/avatars/crazybob.png
+    status:
+      - retired
+  - name: Justin Lee
+    year: 2014
+    country:
+      nomination: USA
+    city: New York City, New York
+    social:
+      twitter: https://twitter.com/evanchooly
+    avatar: images/avatars/evanchooly.png
+  - name: Trustin Lee
+    year: 2020
+    country:
+      nomination: South Korea
+    social:
+      twitter: https://twitter.com/trustin
+    avatar: images/avatars/trustin.png
+  - name: Dirk Lemmermann
+    year: 2019
+    country:
+      nomination: Switzerland
+    social:
+      twitter: https://twitter.com/dlemmermann
+    avatar: images/avatars/dlemmermann.png
+  - name: Michael Levin
+    year: 2011
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/mikelevin77
+    avatar: images/avatars/mikelevin77.png
+  - name: Dr. Barry Levine
+    year: 2005
+    country:
+      nomination: USA
+    avatar: images/avatars/Barry_Levine.png
+  - name: Mo Li
+    country:
+      nomination: China
+    avatar: images/avatars/Mo_Li.png
+  - name: San-Hong Li
+    year: 2020
+    country:
+      nomination: China
+    social:
+      twitter: https://twitter.com/sanhong_li
+    avatar: images/avatars/sanhong_li.png
+  - name: Dr. Daniel Liang
+    year: 2005
+    country:
+      nomination: USA
+    avatar: images/daniel-liang-128x128.jpg[]
+  - name: Patrick Linskey
+    year: 2005
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/plinskey
+    avatar: images/avatars/plinskey.png
+  - name: Paul Lipton
+    year: 2005
+    country:
+      nomination: USA
+    avatar: images/avatars/Paul_Lipton.png
+  - name: Josh Long
+    year: 2015
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/starbuxman
+    avatar: images/avatars/starbuxman.png
+  - name: Melissa McKay
+    year: 2021
+    country:
+      nomination: USA
+    city: Colorado
+    social:
+      twitter: https://twitter.com/melissajmckay
+    avatar: images/avatars/melissajmckay.png
+  - name: Alexis Lopez
+    year: 2017
+    country:
+      nomination: Colombia
+    city: Cali, Valle del Cauca
+    social:
+      twitter: https://twitter.com/acelopezco
+      linkedin: https://www.linkedin.com/in/acelopezco
+    avatar: images/avatars/acelopezco.png
+  - name: Geir Magnusson
+    year: 2006
+    country:
+      nomination: USA
+    city: Wilton, Connecticut
+    social:
+      twitter: https://twitter.com/geirmagnusson
+    avatar: images/avatars/geirmagnusson.png
+  - name: Dr. Qusay Mahmoud
+    year: 2007
+    country:
+      nomination: Canada
+    avatar: images/avatars/Qusay_Mahmoud.png
+  - name: Sander Mak
+    year: 2017
+    country:
+      nomination: The Netherlands
+    city: Nijmegen
+    social:
+      twitter: https://twitter.com/Sander_Mak
+    avatar: images/avatars/Sander_Mak.png
+  - name: Konrad Malawski
+    year: 2017
+    country:
+      nomination: Poland
+      residence: Japan
+    social:
+      twitter: https://twitter.com/ktosopl
+    avatar: images/avatars/ktosopl.png
+  - name: Stephane Maldini
+    year: 2022
+    country:
+      nomination: USA
+      citizenship: France
+    city: California
+    social:
+      twitter: https://twitter.com/smaldini
+    avatar: images/avatars/smaldini.png
+    status:
+      - passed-away
+  - name: Dan Malks
+    year: 2007
+    country:
+      nomination: USA
+    avatar: images/avatars/Dan_Malks.png
+  - name: Jim Manico
+    year: 2018
+    country:
+      nomination: USA
+    city: Anahola, Hawaii
+    social:
+      twitter: https://twitter.com/manicode
+    avatar: images/avatars/manicode.png
+  - name: Kito Mann
+    year: 2017
+    country:
+      nomination: USA
+    city: Glen Allen, Virginia
+    social:
+      twitter: https://twitter.com/kito99
+    avatar: images/avatars/kito99.png
+  - name: Dervis Mansuroglu
+    year: 2019
+    country:
+      nomination: Norway
+    city: Oslo
+    social:
+      twitter: https://twitter.com/dervismn
+    avatar: images/avatars/dervismn.png
+  - name: Simon Maple
+    year: 2014
+    country:
+      nomination: UK
+    city: Basingstoke, Hampshire
+    social:
+      twitter: https://twitter.com/sjmaple
+    avatar: images/avatars/sjmaple.png
+  - name: Joshua Marinacci
+    year: 2010
+    country:
+      nomination: USA
+    city: Eugene, Oregon
+    social:
+      twitter: https://twitter.com/joshmarinacci
+    avatar: images/avatars/joshmarinacci.png
+  - name: Floyd Marinescu
+    year: 2005
+    country:
+      nomination: Canada
+    city: Etobicoke, Ontario
+    social:
+      twitter: https://twitter.com/floydmarinescu
+    avatar: images/avatars/floydmarinescu.png
+  - name: Vincent Massol
+    year: 2005
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/vmassol
+    avatar: images/avatars/vmassol.png
+  - name: Norman Maurer
+    year: 2016
+    country:
+      nomination: Germany
+    city: Frankfurt
+    social:
+      twitter: https://twitter.com/normanmaurer
+    avatar: images/avatars/normanmaurer.png
+  - name: Vincent Mayers
+    year: 2016
+    country:
+      nomination: USA
+    city: Atlanta, Georgia
+    social:
+      twitter: https://twitter.com/vincentmayers
+    avatar: images/avatars/vincentmayers.png
+  - name: Carole McDonald
+    year: 2021
+    country:
+      nomination: USA
+    city: Florida
+    social:
+      twitter: https://twitter.com/caroljmcdonald
+    avatar: images/avatars/caroljmcdonald.png
+  - name: Rustam Mehmandarov
+    year: 2017
+    country:
+      nomination: Norway
+    social:
+      twitter: https://twitter.com/rmehmandarov
+    avatar: images/avatars/rmehmandarov.png
+  - name: Eddú Meléndez
+    year: 2022
+    country:
+      nomination: Perú
+    social:
+      twitter: https://twitter.com/EdduMelendez
+    avatar: images/avatars/EdduMelendez.png
+  - name: Ondro Mihályi
+    year: 2019
+    country:
+      nomination: Czech Republic
+    city: Prague
+    social:
+      twitter: https://twitter.com/OndroMih
+    avatar: images/avatars/OndroMih.png
+  - name: Vlad Mihalcea
+    year: 2017
+    country:
+      nomination: Romania
+    city: Cluj County
+    social:
+      twitter: https://twitter.com/vlad_mihalcea
+    avatar: images/avatars/vlad_mihalcea.png
+  - name: Ana-Maria Mihalceanu
+    year: 2021
+    country:
+      nomination: Romania
+    social:
+      twitter: https://twitter.com/ammbra1508
+    avatar: images/avatars/ammbra1508.png
+    status:
+      - alumni
+  - name: Michael T. Minella
+    year: 2018
+    country:
+      nomination: USA
+    city: Naperville, Illinois
+    social:
+      twitter: https://twitter.com/michaelminella
+    avatar: images/avatars/michaelminella.png
+  - name: Elder Moraes
+    year: 2020
+    country:
+      nomination: Brazil
+    social:
+      twitter: https://twitter.com/elderjava
+    avatar: images/avatars/elderjava.png
+  - name: Gunnar Morling
+    year: 2019
+    country:
+      nomination: Germany
+    city: Hamburg
+    social:
+      twitter: https://twitter.com/gunnarmorling
+    avatar: images/avatars/gunnarmorling.png
+  - name: Maarten Mulders
+    year: 2022
+    country:
+      nomination: The Netherlands
+    social:
+      twitter: https://twitter.com/mthmulders
+    avatar: images/avatars/mthmulders.png
+  - name: Benjamin Muskalla
+    year: 2021
+    country:
+      nomination: Germany
+    social:
+      twitter: https://twitter.com/bmuskalla
+    avatar: images/avatars/bmuskalla.png
+  - name: Maurice Naftalin
+    year: 2014
+    country:
+      nomination: Scotland
+    city: Edinburgh
+    social:
+      twitter: https://twitter.com/mauricenaftalin
+    avatar: images/avatars/mauricenaftalin.png
+  - name: Nikhil Nanivadekar
+    year: 2018
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/NikhilNanivade
+    avatar: images/avatars/NikhilNanivade.png
+  - name: Dr. Fabiane Bizinella Nardon
+    year: 2006
+    country:
+      nomination: Brazil
+    city: São Paulo
+    social:
+      twitter: https://twitter.com/fabianenardon
+    avatar: images/avatars/fabianenardon.png
+  - name: Rafael Del Nero
+    year: 2018
+    country:
+      nomination: Ireland
+    city: Dublin, Leinster
+    social:
+      twitter: https://twitter.com/RafaDelNero
+    avatar: images/avatars/RafaDelNero.png
+  - name: Audrey Neveu
+    year: 2020
+    country:
+      nomination: France
+    city: Rouen
+    social:
+      twitter: https://twitter.com/Audrey_Neveu
+    avatar: images/avatars/Audrey_Neveu.png
+  - name: Chris Newland
+    year: 2017
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/chriswhocodes
+    avatar: images/avatars/chriswhocodes.png
+  - name: Kevin Nilson
+    year: 2009
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/javaclimber
+    avatar: images/avatars/javaclimber.png
+  - name: Tomasz Nurkiewicz
+    year: 2018
+    country:
+      nomination: Poland
+    city: Warsaw
+    social:
+      twitter: https://twitter.com/tnurkiewicz
+    avatar: images/avatars/tnurkiewicz.png
+  - name: Charles Oliver Nutter
+    year: 2013
+    country:
+      nomination: USA
+    city: Minneapolis, Minnesota
+    social:
+      twitter: https://twitter.com/headius
+    avatar: images/avatars/headius.png
+  - name: Harshad Oak
+    year: 2007
+    country:
+      nomination: India
+    city: Pune, Maharashtra
+    social:
+      twitter: https://twitter.com/HarshadOak
+    avatar: images/avatars/HarshadOak.png
+  - name: Rickard Oberg
+    year: 2011
+    country:
+      nomination: Malaysia
+    city: Selangor
+    social:
+      twitter: https://twitter.com/rickardoberg
+    avatar: images/avatars/rickardoberg.png
+    status:
+      - retired
+  - name: Carlos Obregon
+    year: 2022
+    country:
+      nomination: Colombia
+    city: Bogota
+    social:
+      twitter: https://twitter.com/gaijinco
+    avatar: images/avatars/gaijinco.png
+  - name: Víctor Orozco
+    year: 2018
+    country:
+      nomination: Guatemala
+    city: Guatemala City
+    social:
+      twitter: https://twitter.com/tuxtor
+    avatar: images/avatars/tuxtor.png
+  - name: Bethan Palmer
+    year: 2018
+    country:
+      nomination: UK
+    social:
+      twitter: https://twitter.com/BethanKP
+    avatar: images/avatars/BethanKP.png
+  - name: Andrei Pangin
+    year: 2020
+    country:
+      nomination: Russian Federation
+    social:
+      twitter: https://twitter.com/AndreiPangin
+    avatar: images/avatars/AndreiPangin.png
+  - name: Eugene Paraschiv
+    year: 2021
+    country:
+      nomination: Romania
+    social:
+      twitter: https://twitter.com/baeldung
+    avatar: images/avatars/baeldung.png
+  - name: Nicolai Parlog
+    year: 2019
+    country:
+      nomination: Germany
+    city: Karlsruhe
+    social:
+      twitter: https://twitter.com/nipafx
+    avatar: images/avatars/nipafx.png
+    status:
+      - alumni
+  - name: Sandra Parsick
+    year: 2020
+    country:
+      nomination: Germany
+    city: Neuss
+    social:
+      twitter: https://twitter.com/SandraParsick
+    avatar: images/avatars/SandraParsick.png
+  - name: Pratik Patel
+    year: 2016
+    country:
+      nomination: USA
+    city: Atlanta, Georgia
+    social:
+      twitter: https://twitter.com/prpatel
+    avatar: images/avatars/prpatel.png
+  - name: Bob Paulin
+    year: 2017
+    country:
+      nomination: USA
+    city: Chicago, Illinois
+    social:
+      twitter: https://twitter.com/bobpaulin
+    avatar: images/avatars/bobpaulin.png
+  - name: Dr. José Paumard
+    year: 2015
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/JosePaumard
+    avatar: images/avatars/JosePaumard.png
+    status:
+      - alumni
+  - name: Kirk Pepperdine
+    year: 2005
+    country:
+      nomination: Canada
+    city: Kelowna, British Columbia
+    social:
+      twitter: https://twitter.com/kcpeppe
+    avatar: images/avatars/kcpeppe.png
+  - name: Dr. Jose Pereda
+    year: 2017
+    country:
+      nomination: Spain
+    city: Valladolid
+    social:
+      twitter: https://twitter.com/JPeredaDnr
+    avatar: images/avatars/JPeredaDnr.png
+  - name: Dr. Paul Perrone
+    year: 2006
+    country:
+      nomination: USA
+    avatar: images/avatars/Paul_Perrone.png
+  - name: John Paul "JP" Petines
+    year: Founding Member
+    country:
+      nomination: Canada
+      birth: Philipines
+    city: Toronto, Ontario
+    social:
+      twitter: https://twitter.com/jppetines
+    avatar: images/avatars/jppetines.png
+  - name: Sean M. Phillips
+    year: 2017
+    country:
+      nomination: USA
+    city: Washington DC
+    social:
+      twitter: https://twitter.com/SeanMiPhillips
+    avatar: images/avatars/SeanMiPhillips.png
+  - name: Peter Pilgrim
+    year: 2007
+    country:
+      nomination: UK
+    city: Milton Keynes, England
+    social:
+      twitter: https://twitter.com/peter_pilgrim
+    avatar: images/avatars/peter_pilgrim.png
+  - name: Prof. William Pugh
+    year: 2007
+    country:
+      nomination: USA
+    city: Maryland
+    social:
+      twitter: https://twitter.com/wpugh
+    avatar: images/avatars/wpugh.png
+  - name: Carl Quinn
+    year: 2020
+    country:
+      nomination: USA
+    city: California
+    social:
+      twitter: https://twitter.com/cquinn
+    avatar: images/avatars/cquinn.png
+    status:
+      - passed-away
+  - name: Donald Raab
+    year: 2018
+    country:
+      nomination: USA
+      birth: UK
+    city: Metuchen, New Jersey
+    social:
+      twitter: https://twitter.com/TheDonRaab
+    avatar: images/avatars/TheDonRaab.png
+  - name: Bazlur Rahman
+    year: 2022
+    country:
+      nomination: Canada
+      birth: Bangladesh
+    city: Toronto
+    social:
+      twitter: https://twitter.com/bazlur_rahman[
+    avatar: images/avatars/bazlur_rahman.png
+  - name: Matt Raible
+    year: 2016
+    country:
+      nomination: USA
+    city: Denver, Colorado
+    social:
+      twitter: https://twitter.com/mraible
+    avatar: images/avatars/mraible.png
+  - name: Srikanth Raju
+    year: 2006
+    country:
+      nomination: USA
+    avatar: images/avatars/Srikanth_Raju.png
+  - name: Jayson Raymond
+    year: 2005
+    country:
+      nomination: USA
+    avatar: images/avatars/Jayson_Raymond.png
+  - name: Dr. Victor Rentea
+    year: 2019
+    country:
+      nomination: Romania
+    city: Bucharest
+    social:
+      twitter: https://twitter.com/VictorRentea
+    avatar: images/avatars/VictorRentea.png
+  - name: Chris Richardson
+    year: 2007
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/crichardson
+    avatar: images/avatars/crichardson.png
+  - name: Clark D. Richey Jr.
+    year: 2005
+    country:
+      nomination: USA
+    avatar: images/avatars/Clark_D_Richey_Jr.png
+    status:
+      - founding-member
+  - name: Manfred Riem
+    year: 2005
+    country:
+      nomination: USA
+    city: Provo, Utah
+    social:
+      twitter: https://twitter.com/mnriem
+    avatar: images/avatars/mnriem.png
+    status:
+      - founding-member
+  - name: Simon Ritter
+    year: 2016
+    country:
+      nomination: UK
+    city: Twickenham
+    social:
+      twitter: https://twitter.com/speakjava
+    avatar: images/avatars/speakjava.png
+  - name: Sven Reimers
+    year: 2015
+    country:
+      nomination: Germany}
+    city: Konstanz
+    social:
+      twitter: https://twitter.com/SvenNB
+    avatar: images/avatars/SvenNB.png
+  - name: Roy van Rijn
+    year: 2018
+    country:
+      nomination: The Netherlands
+    city: Maassluis, South Holland Province
+    social:
+      twitter: https://twitter.com/royvanrijn
+    avatar: images/avatars/royvanrijn.png
+  - name: Leonardo de Moura Rocha Lima
+    year: 2017
+    country:
+      nomination: Brazil
+    city: São Paulo
+    avatar: images/avatars/leomrlima.png
+  - name: Graeme Rocher
+    year: 2019
+    country:
+      nomination: Spain
+      citizenship: UK
+    city: Bilbao
+    social:
+      twitter: https://twitter.com/graemerocher
+    avatar: images/avatars/graemerocher.png
+    status:
+      - alumni
+  - name: Antón María Rodríguez Yuste
+    year: 2022
+    country:
+      nomination: Spain
+    city: Galicia
+    social:
+      twitter: https://twitter.com/antonmry
+    avatar: images/avatars/antonmry.png
+  - name: Ix-chel Ruiz
+    year: 2017
+    country:
+      nomination: Switzerland
+      citizenship: Mexico
+    city: Basel
+    social:
+      twitter: https://twitter.com/ixchelruiz
+    avatar: images/avatars/ixchelruiz.png
+  - name: Antoine Sabot-Durand
+    year: 2017
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/antoine_sd
+    avatar: images/avatars/antoine_sd.png
+  - name: Koichi Sakata
+    year: 2018
+    country:
+      nomination: Japan
+    city: Osaka
+    social:
+      twitter: https://twitter.com/jyukutyo
+    avatar: images/avatars/jyukutyo.png
+  - name: Yuuichi Sakuraba
+    country:
+      nomination: Japan
+    social:
+      twitter: https://twitter.com/skrb
+    avatar: images/avatars/skrb.png
+  - name: Alberto Salazar
+    year: 2018
+    country:
+      nomination: Ecuador
+    social:
+      twitter: https://twitter.com/betoSalazar
+    avatar: images/avatars/betoSalazar.png
+  - name: Tatu Saloranta
+    year: 2021
+    country:
+      nomination: USA
+    city: Seattle
+    social:
+      twitter: https://twitter.com/cowtowncoder
+    avatar: images/avatars/cowtowncoder.png
+  - name: Otávio Gonçalves de Santana
+    year: 2015
+    country:
+      nomination: Brazil
+    city: São Paulo
+    social:
+      twitter: https://twitter.com/otaviojava
+    avatar: images/avatars/otaviojava.png
+  - name: Michael Nascimento Santos
+    year: 2006
+    country:
+      nomination: Brazil
+    city: Michael Nascimento Santos
+    social:
+      twitter: https://twitter.com/mr__m
+    avatar: images/avatars/mr__m.png
+  - name: Mani Sarkar
+    year: 2018
+    country:
+      nomination: UK
+    social:
+      twitter: https://twitter.com/theNeomatrix369
+    avatar: images/avatars/theNeomatrix369.png
+  - name: Deepu K Sasidharan
+    year: 2022
+    country:
+      nomination: The Netherlands
+    social:
+      twitter: https://twitter.com/deepu105
+    avatar: images/avatars/deepu105.png
+  - name: Tom Schindl
+    year: 2015
+    country:
+      nomination: Austria
+    social:
+      twitter: https://twitter.com/tomsontom
+    avatar: images/avatars/tomsontom.png
+  - name: Olivier Schmitt
+    year: 2005
+    country:
+      nomination: Switzerland
+      citizenship: France
+    city: Geneva
+    avatar: images/avatars/Olivier_Schmitt.png
+    status:
+      - founding-member
+  - name: Robert Scholte
+    year: 2019
+    country:
+      nomination: The Netherlands
+    city: Groningen
+    social:
+      twitter: https://twitter.com/rfscholte
+    avatar: images/avatars/rfscholte.png
+  - name: Bauke Scholtz
+    year: 2017
+    country:
+      nomination: The Netherlands
+    social:
+      twitter: https://twitter.com/OmniFaces
+    avatar: images/avatars/OmniFaces.png
+  - name: Aleksey Shipilev
+    year: 2017
+    country:
+      nomination: Germany
+    city: Potsdam, Brandenburg
+    social:
+      twitter: https://twitter.com/shipilev
+    avatar: images/avatars/shipilev.png
+  - name: Dr. Oleg Shelajev
+    year: 2017
+    country:
+      nomination: Estonia
+    city: Tartu
+    social:
+      twitter: https://twitter.com/shelajev
+    avatar: images/avatars/shelajev.png
+  - name: Erin Schnabel
+    year: 2019
+    country:
+      nomination: USA
+    city: Wappingers Falls, New York
+    social:
+      twitter: https://twitter.com/ebullientworks
+      mastodon: https://fosstodon.org/@ebullient
+    avatar: images/avatars/ebullientworks.png
+  - name: Bert Jan Schrijver
+    year: 2017
+    country:
+      nomination: The Netherlands
+    city: Utrecht
+    social:
+      twitter: https://twitter.com/bjschrijver
+    avatar: images/avatars/bjschrijver.png
+  - name: Vinicius Senger
+    year: 2016
+    country:
+      nomination: Brazil
+    social:
+      twitter: https://twitter.com/vsenger
+    avatar: images/avatars/vsenger.png
+  - name: Yara Senger
+    year: 2012
+    country:
+      nomination: Brazil
+    city: São Paulo
+    social:
+      twitter: https://twitter.com/yarasenger
+    avatar: images/avatars/yarasenger.png
+  - name: Dr. Zoran Sevarac
+    year: 2013
+    country:
+      nomination: Serbia
+    social:
+      twitter: https://twitter.com/zsevarac
+    avatar: images/avatars/zsevarac.png
+  - name: Howard Lewis Ship
+    year: 2010
+    country:
+      nomination: USA
+    city: Portland, Oregon
+    avatar: images/avatars/hlship.png
+  - name: Jack Shirazi
+    year: 2005
+    country:
+      nomination: UK
+    city: Westminster Abbey, Greater London
+    avatar: images/avatars/Jack_Shirazi.png
+  - name: Kathy Sierra
+    year: 2005
+    country:
+      nomination: USA
+    avatar: images/avatars/Kathy_Sierra.png
+    status:
+      - founding-member
+  - name: Michael Simons
+    year: 2018
+    country:
+      nomination: Germany
+    city: Aachen, North Rhine-Westphalia
+    social:
+      twitter: https://twitter.com/rotnroll666
+    avatar: images/avatars/rotnroll666.png
+  - name: Yakov Sirotkin
+    year: 2005
+    country:
+      nomination: Russian Federation
+    city: Saint Petersburg
+    social:
+      twitter: https://twitter.com/yakov_sirotkin
+    avatar: images/avatars/yakov_sirotkin.png
+  - name: Bruce Snyder
+    year: 2005
+    country:
+      nomination: USA
+    city: Louisville, Colorado
+    avatar: images/avatars/Bruce_Snyder.png
+  - name: Bruno Souza
+    year: 2005
+    country:
+      nomination: Brazil
+    city: São Paulo
+    social:
+      twitter: https://twitter.com/brjavaman
+      website: https://code4.life/
+    avatar: images/avatars/brjavaman.png
+    status:
+      - founding-member
+  - name: Alex Soto
+    year: 2017
+    country:
+      nomination: Spain
+    city: Barcelona
+    social:
+      twitter: https://twitter.com/alexsotob
+    avatar: images/avatars/alexsotob.png
+  - name: Kate Stanley
+    year: 2021
+    country:
+      nomination: UK
+    city: Hampshire
+    social:
+      twitter: https://twitter.com/KateStanley91
+    avatar: images/avatars/KateStanley91.png
+  - name: James Strachan
+    year: 2011
+    country:
+      nomination: UK
+    city: Mells, Somerset
+    social:
+      twitter: https://twitter.com/jstrachan
+    avatar: images/avatars/jstrachan.png
+  - name: Mark Struberg
+    year: 2019
+    country:
+      nomination: Austria
+    city: Vienna
+    social:
+      twitter: https://twitter.com/struberg
+    avatar: images/avatars/struberg.png
+  - name: Domingo Suarez
+    year: 2019
+    country:
+      nomination: Mexico
+    social:
+      twitter: https://twitter.com/domix
+    avatar: images/avatars/domix.png
+  - name: Dr. Venkat Subramaniam
+    year: 2013
+    country:
+      nomination: USA
+    city: Broomfield, Colorado
+    social:
+      twitter: https://twitter.com/venkat_s
+    avatar: images/avatars/venkat_s.png
+  - name: Burr Sutter
+    year: 2005
+    country:
+      nomination: USA
+    city: Raleigh-Durham, North Carolina
+    social:
+      twitter: https://twitter.com/burrsutter
+    avatar: images/avatars/burrsutter.png
+  - name: Ruslan Synytsky
+    year: 2020
+    country:
+      nomination: Ukraine
+      residence: Cyprus
+    city: Zhytomyr/Limassol
+    social:
+      twitter: https://twitter.com/siruslan
+    avatar: images/avatars/siruslan.png
+  - name: Attila Szegedi
+    year: 2016
+    country:
+      nomination: Hungary
+    city: Szeged, Csongrád,
+    social:
+      twitter: https://twitter.com/asz
+    avatar: images/avatars/asz.png
+  - name: Mohamed Taman
+    year: 2015
+    country:
+      nomination: Serbia
+      birth: Egypt
+    city: Belgrade
+    social:
+      twitter: https://twitter.com/_tamanm
+    avatar: images/avatars/_tamanm.png
+  - name: Shin Tanimoto
+    year: 2018
+    country:
+      nomination: Japan
+    city: Yokohama, Kanagawa
+    social:
+      twitter: https://twitter.com/cero_t
+    avatar: images/avatars/cero_t.png
+  - name: Bruce Tate
+    year: 2006
+    country:
+      nomination: USA
+    city: Chattanooga, Tennessee
+    social:
+      twitter: https://twitter.com/redrapids
+    avatar: images/avatars/redrapids.png
+  - name: Régina ten Bruggencate
+    year: 2011
+    country:
+      nomination: The Netherlands
+    city: Apeldoorn
+    social:
+      twitter: https://twitter.com/reginatb38[
+    avatar: images/avatars/reginatb38.png
+  - name: Gil Tene
+    year: 2017
+    country:
+      nomination: USA
+    city: San Francisco, California
+    social:
+      twitter: https://twitter.com/giltene
+    avatar: images/avatars/giltene.png
+  - name: Yoshio Terada
+    year: 2016
+    country:
+      nomination: Japan
+    city: Yokohama, Kanagawa
+    social:
+      twitter: https://twitter.com/yoshioterada
+    avatar: images/avatars/yoshioterada.png
+  - name: Frans Thamura
+    year: 2005
+    country:
+      nomination: Indonesia
+    city: Jakarta
+    social:
+      twitter: https://twitter.com/fthamura
+    avatar: images/avatars/fthamura.png
+    status:
+      - passed-away
+  - name: Chris Thalinger
+    year: 2019
+    country:
+      nomination: USA
+    city: Haleiwa, Hawaii
+    social:
+      twitter: https://twitter.com/christhalinger
+    avatar: images/avatars/christhalinger.png
+  - name: Alex Theedom
+    year: 2018
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/alextheedom
+    avatar: images/avatars/alextheedom.png
+  - name: Martin Thompson
+    year: 2015
+    country:
+      nomination: UK
+    social:
+      twitter: https://twitter.com/mjpt777
+    avatar: images/avatars/mjpt777.png
+  - name: Dr. Kresten Krab Thorup
+    year: 2005
+    country:
+      nomination: Denmark
+    social:
+      twitter: https://twitter.com/drkrab
+    avatar: images/avatars/drkrab.png
+  - name: Arjan Tijms
+    year: 2020
+    country:
+      nomination: The Netherlands
+    city: Arnhem, Gelderland
+    social:
+      twitter: https://twitter.com/arjan_tijms
+    avatar: images/avatars/arjan_tijms.png
+  - name: Neal Tisdale
+    year: 2005
+    country:
+      nomination: USA
+    city: Marietta, Georgia
+    avatar: images/avatars/Neal_Tisdale.png
+    status:
+      - founding-member
+  - name: Dalibor Topic
+    year: 2007
+    country:
+      nomination: Germany
+    city: Hamburg
+    social:
+      twitter: https://twitter.com/robilad
+    avatar: images/avatars/robilad.png
+    status:
+      - alumni
+  - name: Mario Torre
+    year: 2014
+    country:
+      nomination: Germany
+      birth: Italy
+    city: Hamburg
+    social:
+      twitter: https://twitter.com/neugens
+    avatar: images/avatars/neugens.png
+  - name: Henri Tremblay
+    year: 2016
+    country:
+      nomination: Canada
+    city: Montreal, Quebec
+    social:
+      twitter: https://twitter.com/henri_tremblay
+      website: https://blog.tremblay.pro
+    avatar: images/avatars/henri_tremblay.png
+  - name: Ray Tsang
+    year: 2018
+    country:
+      nomination: USA
+    city: New York City, New York
+    social:
+      twitter: https://twitter.com/saturnism
+    avatar: images/avatars/saturnism.png
+  - name: Klaasjan Tukker
+    year: Founding Member
+    country:
+      nomination: USA
+      birth: The Netherlands
+    city: Seattle, Washington
+    social:
+      twitter: https://twitter.com/ktukker
+    avatar: images/avatars/ktukker.png
+  - name: Christian Ullenboom
+    year: 2005
+    country:
+      nomination: Germany
+    city: Nürnberg, Bavaria
+    social:
+      twitter: https://twitter.com/javabuch
+    avatar: images/avatars/javabuch.png
+  - name: Dr. Raoul-Gabriel Urma
+    year: 2017
+    country:
+      nomination: UK
+    city: Cambridge
+    social:
+      twitter: https://twitter.com/raoulUK
+    avatar: images/avatars/raoulUK.png
+  - name: Rahman Usta
+    year: 2018
+    country:
+      nomination: Poland
+      birth: Turkey
+    city: Krakow
+    social:
+      twitter: https://twitter.com/ustarahman
+    avatar: images/avatars/ustarahman.png
+  - name: Tagir Valeev
+    year: 2020
+    country:
+      nomination: Germany
+    city: Munich
+    social:
+      twitter: https://twitter.com/tagir_valeev
+    avatar: images/avatars/tagir_valeev.png
+  - name: Linda van der Pal
+    year: 2013
+    country:
+      nomination: The Netherlands
+    city: Amsterdam
+    social:
+      twitter: https://twitter.com/DuchessFounder
+    avatar: images/avatars/DuchessFounder.png
+  - name: Michael Van Riper
+    year: 2008
+    country:
+      nomination: USA
+    city: Silicon Valley, California
+    social:
+      twitter: https://twitter.com/vanriper
+    avatar: images/avatars/vanriper.png
+  - name: Jorge Vargas
+    year: 2007
+    country:
+      nomination: Mexico
+    city: Benito Juarez
+    social:
+      twitter: https://twitter.com/edivargas
+    avatar: images/avatars/edivargas.png
+  - name: Bill Venners
+    year: 2005
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/bvenners
+    avatar: images/avatars/bvenners.png
+  - name: Martijn Verburg
+    year: 2012
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/karianna
+    avatar: images/avatars/karianna.png
+  - name: Brian Vermeer
+    year: 2021
+    country:
+      nomination: The Netherlands
+    city: Breda
+    social:
+      twitter: https://twitter.com/BrianVerm
+    avatar: images/avatars/BrianVermeer.png
+  - name: Jonathan Vila
+    year: 2020
+    country:
+      nomination: Spain
+    city: Barcelona
+    social:
+      twitter: https://twitter.com/vilojona
+    avatar: images/avatars/vilojona.png
+  - name: Michael Vitz
+    year: 2021
+    country:
+      nomination: Germany
+    city: Moenchengladbach
+    social:
+      twitter: https://twitter.com/michaelvitz
+    avatar: images/avatars/michaelvitz.png
+  - name: Lars Vogel
+    year: 2012
+    country:
+      nomination: Germany
+    city: Hamburg
+    social:
+      twitter: https://twitter.com/vogella
+    avatar: images/avatars/vogella.png
+  - name: Dr. Johan Vos
+    year: 2012
+    country:
+      nomination: Belgium
+    city: Leuven, Flanders
+    social:
+      twitter: https://twitter.com/johanvos
+    avatar: images/avatars/johanvos.png
+  - name: Joe Walker
+    year: 2006
+    country:
+      nomination: UK
+    city: Leicester
+    avatar: images/avatars/Joe_Walker.png
+  - name: Nitsan Wakart
+    year: 2018
+    country:
+      nomination: South Africa
+    city: Cape Town
+    social:
+      twitter: https://twitter.com/nitsanw
+    avatar: images/avatars/nitsanw.png
+  - name: Dick Wall
+    year: 2005
+    country:
+      nomination: UK
+    social:
+      twitter: https://twitter.com/dickwall
+    avatar: images/avatars/dickwall.png
+    status:
+      - founding-member
+  - name: Craig Walls
+    year: 2021
+    country:
+      nomination: USA
+    city: Castle Rock, Colorado
+    social:
+      twitter: https://twitter.com/habuma
+    avatar: images/avatars/habuma.png
+  - name: Dr. Richard Warburton
+    year: 2016
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/RichardWarburto
+    avatar: images/avatars/RichardWarburto.png
+  - name: James Ward
+    year: 2021
+    country:
+      nomination: USA
+    city: Crested Butte, Colorado
+    social:
+      twitter: https://twitter.com/_JamesWard
+    avatar: images/avatars/_JamesWard.png
+  - name: Jim Weaver
+    year: 2008
+    country:
+      nomination: USA
+    city: Indianapolis, Indiana
+    social:
+      twitter: https://twitter.com/JavaFXpert
+    avatar: images/avatars/JavaFXpert.png
+  - name: Paul Webber
+    year: 2005
+    country:
+      nomination: USA
+    city: Poway, California
+    social:
+      twitter: https://twitter.com/CaptainWebber
+    avatar: images/avatars/CaptainWebber.png
+  - name: Miro Wengner
+    year: 2018
+    country:
+      nomination: Germany
+    city: Munich, Bavaria
+    social:
+      twitter: https://twitter.com/miragemiko
+    avatar: images/avatars/miragemiko.png
+  - name: Geertjan Wielenga
+    year: 2020
+    country:
+      nomination: The Netherlands
+    city: Amsterdam
+    social:
+      twitter: https://twitter.com/GeertjanW
+    avatar: images/avatars/GeertjanW.png
+  - name: Alan Williamson
+    year: 2005
+    country:
+      nomination: USA
+      birth: Scotland
+    city: Virginia
+    social:
+      twitter: https://twitter.com/a1anw2
+      website: https://alan.is/about
+    avatar: images/avatars/a1anw2.png
+  - name: Joe Winchester
+    year: 2006
+    country:
+      nomination: UK
+    city: Southampton
+    social:
+      twitter: https://twitter.com/JoeWinchester
+    avatar: images/avatars/JoeWinchester.png
+  - name: Russel Winder
+    year: 2021
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/russel_winder
+    avatar: images/avatars/russel_winder.png
+    status:
+      - passed-away
+  - name: Adam Winer
+    year: 2005
+    country: { nomination: USA }
+    city: San Francisco, California
+    avatar: images/avatars/Adam_Winer.png
+    status:
+      - founding-member
+  - name: Rafael Winterhalter
+    year: 2015
+    country:
+      nomination: Norway
+    city: Oslo
+    social:
+      twitter: https://twitter.com/rafaelcodes
+    avatar: images/avatars/rafaelcodes.png
+  - name: Eberhard Wolff
+    year: 2005
+    country:
+      nomination: Germany
+    city: Kaiserslautern
+    social:
+      twitter: https://twitter.com/ewolff
+    avatar: images/avatars/ewolff.png
+    status:
+      - founding-member
+      - retired
+  - name: Haim Yadid
+    year: 2022
+    country:
+      nomination: Israel
+    social:
+      twitter: https://twitter.com/lifeyx
+    avatar: images/avatars/lifeyx.png
+  - name: Yusuke Yamamoto
+    year: 2019
+    country:
+      nomination: Japan
+    city: Tokyo
+    social:
+      twitter: https://twitter.com/yusuke
+    avatar: images/avatars/yusuke.png
+  - name: Edson Yanaga
+    year: 2015
+    country:
+      nomination: USA
+      birth: Brazil
+    city: Raleigh-Durham, North Carolina
+    social:
+      twitter: https://twitter.com/yanaga
+    avatar: images/avatars/yanaga.png
+  - name: Sooyeul Yang
+    year: 2005
+    country:
+      nomination: South Korea
+    avatar: images/avatars/Sooyeul_Yang.png
+  - name: Murat Yener
+    year: 2015
+    country:
+      nomination: Turkey
+    social:
+      twitter: https://twitter.com/yenerm
+    avatar: images/avatars/yenerm.png
+  - name: Dr. Michael Juntao Yuan
+    year: 2005
+    country:
+      nomination: USA
+    city: Austin, Texas
+    social:
+      twitter: https://twitter.com/juntao
+    avatar: images/avatars/juntao.png
+  - name: Enrique Zamudio
+    year: 2015
+    country:
+      nomination: Mexico
+    city: Mexico City
+    social:
+      twitter: https://twitter.com/chochosmx
+    avatar: images/avatars/chochosmx.png
+  

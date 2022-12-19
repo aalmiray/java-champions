@@ -33,6 +33,7 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 [subs="attributes"]
 |===
 | | |Name |Social |City/State |Country |Year
+| | |Name |Social |City/State |Country |Year
 
 |{counter:idx}
 |image:images/avatars/oezcanacar.png[]
