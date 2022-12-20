@@ -2696,6 +2696,7 @@ members:
       nomination: Germany
     city: Moenchengladbach
     social:
+      mastodon: https://innoq.social/@michaelvitz
       twitter: https://twitter.com/michaelvitz
     avatar: images/avatars/michaelvitz.png
   - name: Lars Vogel
