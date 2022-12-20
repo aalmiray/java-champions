@@ -969,6 +969,9 @@ members:
     city: Malmo
     social:
       twitter: https://twitter.com/ivar_grimstad
+      mastodon: https://mastodon.social/@ivar_grimstad
+      linkedin: https://www.linkedin.com/in/ivargrimstad
+      website: https://www.agilejava.eu
     avatar: images/avatars/ivar_grimstad.png
   - name: Sanne Grinovero
     year: 2020
