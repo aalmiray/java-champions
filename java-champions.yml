@@ -3,7 +3,7 @@
 # country:
 #  nomination: country of residence at the time of nomination
 #  residence: current residence
-#  citizenship: primary citizenship (if different from nomination, residence, birth
+#  citizenship: primary citizenship (if different from nomination, residence, birth)
 #  birth: country of birth
 #
 # status:
@@ -69,7 +69,7 @@ members:
     city: Basel
     social:
       twitter: https://twitter.com/aalmiray
-        - mastodon: https://mastodon.social/@aalmiray
+      mastodon: https://mastodon.social/@aalmiray
       linkedin: https://www.linkedin.com/in/aalmiray
     avatar: images/avatars/aalmiray.png
     status:
@@ -556,7 +556,7 @@ members:
     city: Sudbury, Massachusetts
     social:
       twitter: https://twitter.com/deitel
-    avatar: http://i.picasion.com/resize89/e4a02b14694e419dbd39f90befecd1ee.jpg[]
+    avatar: http://i.picasion.com/resize89/e4a02b14694e419dbd39f90befecd1ee.jpg
   - name: Valere Dejardin
     year: 2005
     country:
@@ -2823,7 +2823,8 @@ members:
       - passed-away
   - name: Adam Winer
     year: 2005
-    country: { nomination: USA }
+    country:
+      nomination: USA
     city: San Francisco, California
     avatar: images/avatars/Adam_Winer.png
     status:
@@ -2899,4 +2900,3 @@ members:
     social:
       twitter: https://twitter.com/chochosmx
     avatar: images/avatars/chochosmx.png
-  
