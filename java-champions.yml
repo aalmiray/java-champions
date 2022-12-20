@@ -41,6 +41,7 @@ members:
     city: Sofia
     social:
       twitter: https://twitter.com/bercut2000
+      mastodon: https://c.im/@bercut2000
     avatar: images/avatars/bercut2000.png
     status:
       - alumni
@@ -69,8 +70,9 @@ members:
     city: Basel
     social:
       twitter: https://twitter.com/aalmiray
-        - mastodon: https://mastodon.social/@aalmiray
+      mastodon: https://mastodon.social/@aalmiray
       linkedin: https://www.linkedin.com/in/aalmiray
+      github: https://github.com/aalmiray
     avatar: images/avatars/aalmiray.png
     status:
       - alumni
@@ -141,6 +143,7 @@ members:
     city: Seville
     social:
       twitter: https://twitter.com/delawen
+      mastodon: https://floss.social/@delawen
     avatar: images/avatars/delawen.png
   - name: Sergey Astakhov
     year: 2005
@@ -214,6 +217,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/jpbempel
+      mastodon: https://mastodon.online/@jpbempel
     avatar: images/avatars/jpbempel.png
   - name: Brian Benz
     year: 2020
@@ -222,6 +226,7 @@ members:
     city: Las Vegas
     social:
       twitter: https://twitter.com/bbenz
+      mastodon: https://mastodon.social/@bbenz
     avatar: images/avatars/bbenz.png
   - name: Emmanuel Bernard
     year: 2017
@@ -237,6 +242,7 @@ members:
       nomination: Belgium
     social:
       twitter: https://twitter.com/gbevin
+      mastodon: https://uwyn.net/@gbevin
     avatar: images/avatars/gbevin.png
   - name: Adam Bien
     year: 2007
@@ -257,6 +263,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/jean_bisutti
+      mastodon: https://mastodon.social/@jean_bisutti
     avatar: images/avatars/jean_bisutti.png
   - name: Sébastien Blanc
     year: 2020
@@ -314,6 +321,7 @@ members:
     city: Turin
     social:
       twitter: https://twitter.com/simonebordet
+      mastodon: https://mastodon.online/@simonebordet
     avatar: images/avatars/simonebordet.png
   - name: Bruno Borges
     year: 2019
@@ -322,6 +330,7 @@ members:
       citizenship: Brazil
     social:
       twitter: https://twitter.com/brunoborges
+      mastodon: https://mastodon.social/@brunoborges
     avatar: images/avatars/brunoborges.png
   - name: Jeanne Boyarsky
     year: 2019
@@ -330,6 +339,7 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/jeanneboyarsky
+      mastodon: https://mastodon.social/@jeanneboyarsky
     avatar: images/avatars/jeanneboyarsky.png
   - name: Bruno Bossola
     year: 2005
@@ -474,6 +484,7 @@ members:
     city: Edinburgh
     social:
       twitter: https://twitter.com/_pitest
+      mastodon: https://mastodon.me.uk/@hjc
     avatar: images/avatars/_pitest.png
   - name: Stephen Colebourne
     year: 2007
@@ -497,6 +508,7 @@ members:
       citizenship: France
     social:
       twitter: https://twitter.com/JoCosti
+      mastodon: https://mstdn.social/@JoCosti
     avatar: images/avatars/JoCosti.png
   - name: Roberto Cortez
     year: 2016
@@ -513,6 +525,7 @@ members:
     city: Barcelona
     social:
       twitter: https://twitter.com/icougil
+      mastodon: https://mastodon.social/@icougil
     avatar: images/avatars/icougil.png
   - name: Agnes Crepet
     year: 2012
@@ -530,6 +543,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/holly_cummins
+      mastodon: https://mastodon.social/@holly_cummins
     avatar: images/avatars/holly_cummins.png
   - name: Ian F. Darwin
     year: 2005
@@ -548,6 +562,7 @@ members:
     city: Munich
     social:
       twitter: https://twitter.com/DaschnerS
+      mastodon: https://mastodon.social/@daschners
     avatar: images/avatars/DaschnerS.png
   - name: Paul J. Deitel
     year: 2005
@@ -556,7 +571,7 @@ members:
     city: Sudbury, Massachusetts
     social:
       twitter: https://twitter.com/deitel
-    avatar: http://i.picasion.com/resize89/e4a02b14694e419dbd39f90befecd1ee.jpg[]
+    avatar: http://i.picasion.com/resize89/e4a02b14694e419dbd39f90befecd1ee.jpg
   - name: Valere Dejardin
     year: 2005
     country:
@@ -587,13 +602,14 @@ members:
     city: Tilburg
     social:
       twitter: https://twitter.com/edwinderks
+      mastodon: https://mastodon.social/@edwinderks
     avatar: images/avatars/edwinderks.png
   - name: Daniel deOliveira
     year: 2005
     country:
       nomination: Brazil
     social:
-      twitter: https://twitter.com/danieldfjug[
+      twitter: https://twitter.com/danieldfjug
     avatar: images/avatars/danieldfjug.png
     status:
       - founding-member
@@ -636,6 +652,7 @@ members:
     city: Dresden
     social:
       twitter: https://twitter.com/odrotbohm
+      mastodon: https://chaos.social/@odrotbohm
     avatar: images/avatars/odrotbohm.png
   - name: Julien Dubois
     year: 2018
@@ -652,6 +669,7 @@ members:
     city: Dortmund
     social:
       twitter: https://twitter.com/hendrikEbbers
+      mastodon: https://mastodon.cloud/@hendrikEbbers
     avatar: images/avatars/hendrikEbbers.png
   - name: Bruce Eckel
     year: 2006
@@ -668,6 +686,7 @@ members:
     city: St. Gallen
     social:
       twitter: https://twitter.com/lukaseder
+      mastodon: https://mastodon.social/@lukaseder
     avatar: images/avatars/lukaseder.png
   - name: Sergei Egorov
     year: 2020
@@ -683,6 +702,7 @@ members:
     city: Munich
     social:
       twitter: https://twitter.com/myfear
+      mastodon: https://mastodon.online/@myfear
     avatar: images/avatars/myfear.png
   - name: Badr El Houari
     year: 2016
@@ -706,6 +726,7 @@ members:
     city: Haan, North Rhine-Westphalia
     social:
       twitter: https://twitter.com/noctarius2k
+      mastodon: https://mastodon.online/@noctarius2k
     avatar: images/avatars/noctarius2k.png
   - name: Anton (Toni) Epple
     year: 2013
@@ -730,6 +751,7 @@ members:
     city: Valence, Rhône-Alpes
     social:
       twitter: https://twitter.com/clementplop
+      mastodon: https://mastodon.social/@clementplop
     avatar: images/avatars/clementplop.png
   - name: Ben Evans
     year: 2013
@@ -738,14 +760,16 @@ members:
       citizenship: UK
     social:
       twitter: https://twitter.com/kittylyst
+      mastodon: https://mastodon.social/@kittylyst
     avatar: images/avatars/kittylyst.png
-  - name: link:https://yakovfain.com/[Yakov Fain]
+  - name: Yakov Fain
     year: 2005
     country:
       nomination: USA
     city: New York City, New York
     social:
       twitter: https://twitter.com/yfain
+      website: https://yakovfain.com/
     avatar: images/avatars/yfain.png
   - name: Rommel Feria
     year: 2--5
@@ -773,6 +797,7 @@ members:
     city: Cote Saint-Luc, Quebec
     social:
       twitter: https://twitter.com/omniprof
+      mastodon: https://mastodon.social/@omniprof
     avatar: images/avatars/omniprof.png
   - name: Axel Fontaine
     year: 2016
@@ -847,6 +872,7 @@ members:
     city: Seville, Andalusia
     social:
       twitter: https://twitter.com/trisha_gee
+      mastodon: https://mastodon.social/@trishagee
     avatar: images/avatars/trisha_gee.png
   - name: Jeff Genender
     year: 2009
@@ -876,6 +902,7 @@ members:
       nomination: New Zealand
     social:
       twitter: https://twitter.com/JonathanGiles
+      mastodon: https://hachyderm.io/@JonathanGiles
     avatar: images/avatars/JonathanGiles.png
   - name: Brian Goetz
     year: 2006
@@ -902,6 +929,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/agoncal
+      mastodon: https://fosstodon.org/@agoncal
     avatar: images/avatars/agoncal.png
   - name: Dr. James Gosling
     year: 2005
@@ -910,6 +938,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/errcraft
+      mastodon: https://universeodon.com/@JamesGosling
     avatar: images/avatars/errcraft.png
     status:
       - honorary-member
@@ -928,6 +957,7 @@ members:
     city: Bremen
     social:
       twitter: https://twitter.com/rgransberger
+      mastodon: https://mastodon.social/@rgransberger
     avatar: images/avatars/rgransberger.png
   - name: Rodrigo Graciano
     year: 2022
@@ -937,6 +967,7 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/rodrigograciano
+      mastodon: https://mastodon.social/@graciano
     avatar: images/avatars/rodrigograciano.png
   - name: Victor Grazi
     year: 2012
@@ -978,6 +1009,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/SanneGrinovero
+      mastodon: https://fosstodon.org/@sanne
     avatar: images/avatars/SanneGrinovero.png
   - name: Loiane Groner
     year: 2020
@@ -995,6 +1027,7 @@ members:
     city: Münster, North Rhine-Westphalia
     social:
       twitter: https://twitter.com/hansolo_
+      mastodon: https://mastodon.social/@hansolo_
     avatar: images/avatars/hansolo_.png
   - name: Mary Grygleski
     year: 2021
@@ -1043,7 +1076,7 @@ members:
       nomination: India
     city: New Delhi, Delhi
     social:
-      twitter: https://twitter.com/eMalaGupta[
+      twitter: https://twitter.com/eMalaGupta
     avatar: images/avatars/eMalaGupta.png
   - name: Romain Guy
     year: 2006
@@ -1067,7 +1100,8 @@ members:
       nomination: USA
     city: Godfrey, Illinois
     social:
-      twitter: https://twitter.com/MkHeck[@MkHeck]
+      twitter: https://twitter.com/MkHeck
+      mastodon: https://mastodon.cloud/@mkheck
     avatar: images/avatars/MkHeck.png
   - name: David Heffelfinger
     year: 2017
@@ -1143,6 +1177,7 @@ members:
     city: Albuquerque, NM
     social:
       twitter: https://twitter.com/dhinojosa
+      mastodon: https://mastodon.social/@dhinojosa
     avatar: images/avatars/dhinojosa.png
   - name: Marcus Hirt
     year: 2019
@@ -1152,6 +1187,7 @@ members:
     city: Zürich
     social:
       twitter: https://twitter.com/hirt
+      mastodon: https://mastodon.social/@hirt
     avatar: images/avatars/hirt.png
   - name: Ron Hitchens
     year: 2008
@@ -1176,6 +1212,7 @@ members:
       nomination: Germany
     social:
       twitter: https://twitter.com/marcandsweep
+      mastodon: https://mastodon.social/@marcandsweep
     avatar: images/avatars/marcandsweep.png
   - name: Jacob Hookom
     year: 2005
@@ -1241,6 +1278,7 @@ members:
     city: Dresden
     social:
       twitter: https://twitter.com/mesirii
+      mastodon: https://chaos.social/@mesirii
     avatar: images/avatars/mesirii.png
   - name: Claus Ibsen
     year: 2018
@@ -1273,14 +1311,14 @@ members:
       nomination: Bulgaria
     city: Sofia
     social:
-      twitter: https://twitter.com/ivan_stefanov[
+      twitter: https://twitter.com/ivan_stefanov
     avatar: images/avatars/ivan_stefanov.png
   - name: Grace Jansen
     year: 2022
     country:
       nomination: UK
     social:
-      twitter: https://twitter.com/gracejansen27[
+      twitter: https://twitter.com/gracejansen27
     avatar: images/avatars/gracejansen27.png
   - name: Stephan Janssen
     year: 2005
@@ -1289,6 +1327,7 @@ members:
     city: Bruges
     social:
       twitter: https://twitter.com/Stephan007
+      mastodon: https://techhub.social/@stephan007
     avatar: images/avatars/Stephan007.png
   - name: Jakob Jenkov
     year: 2022
@@ -1305,6 +1344,7 @@ members:
     city: Southampton
     social:
       twitter: https://twitter.com/emilyfhjiang
+      mastodon: https://mastodon.social/@emilyjiang
     avatar: images/avatars/emilyfhjiang.png
   - name: Dr. Rod Johnson
     year: 2006
@@ -1338,6 +1378,7 @@ members:
     city: Chicago, Illinois
     social:
       twitter: https://twitter.com/javajuneau
+      mastodon: https://fosstodon.org/@javajuneau
     avatar: images/avatars/javajuneau.png
   - name: Prof. Matjaz Juric
     year: 2010
@@ -1353,6 +1394,7 @@ members:
     city: Chorafakia, Chania
     social:
       twitter: https://twitter.com/heinzkabutz
+      mastodon: https://mastodon.social/@HeinzKabutz
       website: https://www.javaspecialists.eu
     avatar: images/avatars/heinzkabutz.png
   - name: Mattias Karlsson
@@ -1362,6 +1404,7 @@ members:
     city: Stockholm
     social:
       twitter: https://twitter.com/matkar
+      mastodon: https://mastodon.social/@matkar
     avatar: images/avatars/matkar.png
   - name: Kohsuke Kawaguchi
     year: 2020
@@ -1429,6 +1472,7 @@ members:
     city: Marlborough, Connecticut
     social:
       twitter: https://twitter.com/kenkousen
+      mastodon: https://mastodon.social/@kenkousen
     avatar: images/avatars/kenkousen.png
   - name: Dr. Michael Kölling
     year: 2007
@@ -1453,6 +1497,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/glaforge
+      mastodon: https://uwyn.net/@glaforge
     avatar: images/avatars/glaforge.png
   - name: Marcus Lagergren
     year: 2016
@@ -1503,6 +1548,7 @@ members:
     city: Surrey
     social:
       twitter: https://twitter.com/PeterLawrey
+      mastodon: https://mastodon.social/@PeterLawrey
     avatar: images/avatars/PeterLawrey.png
   - name: Dr. Doug Lea
     year: 2005
@@ -1518,7 +1564,7 @@ members:
       nomination: USA
     city: San Francisco, California
     social:
-      twitter: https://twitter.com/crazybob[@crazybob]
+      twitter: https://twitter.com/crazybob
     avatar: images/avatars/crazybob.png
     status:
       - retired
@@ -1529,6 +1575,7 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/evanchooly
+      mastodon: https://mastodon.social/@evanchooly
     avatar: images/avatars/evanchooly.png
   - name: Trustin Lee
     year: 2020
@@ -1571,7 +1618,7 @@ members:
     year: 2005
     country:
       nomination: USA
-    avatar: images/daniel-liang-128x128.jpg[]
+    avatar: images/daniel-liang-128x128.jpg
   - name: Patrick Linskey
     year: 2005
     country:
@@ -1591,6 +1638,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/starbuxman
+      mastodon: https://mastodon.online/@starbuxman
     avatar: images/avatars/starbuxman.png
   - name: Melissa McKay
     year: 2021
@@ -1629,6 +1677,7 @@ members:
     city: Nijmegen
     social:
       twitter: https://twitter.com/Sander_Mak
+      mastodon: https://federate.social/@sander_mak
     avatar: images/avatars/Sander_Mak.png
   - name: Konrad Malawski
     year: 2017
@@ -1742,6 +1791,7 @@ members:
       nomination: Norway
     social:
       twitter: https://twitter.com/rmehmandarov
+      mastodon: https://mastodon.social/@mehmandarov
     avatar: images/avatars/rmehmandarov.png
   - name: Eddú Meléndez
     year: 2022
@@ -1757,6 +1807,7 @@ members:
     city: Prague
     social:
       twitter: https://twitter.com/OndroMih
+      mastodon: https://mastodon.online/@ondromih
     avatar: images/avatars/OndroMih.png
   - name: Vlad Mihalcea
     year: 2017
@@ -1772,6 +1823,7 @@ members:
       nomination: Romania
     social:
       twitter: https://twitter.com/ammbra1508
+      mastodon: https://mastodon.social/@ammbra1508
     avatar: images/avatars/ammbra1508.png
     status:
       - alumni
@@ -1797,6 +1849,7 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/gunnarmorling
+      mastodon: https://mastodon.online/@gunnarmorling
     avatar: images/avatars/gunnarmorling.png
   - name: Maarten Mulders
     year: 2022
@@ -1805,6 +1858,7 @@ members:
     city: Apeldoorn
     social:
       twitter: https://twitter.com/mthmulders
+      mastodon: https://mastodon.online/@mthmulders
     avatar: images/avatars/mthmulders.png
   - name: Benjamin Muskalla
     year: 2021
@@ -1859,6 +1913,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/chriswhocodes
+      mastodon: https://mastodon.social/@chriswhocodes
     avatar: images/avatars/chriswhocodes.png
   - name: Kevin Nilson
     year: 2009
@@ -1875,6 +1930,7 @@ members:
     city: Warsaw
     social:
       twitter: https://twitter.com/tnurkiewicz
+      mastodon: https://fosstodon.org/@nurkiewicz
     avatar: images/avatars/tnurkiewicz.png
   - name: Charles Oliver Nutter
     year: 2013
@@ -1883,6 +1939,7 @@ members:
     city: Minneapolis, Minnesota
     social:
       twitter: https://twitter.com/headius
+      mastodon: https://mastodon.social/@headius
     avatar: images/avatars/headius.png
   - name: Harshad Oak
     year: 2007
@@ -1917,6 +1974,7 @@ members:
     city: Guatemala City
     social:
       twitter: https://twitter.com/tuxtor
+      mastodon: https://fosstodon.org/@tuxtor
     avatar: images/avatars/tuxtor.png
   - name: Bethan Palmer
     year: 2018
@@ -1946,6 +2004,7 @@ members:
     city: Karlsruhe
     social:
       twitter: https://twitter.com/nipafx
+      mastodon: https://mastodon.social/@nipafx
     avatar: images/avatars/nipafx.png
     status:
       - alumni
@@ -1956,6 +2015,7 @@ members:
     city: Neuss
     social:
       twitter: https://twitter.com/SandraParsick
+      mastodon: https://mastodon.social/@sparsick
     avatar: images/avatars/SandraParsick.png
   - name: Pratik Patel
     year: 2016
@@ -2063,7 +2123,8 @@ members:
       birth: Bangladesh
     city: Toronto
     social:
-      twitter: https://twitter.com/bazlur_rahman[
+      twitter: https://twitter.com/bazlur_rahman
+      mastodon: https://mastodon.online/@bazlur_rahman
     avatar: images/avatars/bazlur_rahman.png
   - name: Matt Raible
     year: 2016
@@ -2123,6 +2184,7 @@ members:
     city: Twickenham
     social:
       twitter: https://twitter.com/speakjava
+      mastodon: https://mastodon.social/@speakjava
     avatar: images/avatars/speakjava.png
   - name: Sven Reimers
     year: 2015
@@ -2131,6 +2193,7 @@ members:
     city: Konstanz
     social:
       twitter: https://twitter.com/SvenNB
+      mastodon: https://mastodon.social/@svenreimers
     avatar: images/avatars/SvenNB.png
   - name: Roy van Rijn
     year: 2018
@@ -2139,6 +2202,7 @@ members:
     city: Maassluis, South Holland Province
     social:
       twitter: https://twitter.com/royvanrijn
+      mastodon: https://mastodon.social/@royvanrijn
     avatar: images/avatars/royvanrijn.png
   - name: Leonardo de Moura Rocha Lima
     year: 2017
@@ -2173,6 +2237,7 @@ members:
     city: Basel
     social:
       twitter: https://twitter.com/ixchelruiz
+      mastodon: https://mastodon.social/@ixchelruiz
     avatar: images/avatars/ixchelruiz.png
   - name: Antoine Sabot-Durand
     year: 2017
@@ -2233,6 +2298,7 @@ members:
       nomination: UK
     social:
       twitter: https://twitter.com/theNeomatrix369
+      mastodon: https://mastodon.online/@neomatrix369
     avatar: images/avatars/theNeomatrix369.png
   - name: Deepu K Sasidharan
     year: 2022
@@ -2247,6 +2313,7 @@ members:
       nomination: Austria
     social:
       twitter: https://twitter.com/tomsontom
+      mastodon: https://mastodon.social/@tomsontom
     avatar: images/avatars/tomsontom.png
   - name: Olivier Schmitt
     year: 2005
@@ -2264,6 +2331,7 @@ members:
     city: Groningen
     social:
       twitter: https://twitter.com/rfscholte
+      mastodon: https://mstdn.social/@rfscholte
     avatar: images/avatars/rfscholte.png
   - name: Bauke Scholtz
     year: 2017
@@ -2304,6 +2372,7 @@ members:
     city: Utrecht
     social:
       twitter: https://twitter.com/bjschrijver
+      mastodon: https://mastodon.social/@bjschrijver
     avatar: images/avatars/bjschrijver.png
   - name: Vinicius Senger
     year: 2016
@@ -2353,6 +2422,7 @@ members:
     city: Aachen, North Rhine-Westphalia
     social:
       twitter: https://twitter.com/rotnroll666
+      mastodon: https://mastodon.social/@rotnroll666
     avatar: images/avatars/rotnroll666.png
   - name: Yakov Sirotkin
     year: 2005
@@ -2482,7 +2552,7 @@ members:
       nomination: The Netherlands
     city: Apeldoorn
     social:
-      twitter: https://twitter.com/reginatb38[
+      twitter: https://twitter.com/reginatb38
     avatar: images/avatars/reginatb38.png
   - name: Gil Tene
     year: 2017
@@ -2517,6 +2587,7 @@ members:
     city: Haleiwa, Hawaii
     social:
       twitter: https://twitter.com/christhalinger
+      mastodon: https://mastodon.social/@christhalinger
     avatar: images/avatars/christhalinger.png
   - name: Alex Theedom
     year: 2018
@@ -2574,6 +2645,7 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/neugens
+      mastodon: https://mastodon.social/@MarioTorre
     avatar: images/avatars/neugens.png
   - name: Henri Tremblay
     year: 2016
@@ -2591,6 +2663,7 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/saturnism
+      mastodon: https://mastodon.social/@saturnism
     avatar: images/avatars/saturnism.png
   - name: Klaasjan Tukker
     year: Founding Member
@@ -2672,6 +2745,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/karianna
+      mastodon: https://mastodon.social/@martijnverburg
     avatar: images/avatars/karianna.png
   - name: Brian Vermeer
     year: 2021
@@ -2680,6 +2754,7 @@ members:
     city: Breda
     social:
       twitter: https://twitter.com/BrianVerm
+      mastodon: https://mastodon.social/@brianverm
     avatar: images/avatars/BrianVermeer.png
   - name: Jonathan Vila
     year: 2020
@@ -2712,6 +2787,7 @@ members:
     city: Leuven, Flanders
     social:
       twitter: https://twitter.com/johanvos
+      mastodon: https://mastodon.social/@johanvos
     avatar: images/avatars/johanvos.png
   - name: Joe Walker
     year: 2006
@@ -2743,6 +2819,7 @@ members:
     city: Castle Rock, Colorado
     social:
       twitter: https://twitter.com/habuma
+      mastodon: https://mastodon.social/@habuma
     avatar: images/avatars/habuma.png
   - name: Dr. Richard Warburton
     year: 2016
@@ -2834,6 +2911,7 @@ members:
     city: Oslo
     social:
       twitter: https://twitter.com/rafaelcodes
+      mastodon: https://mastodon.social/@rafaelcodes
     avatar: images/avatars/rafaelcodes.png
   - name: Eberhard Wolff
     year: 2005
@@ -2842,6 +2920,7 @@ members:
     city: Kaiserslautern
     social:
       twitter: https://twitter.com/ewolff
+      mastodon: https://mastodon.social/@ewolff
     avatar: images/avatars/ewolff.png
     status:
       - founding-member
@@ -2869,6 +2948,7 @@ members:
     city: Raleigh-Durham, North Carolina
     social:
       twitter: https://twitter.com/yanaga
+      mastodon: https://mastodon.social/@yanaga
     avatar: images/avatars/yanaga.png
   - name: Sooyeul Yang
     year: 2005
