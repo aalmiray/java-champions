@@ -1,0 +1,52 @@
+name: Site
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  site:
+    name: Site
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GIT_ACCESS_TOKEN }}
+
+      - name: Setup Java
+        uses: actions/setup-java@v3
+        with:
+          java-version: 17
+          distribution: zulu
+
+      - name: Cache Jbang
+        uses: actions/cache@v3
+        with:
+          path: ~/.jbang/cache/
+          key: ${{ runner.os }}-jbang-cache-${{ hashFiles('**/*.java') }}
+          restore-keys: |
+            ${{ runner.os }}-jbang-
+
+      - name: Parse data
+        run: |
+          cd resources
+          ./jbang site.java ../java-champions.yml ../site/content/
+
+      - name: Install jbake
+        uses: sdkman/sdkman-action@master
+        with:
+          candidate: jbake
+          version: 2.6.7
+
+      - name: Generate site
+        run: |
+          cd site
+          jbake -b
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          folder: site/output
+          branch: 'gh-pages'
+          commit-message: "Publish site for ${{ github.sha }}"

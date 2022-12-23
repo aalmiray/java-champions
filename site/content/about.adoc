@@ -1,0 +1,9 @@
+= About
+Andres Almiray
+:jbake-type: page
+:jbake-status: published
+:linkattrs:
+
+== The Site
+
+This site was created using https://jbake.org[JBake, window="_blank"].

@@ -1,5 +1,5 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
-//JAVA 16
+//JAVA 17
 //DEPS com.fasterxml.jackson.core:jackson-core:2.12.3
 //DEPS com.fasterxml.jackson.core:jackson-databind:2.12.3
 
