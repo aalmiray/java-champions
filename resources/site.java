@@ -74,6 +74,7 @@ public class site {
             .map(m -> m.country.nomination)
             .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
+        // TODO: sort by country name after sorting by count
         StringBuilder countriesSb = new StringBuilder();
         countries.entrySet().stream()
             .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
