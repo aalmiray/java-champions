@@ -4,7 +4,7 @@
 
 	<div class="container">
 	<div class="page-header">
-		<p align="center"><img src="/img/duke_champion.png"
+		<p align="center"><img src="img/duke_champion.png"
 							   alt="Duke champion"></p>
 	</div>
 
