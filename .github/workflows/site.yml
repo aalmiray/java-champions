@@ -36,12 +36,17 @@ jobs:
       - name: Generate site
         run: |
           cd site
+          echo "::group::⬇️️ install jbake"
           candidate=jbake
           version=2.6.7
           platform=$(uname)
           curl -L -o jbake.zip https://api.sdkman.io/2/broker/download/$candidate/$version/$platform
           unzip -qo jbake.zip
+          echo "::endgroup::"
+          echo "::group::🚀 run jbake"
           ./jbake-${version}-bin/bin/jbake -b
+          touch output/.nojekyll
+          echo "::endgroup::"
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.0.0
