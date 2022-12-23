@@ -924,6 +924,7 @@ members:
     city: Madrid
     social:
       twitter: https://twitter.com/dgomezg
+      mastodon: https://jvm.social/@dgomezg
     avatar: img/avatars/dgomezg.png
   - name: Antonio Goncalves
     year: 2008
