@@ -20,7 +20,7 @@ the Java platform at their BOF sessions." From link:site/content/resources/javao
 
 Note: This list is maintained by the Java Champions themselves.
 
-\\\\
+////
 == Who are the Java Champions?
 
 // use an attribute to avoid char substitutions
@@ -2947,4 +2947,4 @@ Note: This list is maintained by the Java Champions themselves.
 |2015
 |===
 
-\\\\
+////

@@ -33,16 +33,15 @@ jobs:
           cd resources
           ./jbang site.java ../java-champions.yml ../site/content/
 
-      - name: Install jbake
-        uses: sdkman/sdkman-action@master
-        with:
-          candidate: jbake
-          version: 2.6.7
-
       - name: Generate site
         run: |
           cd site
-          jbake -b
+          candidate=jbake
+          version=2.6.7
+          platform=$(uname)
+          curl -L -o jbake.zip https://api.sdkman.io/2/broker/download/$candidate/$version/$platform
+          unzip -qo jbake.zip
+          ./jbake-${version}-bin/bin/jbake -b
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.0.0
