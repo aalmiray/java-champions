@@ -2381,6 +2381,9 @@ members:
     social:
       twitter: https://twitter.com/ebullientworks
       mastodon: https://fosstodon.org/@ebullient
+      linkedin: https://www.linkedin.com/in/erinschnabel
+      github: https://github.com/ebullient
+      website: https://ebullient.dev
     avatar: img/avatars/ebullientworks.png
   - name: Bert Jan Schrijver
     year: 2017
