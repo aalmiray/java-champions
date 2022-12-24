@@ -3,8 +3,8 @@
 # country:
 #  nomination: country of residence at the time of nomination
 #  residence: current residence
-#  citizenship: primary citizenship (if different from nomination, residence, birth
 #  birth: country of birth
+#  citizenship: primary citizenship (if different from nomination, residence, birth
 #
 # status:
 #  - founding-member
@@ -12,6 +12,13 @@
 #  - retired
 #  - passed-away
 #  - honorary-member
+#
+# social:
+#   twitter:
+#   mastodon:
+#   linkedin:
+#   github:
+#   website:
 #
 ####################################################################################
 
