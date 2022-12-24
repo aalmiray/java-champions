@@ -2316,8 +2316,13 @@ members:
     year: 2022
     country:
       nomination: The Netherlands
+      citizenship: India
     social:
+      mastodon: https://mastodon.social/@deepu105
       twitter: https://twitter.com/deepu105
+      linkedin: https://www.linkedin.com/in/deepu05
+      github: https://github.com/deepu105
+      website: https://deepu.tech
     avatar: img/avatars/deepu105.png
   - name: Tom Schindl
     year: 2015
