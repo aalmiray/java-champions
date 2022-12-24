@@ -17,6 +17,11 @@ Andres Almiray
 | pass:[<i class="fa fa-baby"></i>]           | Country of birth.
 |===
 
+Data is available in several formats:
+
+ * link:resources/java-champions.yml[java-champions.yml] - raw data
+ * link:resources/mastodon.csv[mastodon.csv] - for Mastodon import
+
 [cols="^,^,<2,<2,<2,<2,^"]
 [subs="attributes"]
 |===

@@ -44,6 +44,7 @@ jobs:
           unzip -qo jbake.zip
           echo "::endgroup::"
           echo "::group::🚀 run jbake"
+          cp ../java-champions.yml ../site/content/resources
           ./jbake-${version}-bin/bin/jbake -b
           touch output/.nojekyll
           echo "::endgroup::"

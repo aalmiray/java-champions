@@ -8,6 +8,7 @@ import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
@@ -54,6 +55,7 @@ public class site {
         var mapper = YAMLMapper.builder().build();
         var members = new Members();
 
+        // parse input data
         try (InputStream in = Files.newInputStream(file)) {
             members = mapper.readValue(in, Members.class);
         } catch (IOException e) {
@@ -62,6 +64,7 @@ public class site {
             System.exit(1);
         }
 
+        // generate members.adoc
         var membersDoc = new StringBuilder(Files.readString(Path.of("members.adoc.tpl")));
         for (JavaChampion member : members.members) {
             membersDoc.append(member.formatted());
@@ -70,6 +73,7 @@ public class site {
         var output = directory.resolve("members.adoc");
         Files.write(output, membersDoc.toString().getBytes());
 
+        // generate stats.adoc
         Map<String, Long> countries = members.members.stream()
             .map(m -> m.country.nomination)
             .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
@@ -104,6 +108,16 @@ public class site {
             .replace("@YEARS_HEIGHT@", String.valueOf(years.size() * 30));
         output = directory.resolve("stats.adoc");
         Files.write(output, statsDoc.getBytes());
+
+        // generate fediverse CSV file
+        var mastodonCsv = new PrintWriter(Files.newOutputStream(directory.resolve("resources").resolve("mastodon.csv")));
+        mastodonCsv.println("Account address,Show boosts,Notify on new posts,Languages");
+        members.members.stream()
+            .filter(JavaChampion::hasMastodon)
+            .map(JavaChampion::asMastodonCsvEntry)
+            .forEach(mastodonCsv::println);
+        mastodonCsv.flush();
+        mastodonCsv.close();
     }
 
     static class Members {
@@ -158,6 +172,14 @@ public class site {
 
             return b.append("\n\n")
                 .toString();
+        }
+
+        boolean hasMastodon() {
+            return social != null && social.mastodon != null;
+        }
+
+        String asMastodonCsvEntry() {
+            return social.getMastodonAccount() + ",true,false,";
         }
     }
 
@@ -250,6 +272,13 @@ public class site {
             }
 
             return b.append("\n").toString();
+        }
+
+        String getMastodonAccount() {
+            String s = mastodon.split("@")[0].substring(8);
+            s = s.substring(0, s.length() - 1);
+            String n = mastodon.split("@")[1];
+            return "@" + n + "@" + s;
         }
     }
 }
