@@ -2721,10 +2721,12 @@ members:
   - name: Tagir Valeev
     year: 2020
     country:
-      nomination: Germany
+      nomination: Russian Federation
+      residence: Germany
     city: Munich
     social:
       twitter: https://twitter.com/tagir_valeev
+      mastodon: https://mastodon.online/@tagir_valeev
     avatar: img/avatars/tagir_valeev.png
   - name: Linda van der Pal
     year: 2013
