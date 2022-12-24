@@ -32,10 +32,6 @@ jobs:
           cd resources
           ./jbang avatars.java ${{ secrets.TWITTER_TOKEN }} ../site/assets/img/avatars
 
-      - name: Reset Avatars
-        run: |
-          BASEDIR=. sh resources/reset-avatars.sh
-
       - name: Commit Changes
         if: always()
         run: |

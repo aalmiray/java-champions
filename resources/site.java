@@ -20,7 +20,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class site {
-    private static final Map<String, String> STATUS = new TreeMap(Map.of(
+    private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
         "founding-member", "pass:[<i class=\"fa fa-star\"></i>]",
         "honorary-member", "pass:[<i class=\"fa fa-medal\"></i>]",
         "alumni", "pass:[<i class=\"fa fa-pause\"></i>]",
@@ -74,12 +74,12 @@ public class site {
         Files.write(output, membersDoc.toString().getBytes());
 
         // generate stats.adoc
-        Map<String, Long> countries = members.members.stream()
+        var countries = members.members.stream()
             .map(m -> m.country.nomination)
             .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
         // TODO: sort by country name after sorting by count
-        StringBuilder countriesSb = new StringBuilder();
+        var countriesSb = new StringBuilder();
         countries.entrySet().stream()
             .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
             .forEach(e -> countriesSb.append("        ['")
@@ -88,11 +88,11 @@ public class site {
                 .append(e.getValue())
                 .append("],\n"));
 
-        Map<String, Long> years = members.members.stream()
+        var years = members.members.stream()
             .map(m -> m.year)
             .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
-        StringBuilder yearsSb = new StringBuilder();
+        var yearsSb = new StringBuilder();
         years.entrySet().stream()
             .sorted(Map.Entry.comparingByKey(Comparator.reverseOrder()))
             .forEach(e -> yearsSb.append("        ['")
@@ -134,7 +134,7 @@ public class site {
         public List<String> status = new ArrayList<>();
 
         String formatted() {
-            StringBuilder b = new StringBuilder("|{counter:idx}\n")
+            var b = new StringBuilder("|{counter:idx}\n")
                 .append("|image:")
                 .append(avatar)
                 .append("[]");
@@ -190,7 +190,7 @@ public class site {
         public String birth;
 
         String formatted() {
-            StringBuilder b = new StringBuilder("|")
+            var b = new StringBuilder("|")
                 .append(COUNTRY.get("nomination"))
                 .append(" ")
                 .append(nomination);
@@ -229,7 +229,7 @@ public class site {
         public String website;
 
         String formatted() {
-            StringBuilder b = new StringBuilder("|");
+            var b = new StringBuilder("|");
 
             if (twitter != null && !twitter.isBlank()) {
                 b.append("link:")
@@ -275,9 +275,9 @@ public class site {
         }
 
         String getMastodonAccount() {
-            String s = mastodon.split("@")[0].substring(8);
+            var s = mastodon.split("@")[0].substring(8);
             s = s.substring(0, s.length() - 1);
-            String n = mastodon.split("@")[1];
+            var n = mastodon.split("@")[1];
             return "@" + n + "@" + s;
         }
     }
