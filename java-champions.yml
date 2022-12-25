@@ -1203,7 +1203,7 @@ members:
       mastodon: https://mastodon.social/@hirt
       linkedin: https://www.linkedin.com/in/mhirt/
       github: https://github.com/thegreystone
-      website: http://hirt.se/blog/
+      website: https://hirt.se/blog/
     avatar: img/avatars/hirt.png
   - name: Ron Hitchens
     year: 2008
