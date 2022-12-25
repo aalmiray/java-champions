@@ -1596,6 +1596,9 @@ members:
     social:
       twitter: https://twitter.com/evanchooly
       mastodon: https://mastodon.social/@evanchooly
+      linkedin: https://www.linkedin.com/in/justinlee/
+      github: https://github.com/evanchooly
+      website: http://antwerkz.com
     avatar: img/avatars/evanchooly.png
   - name: Trustin Lee
     year: 2020
