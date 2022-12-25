@@ -1193,12 +1193,17 @@ members:
   - name: Marcus Hirt
     year: 2019
     country:
+      birth: Sweden
       nomination: Sweden
       residence: Switzerland
-    city: Zürich
+      citizenship: Switzerland
+    city: Küssnacht am Rigi, SZ
     social:
       twitter: https://twitter.com/hirt
       mastodon: https://mastodon.social/@hirt
+      linkedin: https://www.linkedin.com/in/mhirt/
+      github: https://github.com/thegreystone
+      website: http://hirt.se/blog/
     avatar: img/avatars/hirt.png
   - name: Ron Hitchens
     year: 2008
