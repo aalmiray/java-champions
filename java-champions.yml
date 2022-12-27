@@ -2863,7 +2863,7 @@ members:
     city: Castle Rock, Colorado
     social:
       twitter: https://twitter.com/habuma
-      mastodon: https://mastodon.social/@habuma
+      mastodon: https://fosstodon.org/@habuma
     avatar: img/avatars/habuma.png
   - name: Dr. Richard Warburton
     year: 2016
@@ -3022,4 +3022,3 @@ members:
     social:
       twitter: https://twitter.com/chochosmx
     avatar: img/avatars/chochosmx.png
-  
