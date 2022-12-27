@@ -786,7 +786,9 @@ members:
     country:
       nomination: Philippines
     social:
-      twitter: https://twitter.com/rom
+      mastodon: https://social.lol/@rom
+      # https://mastodon.think-privacy.com/@rom
+      # https://social.up.edu.ph/@r
     avatar: img/avatars/rom.png
     status:
       - founding-member
