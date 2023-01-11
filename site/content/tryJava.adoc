@@ -4,18 +4,11 @@
 :linkattrs:
 
 == Try your first Java Program
+Lorem Ipsum
 
-Before you go straight to hit the `RUN` button, let's take one minute to review the code below from your first Java program:
 
 [%step]
-* Import the `java.util.*`` package. This will include the System class.
-* `Main` class is the name of the class your application will live in.
-* You guessed it, the `Main` class needs a `main` method to define the actions to execute.
-* `System` assist to interact with standard input, standard output, and error output streams;
-
-We are ready, please click Run and enjoy your first program! +
-Yes, you can modify the message and try again ;).
-
+* Lorem Ipsum
 
 
 ++++
