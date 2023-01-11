@@ -1,0 +1,28 @@
+= Try Java
+:jbake-type: page
+:jbake-status: published
+:linkattrs:
+
+== Try your first Java Program
+
+Before you go staright to hit the `RUN` button, let's take one minute to review the code bellow from your first Java program:
+
+[%step]
+* Import the `java.util.*`` package. This will include the System class.
+* Main class is the name of the class your application will live in.
+* You gess it, the Main class needs a main method to define the actions to execute.
+* System class are standard input, standard output, and error output streams;
+
+We are ready, please click Run and enjoy your first program! +
+Yes, you can modify the message and try again ;).
+
+
+
+++++
+<iframe
+ frameBorder="0"
+ height="450px"
+ src="https://onecompiler.com/embed/java"
+ width="90%"
+ ></iframe>
+++++
