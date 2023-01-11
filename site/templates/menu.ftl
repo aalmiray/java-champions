@@ -15,7 +15,8 @@
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>members.html">Members</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>stats.html">Stats</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
+						<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>tryJava.html">Try Java</a></li>
+						<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
