@@ -640,6 +640,13 @@ members:
     social:
       twitter: https://twitter.com/fdiotalevi
     avatar: img/avatars/fdiotalevi.png
+  - name: Hans Dockter
+    year: 2023
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/hans_d
+    avatar: img/avatars/hans_d.png
   - name: Oleh Dokuka
     year: 2019
     country:
