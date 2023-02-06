@@ -40,6 +40,8 @@ members:
     social:
       twitter: https://twitter.com/gdams_
       linkedin: https://www.linkedin.com/in/gdams
+      mastodon: https://fosstodon.org/@gdams
+      github: https://github.com/gdams
     avatar: img/avatars/gdams_.png
   - name: Dmitry Aleksandrov
     year: 2017
