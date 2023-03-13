@@ -599,6 +599,14 @@ members:
     social:
       twitter: https://twitter.com/danieldeluca
     avatar: img/avatars/danieldeluca.png
+  - name: Frank Delporte
+    year: 2023
+    country:
+      nomination: Belgium
+    social:
+      twitter: https://twitter.com/FrankDelporte
+      mastodon: https://foojay.social/@frankdelporte
+    avatar: img/avatars/FrankDelporte.png
   - name: Brian Demers
     year: 2021
     country:
