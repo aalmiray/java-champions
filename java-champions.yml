@@ -2506,6 +2506,15 @@ members:
       twitter: https://twitter.com/rotnroll666
       mastodon: https://mastodon.social/@rotnroll666
     avatar: img/avatars/rotnroll666.png
+  - name: Falk Sippach
+    year: 2023
+    country:
+      nomination: Germany
+    city: Darmstadt
+    social:
+      twitter: https://twitter.com/sippsack
+      mastodon: https://mastodon.social/@sippsack
+    avatar: img/avatars/sippsack.png
   - name: Yakov Sirotkin
     year: 2005
     country:
