@@ -1620,6 +1620,7 @@ members:
     avatar: img/avatars/crazybob.png
     status:
       - retired
+      - passed-away
   - name: Justin Lee
     year: 2014
     country:
