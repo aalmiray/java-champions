@@ -2210,6 +2210,15 @@ members:
     country:
       nomination: USA
     avatar: img/avatars/Jayson_Raymond.png
+  - name: Michael P. Redlich
+    year: 2023
+    country:
+      nomination: USA
+    city: Flemington
+    social:
+      twitter: https://twitter.com/mpredli
+      mastodon: https://mastodon.sdf.org/@mpredli01
+    avatar: img/avatars/mpredli.png
   - name: Dr. Victor Rentea
     year: 2019
     country:
