@@ -3049,9 +3049,10 @@ members:
   - name: Edson Yanaga
     year: 2015
     country:
-      nomination: USA
+      nomination: Brazil
       birth: Brazil
-    city: Raleigh-Durham, North Carolina
+      residence: USA
+    city: Cary, NC
     social:
       twitter: https://twitter.com/yanaga
       mastodon: https://mastodon.social/@yanaga
