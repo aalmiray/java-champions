@@ -2805,8 +2805,8 @@ members:
   - name: Rahman Usta
     year: 2018
     country:
-      nomination: Poland
-      birth: Turkey
+      nomination: Turkey
+      residence: Poland
     city: Krakow
     social:
       twitter: https://twitter.com/ustarahman
