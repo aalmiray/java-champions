@@ -33,6 +33,7 @@ public class site {
         "mastodon", "pass:[<span class=\"icon\"><i class=\"fab fa-mastodon\"></i></span>]",
         "linkedin", "pass:[<span class=\"icon\"><i class=\"fab fa-linkedin\"></i></span>]",
         "github", "pass:[<span class=\"icon\"><i class=\"fab fa-github\"></i></span>]",
+        "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-cloud\"></i></span>]",
         "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\"></i></span>]"
     );
 
@@ -224,6 +225,7 @@ public class site {
     static class Social {
         public String twitter;
         public String mastodon;
+        public String bluesky;
         public String linkedin;
         public String github;
         public String website;
@@ -244,6 +246,14 @@ public class site {
                     .append(mastodon)
                     .append("[")
                     .append(SOCIAL.get("mastodon"))
+                    .append("] ");
+            }
+
+            if (bluesky != null && !bluesky.isBlank()) {
+                b.append("link:")
+                    .append(bluesky)
+                    .append("[")
+                    .append(SOCIAL.get("bluesky"))
                     .append("] ");
             }
 
