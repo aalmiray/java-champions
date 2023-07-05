@@ -148,6 +148,7 @@ members:
       nomination: Estonia
     social:
       twitter: https://twitter.com/antonarhipov
+      bluesky: https://bsky.app/profile/antonarhipov.bsky.social
     avatar: img/avatars/antonarhipov.png
   - name: María Arias de Reyna
     year: 2020
@@ -729,6 +730,7 @@ members:
       nomination: Russian Federation
     social:
       twitter: https://twitter.com/bsideup
+      bluesky: https://bsky.app/profile/bsideup.bsky.social
     avatar: img/avatars/bsideup.png
   - name: Markus Eisele
     year: 2014
@@ -2477,13 +2479,14 @@ members:
     social:
       twitter: https://twitter.com/shipilev
     avatar: img/avatars/shipilev.png
-  - name: Dr. Oleg Shelajev
+  - name: Oleg Šelajev
     year: 2017
     country:
       nomination: Estonia
     city: Tartu
     social:
       twitter: https://twitter.com/shelajev
+      bluesky: https://bsky.app/profile/shelajev.bsky.social
     avatar: img/avatars/shelajev.png
   - name: Erin Schnabel
     year: 2019
