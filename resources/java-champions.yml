@@ -16,6 +16,8 @@
 # social:
 #   twitter:
 #   mastodon:
+#   bluesky:
+#   youtube:
 #   linkedin:
 #   github:
 #   website:
@@ -2487,6 +2489,9 @@ members:
     social:
       twitter: https://twitter.com/shelajev
       bluesky: https://bsky.app/profile/shelajev.bsky.social
+      youtube: https://www.youtube.com/@shelajev
+      linkedin: https://www.linkedin.com/in/shelajev/
+      github: https://github.com/shelajev/
     avatar: img/avatars/shelajev.png
   - name: Erin Schnabel
     year: 2019
