@@ -522,6 +522,15 @@ members:
     social:
       twitter: https://twitter.com/PandaConstantin
     avatar: img/avatars/PandaConstantin.png
+  - name: Tom Cools
+    year: 2023
+    country:
+      nomination: Belgium
+    social:
+      twitter: https://twitter.com/TCoolsIT
+      mastodon: https://mastodon.social/@TCoolsIT
+      bluesky: https://bsky.app/profile/tcoolsit.bsky.social
+    avatar: img/avatars/TCoolsIT.png
   - name: Joel Costigliola
     year: 2021
     country:
