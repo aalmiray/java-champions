@@ -1654,6 +1654,16 @@ members:
     avatar: img/avatars/crazybob.png
     status:
       - passed-away
+  - name: Jason Lee
+    year: 2023
+    country:
+      nomination: USA
+    city: Oklahoma City, Oklahoma
+    social:
+      twitter: https://twitter.com/jasondlee
+      mastodon: https://mastodon.cloud/@jasondlee
+      website: https://jasondl.ee/
+    avatar: img/avatars/jasondlee.png
   - name: Justin Lee
     year: 2014
     country:
