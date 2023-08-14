@@ -769,6 +769,15 @@ members:
     social:
       twitter: https://twitter.com/relizarov
     avatar: img/avatars/relizarov.png
+  - name: Hanno Embregts
+    year: 2023
+    country:
+      nomination: The Netherlands
+    social:
+      twitter: https://twitter.com/hannotify
+      mastodon: https://foojay.social/@hannotify
+      bluesky: https://bsky.app/profile/hannotify.bsky.social
+    avatar: img/avatars/hannotify.png
   - name: Christoph Engelbert
     year: 2018
     country:
