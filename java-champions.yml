@@ -773,10 +773,13 @@ members:
     year: 2023
     country:
       nomination: The Netherlands
+    city: Leusden
     social:
       twitter: https://twitter.com/hannotify
       mastodon: https://foojay.social/@hannotify
       bluesky: https://bsky.app/profile/hannotify.bsky.social
+      linkedin: https://www.linkedin.com/in/hannoembregts
+      website: https://hanno.codes
     avatar: img/avatars/hannotify.png
   - name: Christoph Engelbert
     year: 2018
