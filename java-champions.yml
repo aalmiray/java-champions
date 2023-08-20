@@ -16,6 +16,8 @@
 # social:
 #   twitter:
 #   mastodon:
+#   bluesky:
+#   youtube:
 #   linkedin:
 #   github:
 #   website:
@@ -41,6 +43,7 @@ members:
       twitter: https://twitter.com/gdams_
       linkedin: https://www.linkedin.com/in/gdams
       mastodon: https://fosstodon.org/@gdams
+      bluesky: https://bsky.app/profile/gdams.bsky.social
       github: https://github.com/gdams
     avatar: img/avatars/gdams_.png
   - name: Dmitry Aleksandrov
@@ -69,6 +72,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/dalmaer
+      bluesky: https://bsky.app/profile/almaer.com
     avatar: img/avatars/dalmaer.png
   - name: Andres Almiray
     year: 2010
@@ -80,6 +84,7 @@ members:
     social:
       twitter: https://twitter.com/aalmiray
       mastodon: https://mastodon.social/@aalmiray
+      bluesky: https://bsky.app/profile/aalmiray.bsky.social
       linkedin: https://www.linkedin.com/in/aalmiray
       github: https://github.com/aalmiray
       website: https://andresalmiray.com
@@ -145,6 +150,7 @@ members:
       nomination: Estonia
     social:
       twitter: https://twitter.com/antonarhipov
+      bluesky: https://bsky.app/profile/antonarhipov.bsky.social
     avatar: img/avatars/antonarhipov.png
   - name: María Arias de Reyna
     year: 2020
@@ -239,6 +245,7 @@ members:
     social:
       twitter: https://twitter.com/bbenz
       mastodon: https://mastodon.social/@bbenz
+      bluesky: https://bsky.app/profile/bbenz.bsky.social
     avatar: img/avatars/bbenz.png
   - name: Emmanuel Bernard
     year: 2017
@@ -255,6 +262,7 @@ members:
     social:
       twitter: https://twitter.com/gbevin
       mastodon: https://uwyn.net/@gbevin
+      bluesky: https://bsky.app/profile/gbevin.uwyn.com
     avatar: img/avatars/gbevin.png
   - name: Adam Bien
     year: 2007
@@ -343,6 +351,7 @@ members:
     social:
       twitter: https://twitter.com/brunoborges
       mastodon: https://mastodon.social/@brunoborges
+      bluesky: https://bsky.app/profile/brunoborges.bsky.social
     avatar: img/avatars/brunoborges.png
   - name: Jeanne Boyarsky
     year: 2019
@@ -513,6 +522,15 @@ members:
     social:
       twitter: https://twitter.com/PandaConstantin
     avatar: img/avatars/PandaConstantin.png
+  - name: Tom Cools
+    year: 2023
+    country:
+      nomination: Belgium
+    social:
+      twitter: https://twitter.com/TCoolsIT
+      mastodon: https://mastodon.social/@TCoolsIT
+      bluesky: https://bsky.app/profile/tcoolsit.bsky.social
+    avatar: img/avatars/TCoolsIT.png
   - name: Joel Costigliola
     year: 2021
     country:
@@ -556,6 +574,7 @@ members:
     social:
       twitter: https://twitter.com/holly_cummins
       mastodon: https://mastodon.social/@holly_cummins
+      bluesky: https://bsky.app/profile/holly-cummins.bsky.social
     avatar: img/avatars/holly_cummins.png
   - name: Ian F. Darwin
     year: 2005
@@ -606,6 +625,7 @@ members:
     social:
       twitter: https://twitter.com/FrankDelporte
       mastodon: https://foojay.social/@frankdelporte
+      bluesky: https://bsky.app/profile/frankdelporte.bsky.social
     avatar: img/avatars/FrankDelporte.png
   - name: Brian Demers
     year: 2021
@@ -614,6 +634,7 @@ members:
     city: New Hampshire
     social:
       twitter: https://twitter.com/briandemers
+      bluesky: https://bsky.app/profile/bdemers.bsky.social
     avatar: img/avatars/briandemers.png
   - name: Edwin Derks
     year: 2021
@@ -721,6 +742,7 @@ members:
       nomination: Russian Federation
     social:
       twitter: https://twitter.com/bsideup
+      bluesky: https://bsky.app/profile/bsideup.bsky.social
     avatar: img/avatars/bsideup.png
   - name: Markus Eisele
     year: 2014
@@ -730,6 +752,7 @@ members:
     social:
       twitter: https://twitter.com/myfear
       mastodon: https://mastodon.online/@myfear
+      bluesky: https://bsky.app/profile/myfear.com
     avatar: img/avatars/myfear.png
   - name: Badr El Houari
     year: 2016
@@ -746,6 +769,18 @@ members:
     social:
       twitter: https://twitter.com/relizarov
     avatar: img/avatars/relizarov.png
+  - name: Hanno Embregts
+    year: 2023
+    country:
+      nomination: The Netherlands
+    city: Leusden
+    social:
+      twitter: https://twitter.com/hannotify
+      mastodon: https://foojay.social/@hannotify
+      bluesky: https://bsky.app/profile/hannotify.bsky.social
+      linkedin: https://www.linkedin.com/in/hannoembregts
+      website: https://hanno.codes
+    avatar: img/avatars/hannotify.png
   - name: Christoph Engelbert
     year: 2018
     country:
@@ -886,6 +921,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/gAmUssA
+      bluesky: https://bsky.app/profile/gamussa.bsky.social
     avatar: img/avatars/gAmUssA.png
   - name: Felipe Gaúcho
     year: 2010
@@ -1006,6 +1042,7 @@ members:
     social:
       twitter: https://twitter.com/rodrigograciano
       mastodon: https://mastodon.social/@graciano
+      bluesky: https://bsky.app/profile/graciano.bsky.social
     avatar: img/avatars/rodrigograciano.png
   - name: Victor Grazi
     year: 2012
@@ -1039,6 +1076,7 @@ members:
     city: Malmo
     social:
       twitter: https://twitter.com/ivar_grimstad
+      bluesky: https://bsky.app/profile/ivargrimstad.bsky.social
     avatar: img/avatars/ivar_grimstad.png
   - name: Sanne Grinovero
     year: 2020
@@ -1067,6 +1105,7 @@ members:
     social:
       twitter: https://twitter.com/hansolo_
       mastodon: https://mastodon.social/@hansolo_
+      bluesky: https://bsky.app/profile/hansolo.bsky.social
     avatar: img/avatars/hansolo_.png
   - name: Mary Grygleski
     year: 2021
@@ -1100,6 +1139,7 @@ members:
     city: New Jersey
     social:
       twitter: https://twitter.com/CGuntur
+      bluesky: https://bsky.app/profile/cguntur.bsky.social
     avatar: img/avatars/CGuntur.png
   - name: Arun Gupta
     year: 2013
@@ -1108,6 +1148,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/arungupta
+      bluesky: https://bsky.app/profile/arungupta.bsky.social
     avatar: img/avatars/arungupta.png
   - name: Mala Gupta
     year: 2018
@@ -1141,6 +1182,7 @@ members:
     social:
       twitter: https://twitter.com/MkHeck
       mastodon: https://mastodon.cloud/@mkheck
+      bluesky: https://bsky.app/profile/mkheck.bsky.social
     avatar: img/avatars/MkHeck.png
   - name: David Heffelfinger
     year: 2017
@@ -1218,6 +1260,7 @@ members:
     social:
       twitter: https://twitter.com/dhinojosa
       mastodon: https://mastodon.social/@dhinojosa
+      bluesky: https://bsky.app/profile/dhinojosa.bsky.social
       linkedin: https://www.linkedin.com/in/dhevolutionnext
       github: https://github.com/dhinojosa
       website: https://evolutionnext.com
@@ -1327,6 +1370,7 @@ members:
     social:
       twitter: https://twitter.com/mesirii
       mastodon: https://chaos.social/@mesirii
+      bluesky: https://bsky.app/profile/mesirii.de
     avatar: img/avatars/mesirii.png
   - name: Claus Ibsen
     year: 2018
@@ -1410,6 +1454,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/techgirl1908
+      bluesky: https://bsky.app/profile/angiejones.tech
     avatar: img/avatars/techgirl1908.png
   - name: Christopher Judd
     year: 2017
@@ -1523,6 +1568,7 @@ members:
     social:
       twitter: https://twitter.com/kenkousen
       mastodon: https://mastodon.social/@kenkousen
+      bluesky: https://bsky.app/profile/kenkousen.bsky.social
     avatar: img/avatars/kenkousen.png
   - name: Dr. Michael Kölling
     year: 2007
@@ -1620,6 +1666,16 @@ members:
     avatar: img/avatars/crazybob.png
     status:
       - passed-away
+  - name: Jason Lee
+    year: 2023
+    country:
+      nomination: USA
+    city: Oklahoma City, Oklahoma
+    social:
+      twitter: https://twitter.com/jasondlee
+      mastodon: https://mastodon.cloud/@jasondlee
+      website: https://jasondl.ee/
+    avatar: img/avatars/jasondlee.png
   - name: Justin Lee
     year: 2014
     country:
@@ -1628,6 +1684,7 @@ members:
     social:
       twitter: https://twitter.com/evanchooly
       mastodon: https://mastodon.social/@evanchooly
+      bluesky: https://bsky.app/profile/evanchooly.bsky.social
       linkedin: https://www.linkedin.com/in/justinlee/
       github: https://github.com/evanchooly
       website: http://antwerkz.com
@@ -1695,6 +1752,7 @@ members:
     social:
       twitter: https://twitter.com/starbuxman
       mastodon: https://mastodon.online/@starbuxman
+      bluesky: https://bsky.app/profile/starbuxman.joshlong.com
     avatar: img/avatars/starbuxman.png
   - name: Melissa McKay
     year: 2021
@@ -1848,6 +1906,7 @@ members:
     social:
       twitter: https://twitter.com/rmehmandarov
       mastodon: https://mastodon.social/@mehmandarov
+      bluesky: https://bsky.app/profile/mehmandarov.bsky.social
     avatar: img/avatars/rmehmandarov.png
   - name: Eddú Meléndez
     year: 2022
@@ -1880,6 +1939,7 @@ members:
     social:
       twitter: https://twitter.com/ammbra1508
       mastodon: https://mastodon.social/@ammbra1508
+      bluesky: https://bsky.app/profile/ammbra1508.bsky.social
     avatar: img/avatars/ammbra1508.png
     status:
       - alumni
@@ -1906,6 +1966,7 @@ members:
     social:
       twitter: https://twitter.com/gunnarmorling
       mastodon: https://mastodon.online/@gunnarmorling
+      bluesky: https://bsky.app/profile/gunnar.bsky.social
     avatar: img/avatars/gunnarmorling.png
   - name: Maarten Mulders
     year: 2022
@@ -1915,6 +1976,7 @@ members:
     social:
       twitter: https://twitter.com/mthmulders
       mastodon: https://mastodon.online/@mthmulders
+      bluesky: https://bsky.app/profile/mthmulders.bsky.social
     avatar: img/avatars/mthmulders.png
   - name: Benjamin Muskalla
     year: 2021
@@ -1999,6 +2061,7 @@ members:
     social:
       twitter: https://twitter.com/headius
       mastodon: https://mastodon.social/@headius
+      bluesky: https://bsky.app/profile/headius.bsky.social
     avatar: img/avatars/headius.png
   - name: Harshad Oak
     year: 2007
@@ -2026,6 +2089,15 @@ members:
     social:
       twitter: https://twitter.com/gaijinco
     avatar: img/avatars/gaijinco.png
+  - name: Daniel Oh
+    year: 2023
+    country:
+      nomination: USA
+    city: Boston
+    social:
+      twitter: https://twitter.com/danieloh30
+      bluesky: https://bsky.app/profile/danieloh30.bsky.social
+    avatar: img/avatars/danieloh30.png
   - name: Víctor Orozco
     year: 2018
     country:
@@ -2064,6 +2136,7 @@ members:
     social:
       twitter: https://twitter.com/nipafx
       mastodon: https://mastodon.social/@nipafx
+      bluesky: https://bsky.app/profile/nipafx.bsky.social
     avatar: img/avatars/nipafx.png
     status:
       - alumni
@@ -2083,6 +2156,7 @@ members:
     city: Atlanta, Georgia
     social:
       twitter: https://twitter.com/prpatel
+      bluesky: https://bsky.app/profile/prpatel.bsky.social
     avatar: img/avatars/prpatel.png
   - name: Bob Paulin
     year: 2017
@@ -2199,6 +2273,7 @@ members:
       website: https://raibledesigns.com
       linkedin: https://linkedin.com/in/mraible
       twitter: https://twitter.com/mraible
+      bluesky: https://bsky.app/profile/mraible.bsky.social
     avatar: img/avatars/mraible.png
   - name: Srikanth Raju
     year: 2006
@@ -2210,6 +2285,15 @@ members:
     country:
       nomination: USA
     avatar: img/avatars/Jayson_Raymond.png
+  - name: Michael P. Redlich
+    year: 2023
+    country:
+      nomination: USA
+    city: Flemington
+    social:
+      twitter: https://twitter.com/mpredli
+      mastodon: https://mastodon.sdf.org/@mpredli01
+    avatar: img/avatars/mpredli.png
   - name: Dr. Victor Rentea
     year: 2019
     country:
@@ -2304,6 +2388,7 @@ members:
     social:
       twitter: https://twitter.com/ixchelruiz
       mastodon: https://mastodon.social/@ixchelruiz
+      bluesky: https://bsky.app/profile/ixchelruiz.bsky.social
     avatar: img/avatars/ixchelruiz.png
   - name: Antoine Sabot-Durand
     year: 2017
@@ -2341,6 +2426,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/bsbodden
+      bluesky: https://bsky.app/profile/bsbodden.bsky.social
     avatar: img/avatars/bsbodden.png
   - name: Tatu Saloranta
     year: 2021
@@ -2362,7 +2448,6 @@ members:
     year: 2006
     country:
       nomination: Brazil
-    city: Michael Nascimento Santos
     social:
       twitter: https://twitter.com/mr__m
     avatar: img/avatars/mr__m.png
@@ -2427,13 +2512,17 @@ members:
     social:
       twitter: https://twitter.com/shipilev
     avatar: img/avatars/shipilev.png
-  - name: Dr. Oleg Shelajev
+  - name: Oleg Šelajev
     year: 2017
     country:
       nomination: Estonia
     city: Tartu
     social:
       twitter: https://twitter.com/shelajev
+      bluesky: https://bsky.app/profile/shelajev.bsky.social
+      youtube: https://www.youtube.com/@shelajev
+      linkedin: https://www.linkedin.com/in/shelajev/
+      github: https://github.com/shelajev/
     avatar: img/avatars/shelajev.png
   - name: Erin Schnabel
     year: 2019
@@ -2788,8 +2877,8 @@ members:
   - name: Rahman Usta
     year: 2018
     country:
-      nomination: Poland
-      birth: Turkey
+      nomination: Turkey
+      residence: Poland
     city: Krakow
     social:
       twitter: https://twitter.com/ustarahman
@@ -2843,6 +2932,7 @@ members:
     social:
       twitter: https://twitter.com/karianna
       mastodon: https://mastodon.social/@martijnverburg
+      bluesky: https://bsky.app/profile/karianna.bsky.social
     avatar: img/avatars/karianna.png
   - name: Brian Vermeer
     year: 2021
@@ -2852,6 +2942,7 @@ members:
     social:
       twitter: https://twitter.com/BrianVerm
       mastodon: https://mastodon.social/@brianverm
+      bluesky: https://bsky.app/profile/brianverm.bsky.social
     avatar: img/avatars/BrianVermeer.png
   - name: Jonathan Vila
     year: 2020
@@ -2917,6 +3008,7 @@ members:
     social:
       twitter: https://twitter.com/habuma
       mastodon: https://fosstodon.org/@habuma
+      bluesky: https://bsky.app/profile/habuma.bsky.social
     avatar: img/avatars/habuma.png
   - name: Dr. Richard Warburton
     year: 2016
@@ -2933,6 +3025,7 @@ members:
     city: Crested Butte, Colorado
     social:
       twitter: https://twitter.com/_JamesWard
+      bluesky: https://bsky.app/profile/jamesward.com
     avatar: img/avatars/_JamesWard.png
   - name: Jim Weaver
     year: 2008
@@ -3040,9 +3133,10 @@ members:
   - name: Edson Yanaga
     year: 2015
     country:
-      nomination: USA
+      nomination: Brazil
       birth: Brazil
-    city: Raleigh-Durham, North Carolina
+      residence: USA
+    city: Cary, NC
     social:
       twitter: https://twitter.com/yanaga
       mastodon: https://mastodon.social/@yanaga
