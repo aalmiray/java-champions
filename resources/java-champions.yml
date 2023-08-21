@@ -2345,6 +2345,14 @@ members:
       twitter: https://twitter.com/SvenNB
       mastodon: https://mastodon.social/@svenreimers
     avatar: img/avatars/SvenNB.png
+  - name: Glenn Renfro
+    year: 2023
+    country:
+      nomination: USA
+    city: Atlanta
+    social:
+      twitter: https://twitter.com/cppwfs
+    avatar: img/avatars/cppwfs.png
   - name: Roy van Rijn
     year: 2018
     country:
