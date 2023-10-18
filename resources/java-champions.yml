@@ -665,6 +665,14 @@ members:
     social:
       twitter: https://twitter.com/jamdiazdiaz
     avatar: img/avatars/jamdiazdiaz.png
+  - name: Marit van Dijk
+    year: 2023
+    country:
+      nomination: The Netherlands
+    city: Amstelveen
+    social:
+      twitter: https://twitter.com/MaritvanDijk77
+    avatar: img/avatars/MaritvanDijk77.png
   - name: Filippo Diotalevi
     year: 2005
     country:
