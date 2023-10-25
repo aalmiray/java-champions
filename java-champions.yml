@@ -1408,6 +1408,14 @@ members:
     social:
       twitter: https://twitter.com/oliverihns
     avatar: img/avatars/oliverihns.png
+  - name: Francisco Isidro
+    year: 2023
+    country:
+      nomination: Brazil
+    city: São Paulo
+    social:
+      twitter: https://twitter.com/prof_isidro
+    avatar: img/avatars/prof_isidro.png
   - name: Ivan St. Ivanov
     year: 2018
     country:
