@@ -2071,9 +2071,13 @@ members:
     year: 2023
     country:
       nomination: The Netherlands
+      citizenship: Brazil
     city: Utrecht
     social:
       twitter: https://twitter.com/eliasnogueira
+      linkedin: https://www.linkedin.com/in/eliasnogueira
+      github: https://github.com/eliasnogueira
+      website: https://eliasnogueira.com
     avatar: img/avatars/eliasnogueira.png
   - name: Tomasz Nurkiewicz
     year: 2018
