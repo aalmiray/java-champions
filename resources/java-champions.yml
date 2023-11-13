@@ -2052,6 +2052,13 @@ members:
       twitter: https://twitter.com/chriswhocodes
       mastodon: https://mastodon.social/@chriswhocodes
     avatar: img/avatars/chriswhocodes.png
+  - name: Francisco Nigro
+    year: 2023
+    country:
+      nomination: Italy
+    social:
+      twitter: https://twitter.com/forked_franz
+    avatar: img/avatars/forked_franz.png
   - name: Kevin Nilson
     year: 2009
     country:
