@@ -2060,6 +2060,14 @@ members:
     social:
       twitter: https://twitter.com/javaclimber
     avatar: img/avatars/javaclimber.png
+  - name: Elias Nogueria
+    year: 2023
+    country:
+      nomination: The Netherlands
+    city: Utrecht
+    social:
+      twitter: https://twitter.com/eliasnogueira
+    avatar: img/avatars/eliasnogueira.png
   - name: Tomasz Nurkiewicz
     year: 2018
     country:
