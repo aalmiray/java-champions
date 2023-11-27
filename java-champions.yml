@@ -1886,6 +1886,14 @@ members:
     social:
       twitter: https://twitter.com/floydmarinescu
     avatar: img/avatars/floydmarinescu.png
+  - name: Simon Martinelli
+    year: 2023
+    country:
+      nomination: Switzerland
+    city: Erlach
+    social:
+      twitter: https://twitter.com/simas_ch
+    avatar: img/avatars/simas_ch.png
   - name: Vincent Massol
     year: 2005
     country:
