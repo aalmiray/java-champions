@@ -2599,6 +2599,14 @@ members:
       twitter: https://twitter.com/bjschrijver
       mastodon: https://mastodon.social/@bjschrijver
     avatar: img/avatars/bjschrijver.png
+  - name: Nate Schutta
+    year: 2023
+    country:
+      nomination: USA
+    city: Forest Lake, MN
+    social:
+      twitter: https://twitter.com/ntschutta
+    avatar: img/avatars/ntschutta.png
   - name: Vinicius Senger
     year: 2016
     country:
