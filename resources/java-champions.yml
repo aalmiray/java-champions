@@ -1968,9 +1968,11 @@ members:
     country:
       nomination: Norway
     social:
-      twitter: https://twitter.com/rmehmandarov
+      twitter: https://twitter.com/RMehmandarov
       mastodon: https://mastodon.social/@mehmandarov
       bluesky: https://bsky.app/profile/mehmandarov.bsky.social
+      sessionize: https://sessionize.com/mehmandarov
+      website: https://rustam.no
     avatar: img/avatars/rmehmandarov.png
   - name: Eddú Meléndez Gonzales
     year: 2022
