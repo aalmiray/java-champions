@@ -3017,9 +3017,13 @@ members:
     year: 2007
     country:
       nomination: Mexico
-    city: Benito Juarez
+    city: Mexico City
     social:
       twitter: https://twitter.com/edivargas
+      linkedin: https://www.linkedin.com/in/edivargas
+      github: https://github.com/edivargas
+      website: https://jorgevargas.mx
+      sessionize: https://sessionize.com/edivargas
     avatar: img/avatars/edivargas.png
   - name: Bill Venners
     year: 2005
