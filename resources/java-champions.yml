@@ -1972,12 +1972,16 @@ members:
       mastodon: https://mastodon.social/@mehmandarov
       bluesky: https://bsky.app/profile/mehmandarov.bsky.social
     avatar: img/avatars/rmehmandarov.png
-  - name: Eddú Meléndez
+  - name: Eddú Meléndez Gonzales
     year: 2022
     country:
       nomination: Perú
     social:
       twitter: https://twitter.com/EdduMelendez
+      linkedin: https://www.linkedin.com/in/eddumelendez
+      github: https://github.com/eddumelendez
+      bluesky: https://bsky.app/profile/eddumelendez.bsky.social
+      sessionize: https://sessionize.com/eddumelendez
     avatar: img/avatars/EdduMelendez.png
   - name: Ondro Mihályi
     year: 2019
