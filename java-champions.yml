@@ -2389,10 +2389,14 @@ members:
     year: 2023
     country:
       nomination: USA
-    city: Flemington
+    city: Flemington, New Jersey
     social:
       twitter: https://twitter.com/mpredli
       mastodon: https://mastodon.sdf.org/@mpredli01
+      github: https://github.com/mpredli01
+      linkedin: http://www.linkedin.com/pub/michael-redlich/0/966/13a
+      sessionize: https://sessionize.com/michael-redlich
+      website: https://redlich.net
     avatar: img/avatars/mpredli.png
   - name: Dr. Victor Rentea
     year: 2019
