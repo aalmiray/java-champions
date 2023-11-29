@@ -35,7 +35,8 @@ public class site {
         "github", "pass:[<span class=\"icon\"><i class=\"fab fa-github\"></i></span>]",
         "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-cloud\"></i></span>]",
         "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\"></i></span>]",
-        "youtube", "pass:[<span class=\"icon\"><i class=\"fab fa-youtube-square\"></i></span>]"
+        "youtube", "pass:[<span class=\"icon\"><i class=\"fab fa-youtube-square\"></i></span>]",
+        "sessionize", "pass:[<span class=\"icon\"><i class=\"fa fa-bullhorn\"></i></span>]"
     );
 
     private static final Map<String, String> COUNTRY = Map.of(
@@ -231,6 +232,7 @@ public class site {
         public String github;
         public String website;
         public String youtube;
+        public String sessionize;
 
         String formatted() {
             var b = new StringBuilder("|");
@@ -288,6 +290,14 @@ public class site {
                     .append(youtube)
                     .append("[")
                     .append(SOCIAL.get("youtube"))
+                    .append("] ");
+            }
+
+            if (sessionize != null && !sessionize.isBlank()) {
+                b.append("link:")
+                    .append(sessionize)
+                    .append("[")
+                    .append(SOCIAL.get("sessionize"))
                     .append("] ");
             }
 

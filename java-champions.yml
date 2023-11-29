@@ -21,6 +21,7 @@
 #   linkedin:
 #   github:
 #   website:
+#   sessionize:
 #
 ####################################################################################
 
@@ -88,6 +89,8 @@ members:
       linkedin: https://www.linkedin.com/in/aalmiray
       github: https://github.com/aalmiray
       website: https://andresalmiray.com
+      sessionize: https://sessionize.com/andres-almiray
+      youtube: https://www.youtube.com/@aalmiray
     avatar: img/avatars/aalmiray.png
     status:
       - alumni
@@ -2446,6 +2449,7 @@ members:
       twitter: https://twitter.com/ixchelruiz
       mastodon: https://mastodon.social/@ixchelruiz
       bluesky: https://bsky.app/profile/ixchelruiz.bsky.social
+      sessionize: https://sessionize.com/ixchelruiz
     avatar: img/avatars/ixchelruiz.png
   - name: Antoine Sabot-Durand
     year: 2017
