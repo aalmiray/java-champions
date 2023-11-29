@@ -1911,8 +1911,13 @@ members:
     city: Erlach
     social:
       twitter: https://twitter.com/simas_ch
-      linkedin: http://linkedin.com/in/simonmartinelli/
+      mastodon: https://mastodon.social/@SimonMartinelli
+      bluesky: https://bsky.app/profile/martinelli.ch
+      linkedin: http://linkedin.com/in/simonmartinelli
       github: https://github.com/simasch
+      sessionize: https://sessionize.com/simon-martinelli
+      youtube: https://www.youtube.com/@simonmartinelli
+      speakerdeck: https://speakerdeck.com/simas
       website: https://martinelli.ch
     avatar: img/avatars/simas_ch.png
   - name: Vincent Massol
