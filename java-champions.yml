@@ -1621,7 +1621,8 @@ members:
       twitter: https://twitter.com/glaforge
       mastodon: https://uwyn.net/@glaforge
       linkedin: https://www.linkedin.com/in/glaforge/
-      website: https://glaforge.appspot.com/
+      website: https://glaforge.dev/
+      sessionize: https://sessionize.com/glaforge
     avatar: img/avatars/glaforge.png
   - name: Marcus Lagergren
     year: 2016
@@ -3103,11 +3104,6 @@ members:
     social:
       twitter: https://twitter.com/_JamesWard
       bluesky: https://bsky.app/profile/jamesward.com
-      linkedin: https://www.linkedin.com/in/jamesward
-      github: https://github.com/jamesward
-      website: https://jamesward.com
-      sessionize: https://sessionize.com/james-ward
-      youtube: https://www.youtube.com/@JamesWard
     avatar: img/avatars/_JamesWard.png
   - name: Jim Weaver
     year: 2008
