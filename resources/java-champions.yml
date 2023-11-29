@@ -558,7 +558,11 @@ members:
     city: Barcelona
     social:
       twitter: https://twitter.com/icougil
-      mastodon: https://mastodon.social/@icougil
+      mastodon: https://jvm.social/@icougil
+      github: https://github.com/icougil
+      sessionize: https://sessionize.com/icougil
+      linkedin: https://www.linkedin.com/in/icougil/
+      website: https://nacho.cougil.com
     avatar: img/avatars/icougil.png
   - name: Agnes Crepet
     year: 2012
