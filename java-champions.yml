@@ -1013,6 +1013,7 @@ members:
     social:
       twitter: https://twitter.com/dgomezg
       mastodon: https://jvm.social/@dgomezg
+      sessionize: https://sessionize.com/david-gomez-garcia/
     avatar: img/avatars/dgomezg.png
   - name: Antonio Goncalves
     year: 2008
@@ -1596,20 +1597,15 @@ members:
     social:
       twitter: https://twitter.com/panoskonst
     avatar: img/avatars/panoskonst.png
-  - name: Dr. Kenneth Kousen
+  - name: Dr. Ken Kousen
     year: 2017
     country:
       nomination: USA
     city: Marlborough, Connecticut
     social:
       twitter: https://twitter.com/kenkousen
-      mastodon: https://foojay.social/@kenkousen
+      mastodon: https://mastodon.social/@kenkousen
       bluesky: https://bsky.app/profile/kenkousen.bsky.social
-      youtube: https://youtube.com/@talesfromthejarside
-      linkedin: https://www.linkedin.com/in/kenkousen/
-      github: https://github.com/kousen
-      website: https://www.kousenit.com
-      sessionize: https://sessionize.com/kenneth-kousen
     avatar: img/avatars/kenkousen.png
   - name: Dr. Michael Kölling
     year: 2007
@@ -1916,13 +1912,8 @@ members:
     city: Erlach
     social:
       twitter: https://twitter.com/simas_ch
-      mastodon: https://mastodon.social/@SimonMartinelli
-      bluesky: https://bsky.app/profile/martinelli.ch
-      linkedin: http://linkedin.com/in/simonmartinelli
+      linkedin: http://linkedin.com/in/simonmartinelli/
       github: https://github.com/simasch
-      sessionize: https://sessionize.com/simon-martinelli
-      youtube: https://www.youtube.com/@simonmartinelli
-      speakerdeck: https://speakerdeck.com/simas
       website: https://martinelli.ch
     avatar: img/avatars/simas_ch.png
   - name: Vincent Massol
