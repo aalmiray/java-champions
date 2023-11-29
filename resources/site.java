@@ -36,7 +36,8 @@ public class site {
         "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-cloud\"></i></span>]",
         "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\"></i></span>]",
         "youtube", "pass:[<span class=\"icon\"><i class=\"fab fa-youtube-square\"></i></span>]",
-        "sessionize", "pass:[<span class=\"icon\"><i class=\"fa fa-bullhorn\"></i></span>]"
+        "sessionize", "pass:[<span class=\"icon\"><i class=\"fa fa-bullhorn\"></i></span>]",
+        "speakerdeck", "pass:[<span class=\"icon\"><i class=\"fab fa-speaker-deck\"></i></span>]"
     );
 
     private static final Map<String, String> COUNTRY = Map.of(
@@ -233,6 +234,7 @@ public class site {
         public String website;
         public String youtube;
         public String sessionize;
+        public String speakerdeck;
 
         String formatted() {
             var b = new StringBuilder("|");
@@ -298,6 +300,14 @@ public class site {
                     .append(sessionize)
                     .append("[")
                     .append(SOCIAL.get("sessionize"))
+                    .append("] ");
+            }
+
+            if (speakerdeck != null && !speakerdeck.isBlank()) {
+                b.append("link:")
+                    .append(speakerdeck)
+                    .append("[")
+                    .append(SOCIAL.get("speakerdeck"))
                     .append("] ");
             }
 
