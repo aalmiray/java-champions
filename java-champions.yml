@@ -1283,11 +1283,11 @@ members:
       nomination: USA
     city: Albuquerque, NM
     social:
-      twitter: https://twitter.com/dhinojosa
       mastodon: https://mastodon.social/@dhinojosa
       bluesky: https://bsky.app/profile/dhinojosa.bsky.social
       linkedin: https://www.linkedin.com/in/dhevolutionnext
       github: https://github.com/dhinojosa
+      sessionize: https://sessionize.com/daniel-hinojosa
       website: https://evolutionnext.com
     avatar: img/avatars/dhinojosa.jpg
   - name: Marcus Hirt
