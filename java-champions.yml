@@ -1094,7 +1094,13 @@ members:
     city: Malmo
     social:
       twitter: https://twitter.com/ivar_grimstad
+      mastodon: https://mastodon.social/deck/@ivar_grimstad
       bluesky: https://bsky.app/profile/ivargrimstad.bsky.social
+      linkedin: https://www.linkedin.com/in/ivargrimstad/
+      github: https://github.com/ivargrimstad
+      website: https://www.agilejava.eu/
+      sessionize: https://sessionize.com/ivar-grimstad/
+      speakerdeck: https://speakerdeck.com/ivargrimstad
     avatar: img/avatars/ivar_grimstad.png
   - name: Sanne Grinovero
     year: 2020
@@ -1489,6 +1495,10 @@ members:
     city: Columbus, Ohio
     social:
       twitter: https://twitter.com/javajudd
+      linkedin: https://www.linkedin.com/in/christophermjudd/
+      github: https://github.com/cjudd/
+      website: https://juddsolutions.com/
+      sessionize: https://sessionize.com/christopher-judd/
     avatar: img/avatars/javajudd.png
   - name: Josh Juneau
     year: 2017
