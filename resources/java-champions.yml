@@ -1596,15 +1596,20 @@ members:
     social:
       twitter: https://twitter.com/panoskonst
     avatar: img/avatars/panoskonst.png
-  - name: Dr. Ken Kousen
+  - name: Dr. Kenneth Kousen
     year: 2017
     country:
       nomination: USA
     city: Marlborough, Connecticut
     social:
       twitter: https://twitter.com/kenkousen
-      mastodon: https://mastodon.social/@kenkousen
+      mastodon: https://foojay.social/@kenkousen
       bluesky: https://bsky.app/profile/kenkousen.bsky.social
+      youtube: https://youtube.com/@talesfromthejarside
+      linkedin: https://www.linkedin.com/in/kenkousen/
+      github: https://github.com/kousen
+      website: https://www.kousenit.com
+      sessionize: https://sessionize.com/kenneth-kousen
     avatar: img/avatars/kenkousen.png
   - name: Dr. Michael Kölling
     year: 2007
