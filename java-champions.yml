@@ -1724,8 +1724,12 @@ members:
       nomination: USA
     city: Oklahoma City, Oklahoma
     social:
+      linkedin: https://www.linkedin.com/in/jasondlee/
+      github: https://github.com/jasondlee/
+      sessionize: https://sessionize.com/jasondlee/
       twitter: https://twitter.com/jasondlee
       mastodon: https://mastodon.cloud/@jasondlee
+      bluesky: https://bsky.app/profile/jasondlee.bsky.social
       website: https://jasondl.ee/
     avatar: img/avatars/jasondlee.png
   - name: Justin Lee
