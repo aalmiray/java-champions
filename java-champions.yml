@@ -419,6 +419,7 @@ members:
       sessionize: https://sessionize.com/simonebordet
       twitter: https://twitter.com/simonebordet
       bluesky: https://bsky.app/profile/simonebordet.bsky.social
+      mastodon: https://mastodon.online/@simonebordet
     avatar: img/avatars/simonebordet.png
   - name: Bruno Borges
     year: 2019
@@ -1102,7 +1103,7 @@ members:
     avatar: img/avatars/__DavidFlanagan.png
     status:
       - founding-member
-  - name: Ken Fogel
+  - name: Prof. Ken Fogel
     year: 2018
     country:
       nomination: Canada
@@ -1937,6 +1938,7 @@ members:
     city: Chorafakia, Chania, Crete
     social:
       twitter: https://twitter.com/heinzkabutz
+      mastodon: https://mastodon.social/@HeinzKabutz
       linkedin: https://www.linkedin.com/in/heinzkabutz
       github: https://github.com/kabutz
       website: https://www.javaspecialists.eu
