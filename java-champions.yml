@@ -165,8 +165,13 @@ members:
       nomination: Spain
     city: Seville
     social:
-      twitter: https://twitter.com/delawen
       mastodon: https://floss.social/@delawen
+      youtube: https://www.youtube.com/channel/UCpO52sJmB0ormGRjGMT7iSw
+      linkedin: https://www.linkedin.com/in/delawen/
+      github: https://github.com/Delawen/
+      website: https://delawen.com
+      sessionize: https://sessionize.com/delawen/
+      twitter: https://twitter.com/delawen
     avatar: img/avatars/delawen.png
   - name: Sergey Astakhov
     year: 2005
