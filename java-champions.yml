@@ -91,6 +91,7 @@ members:
       website: https://andresalmiray.com
       sessionize: https://sessionize.com/andres-almiray
       youtube: https://www.youtube.com/@aalmiray
+      speakerdeck: https://speakerdeck.com/aalmiray
     avatar: img/avatars/aalmiray.png
     status:
       - alumni
@@ -154,6 +155,9 @@ members:
     social:
       twitter: https://twitter.com/antonarhipov
       bluesky: https://bsky.app/profile/antonarhipov.bsky.social
+      linkedin: https://www.linkedin.com/in/antonarhipov/
+      speakerdeck: https://speakerdeck.com/antonarhipov
+      sessionize: https://sessionize.com/antonarhipov
     avatar: img/avatars/antonarhipov.png
   - name: María Arias de Reyna
     year: 2020
@@ -161,8 +165,13 @@ members:
       nomination: Spain
     city: Seville
     social:
-      twitter: https://twitter.com/delawen
       mastodon: https://floss.social/@delawen
+      youtube: https://www.youtube.com/channel/UCpO52sJmB0ormGRjGMT7iSw
+      linkedin: https://www.linkedin.com/in/delawen/
+      github: https://github.com/Delawen/
+      website: https://delawen.com
+      sessionize: https://sessionize.com/delawen/
+      twitter: https://twitter.com/delawen
     avatar: img/avatars/delawen.png
   - name: Sergey Astakhov
     year: 2005
@@ -558,7 +567,11 @@ members:
     city: Barcelona
     social:
       twitter: https://twitter.com/icougil
-      mastodon: https://mastodon.social/@icougil
+      mastodon: https://jvm.social/@icougil
+      github: https://github.com/icougil
+      sessionize: https://sessionize.com/icougil
+      linkedin: https://www.linkedin.com/in/icougil/
+      website: https://nacho.cougil.com
     avatar: img/avatars/icougil.png
   - name: Agnes Crepet
     year: 2012
@@ -629,6 +642,11 @@ members:
       twitter: https://twitter.com/FrankDelporte
       mastodon: https://foojay.social/@frankdelporte
       bluesky: https://bsky.app/profile/frankdelporte.bsky.social
+      youtube: https://www.youtube.com/@FrankDelporte
+      linkedin: https://www.linkedin.com/in/frankdelporte/
+      github: https://github.com/FDelporte
+      website: https://webtechie.be/
+      sessionize: https://sessionize.com/frank-delporte/
     avatar: img/avatars/FrankDelporte.png
   - name: Brian Demers
     year: 2021
@@ -641,6 +659,7 @@ members:
       bluesky: https://bsky.app/profile/bdemers.io
       linkedin: https://www.linkedin.com/in/bdemers/
       github: https://github.com/bdemers
+      sessionize: https://sessionize.com/bdemers/
     avatar: img/avatars/briandemers.png
   - name: Edwin Derks
     year: 2021
@@ -713,8 +732,13 @@ members:
       nomination: Germany
     city: Dresden
     social:
+      website: https://odrotbohm.de
+      github: https://github.com/odrotbohm
       twitter: https://twitter.com/odrotbohm
       mastodon: https://chaos.social/@odrotbohm
+      sessionize: https://sessionize.com/odrotbohm
+      speakerdeck: https://speakerdeck.com/olivergierke
+      linkedin: https://www.linkedin.com/in/odrotbohm
     avatar: img/avatars/odrotbohm.png
   - name: Julien Dubois
     year: 2018
@@ -1013,6 +1037,7 @@ members:
     social:
       twitter: https://twitter.com/dgomezg
       mastodon: https://jvm.social/@dgomezg
+      sessionize: https://sessionize.com/david-gomez-garcia/
     avatar: img/avatars/dgomezg.png
   - name: Antonio Goncalves
     year: 2008
@@ -1130,6 +1155,11 @@ members:
       twitter: https://twitter.com/hansolo_
       mastodon: https://mastodon.social/@hansolo_
       bluesky: https://bsky.app/profile/hansolo.bsky.social
+      github: https://github.com/HanSolo
+      website: https://harmoniccode.blogspot.com/
+      linkedin: https://www.linkedin.com/in/gerritgrunwald
+      youtube: https://www.youtube.com/@hansolo312
+      sessionize: https://sessionize.com/gerrit-grunwald 
     avatar: img/avatars/hansolo_.png
   - name: Mary Grygleski
     year: 2021
@@ -1282,11 +1312,11 @@ members:
       nomination: USA
     city: Albuquerque, NM
     social:
-      twitter: https://twitter.com/dhinojosa
       mastodon: https://mastodon.social/@dhinojosa
       bluesky: https://bsky.app/profile/dhinojosa.bsky.social
       linkedin: https://www.linkedin.com/in/dhevolutionnext
       github: https://github.com/dhinojosa
+      sessionize: https://sessionize.com/daniel-hinojosa
       website: https://evolutionnext.com
     avatar: img/avatars/dhinojosa.jpg
   - name: Marcus Hirt
@@ -1596,15 +1626,20 @@ members:
     social:
       twitter: https://twitter.com/panoskonst
     avatar: img/avatars/panoskonst.png
-  - name: Dr. Ken Kousen
+  - name: Dr. Kenneth Kousen
     year: 2017
     country:
       nomination: USA
     city: Marlborough, Connecticut
     social:
       twitter: https://twitter.com/kenkousen
-      mastodon: https://mastodon.social/@kenkousen
+      mastodon: https://foojay.social/@kenkousen
       bluesky: https://bsky.app/profile/kenkousen.bsky.social
+      youtube: https://youtube.com/@talesfromthejarside
+      linkedin: https://www.linkedin.com/in/kenkousen/
+      github: https://github.com/kousen
+      website: https://www.kousenit.com
+      sessionize: https://sessionize.com/kenneth-kousen
     avatar: img/avatars/kenkousen.png
   - name: Dr. Michael Kölling
     year: 2007
@@ -1709,8 +1744,12 @@ members:
       nomination: USA
     city: Oklahoma City, Oklahoma
     social:
+      linkedin: https://www.linkedin.com/in/jasondlee/
+      github: https://github.com/jasondlee/
+      sessionize: https://sessionize.com/jasondlee/
       twitter: https://twitter.com/jasondlee
       mastodon: https://mastodon.cloud/@jasondlee
+      bluesky: https://bsky.app/profile/jasondlee.bsky.social
       website: https://jasondl.ee/
     avatar: img/avatars/jasondlee.png
   - name: Justin Lee
@@ -1725,6 +1764,7 @@ members:
       linkedin: https://www.linkedin.com/in/justinlee/
       github: https://github.com/evanchooly
       website: http://antwerkz.com
+      sessionize: https://sessionize.com/evanchooly
     avatar: img/avatars/evanchooly.png
   - name: Trustin Lee
     year: 2020
@@ -1911,8 +1951,13 @@ members:
     city: Erlach
     social:
       twitter: https://twitter.com/simas_ch
-      linkedin: http://linkedin.com/in/simonmartinelli/
+      mastodon: https://mastodon.social/@SimonMartinelli
+      bluesky: https://bsky.app/profile/martinelli.ch
+      linkedin: http://linkedin.com/in/simonmartinelli
       github: https://github.com/simasch
+      sessionize: https://sessionize.com/simon-martinelli
+      youtube: https://www.youtube.com/@simonmartinelli
+      speakerdeck: https://speakerdeck.com/simas
       website: https://martinelli.ch
     avatar: img/avatars/simas_ch.png
   - name: Vincent Massol
@@ -1952,16 +1997,22 @@ members:
     country:
       nomination: Norway
     social:
-      twitter: https://twitter.com/rmehmandarov
+      twitter: https://twitter.com/RMehmandarov
       mastodon: https://mastodon.social/@mehmandarov
       bluesky: https://bsky.app/profile/mehmandarov.bsky.social
+      sessionize: https://sessionize.com/mehmandarov
+      website: https://rustam.no
     avatar: img/avatars/rmehmandarov.png
-  - name: Eddú Meléndez
+  - name: Eddú Meléndez Gonzales
     year: 2022
     country:
       nomination: Perú
     social:
       twitter: https://twitter.com/EdduMelendez
+      linkedin: https://www.linkedin.com/in/eddumelendez
+      github: https://github.com/eddumelendez
+      bluesky: https://bsky.app/profile/eddumelendez.bsky.social
+      sessionize: https://sessionize.com/eddumelendez
     avatar: img/avatars/EdduMelendez.png
   - name: Ondro Mihályi
     year: 2019
@@ -2003,8 +2054,14 @@ members:
     year: 2020
     country:
       nomination: Brazil
+    city: São Bernardo do Campo/SP
     social:
       twitter: https://twitter.com/elderjava
+      youtube: https://youtube.com/@eldermoraes
+      linkedin: https://linkedin.com/in/eldermoraes
+      github: https://github.com/eldermoraes
+      website: https://eldermoraes.com
+      sessionize: https://sessionize.com/eldermoraes
     avatar: img/avatars/elderjava.png
   - name: Gunnar Morling
     year: 2019
@@ -2107,6 +2164,8 @@ members:
       linkedin: https://www.linkedin.com/in/eliasnogueira
       github: https://github.com/eliasnogueira
       website: https://eliasnogueira.com
+      sessionize: https://sessionize.com/elias-nogueira
+      speakerdeck: https://speakerdeck.com/eliasnogueira
     avatar: img/avatars/eliasnogueira.png
   - name: Tomasz Nurkiewicz
     year: 2018
@@ -2330,6 +2389,7 @@ members:
       linkedin: https://www.linkedin.com/in/bazlur/
       github: https://github.com/rokon12
       website: https://bazlur.ca/
+      sessionize: https://sessionize.com/bazlur/
     avatar: img/avatars/bazlur_rahman.png
   - name: Matt Raible
     year: 2016
@@ -2359,10 +2419,14 @@ members:
     year: 2023
     country:
       nomination: USA
-    city: Flemington
+    city: Flemington, New Jersey
     social:
       twitter: https://twitter.com/mpredli
       mastodon: https://mastodon.sdf.org/@mpredli01
+      github: https://github.com/mpredli01
+      linkedin: http://www.linkedin.com/pub/michael-redlich/0/966/13a
+      sessionize: https://sessionize.com/michael-redlich
+      website: https://redlich.net
     avatar: img/avatars/mpredli.png
   - name: Dr. Victor Rentea
     year: 2019
@@ -3001,9 +3065,13 @@ members:
     year: 2007
     country:
       nomination: Mexico
-    city: Benito Juarez
+    city: Mexico City
     social:
       twitter: https://twitter.com/edivargas
+      linkedin: https://www.linkedin.com/in/edivargas
+      github: https://github.com/edivargas
+      website: https://jorgevargas.mx
+      sessionize: https://sessionize.com/edivargas
     avatar: img/avatars/edivargas.png
   - name: Bill Venners
     year: 2005
@@ -3042,6 +3110,9 @@ members:
     city: Barcelona
     social:
       twitter: https://twitter.com/vilojona
+      linkedin: https://www.linkedin.com/in/jonathanvila/
+      website: https://aytartana.wordpress.com
+      sessionize: https://sessionize.com/jonathan-vila/
     avatar: img/avatars/vilojona.png
   - name: Michael Vitz
     year: 2021
