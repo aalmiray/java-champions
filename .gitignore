@@ -1,3 +1,7 @@
 # IntelliJ project files
 .idea
 *.iml
+*.ipr
+*.iws
+output/
+.DS_Store

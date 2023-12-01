@@ -1,6 +1,6 @@
 = Java Champions
 
-image:images/duke_champion.png[align="center"]
+image:site/assets/img/duke_champion.png[align="center"]
 
 == What is a Java Champion?
 
@@ -16,23 +16,22 @@ ecosystem. For the third consecutive year, Java Champions have
 contributed to the JavaOne conference process as technical
 reviewers for paper submissions, have been recognized for their
 achievements, and have shared their thoughts about the state of
-the Java platform at their BOF sessions." From link:resources/javaone-2009.pdf[javaone-2009.pdf]
+the Java platform at their BOF sessions." From link:site/content/resources/javaone-2009.pdf[javaone-2009.pdf]
 
-Note: This list is maintained by the Java Champions themselves. The official
-Java Champions Directory can be found link:https://apex.oracle.com/champions[here].  If you would like to follow the Java Champions on twitter you can follow them all collectively https://twitter.com/i/lists/1226854976112254976[here].
+Note: This list is maintained by the Java Champions themselves.
 
+////
 == Who are the Java Champions?
 
 // use an attribute to avoid char substitutions
 :link-jim-gough: link:https://twitter.com/Jim__Gough[@Jim__Gough]
 `🎗` - Indicates a member has passed away. +
-`🍁` - Indicates a member is an Alumni.
+`🍁` - Indicates a member is an Alumni. +
 `⛱` - Indicates a member has retired from the program.
 
 [%header]
 [subs="attributes"]
 |===
-| | |Name |Social |City/State |Country |Year
 | | |Name |Social |City/State |Country |Year
 
 |{counter:idx}
@@ -2947,3 +2946,5 @@ Java Champions Directory can be found link:https://apex.oracle.com/champions[her
 |Mexico
 |2015
 |===
+
+////

@@ -3,8 +3,12 @@
 # country:
 #  nomination: country of residence at the time of nomination
 #  residence: current residence
+<<<<<<< HEAD
 #  citizenship: primary citizenship (if different from nomination, residence, birth)
+=======
+>>>>>>> d2147c0d9d2ebe172f5b8f6a5d11a4593bd9acb3
 #  birth: country of birth
+#  citizenship: primary citizenship (if different from nomination, residence, birth
 #
 # status:
 #  - founding-member
@@ -12,6 +16,16 @@
 #  - retired
 #  - passed-away
 #  - honorary-member
+#
+# social:
+#   twitter:
+#   mastodon:
+#   bluesky:
+#   youtube:
+#   linkedin:
+#   github:
+#   website:
+#   sessionize:
 #
 ####################################################################################
 
@@ -24,7 +38,7 @@ members:
     city: Frankfurt
     social:
       twitter: https://twitter.com/oezcanacar
-    avatar: images/avatars/oezcanacar.png
+    avatar: img/avatars/oezcanacar.png
   - name: George Adams
     year: 2021
     country:
@@ -33,7 +47,10 @@ members:
     social:
       twitter: https://twitter.com/gdams_
       linkedin: https://www.linkedin.com/in/gdams
-    avatar: images/avatars/gdams_.png
+      mastodon: https://fosstodon.org/@gdams
+      bluesky: https://bsky.app/profile/gdams.bsky.social
+      github: https://github.com/gdams
+    avatar: img/avatars/gdams_.png
   - name: Dmitry Aleksandrov
     year: 2017
     country:
@@ -41,7 +58,8 @@ members:
     city: Sofia
     social:
       twitter: https://twitter.com/bercut2000
-    avatar: images/avatars/bercut2000.png
+      mastodon: https://c.im/@bercut2000
+    avatar: img/avatars/bercut2000.png
     status:
       - alumni
   - name: Dan Allen
@@ -51,7 +69,7 @@ members:
     city: Denver, Colorado
     social:
       twitter: https://twitter.com/mojavelinux
-    avatar: images/avatars/mojavelinux.png
+    avatar: img/avatars/mojavelinux.png
   - name: Dion Almaer
     year: 2005
     country:
@@ -59,7 +77,8 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/dalmaer
-    avatar: images/avatars/dalmaer.png
+      bluesky: https://bsky.app/profile/almaer.com
+    avatar: img/avatars/dalmaer.png
   - name: Andres Almiray
     year: 2010
     country:
@@ -70,8 +89,17 @@ members:
     social:
       twitter: https://twitter.com/aalmiray
       mastodon: https://mastodon.social/@aalmiray
+<<<<<<< HEAD
+=======
+      bluesky: https://bsky.app/profile/aalmiray.bsky.social
+>>>>>>> d2147c0d9d2ebe172f5b8f6a5d11a4593bd9acb3
       linkedin: https://www.linkedin.com/in/aalmiray
-    avatar: images/avatars/aalmiray.png
+      github: https://github.com/aalmiray
+      website: https://andresalmiray.com
+      sessionize: https://sessionize.com/andres-almiray
+      youtube: https://www.youtube.com/@aalmiray
+      speakerdeck: https://speakerdeck.com/aalmiray
+    avatar: img/avatars/aalmiray.png
     status:
       - alumni
   - name: Deepak Alur
@@ -80,7 +108,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/deepakalur
-    avatar: images/avatars/deepakalur.png
+    avatar: img/avatars/deepakalur.png
   - name: Gail C. Anderson
     year: 2016
     country:
@@ -88,7 +116,7 @@ members:
     city: San Diego, California
     social:
       twitter: https://twitter.com/gail_asgteach
-    avatar: images/avatars/gail_asgteach.png
+    avatar: img/avatars/gail_asgteach.png
   - name: Paul L. Anderson
     year: 2016
     country:
@@ -96,12 +124,12 @@ members:
     city: San Diego, California
     social:
       twitter: https://twitter.com/Paul_ASGTeach
-    avatar: images/avatars/Paul_ASGTeach.png
+    avatar: img/avatars/Paul_ASGTeach.png
   - name: Fernando Anselmo
     year: 2006
     country:
       nomination: Brazil
-    avatar: images/avatars/Fernando_Anselmo.png
+    avatar: img/avatars/Fernando_Anselmo.png
   - name: Paris Apostolopoulos
     year: 2007
     country:
@@ -110,7 +138,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/javapapo
-    avatar: images/avatars/javapapo.png
+    avatar: img/avatars/javapapo.png
   - name: Jean-François Arcand
     year: 2018
     country:
@@ -118,7 +146,7 @@ members:
     city: Montreal
     social:
       twitter: https://twitter.com/jfarcand
-    avatar: images/avatars/jfarcand.png
+    avatar: img/avatars/jfarcand.png
   - name: Katia Aresti
     year: 2019
     country:
@@ -126,55 +154,65 @@ members:
       citizenship: Spain
     social:
       twitter: https://twitter.com/karesti
-    avatar: images/avatars/karesti.png
+    avatar: img/avatars/karesti.png
   - name: Anton Arhipov
     year: 2014
     country:
       nomination: Estonia
     social:
       twitter: https://twitter.com/antonarhipov
-    avatar: images/avatars/antonarhipov.png
+      bluesky: https://bsky.app/profile/antonarhipov.bsky.social
+      linkedin: https://www.linkedin.com/in/antonarhipov/
+      speakerdeck: https://speakerdeck.com/antonarhipov
+      sessionize: https://sessionize.com/antonarhipov
+    avatar: img/avatars/antonarhipov.png
   - name: María Arias de Reyna
     year: 2020
     country:
       nomination: Spain
     city: Seville
     social:
+      mastodon: https://floss.social/@delawen
+      youtube: https://www.youtube.com/channel/UCpO52sJmB0ormGRjGMT7iSw
+      linkedin: https://www.linkedin.com/in/delawen/
+      github: https://github.com/Delawen/
+      website: https://delawen.com
+      sessionize: https://sessionize.com/delawen/
       twitter: https://twitter.com/delawen
-    avatar: images/avatars/delawen.png
+    avatar: img/avatars/delawen.png
   - name: Sergey Astakhov
     year: 2005
     country:
       nomination: Russian Federation
-    avatar: images/avatars/Sergey_Astakhov.png
+    avatar: img/avatars/Sergey_Astakhov.png
   - name: Raymond Augé
     year: 2021
     country:
       nomination: Canada
     social:
       twitter: https://twitter.com/rotty3000
-    avatar: images/avatars/rotty3000.png
+    avatar: img/avatars/rotty3000.png
   - name: Calvin Austin
     year: 2005
     country:
       nomination: USA
     city: San Francisco, California
-    avatar: images/avatars/Calvin_Austin.png
+    avatar: img/avatars/Calvin_Austin.png
   - name: Hovhannes Avoyan
     year: 2005
     country:
       nomination: USA
       citizenship: Armenia
     city: San Francisco, California
-    avatar: images/avatars/Hovhannes_Avoyan.png
+    avatar: img/avatars/Hovhannes_Avoyan.png
   - name: Fernando Babadopulos
     year: 2017
     country:
-      -nomination: Brazil
+      nomination: Brazil
     city: São Paulo
     social:
       twitter: https://twitter.com/babadopulos
-    avatar: images/avatars/babadopulos.png
+    avatar: img/avatars/babadopulos.png
   - name: Paul Bakker
     year: 2017
     country:
@@ -183,14 +221,16 @@ members:
     social:
       twitter: https://twitter.com/pbakker
       mastodon: https://mastodon.online/@paulbakker
-    avatar: images/avatars/pbakker.png
+    avatar: img/avatars/pbakker.png
   - name: Bert Bates
-    year: Founding Member
+    year: 2005
     country:
       nomination: USA
     social:
       twitter: https://twitter.com/BertBates
-    avatar: images/avatars/BertBates.png
+    avatar: img/avatars/BertBates.png
+    status:
+      - founding-member
   - name: Monica Beckwith
     year: 2017
     country:
@@ -198,7 +238,7 @@ members:
     city: Texas
     social:
       twitter: https://twitter.com/mon_beck
-    avatar: images/avatars/mon_beck.png
+    avatar: img/avatars/mon_beck.png
   - name: Lucio Benfante
     year: 2006
     country:
@@ -206,7 +246,7 @@ members:
     city: Verona
     social:
       twitter: https://twitter.com/luciobenfante
-    avatar: images/avatars/luciobenfante.png
+    avatar: img/avatars/luciobenfante.png
   - name: Jean-Philippe Bempel
     year: 2021
     country:
@@ -214,7 +254,12 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/jpbempel
-    avatar: images/avatars/jpbempel.png
+      mastodon: https://mastodon.online/@jpbempel
+      linkedin: https://www.linkedin.com/in/jeanphilippebempel
+      github: https://github.com/jpbempel
+      website: https://jpbempel.github.io/
+      sessionize: https://sessionize.com/jean-philippe-bempel/
+    avatar: img/avatars/jpbempel.png
   - name: Brian Benz
     year: 2020
     country:
@@ -222,7 +267,9 @@ members:
     city: Las Vegas
     social:
       twitter: https://twitter.com/bbenz
-    avatar: images/avatars/bbenz.png
+      mastodon: https://mastodon.social/@bbenz
+      bluesky: https://bsky.app/profile/bbenz.bsky.social
+    avatar: img/avatars/bbenz.png
   - name: Emmanuel Bernard
     year: 2017
     country:
@@ -230,26 +277,28 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/emmanuelbernard
-    avatar: images/avatars/emmanuelbernard.png
+    avatar: img/avatars/emmanuelbernard.png
   - name: Geert Bevin
     year: 2006
     country:
       nomination: Belgium
     social:
       twitter: https://twitter.com/gbevin
-    avatar: images/avatars/gbevin.png
+      mastodon: https://uwyn.net/@gbevin
+      bluesky: https://bsky.app/profile/gbevin.uwyn.com
+    avatar: img/avatars/gbevin.png
   - name: Adam Bien
     year: 2007
     country:
       nomination: Germany
     social:
       twitter: https://twitter.com/AdamBien
-    avatar: images/avatars/AdamBien.png
+    avatar: img/avatars/AdamBien.png
   - name: Dr. Xu Bin
     year: 2005
     country:
       nomination: China
-    avatar: images/avatars/Xu_Bin.png
+    avatar: img/avatars/Xu_Bin.png
   - name: Jean Bisutti
     year: 2021
     country:
@@ -257,7 +306,8 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/jean_bisutti
-    avatar: images/avatars/jean_bisutti.png
+      mastodon: https://mastodon.social/@jean_bisutti
+    avatar: img/avatars/jean_bisutti.png
   - name: Sébastien Blanc
     year: 2020
     country:
@@ -265,7 +315,7 @@ members:
     city: Nice
     social:
       twitter: https://twitter.com/sebi2706
-    avatar: images/avatars/sebi2706.png
+    avatar: img/avatars/sebi2706.png
   - name: David Blevins
     year: 2015
     country:
@@ -273,7 +323,7 @@ members:
     city: Santa Monica, California
     social:
       twitter: https://twitter.com/dblevins
-    avatar: images/avatars/dblevins.png
+    avatar: img/avatars/dblevins.png
   - name: Dr. Alex Blewitt
     year: 2020
     country:
@@ -281,7 +331,7 @@ members:
     city: Milton Keynes
     social:
       twitter: https://twitter.com/alblue
-    avatar: images/avatars/alblue.png
+    avatar: img/avatars/alblue.png
     status:
       - passed-away
   - name: Dr. Joshua Bloch
@@ -291,7 +341,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/joshbloch
-    avatar: images/avatars/joshbloch.png
+    avatar: img/avatars/joshbloch.png
   - name: David Bock
     year: 2006
     country:
@@ -299,14 +349,14 @@ members:
     city: Washington DC
     social:
       twitter: https://github.com/bokmann
-    avatar: images/avatars/bokmann.png
+    avatar: img/avatars/bokmann.png
   - name: Jonas Bonér
     year: 2011
     country:
       nomination: Sweden
     social:
       twitter: https://twitter.com/jboner
-    avatar: images/avatars/jboner.png
+    avatar: img/avatars/jboner.png
   - name: Simone Bordet
     year: 2016
     country:
@@ -314,7 +364,8 @@ members:
     city: Turin
     social:
       twitter: https://twitter.com/simonebordet
-    avatar: images/avatars/simonebordet.png
+      mastodon: https://mastodon.online/@simonebordet
+    avatar: img/avatars/simonebordet.png
   - name: Bruno Borges
     year: 2019
     country:
@@ -322,7 +373,9 @@ members:
       citizenship: Brazil
     social:
       twitter: https://twitter.com/brunoborges
-    avatar: images/avatars/brunoborges.png
+      mastodon: https://mastodon.social/@brunoborges
+      bluesky: https://bsky.app/profile/brunoborges.bsky.social
+    avatar: img/avatars/brunoborges.png
   - name: Jeanne Boyarsky
     year: 2019
     country:
@@ -330,7 +383,8 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/jeanneboyarsky
-    avatar: images/avatars/jeanneboyarsky.png
+      mastodon: https://mastodon.social/@jeanneboyarsky
+    avatar: img/avatars/jeanneboyarsky.png
   - name: Bruno Bossola
     year: 2005
     country:
@@ -339,14 +393,14 @@ members:
     social:
       twitter: https://twitter.com/bbossola
       linkedin: https://www.linkedin.com/in/bbossola
-    avatar: images/avatars/bbossola.png
+    avatar: img/avatars/bbossola.png
   - name: Vincent Brabant
     year: 2005
     country:
       nomination: Belgium
     social:
       twitter: https://twitter.com/vbrabant
-    avatar: images/avatars/vbrabant.png
+    avatar: img/avatars/vbrabant.png
     status:
       - founding-member
   - name: Aristides Villareal
@@ -355,7 +409,7 @@ members:
       nomination: Panama
     social:
       twitter: https://twitter.com/aristidesvbravo
-    avatar: images/avatars/aristidesvbravo.png
+    avatar: img/avatars/aristidesvbravo.png
   - name: Dr. Daniel Bryant
     year: 2018
     country:
@@ -363,12 +417,12 @@ members:
     city: London
     social:
       twitter: https://twitter.com/danielbryantuk
-    avatar: images/avatars/danielbryantuk.png
+    avatar: img/avatars/danielbryantuk.png
   - name: Bill Burke
     year: 2005
     country:
       nomination: USA
-    avatar: images/avatars/Bill_Burke.png
+    avatar: img/avatars/Bill_Burke.png
     status:
       - founding-member
   - name: Barry Burd
@@ -377,7 +431,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/barryburdtweets
-    avatar: images/avatars/barryburdtweets.png
+    avatar: img/avatars/barryburdtweets.png
   - name: Ed Burns
     year: 2020
     country:
@@ -385,31 +439,31 @@ members:
     city: Florida
     social:
       twitter: https://twitter.com/edburns
-    avatar: images/avatars/edburns.png
+    avatar: img/avatars/edburns.png
   - name: Mert Caliskan
     year: 2014
     country:
-      - nomination: Turkey
+      nomination: Turkey
     city: Ankara
     social:
       twitter: https://twitter.com/mertcal
       linkedin: https://www.linkedin.com/in/mertcaliskan
-    avatar: images/avatars/mertcal.png
+    avatar: img/avatars/mertcal.png
   - name: Mike Cannon-Brookes
     year: 2006
     country:
-      - nomination: Australia
+      nomination: Australia
     city: Sydney
     social:
       twitter: https://twitter.com/mcannonbrookes
-    avatar: images/avatars/mcannonbrookes.png
+    avatar: img/avatars/mcannonbrookes.png
   - name: Tasha Carl
     year: 2013
     country:
-      - nomination: Belgium
+      nomination: Belgium
     social:
       twitter: https://twitter.com/imifos
-    avatar: images/avatars/imifos.png
+    avatar: img/avatars/imifos.png
   - name: Magno Cavalcante
     year: 2006
     country:
@@ -417,7 +471,7 @@ members:
     city: Rio de Janeiro
     social:
       twitter: https://twitter.com/magnocav
-    avatar: images/avatars/magnocav.png
+    avatar: img/avatars/magnocav.png
   - name: Ludovic Champenois
     year: 2022
     country:
@@ -425,7 +479,7 @@ members:
     city: Mountain View, California
     social:
       twitter: https://twitter.com/ludoch
-    avatar: images/avatars/ludoch.png
+    avatar: img/avatars/ludoch.png
   - name: Stephen Chin
     year: 2009
     country:
@@ -433,14 +487,14 @@ members:
     city: Belmont, California
     social:
       twitter: https://twitter.com/steveonjava
-    avatar: images/avatars/steveonjava.png
+    avatar: img/avatars/steveonjava.png
   - name: Hillmer Chona
     year: 2019
     country:
       nomination: Colombia
     social:
       twitter: https://twitter.com/HillmerCh
-    avatar: images/avatars/HillmerCh.png
+    avatar: img/avatars/HillmerCh.png
   - name: Dr. Cliff Click
     year: 2019
     country:
@@ -448,25 +502,25 @@ members:
     city: Sunnyvale, California
     social:
       twitter: https://twitter.com/cliff_click
-    avatar: images/avatars/cliff_click.png
+    avatar: img/avatars/cliff_click.png
   - name: Cagatay Civici
     year: 2017
     country:
       nomination: Turkey
     social:
       twitter: https://twitter.com/cagataycivici
-    avatar: images/avatars/cagataycivici.png
+    avatar: img/avatars/cagataycivici.png
   - name: Jeff Cobb
     year: 2005
     country:
       nomination: USA
-    avatar: images/avatars/Jeff_Cobb.png
+    avatar: img/avatars/Jeff_Cobb.png
   - name: Flavia Coelho
     year: 2006
     country:
       nomination: Brazil
     city: São Paulo
-    avatar: images/avatars/Flavia_Coelho.png
+    avatar: img/avatars/Flavia_Coelho.png
   - name: Henry Coles
     year: 2020
     country:
@@ -474,7 +528,8 @@ members:
     city: Edinburgh
     social:
       twitter: https://twitter.com/_pitest
-    avatar: images/avatars/_pitest.png
+      mastodon: https://mastodon.me.uk/@hjc
+    avatar: img/avatars/_pitest.png
   - name: Stephen Colebourne
     year: 2007
     country:
@@ -482,14 +537,23 @@ members:
     city: London
     social:
       twitter: https://twitter.com/jodastephen
-    avatar: images/avatars/jodastephen.png
+    avatar: img/avatars/jodastephen.png
   - name: Drabo Constantin
     year: 2020
     country:
       nomination: Burkina Faso
     social:
       twitter: https://twitter.com/PandaConstantin
-    avatar: images/avatars/PandaConstantin.png
+    avatar: img/avatars/PandaConstantin.png
+  - name: Tom Cools
+    year: 2023
+    country:
+      nomination: Belgium
+    social:
+      twitter: https://twitter.com/TCoolsIT
+      mastodon: https://mastodon.social/@TCoolsIT
+      bluesky: https://bsky.app/profile/tcoolsit.bsky.social
+    avatar: img/avatars/TCoolsIT.png
   - name: Joel Costigliola
     year: 2021
     country:
@@ -497,7 +561,8 @@ members:
       citizenship: France
     social:
       twitter: https://twitter.com/JoCosti
-    avatar: images/avatars/JoCosti.png
+      mastodon: https://mstdn.social/@JoCosti
+    avatar: img/avatars/JoCosti.png
   - name: Roberto Cortez
     year: 2016
     country:
@@ -505,7 +570,7 @@ members:
     city: Coimbra
     social:
       twitter: https://twitter.com/radcortez
-    avatar: images/avatars/radcortez.png
+    avatar: img/avatars/radcortez.png
   - name: Nacho Cougil
     year: 2022
     country:
@@ -513,7 +578,12 @@ members:
     city: Barcelona
     social:
       twitter: https://twitter.com/icougil
-    avatar: images/avatars/icougil.png
+      mastodon: https://jvm.social/@icougil
+      github: https://github.com/icougil
+      sessionize: https://sessionize.com/icougil
+      linkedin: https://www.linkedin.com/in/icougil/
+      website: https://nacho.cougil.com
+    avatar: img/avatars/icougil.png
   - name: Agnes Crepet
     year: 2012
     country:
@@ -522,7 +592,7 @@ members:
     city: Amsterdam
     social:
       twitter: https://twitter.com/agnes_crepet
-    avatar: images/avatars/agnes_crepet.png
+    avatar: img/avatars/agnes_crepet.png
   - name: Dr. Holly Cummins
     year: 2017
     country:
@@ -530,15 +600,25 @@ members:
     city: London
     social:
       twitter: https://twitter.com/holly_cummins
-    avatar: images/avatars/holly_cummins.png
+      linkedin: linkedin.com/in/holly-k-cummins/
+      mastodon: https://hachyderm.io/@holly_cummins
+      bluesky: https://bsky.app/profile/holly-cummins.bsky.social
+      sessionize: https://sessionize.com/holly-cummins
+      speakerdeck: https://speakerdeck.com/hollycummins
+      website: https://hollycummins.com
+    avatar: img/avatars/holly_cummins.png
   - name: Ian F. Darwin
     year: 2005
     country:
       nomination: Canada
     city: Ontario
     social:
+      github: https://github.com/IanDarwin
+      mastodon: https://fosstodon.org/@IanDarwin/
+      sessionize: https://sessionize.com/ian-darwin/
       twitter: https://twitter.com/Ian_Darwin
-    avatar: images/avatars/Ian_Darwin.png
+      website: https://darwinsys.com
+    avatar: img/avatars/Ian_Darwin.png
     status:
       - founding-member
   - name: Sebastian Daschner
@@ -548,7 +628,12 @@ members:
     city: Munich
     social:
       twitter: https://twitter.com/DaschnerS
-    avatar: images/avatars/DaschnerS.png
+      mastodon: https://mastodon.social/@daschners
+      youtube: https://youtube.com/@SebastianDaschnerIT
+      sessionize: https://sessionize.com/sebastian-daschner
+      github: https://github.com/sdaschner
+      website: https://www.sebastian-daschner.com
+    avatar: img/avatars/DaschnerS.png
   - name: Paul J. Deitel
     year: 2005
     country:
@@ -561,7 +646,7 @@ members:
     year: 2005
     country:
       nomination: France
-    avatar: images/avatars/Valere_Dejardin.png
+    avatar: img/avatars/Valere_Dejardin.png
     status:
       - founding-member
   - name: Daniel De Luca
@@ -571,7 +656,21 @@ members:
     city: Brussels
     social:
       twitter: https://twitter.com/danieldeluca
-    avatar: images/avatars/danieldeluca.png
+    avatar: img/avatars/danieldeluca.png
+  - name: Frank Delporte
+    year: 2023
+    country:
+      nomination: Belgium
+    social:
+      twitter: https://twitter.com/FrankDelporte
+      mastodon: https://foojay.social/@frankdelporte
+      bluesky: https://bsky.app/profile/frankdelporte.bsky.social
+      youtube: https://www.youtube.com/@FrankDelporte
+      linkedin: https://www.linkedin.com/in/frankdelporte/
+      github: https://github.com/FDelporte
+      website: https://webtechie.be/
+      sessionize: https://sessionize.com/frank-delporte/
+    avatar: img/avatars/FrankDelporte.png
   - name: Brian Demers
     year: 2021
     country:
@@ -579,7 +678,12 @@ members:
     city: New Hampshire
     social:
       twitter: https://twitter.com/briandemers
-    avatar: images/avatars/briandemers.png
+      mastodon: https://mastodon.social/@bdemers
+      bluesky: https://bsky.app/profile/bdemers.io
+      linkedin: https://www.linkedin.com/in/bdemers/
+      github: https://github.com/bdemers
+      sessionize: https://sessionize.com/bdemers/
+    avatar: img/avatars/briandemers.png
   - name: Edwin Derks
     year: 2021
     country:
@@ -587,14 +691,15 @@ members:
     city: Tilburg
     social:
       twitter: https://twitter.com/edwinderks
-    avatar: images/avatars/edwinderks.png
+      mastodon: https://mastodon.social/@edwinderks
+    avatar: img/avatars/edwinderks.png
   - name: Daniel deOliveira
     year: 2005
     country:
       nomination: Brazil
     social:
-      twitter: https://twitter.com/danieldfjug[
-    avatar: images/avatars/danieldfjug.png
+      twitter: https://twitter.com/danieldfjug
+    avatar: img/avatars/danieldfjug.png
     status:
       - founding-member
       - passed-away
@@ -604,7 +709,15 @@ members:
       nomination: Perú
     social:
       twitter: https://twitter.com/jamdiazdiaz
-    avatar: images/avatars/jamdiazdiaz.png
+    avatar: img/avatars/jamdiazdiaz.png
+  - name: Marit van Dijk
+    year: 2023
+    country:
+      nomination: The Netherlands
+    city: Amstelveen
+    social:
+      twitter: https://twitter.com/MaritvanDijk77
+    avatar: img/avatars/MaritvanDijk77.png
   - name: Filippo Diotalevi
     year: 2005
     country:
@@ -613,14 +726,21 @@ members:
     city: London
     social:
       twitter: https://twitter.com/fdiotalevi
-    avatar: images/avatars/fdiotalevi.png
+    avatar: img/avatars/fdiotalevi.png
+  - name: Hans Dockter
+    year: 2023
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/hans_d
+    avatar: img/avatars/hans_d.png
   - name: Oleh Dokuka
     year: 2019
     country:
       nomination: Ukraine
     social:
       twitter: https://twitter.com/OlehDokuka
-    avatar: images/avatars/OlehDokuka.png
+    avatar: img/avatars/OlehDokuka.png
   - name: Jean-Michel Doudoux
     year: 2014
     country:
@@ -628,15 +748,21 @@ members:
     city: Metz
     social:
       twitter: https://twitter.com/jmdoudoux
-    avatar: images/avatars/jmdoudoux.png
+    avatar: img/avatars/jmdoudoux.png
   - name: Oliver Drotbohm
     year: 2017
     country:
       nomination: Germany
     city: Dresden
     social:
+      website: https://odrotbohm.de
+      github: https://github.com/odrotbohm
       twitter: https://twitter.com/odrotbohm
-    avatar: images/avatars/odrotbohm.png
+      mastodon: https://chaos.social/@odrotbohm
+      sessionize: https://sessionize.com/odrotbohm
+      speakerdeck: https://speakerdeck.com/olivergierke
+      linkedin: https://www.linkedin.com/in/odrotbohm
+    avatar: img/avatars/odrotbohm.png
   - name: Julien Dubois
     year: 2018
     country:
@@ -644,7 +770,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/juliendubois
-    avatar: images/avatars/juliendubois.png
+    avatar: img/avatars/juliendubois.png
   - name: Hendrik Ebbers
     year: 2016
     country:
@@ -652,7 +778,8 @@ members:
     city: Dortmund
     social:
       twitter: https://twitter.com/hendrikEbbers
-    avatar: images/avatars/hendrikEbbers.png
+      mastodon: https://mastodon.cloud/@hendrikEbbers
+    avatar: img/avatars/hendrikEbbers.png
   - name: Bruce Eckel
     year: 2006
     country:
@@ -660,7 +787,7 @@ members:
     city: Colorado
     social:
       twitter: https://twitter.com/BruceEckel
-    avatar: images/avatars/BruceEckel.png
+    avatar: img/avatars/BruceEckel.png
   - name: Lukas Eder
     year: 2015
     country:
@@ -668,14 +795,16 @@ members:
     city: St. Gallen
     social:
       twitter: https://twitter.com/lukaseder
-    avatar: images/avatars/lukaseder.png
+      mastodon: https://mastodon.social/@lukaseder
+    avatar: img/avatars/lukaseder.png
   - name: Sergei Egorov
     year: 2020
     country:
       nomination: Russian Federation
     social:
       twitter: https://twitter.com/bsideup
-    avatar: images/avatars/bsideup.png
+      bluesky: https://bsky.app/profile/bsideup.bsky.social
+    avatar: img/avatars/bsideup.png
   - name: Markus Eisele
     year: 2014
     country:
@@ -683,7 +812,9 @@ members:
     city: Munich
     social:
       twitter: https://twitter.com/myfear
-    avatar: images/avatars/myfear.png
+      mastodon: https://mastodon.online/@myfear
+      bluesky: https://bsky.app/profile/myfear.com
+    avatar: img/avatars/myfear.png
   - name: Badr El Houari
     year: 2016
     country:
@@ -691,14 +822,26 @@ members:
     city: Casablanca
     social:
       twitter: https://twitter.com/badrelhouari
-    avatar: images/avatars/badrelhouari.png
+    avatar: img/avatars/badrelhouari.png
   - name: Roman Elizarov
     year: 2006
     country:
       nomination: Russian Federation
     social:
       twitter: https://twitter.com/relizarov
-    avatar: images/avatars/relizarov.png
+    avatar: img/avatars/relizarov.png
+  - name: Hanno Embregts
+    year: 2023
+    country:
+      nomination: The Netherlands
+    city: Leusden
+    social:
+      twitter: https://twitter.com/hannotify
+      mastodon: https://foojay.social/@hannotify
+      bluesky: https://bsky.app/profile/hannotify.bsky.social
+      linkedin: https://www.linkedin.com/in/hannoembregts
+      website: https://hanno.codes
+    avatar: img/avatars/hannotify.png
   - name: Christoph Engelbert
     year: 2018
     country:
@@ -706,7 +849,12 @@ members:
     city: Haan, North Rhine-Westphalia
     social:
       twitter: https://twitter.com/noctarius2k
-    avatar: images/avatars/noctarius2k.png
+      mastodon: https://mastodon.online/@noctarius2k
+      bluesky: https://bsky.app/profile/noctarius.com
+      sessionize: https://sessionize.com/noctarius
+      linkedin: https://www.linkedin.com/in/noctarius
+      github: https://github.com/noctarius
+    avatar: img/avatars/noctarius2k.png
   - name: Anton (Toni) Epple
     year: 2013
     country:
@@ -714,7 +862,7 @@ members:
     city: Munich
     social:
       twitter: https://twitter.com/monacotoni
-    avatar: images/avatars/monacotoni.png
+    avatar: img/avatars/monacotoni.png
   - name: Bert Ertman
     year: 2008
     country:
@@ -722,7 +870,7 @@ members:
     city: Nijmegen
     social:
       twitter: https://twitter.com/BertErtman
-    avatar: images/avatars/BertErtman.png
+    avatar: img/avatars/BertErtman.png
   - name: Dr. Clement Escoffier
     year: 2019
     country:
@@ -730,7 +878,8 @@ members:
     city: Valence, Rhône-Alpes
     social:
       twitter: https://twitter.com/clementplop
-    avatar: images/avatars/clementplop.png
+      mastodon: https://mastodon.social/@clementplop
+    avatar: img/avatars/clementplop.png
   - name: Ben Evans
     year: 2013
     country:
@@ -738,22 +887,26 @@ members:
       citizenship: UK
     social:
       twitter: https://twitter.com/kittylyst
-    avatar: images/avatars/kittylyst.png
-  - name: link:https://yakovfain.com/[Yakov Fain]
+      mastodon: https://mastodon.social/@kittylyst
+    avatar: img/avatars/kittylyst.png
+  - name: Yakov Fain
     year: 2005
     country:
       nomination: USA
     city: New York City, New York
     social:
       twitter: https://twitter.com/yfain
-    avatar: images/avatars/yfain.png
+      website: https://yakovfain.com/
+    avatar: img/avatars/yfain.png
   - name: Rommel Feria
-    year: 2--5
+    year: 2005
     country:
       nomination: Philippines
     social:
-      twitter: https://twitter.com/rom
-    avatar: images/avatars/rom.png
+      mastodon: https://social.lol/@rom
+      # https://mastodon.think-privacy.com/@rom
+      # https://social.up.edu.ph/@r
+    avatar: img/avatars/rom.png
     status:
       - founding-member
   - name: David Flanagan
@@ -762,8 +915,8 @@ members:
       nomination: USA
     city: Washington State
     social:
-      twitter: https://twitter.com/\__DavidFlanagan
-    avatar: images/avatars/__DavidFlanagan.png
+      twitter: https://twitter.com/__DavidFlanagan
+    avatar: img/avatars/__DavidFlanagan.png
     status:
       - founding-member
   - name: Prof. Ken Fogel
@@ -773,19 +926,28 @@ members:
     city: Cote Saint-Luc, Quebec
     social:
       twitter: https://twitter.com/omniprof
-    avatar: images/avatars/omniprof.png
+      mastodon: https://mastodon.social/@omniprof
+    avatar: img/avatars/omniprof.png
   - name: Axel Fontaine
     year: 2016
     country:
       nomination: Germany
     social:
       twitter: https://twitter.com/axelfontaine
-    avatar: images/avatars/axelfontaine.png
+    avatar: img/avatars/axelfontaine.png
   - name: Dr. Remi Forax
     year: 2016
     country:
       nomination: France
-    avatar: images/avatars/Remi_Forax.png
+    avatar: img/avatars/Remi_Forax.png
+  - name: Tobias Frech
+    year: 2023
+    country:
+      nomination: Germany
+    city: Ludwigsburg
+    social:
+      twitter: https://twitter.com/TobiasFrech
+    avatar: img/avatars/TobiasFrech.png
   - name: Mario Fusco
     year: 2016
     country:
@@ -793,7 +955,7 @@ members:
     city: Milan
     social:
       twitter: https://twitter.com/mariofusco
-    avatar: images/avatars/mariofusco.png
+    avatar: img/avatars/mariofusco.png
   - name: Dr. Alexey Fyodorov
     year: 2016
     country:
@@ -801,7 +963,7 @@ members:
     city: Saint Petersburg
     social:
       twitter: https://twitter.com/23derevo
-    avatar: images/avatars/23derevo.png
+    avatar: img/avatars/23derevo.png
   - name: Dr. Neal Gafter
     year: 2007
     country:
@@ -809,7 +971,7 @@ members:
     city: Seattle, Washington
     social:
       twitter: https://twitter.com/gafter
-    avatar: images/avatars/gafter.png
+    avatar: img/avatars/gafter.png
   - name: David Gageot
     year: 2014
     country:
@@ -817,20 +979,21 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/dgageot
-    avatar: images/avatars/dgageot.png
+    avatar: img/avatars/dgageot.png
   - name: Viktor Gamov
     year: 2021
     country:
       nomination: USA
     social:
       twitter: https://twitter.com/gAmUssA
-    avatar: images/avatars/gAmUssA.png
+      bluesky: https://bsky.app/profile/gamussa.bsky.social
+    avatar: img/avatars/gAmUssA.png
   - name: Felipe Gaúcho
     year: 2010
     country:
       nomination: Brazil
     city: Rio de Janeiro
-    avatar: images/avatars/Felipe_Gaucho.png
+    avatar: img/avatars/Felipe_Gaucho.png
     status:
       - passed-away
   - name: David Geary
@@ -838,7 +1001,7 @@ members:
     country:
       nomination: USA
     city: Loveland, Colorado
-    avatar: images/avatars/davidgeary.png
+    avatar: img/avatars/davidgeary.png
   - name: Trisha Gee
     year: 2014
     country:
@@ -847,7 +1010,8 @@ members:
     city: Seville, Andalusia
     social:
       twitter: https://twitter.com/trisha_gee
-    avatar: images/avatars/trisha_gee.png
+      mastodon: https://mastodon.social/@trishagee
+    avatar: img/avatars/trisha_gee.png
   - name: Jeff Genender
     year: 2009
     country:
@@ -855,13 +1019,13 @@ members:
     city: Denver, Colorado
     social:
       twitter: https://twitter.com/jgenender
-    avatar: images/avatars/jgenender.png
+    avatar: img/avatars/jgenender.png
   - name: Bruno Ghisi
     year: 2007
     country:
       nomination: Brazil
     city: Florianópolis, Santa Catarina
-    avatar: images/avatars/Bruno_Ghisi.png
+    avatar: img/avatars/Bruno_Ghisi.png
   - name: Fabrizio Gianneschi
     year: 2005
     country:
@@ -869,14 +1033,15 @@ members:
     city: Cagliari, Sardinia
     social:
       twitter: https://twitter.com/javabird
-    avatar: images/avatars/javabird.png
+    avatar: img/avatars/javabird.png
   - name: Jonathan Giles
     year: 2018
     country:
       nomination: New Zealand
     social:
       twitter: https://twitter.com/JonathanGiles
-    avatar: images/avatars/JonathanGiles.png
+      mastodon: https://hachyderm.io/@JonathanGiles
+    avatar: img/avatars/JonathanGiles.png
   - name: Brian Goetz
     year: 2006
     country:
@@ -884,7 +1049,7 @@ members:
     city: Burlington, Vermont
     social:
       twitter: https://twitter.com/BrianGoetz
-    avatar: images/avatars/BrianGoetz.png
+    avatar: img/avatars/BrianGoetz.png
     status:
       - alumni
   - name: David Gómez
@@ -894,7 +1059,9 @@ members:
     city: Madrid
     social:
       twitter: https://twitter.com/dgomezg
-    avatar: images/avatars/dgomezg.png
+      mastodon: https://jvm.social/@dgomezg
+      sessionize: https://sessionize.com/david-gomez-garcia/
+    avatar: img/avatars/dgomezg.png
   - name: Antonio Goncalves
     year: 2008
     country:
@@ -902,7 +1069,8 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/agoncal
-    avatar: images/avatars/agoncal.png
+      mastodon: https://fosstodon.org/@agoncal
+    avatar: img/avatars/agoncal.png
   - name: Dr. James Gosling
     year: 2005
     country:
@@ -910,7 +1078,8 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/errcraft
-    avatar: images/avatars/errcraft.png
+      mastodon: https://universeodon.com/@JamesGosling
+    avatar: img/avatars/errcraft.png
     status:
       - honorary-member
   - name: Jim Gough
@@ -920,7 +1089,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/Jim__Gough
-    avatar: images/avatars/Jim__Gough.png
+    avatar: img/avatars/Jim__Gough.png
   - name: Rabea Gransberger
     year: 2017
     country:
@@ -928,7 +1097,8 @@ members:
     city: Bremen
     social:
       twitter: https://twitter.com/rgransberger
-    avatar: images/avatars/rgransberger.png
+      mastodon: https://mastodon.social/@rgransberger
+    avatar: img/avatars/rgransberger.png
   - name: Rodrigo Graciano
     year: 2022
     country:
@@ -937,7 +1107,9 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/rodrigograciano
-    avatar: images/avatars/rodrigograciano.png
+      mastodon: https://mastodon.social/@graciano
+      bluesky: https://bsky.app/profile/graciano.bsky.social
+    avatar: img/avatars/rodrigograciano.png
   - name: Victor Grazi
     year: 2012
     country:
@@ -945,7 +1117,7 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/vgrazi
-    avatar: images/avatars/vgrazi.png
+    avatar: img/avatars/vgrazi.png
   - name: Frank Greco
     year: 2007
     country:
@@ -953,7 +1125,7 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/frankgreco
-    avatar: images/avatars/frankgreco.png
+    avatar: img/avatars/frankgreco.png
   - name: Neil Griffin
     year: 2017
     country:
@@ -961,18 +1133,30 @@ members:
     city: Orlando, Florida
     social:
       twitter: https://twitter.com/NeilGriffin95
-    avatar: images/avatars/NeilGriffin95.png
+    avatar: img/avatars/NeilGriffin95.png
   - name: Ivar Grimstad
     year: 2016
     country:
       nomination: Sweden
+      birth: Norway
     city: Malmo
     social:
       twitter: https://twitter.com/ivar_grimstad
+<<<<<<< HEAD
       mastodon: https://mastodon.social/@ivar_grimstad
       linkedin: https://www.linkedin.com/in/ivargrimstad
       website: https://www.agilejava.eu
     avatar: images/avatars/ivar_grimstad.png
+=======
+      mastodon: https://mastodon.social/deck/@ivar_grimstad
+      bluesky: https://bsky.app/profile/ivargrimstad.bsky.social
+      linkedin: https://www.linkedin.com/in/ivargrimstad/
+      github: https://github.com/ivargrimstad
+      website: https://www.agilejava.eu/
+      sessionize: https://sessionize.com/ivar-grimstad/
+      speakerdeck: https://speakerdeck.com/ivargrimstad
+    avatar: img/avatars/ivar_grimstad.png
+>>>>>>> d2147c0d9d2ebe172f5b8f6a5d11a4593bd9acb3
   - name: Sanne Grinovero
     year: 2020
     country:
@@ -981,16 +1165,17 @@ members:
     city: London
     social:
       twitter: https://twitter.com/SanneGrinovero
-    avatar: images/avatars/SanneGrinovero.png
+      mastodon: https://fosstodon.org/@sanne
+    avatar: img/avatars/SanneGrinovero.png
   - name: Loiane Groner
     year: 2020
     country:
       nomination: USA
-      citizenshpi: Brazil
+      citizenship: Brazil
     city: Tampa, Florida
     social:
       twitter: https://twitter.com/loiane
-    avatar: images/avatars/loiane.png
+    avatar: img/avatars/loiane.png
   - name: Gerrit Grunwald
     year: 2013
     country:
@@ -998,7 +1183,14 @@ members:
     city: Münster, North Rhine-Westphalia
     social:
       twitter: https://twitter.com/hansolo_
-    avatar: images/avatars/hansolo_.png
+      mastodon: https://mastodon.social/@hansolo_
+      bluesky: https://bsky.app/profile/hansolo.bsky.social
+      github: https://github.com/HanSolo
+      website: https://harmoniccode.blogspot.com/
+      linkedin: https://www.linkedin.com/in/gerritgrunwald
+      youtube: https://www.youtube.com/@hansolo312
+      sessionize: https://sessionize.com/gerrit-grunwald 
+    avatar: img/avatars/hansolo_.png
   - name: Mary Grygleski
     year: 2021
     country:
@@ -1006,7 +1198,7 @@ members:
     city: Chicago
     social:
       twitter: https://twitter.com/mgrygles
-    avatar: images/avatars/mgrygles.png
+    avatar: img/avatars/mgrygles.png
   - name: Andrzej Grzesik
     year: 2016
     country:
@@ -1015,7 +1207,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/ags313
-    avatar: images/avatars/ags313.png
+    avatar: img/avatars/ags313.png
   - name: Freddy Guime
     year: 2015
     country:
@@ -1023,7 +1215,7 @@ members:
     city: Seattle, Washington
     social:
       twitter: https://twitter.com/fguime
-    avatar: images/avatars/fguime.png
+    avatar: img/avatars/fguime.png
   - name: Chandra Guntur
     year: 2019
     country:
@@ -1031,7 +1223,8 @@ members:
     city: New Jersey
     social:
       twitter: https://twitter.com/CGuntur
-    avatar: images/avatars/CGuntur.png
+      bluesky: https://bsky.app/profile/cguntur.bsky.social
+    avatar: img/avatars/CGuntur.png
   - name: Arun Gupta
     year: 2013
     country:
@@ -1039,15 +1232,16 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/arungupta
-    avatar: images/avatars/arungupta.png
+      bluesky: https://bsky.app/profile/arungupta.bsky.social
+    avatar: img/avatars/arungupta.png
   - name: Mala Gupta
     year: 2018
     country:
       nomination: India
     city: New Delhi, Delhi
     social:
-      twitter: https://twitter.com/eMalaGupta[
-    avatar: images/avatars/eMalaGupta.png
+      twitter: https://twitter.com/eMalaGupta
+    avatar: img/avatars/eMalaGupta.png
   - name: Romain Guy
     year: 2006
     country:
@@ -1055,7 +1249,7 @@ members:
     city: Los Altos, California
     social:
       twitter: https://twitter.com/romainguy
-    avatar: images/avatars/romainguy.png
+    avatar: img/avatars/romainguy.png
   - name: Ahmed Hashim
     year: 2007
     country:
@@ -1063,13 +1257,14 @@ members:
     city: Cairo
     social:
       twitter: https://twitter.com/ahmed_hashim
-    avatar: images/avatars/ahmed_hashim.png
+    avatar: img/avatars/ahmed_hashim.png
   - name: Mark Heckler
     year: 2016
     country:
       nomination: USA
     city: Godfrey, Illinois
     social:
+<<<<<<< HEAD
       twitter: https://twitter.com/mkheck[@mkheck]
       mastodon: https://mastodon.cloud/@mkheck
       linkedin: https://www.linkedin.com/in/markheckler
@@ -1077,6 +1272,12 @@ members:
       sessionize: https://sessionize.com/mkheck
       youtube: https://www.youtube.com/c/MarkHeckler
     avatar: images/avatars/MkHeck.png
+=======
+      twitter: https://twitter.com/MkHeck
+      mastodon: https://mastodon.cloud/@mkheck
+      bluesky: https://bsky.app/profile/mkheck.bsky.social
+    avatar: img/avatars/MkHeck.png
+>>>>>>> d2147c0d9d2ebe172f5b8f6a5d11a4593bd9acb3
   - name: David Heffelfinger
     year: 2017
     country:
@@ -1084,7 +1285,8 @@ members:
     city: Washington DC
     social:
       twitter: https://twitter.com/ensode
-    avatar: images/avatars/ensode.png
+      linkedin: https://www.linkedin.com/in/dheffelfinger
+    avatar: img/avatars/ensode.png
   - name: Rajmahendra Hegde
     year: 2016
     country:
@@ -1092,7 +1294,7 @@ members:
     city: Hyderabad, Telangana
     social:
       twitter: https://twitter.com/rajmahendrar
-    avatar: images/avatars/rajmahendrar.png
+    avatar: img/avatars/rajmahendrar.png
   - name: Dan Heidinga
     year: 2022
     country:
@@ -1100,7 +1302,7 @@ members:
     city: Ottawa, Ontario
     social:
       twitter: https://twitter.com/DanHeidinga
-    avatar: images/avatars/DanHeidinga.png
+    avatar: img/avatars/DanHeidinga.png
   - name: Michael Heinrichs
     year: 2017
     country:
@@ -1108,14 +1310,14 @@ members:
     city: Freiburg
     social:
       twitter: https://twitter.com/net0pyr
-    avatar: images/avatars/net0pyr.png
+    avatar: img/avatars/net0pyr.png
   - name: César Hernández
     year: 2016
     country:
       nomination: Guatemala
     social:
       twitter: https://twitter.com/CesarHgt
-    avatar: images/avatars/CesarHgt.png
+    avatar: img/avatars/CesarHgt.png
   - name: Thor Henning Hetland
     year: 2005
     country:
@@ -1124,7 +1326,7 @@ members:
     social:
       twitter: https://twitter.com/javatotto
       linkedin: https://www.linkedin.com/in/thorhenninghetland
-    avatar: images/avatars/javatotto.png
+    avatar: img/avatars/javatotto.png
   - name: Rick Hightower
     year: 2017
     country:
@@ -1132,7 +1334,7 @@ members:
     city: Dublin, California
     social:
       twitter: https://twitter.com/RickHigh
-    avatar: images/avatars/RickHigh.png
+    avatar: img/avatars/RickHigh.png
   - name: Gunnar Hillert
     year: 2016
     country:
@@ -1141,7 +1343,7 @@ members:
     city: Holualoa, Hawaii
     social:
       twitter: https://twitter.com/ghillert
-    avatar: images/avatars/ghillert.png
+    avatar: img/avatars/ghillert.png
     status:
       - alumni
   - name: Daniel Hinojosa
@@ -1150,17 +1352,28 @@ members:
       nomination: USA
     city: Albuquerque, NM
     social:
-      twitter: https://twitter.com/dhinojosa
-    avatar: images/avatars/dhinojosa.png
+      mastodon: https://mastodon.social/@dhinojosa
+      bluesky: https://bsky.app/profile/dhinojosa.bsky.social
+      linkedin: https://www.linkedin.com/in/dhevolutionnext
+      github: https://github.com/dhinojosa
+      sessionize: https://sessionize.com/daniel-hinojosa
+      website: https://evolutionnext.com
+    avatar: img/avatars/dhinojosa.jpg
   - name: Marcus Hirt
     year: 2019
     country:
+      birth: Sweden
       nomination: Sweden
       residence: Switzerland
-    city: Zürich
+      citizenship: Switzerland
+    city: Küssnacht am Rigi, SZ
     social:
       twitter: https://twitter.com/hirt
-    avatar: images/avatars/hirt.png
+      mastodon: https://mastodon.social/@hirt
+      linkedin: https://www.linkedin.com/in/mhirt/
+      github: https://github.com/thegreystone
+      website: https://hirt.se/blog/
+    avatar: img/avatars/hirt.png
   - name: Ron Hitchens
     year: 2008
     country:
@@ -1169,7 +1382,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/ronhitchens
-    avatar: images/avatars/ronhitchens.png
+    avatar: img/avatars/ronhitchens.png
   - name: Juergen Hoeller
     year: 2009
     country:
@@ -1177,14 +1390,15 @@ members:
     city: Linz, Upper Austria
     social:
       twitter: https://twitter.com/springjuergen
-    avatar: images/avatars/springjuergen.png
+    avatar: img/avatars/springjuergen.png
   - name: Marc Hoffmann
     year: 2014
     country:
       nomination: Germany
     social:
       twitter: https://twitter.com/marcandsweep
-    avatar: images/avatars/marcandsweep.png
+      mastodon: https://mastodon.social/@marcandsweep
+    avatar: img/avatars/marcandsweep.png
   - name: Jacob Hookom
     year: 2005
     country:
@@ -1192,14 +1406,14 @@ members:
     city: Minneapolis-St. Paul, Minnesota
     social:
       twitter: https://twitter.com/jacobhookom
-    avatar: images/avatars/jacobhookom.png
+    avatar: img/avatars/jacobhookom.png
     status:
       - founding-member
   - name: Bruce Hopkins
     year: 2009
     country:
       nomination: USA
-    avatar: images/avatars/Bruce_Hopkins.png
+    avatar: img/avatars/Bruce_Hopkins.png
   - name: Dr. Cay Horstmann
     year: 2005
     country:
@@ -1207,7 +1421,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/cayhorstmann
-    avatar: images/avatars/cayhorstmann.png
+    avatar: img/avatars/cayhorstmann.png
   - name: Gerardo Horvilleur
     year: 2005
     country:
@@ -1215,7 +1429,7 @@ members:
     city: Mexico City
     social:
       twitter: https://twitter.com/magoghm
-    avatar: images/avatars/magoghm.png
+    avatar: img/avatars/magoghm.png
     status:
       - founding-member
   - name: Michael Huettermann
@@ -1225,15 +1439,15 @@ members:
     city: Cologne
     social:
       twitter: https://twitter.com/huettermann
-    avatar: images/avatars/huettermann.png
+    avatar: img/avatars/huettermann.png
   - name: Jason Hunter
     year: 2005
     country:
-      nomination: Signapore
+      nomination: Singapore
       citizenship: USA
     social:
       twitter: https://twitter.com/hunterhacker
-    avatar: images/avatars/hunterhacker.png
+    avatar: img/avatars/hunterhacker.png
   - name: Burk Hufnagel
     year: 2020
     country:
@@ -1241,7 +1455,7 @@ members:
     city: Atlanta
     social:
       twitter: https://twitter.com/BurkHufnagel
-    avatar: images/avatars/BurkHufnagel.png
+    avatar: img/avatars/BurkHufnagel.png
   - name: Michael Hunger
     year: 2018
     country:
@@ -1249,7 +1463,9 @@ members:
     city: Dresden
     social:
       twitter: https://twitter.com/mesirii
-    avatar: images/avatars/mesirii.png
+      mastodon: https://chaos.social/@mesirii
+      bluesky: https://bsky.app/profile/mesirii.de
+    avatar: img/avatars/mesirii.png
   - name: Claus Ibsen
     year: 2018
     country:
@@ -1257,16 +1473,16 @@ members:
     city: Esbjerg
     social:
       twitter: https://twitter.com/davsclaus
-    avatar: images/avatars/davsclaus.png
+    avatar: img/avatars/davsclaus.png
   - name: Eder Ignatowicz
     year: 2017
     country:
       nomination: USA
-      ciitizenship: Brazil
+      citizenship: Brazil
     city: Boston, Massachusetts
     social:
       twitter: https://twitter.com/ederign
-    avatar: images/avatars/ederign.png
+    avatar: img/avatars/ederign.png
   - name: Oliver Ihns
     year: 2005
     country:
@@ -1274,22 +1490,30 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/oliverihns
-    avatar: images/avatars/oliverihns.png
+    avatar: img/avatars/oliverihns.png
+  - name: Francisco Isidro
+    year: 2023
+    country:
+      nomination: Brazil
+    city: São Paulo
+    social:
+      twitter: https://twitter.com/prof_isidro
+    avatar: img/avatars/prof_isidro.png
   - name: Ivan St. Ivanov
     year: 2018
     country:
       nomination: Bulgaria
     city: Sofia
     social:
-      twitter: https://twitter.com/ivan_stefanov[
-    avatar: images/avatars/ivan_stefanov.png
+      twitter: https://twitter.com/ivan_stefanov
+    avatar: img/avatars/ivan_stefanov.png
   - name: Grace Jansen
     year: 2022
     country:
       nomination: UK
     social:
-      twitter: https://twitter.com/gracejansen27[
-    avatar: images/avatars/gracejansen27.png
+      twitter: https://twitter.com/gracejansen27
+    avatar: img/avatars/gracejansen27.png
   - name: Stephan Janssen
     year: 2005
     country:
@@ -1297,7 +1521,8 @@ members:
     city: Bruges
     social:
       twitter: https://twitter.com/Stephan007
-    avatar: images/avatars/Stephan007.png
+      mastodon: https://techhub.social/@stephan007
+    avatar: img/avatars/Stephan007.png
   - name: Jakob Jenkov
     year: 2022
     country:
@@ -1305,7 +1530,7 @@ members:
     city: Copenhagen
     social:
       twitter: https://twitter.com/jjenkov
-    avatar: images/avatars/jjenkov.png
+    avatar: img/avatars/jjenkov.png
   - name: Emily Jiang
     year: 2019
     country:
@@ -1313,7 +1538,8 @@ members:
     city: Southampton
     social:
       twitter: https://twitter.com/emilyfhjiang
-    avatar: images/avatars/emilyfhjiang.png
+      mastodon: https://mastodon.social/@emilyjiang
+    avatar: img/avatars/emilyfhjiang.png
   - name: Dr. Rod Johnson
     year: 2006
     country:
@@ -1322,7 +1548,7 @@ members:
     city: Sydney
     social:
       twitter: https://twitter.com/springrod
-    avatar: images/avatars/springrod.png
+    avatar: img/avatars/springrod.png
   - name: Angie Jones
     year: 2020
     country:
@@ -1330,7 +1556,8 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/techgirl1908
-    avatar: images/avatars/techgirl1908.png
+      bluesky: https://bsky.app/profile/angiejones.tech
+    avatar: img/avatars/techgirl1908.png
   - name: Christopher Judd
     year: 2017
     country:
@@ -1338,7 +1565,11 @@ members:
     city: Columbus, Ohio
     social:
       twitter: https://twitter.com/javajudd
-    avatar: images/avatars/javajudd.png
+      linkedin: https://www.linkedin.com/in/christophermjudd/
+      github: https://github.com/cjudd/
+      website: https://juddsolutions.com/
+      sessionize: https://sessionize.com/christopher-judd/
+    avatar: img/avatars/javajudd.png
   - name: Josh Juneau
     year: 2017
     country:
@@ -1346,14 +1577,15 @@ members:
     city: Chicago, Illinois
     social:
       twitter: https://twitter.com/javajuneau
-    avatar: images/avatars/javajuneau.png
+      mastodon: https://fosstodon.org/@javajuneau
+    avatar: img/avatars/javajuneau.png
   - name: Prof. Matjaz Juric
     year: 2010
     country:
       nomination: Slovenia
     social:
       twitter: https://twitter.com/matjazbj
-    avatar: images/avatars/matjazbj.png
+    avatar: img/avatars/matjazbj.png
   - name: Dr. Heinz M. Kabutz
     year: 2005
     country:
@@ -1362,10 +1594,14 @@ members:
     city: Chorafakia, Chania, Crete
     social:
       twitter: https://twitter.com/heinzkabutz
+<<<<<<< HEAD
       mastodon: https://mastodon.social/@heinzkabutz
+=======
+      mastodon: https://mastodon.social/@HeinzKabutz
+>>>>>>> d2147c0d9d2ebe172f5b8f6a5d11a4593bd9acb3
       linkedin: https://www.linkedin.com/in/heinzkabutz
       website: https://www.javaspecialists.eu
-    avatar: images/avatars/heinzkabutz.png
+    avatar: img/avatars/heinzkabutz.png
   - name: Mattias Karlsson
     year: 2009
     country:
@@ -1373,7 +1609,8 @@ members:
     city: Stockholm
     social:
       twitter: https://twitter.com/matkar
-    avatar: images/avatars/matkar.png
+      mastodon: https://mastodon.social/@matkar
+    avatar: img/avatars/matkar.png
   - name: Kohsuke Kawaguchi
     year: 2020
     country:
@@ -1382,7 +1619,7 @@ members:
     city: San Jose, California
     social:
       twitter: https://twitter.com/kohsukekawa
-    avatar: images/avatars/kohsukekawa.png
+    avatar: img/avatars/kohsukekawa.png
   - name: Roman Kennke
     year: 2017
     country:
@@ -1390,7 +1627,7 @@ members:
     city: Freiburg
     social:
       twitter: https://twitter.com/rkennke
-    avatar: images/avatars/rkennke.png
+    avatar: img/avatars/rkennke.png
   - name: Gavin King
     year: 2005
     country:
@@ -1398,7 +1635,7 @@ members:
       citizenship: UK
     social:
       twitter: https://twitter.com/1ovthafew
-    avatar: images/avatars/1ovthafew.png
+    avatar: img/avatars/1ovthafew.png
   - name: Viktor Klang
     year: 2018
     country:
@@ -1406,7 +1643,7 @@ members:
     city: Angelholm
     social:
       twitter: https://twitter.com/viktorklang
-    avatar: images/avatars/viktorklang.png
+    avatar: img/avatars/viktorklang.png
     status:
       - alumni
   - name: Aslak Knutsen
@@ -1416,31 +1653,38 @@ members:
     city: Oslo
     social:
       twitter: https://twitter.com/aslakknutsen
-    avatar: images/avatars/aslakknutsen.png
+    avatar: img/avatars/aslakknutsen.png
   - name: Clara Ko
     year: 2011
     country:
       nomination: USA
-      citizenshpi: The Netherlands
+      citizenship: The Netherlands
     city: San Francisco, California
     social:
       twitter: https://twitter.com/clarako
-    avatar: images/avatars/clarako.png
+    avatar: img/avatars/clarako.png
   - name: Panos Konstantinidis
     year: 2007
     country:
       nomination: Greece
     social:
       twitter: https://twitter.com/panoskonst
-    avatar: images/avatars/panoskonst.png
-  - name: Dr. Ken Kousen
+    avatar: img/avatars/panoskonst.png
+  - name: Dr. Kenneth Kousen
     year: 2017
     country:
       nomination: USA
     city: Marlborough, Connecticut
     social:
       twitter: https://twitter.com/kenkousen
-    avatar: images/avatars/kenkousen.png
+      mastodon: https://foojay.social/@kenkousen
+      bluesky: https://bsky.app/profile/kenkousen.bsky.social
+      youtube: https://youtube.com/@talesfromthejarside
+      linkedin: https://www.linkedin.com/in/kenkousen/
+      github: https://github.com/kousen
+      website: https://www.kousenit.com
+      sessionize: https://sessionize.com/kenneth-kousen
+    avatar: img/avatars/kenkousen.png
   - name: Dr. Michael Kölling
     year: 2007
     country:
@@ -1448,7 +1692,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/michaelkolling
-    avatar: images/avatars/michaelkolling.png
+    avatar: img/avatars/michaelkolling.png
   - name: Prof. Dierk König
     year: 2016
     country:
@@ -1456,7 +1700,7 @@ members:
     city: Zürich
     social:
       twitter: https://twitter.com/mittie
-    avatar: images/avatars/mittie.png
+    avatar: img/avatars/mittie.png
   - name: Guillaume Laforge
     year: 2017
     country:
@@ -1464,21 +1708,25 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/glaforge
-    avatar: images/avatars/glaforge.png
+      mastodon: https://uwyn.net/@glaforge
+      linkedin: https://www.linkedin.com/in/glaforge/
+      website: https://glaforge.dev/
+      sessionize: https://sessionize.com/glaforge
+    avatar: img/avatars/glaforge.png
   - name: Marcus Lagergren
     year: 2016
     country:
       nomination: Sweden
     social:
       twitter: https://twitter.com/lagergren
-    avatar: images/avatars/lagergren.png
+    avatar: img/avatars/lagergren.png
   - name: Amira Lakhal
     year: 2016
     country:
       nomination: Switzerland
     social:
       twitter: https://twitter.com/MiraLak
-    avatar: images/avatars/MiraLak.png
+    avatar: img/avatars/MiraLak.png
   - name: Angelika Langer
     year: 2005
     country:
@@ -1486,13 +1734,13 @@ members:
     city: Munich
     social:
       twitter: https://twitter.com/AngelikaLanger
-    avatar: images/avatars/AngelikaLanger.png
+    avatar: img/avatars/AngelikaLanger.png
   - name: Dr. Edward Lank
     year: 2005
     country:
       nomination: Canada
     city: Kitchener
-    avatar: images/avatars/Edward_Lank.png
+    avatar: img/avatars/Edward_Lank.png
   - name: Jacek Laskowski
     year: 2015
     country:
@@ -1500,13 +1748,13 @@ members:
     city: Warsaw
     social:
       twitter: https://twitter.com/jaceklaskowski
-    avatar: images/avatars/jaceklaskowski.png
+    avatar: img/avatars/jaceklaskowski.png
   - name: Enrique Lasterra
     year: 2005
     country:
       nomination: Spain
     city: Bilbao
-    avatar: images/avatars/Enriqu_Lasterra.png
+    avatar: img/avatars/Enriqu_Lasterra.png
   - name: Peter Lawrey
     year: 2015
     country:
@@ -1514,7 +1762,8 @@ members:
     city: Surrey
     social:
       twitter: https://twitter.com/PeterLawrey
-    avatar: images/avatars/PeterLawrey.png
+      mastodon: https://mastodon.social/@PeterLawrey
+    avatar: img/avatars/PeterLawrey.png
   - name: Dr. Doug Lea
     year: 2005
     country:
@@ -1522,17 +1771,31 @@ members:
     city: Syracuse, New York
     social:
       twitter: https://twitter.com/douglea
-    avatar: images/avatars/douglea.png
+    avatar: img/avatars/douglea.png
   - name: Bob Lee
-    year: 2010
+    year: 2007
     country:
       nomination: USA
     city: San Francisco, California
     social:
-      twitter: https://twitter.com/crazybob[@crazybob]
-    avatar: images/avatars/crazybob.png
+      twitter: https://twitter.com/crazybob
+    avatar: img/avatars/crazybob.png
     status:
-      - retired
+      - passed-away
+  - name: Jason Lee
+    year: 2023
+    country:
+      nomination: USA
+    city: Oklahoma City, Oklahoma
+    social:
+      linkedin: https://www.linkedin.com/in/jasondlee/
+      github: https://github.com/jasondlee/
+      sessionize: https://sessionize.com/jasondlee/
+      twitter: https://twitter.com/jasondlee
+      mastodon: https://mastodon.cloud/@jasondlee
+      bluesky: https://bsky.app/profile/jasondlee.bsky.social
+      website: https://jasondl.ee/
+    avatar: img/avatars/jasondlee.png
   - name: Justin Lee
     year: 2014
     country:
@@ -1540,61 +1803,68 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/evanchooly
-    avatar: images/avatars/evanchooly.png
+      mastodon: https://mastodon.social/@evanchooly
+      bluesky: https://bsky.app/profile/evanchooly.bsky.social
+      linkedin: https://www.linkedin.com/in/justinlee/
+      github: https://github.com/evanchooly
+      website: http://antwerkz.com
+      sessionize: https://sessionize.com/evanchooly
+    avatar: img/avatars/evanchooly.png
   - name: Trustin Lee
     year: 2020
     country:
       nomination: South Korea
     social:
       twitter: https://twitter.com/trustin
-    avatar: images/avatars/trustin.png
+    avatar: img/avatars/trustin.png
   - name: Dirk Lemmermann
     year: 2019
     country:
       nomination: Switzerland
     social:
       twitter: https://twitter.com/dlemmermann
-    avatar: images/avatars/dlemmermann.png
+    avatar: img/avatars/dlemmermann.png
   - name: Michael Levin
     year: 2011
     country:
       nomination: USA
     social:
       twitter: https://twitter.com/mikelevin77
-    avatar: images/avatars/mikelevin77.png
+    avatar: img/avatars/mikelevin77.png
   - name: Dr. Barry Levine
     year: 2005
     country:
       nomination: USA
-    avatar: images/avatars/Barry_Levine.png
+    avatar: img/avatars/Barry_Levine.png
   - name: Mo Li
+    year: 2005
     country:
       nomination: China
-    avatar: images/avatars/Mo_Li.png
+    avatar: img/avatars/Mo_Li.png
   - name: San-Hong Li
     year: 2020
     country:
       nomination: China
     social:
       twitter: https://twitter.com/sanhong_li
-    avatar: images/avatars/sanhong_li.png
+    avatar: img/avatars/sanhong_li.png
   - name: Dr. Daniel Liang
     year: 2005
     country:
       nomination: USA
-    avatar: images/daniel-liang-128x128.jpg[]
+    avatar: img/daniel-liang-128x128.jpg
   - name: Patrick Linskey
     year: 2005
     country:
       nomination: USA
     social:
       twitter: https://twitter.com/plinskey
-    avatar: images/avatars/plinskey.png
+    avatar: img/avatars/plinskey.png
   - name: Paul Lipton
     year: 2005
     country:
       nomination: USA
-    avatar: images/avatars/Paul_Lipton.png
+    avatar: img/avatars/Paul_Lipton.png
   - name: Josh Long
     year: 2015
     country:
@@ -1602,7 +1872,9 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/starbuxman
-    avatar: images/avatars/starbuxman.png
+      mastodon: https://mastodon.online/@starbuxman
+      bluesky: https://bsky.app/profile/starbuxman.joshlong.com
+    avatar: img/avatars/starbuxman.png
   - name: Melissa McKay
     year: 2021
     country:
@@ -1610,7 +1882,9 @@ members:
     city: Colorado
     social:
       twitter: https://twitter.com/melissajmckay
-    avatar: images/avatars/melissajmckay.png
+      linkedin: https://www.linkedin.com/in/melissajmckay
+      sessionize: https://sessionize.com/melissa-mckay
+    avatar: img/avatars/melissajmckay.png
   - name: Alexis Lopez
     year: 2017
     country:
@@ -1619,7 +1893,7 @@ members:
     social:
       twitter: https://twitter.com/acelopezco
       linkedin: https://www.linkedin.com/in/acelopezco
-    avatar: images/avatars/acelopezco.png
+    avatar: img/avatars/acelopezco.png
   - name: Geir Magnusson
     year: 2006
     country:
@@ -1627,12 +1901,12 @@ members:
     city: Wilton, Connecticut
     social:
       twitter: https://twitter.com/geirmagnusson
-    avatar: images/avatars/geirmagnusson.png
+    avatar: img/avatars/geirmagnusson.png
   - name: Dr. Qusay Mahmoud
     year: 2007
     country:
       nomination: Canada
-    avatar: images/avatars/Qusay_Mahmoud.png
+    avatar: img/avatars/Qusay_Mahmoud.png
   - name: Sander Mak
     year: 2017
     country:
@@ -1640,7 +1914,8 @@ members:
     city: Nijmegen
     social:
       twitter: https://twitter.com/Sander_Mak
-    avatar: images/avatars/Sander_Mak.png
+      mastodon: https://federate.social/@sander_mak
+    avatar: img/avatars/Sander_Mak.png
   - name: Konrad Malawski
     year: 2017
     country:
@@ -1648,7 +1923,7 @@ members:
       residence: Japan
     social:
       twitter: https://twitter.com/ktosopl
-    avatar: images/avatars/ktosopl.png
+    avatar: img/avatars/ktosopl.png
   - name: Stephane Maldini
     year: 2022
     country:
@@ -1657,14 +1932,14 @@ members:
     city: California
     social:
       twitter: https://twitter.com/smaldini
-    avatar: images/avatars/smaldini.png
+    avatar: img/avatars/smaldini.png
     status:
       - passed-away
   - name: Dan Malks
     year: 2007
     country:
       nomination: USA
-    avatar: images/avatars/Dan_Malks.png
+    avatar: img/avatars/Dan_Malks.png
   - name: Jim Manico
     year: 2018
     country:
@@ -1672,7 +1947,7 @@ members:
     city: Anahola, Hawaii
     social:
       twitter: https://twitter.com/manicode
-    avatar: images/avatars/manicode.png
+    avatar: img/avatars/manicode.png
   - name: Kito Mann
     year: 2017
     country:
@@ -1680,7 +1955,9 @@ members:
     city: Glen Allen, Virginia
     social:
       twitter: https://twitter.com/kito99
-    avatar: images/avatars/kito99.png
+      mastodon: https://mastodon.social/@kito99
+      github: https://github.com/kito99
+    avatar: img/avatars/kito99.png
   - name: Dervis Mansuroglu
     year: 2019
     country:
@@ -1688,7 +1965,7 @@ members:
     city: Oslo
     social:
       twitter: https://twitter.com/dervismn
-    avatar: images/avatars/dervismn.png
+    avatar: img/avatars/dervismn.png
   - name: Simon Maple
     year: 2014
     country:
@@ -1696,7 +1973,7 @@ members:
     city: Basingstoke, Hampshire
     social:
       twitter: https://twitter.com/sjmaple
-    avatar: images/avatars/sjmaple.png
+    avatar: img/avatars/sjmaple.png
   - name: Joshua Marinacci
     year: 2010
     country:
@@ -1704,7 +1981,7 @@ members:
     city: Eugene, Oregon
     social:
       twitter: https://twitter.com/joshmarinacci
-    avatar: images/avatars/joshmarinacci.png
+    avatar: img/avatars/joshmarinacci.png
   - name: Floyd Marinescu
     year: 2005
     country:
@@ -1712,7 +1989,23 @@ members:
     city: Etobicoke, Ontario
     social:
       twitter: https://twitter.com/floydmarinescu
-    avatar: images/avatars/floydmarinescu.png
+    avatar: img/avatars/floydmarinescu.png
+  - name: Simon Martinelli
+    year: 2023
+    country:
+      nomination: Switzerland
+    city: Erlach
+    social:
+      twitter: https://twitter.com/simas_ch
+      mastodon: https://mastodon.social/@SimonMartinelli
+      bluesky: https://bsky.app/profile/martinelli.ch
+      linkedin: http://linkedin.com/in/simonmartinelli
+      github: https://github.com/simasch
+      sessionize: https://sessionize.com/simon-martinelli
+      youtube: https://www.youtube.com/@simonmartinelli
+      speakerdeck: https://speakerdeck.com/simas
+      website: https://martinelli.ch
+    avatar: img/avatars/simas_ch.png
   - name: Vincent Massol
     year: 2005
     country:
@@ -1720,7 +2013,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/vmassol
-    avatar: images/avatars/vmassol.png
+    avatar: img/avatars/vmassol.png
   - name: Norman Maurer
     year: 2016
     country:
@@ -1728,7 +2021,7 @@ members:
     city: Frankfurt
     social:
       twitter: https://twitter.com/normanmaurer
-    avatar: images/avatars/normanmaurer.png
+    avatar: img/avatars/normanmaurer.png
   - name: Vincent Mayers
     year: 2016
     country:
@@ -1736,7 +2029,7 @@ members:
     city: Atlanta, Georgia
     social:
       twitter: https://twitter.com/vincentmayers
-    avatar: images/avatars/vincentmayers.png
+    avatar: img/avatars/vincentmayers.png
   - name: Carole McDonald
     year: 2021
     country:
@@ -1744,21 +2037,29 @@ members:
     city: Florida
     social:
       twitter: https://twitter.com/caroljmcdonald
-    avatar: images/avatars/caroljmcdonald.png
+    avatar: img/avatars/caroljmcdonald.png
   - name: Rustam Mehmandarov
     year: 2017
     country:
       nomination: Norway
     social:
-      twitter: https://twitter.com/rmehmandarov
-    avatar: images/avatars/rmehmandarov.png
-  - name: Eddú Meléndez
+      twitter: https://twitter.com/RMehmandarov
+      mastodon: https://mastodon.social/@mehmandarov
+      bluesky: https://bsky.app/profile/mehmandarov.bsky.social
+      sessionize: https://sessionize.com/mehmandarov
+      website: https://rustam.no
+    avatar: img/avatars/rmehmandarov.png
+  - name: Eddú Meléndez Gonzales
     year: 2022
     country:
       nomination: Perú
     social:
       twitter: https://twitter.com/EdduMelendez
-    avatar: images/avatars/EdduMelendez.png
+      linkedin: https://www.linkedin.com/in/eddumelendez
+      github: https://github.com/eddumelendez
+      bluesky: https://bsky.app/profile/eddumelendez.bsky.social
+      sessionize: https://sessionize.com/eddumelendez
+    avatar: img/avatars/EdduMelendez.png
   - name: Ondro Mihályi
     year: 2019
     country:
@@ -1766,7 +2067,8 @@ members:
     city: Prague
     social:
       twitter: https://twitter.com/OndroMih
-    avatar: images/avatars/OndroMih.png
+      mastodon: https://mastodon.online/@ondromih
+    avatar: img/avatars/OndroMih.png
   - name: Vlad Mihalcea
     year: 2017
     country:
@@ -1774,14 +2076,16 @@ members:
     city: Cluj County
     social:
       twitter: https://twitter.com/vlad_mihalcea
-    avatar: images/avatars/vlad_mihalcea.png
+    avatar: img/avatars/vlad_mihalcea.png
   - name: Ana-Maria Mihalceanu
     year: 2021
     country:
       nomination: Romania
     social:
       twitter: https://twitter.com/ammbra1508
-    avatar: images/avatars/ammbra1508.png
+      mastodon: https://mastodon.social/@ammbra1508
+      bluesky: https://bsky.app/profile/ammbra1508.bsky.social
+    avatar: img/avatars/ammbra1508.png
     status:
       - alumni
   - name: Michael T. Minella
@@ -1791,14 +2095,20 @@ members:
     city: Naperville, Illinois
     social:
       twitter: https://twitter.com/michaelminella
-    avatar: images/avatars/michaelminella.png
+    avatar: img/avatars/michaelminella.png
   - name: Elder Moraes
     year: 2020
     country:
       nomination: Brazil
+    city: São Bernardo do Campo/SP
     social:
       twitter: https://twitter.com/elderjava
-    avatar: images/avatars/elderjava.png
+      youtube: https://youtube.com/@eldermoraes
+      linkedin: https://linkedin.com/in/eldermoraes
+      github: https://github.com/eldermoraes
+      website: https://eldermoraes.com
+      sessionize: https://sessionize.com/eldermoraes
+    avatar: img/avatars/elderjava.png
   - name: Gunnar Morling
     year: 2019
     country:
@@ -1806,7 +2116,9 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/gunnarmorling
-    avatar: images/avatars/gunnarmorling.png
+      mastodon: https://mastodon.online/@gunnarmorling
+      bluesky: https://bsky.app/profile/gunnar.bsky.social
+    avatar: img/avatars/gunnarmorling.png
   - name: Maarten Mulders
     year: 2022
     country:
@@ -1814,14 +2126,16 @@ members:
     city: Apeldoorn
     social:
       twitter: https://twitter.com/mthmulders
-    avatar: images/avatars/mthmulders.png
+      mastodon: https://mastodon.online/@mthmulders
+      bluesky: https://bsky.app/profile/mthmulders.bsky.social
+    avatar: img/avatars/mthmulders.png
   - name: Benjamin Muskalla
     year: 2021
     country:
       nomination: Germany
     social:
       twitter: https://twitter.com/bmuskalla
-    avatar: images/avatars/bmuskalla.png
+    avatar: img/avatars/bmuskalla.png
   - name: Maurice Naftalin
     year: 2014
     country:
@@ -1829,14 +2143,14 @@ members:
     city: Edinburgh
     social:
       twitter: https://twitter.com/mauricenaftalin
-    avatar: images/avatars/mauricenaftalin.png
+    avatar: img/avatars/mauricenaftalin.png
   - name: Nikhil Nanivadekar
     year: 2018
     country:
       nomination: USA
     social:
       twitter: https://twitter.com/NikhilNanivade
-    avatar: images/avatars/NikhilNanivade.png
+    avatar: img/avatars/NikhilNanivade.png
   - name: Dr. Fabiane Bizinella Nardon
     year: 2006
     country:
@@ -1844,7 +2158,7 @@ members:
     city: São Paulo
     social:
       twitter: https://twitter.com/fabianenardon
-    avatar: images/avatars/fabianenardon.png
+    avatar: img/avatars/fabianenardon.png
   - name: Rafael Del Nero
     year: 2018
     country:
@@ -1852,7 +2166,7 @@ members:
     city: Dublin, Leinster
     social:
       twitter: https://twitter.com/RafaDelNero
-    avatar: images/avatars/RafaDelNero.png
+    avatar: img/avatars/RafaDelNero.png
   - name: Audrey Neveu
     year: 2020
     country:
@@ -1860,7 +2174,7 @@ members:
     city: Rouen
     social:
       twitter: https://twitter.com/Audrey_Neveu
-    avatar: images/avatars/Audrey_Neveu.png
+    avatar: img/avatars/Audrey_Neveu.png
   - name: Chris Newland
     year: 2017
     country:
@@ -1868,7 +2182,15 @@ members:
     city: London
     social:
       twitter: https://twitter.com/chriswhocodes
-    avatar: images/avatars/chriswhocodes.png
+      mastodon: https://mastodon.social/@chriswhocodes
+    avatar: img/avatars/chriswhocodes.png
+  - name: Francesco Nigro
+    year: 2023
+    country:
+      nomination: Italy
+    social:
+      twitter: https://twitter.com/forked_franz
+    avatar: img/avatars/forked_franz.png
   - name: Kevin Nilson
     year: 2009
     country:
@@ -1876,7 +2198,21 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/javaclimber
-    avatar: images/avatars/javaclimber.png
+    avatar: img/avatars/javaclimber.png
+  - name: Elias Nogueira
+    year: 2023
+    country:
+      nomination: The Netherlands
+      citizenship: Brazil
+    city: Utrecht
+    social:
+      twitter: https://twitter.com/eliasnogueira
+      linkedin: https://www.linkedin.com/in/eliasnogueira
+      github: https://github.com/eliasnogueira
+      website: https://eliasnogueira.com
+      sessionize: https://sessionize.com/elias-nogueira
+      speakerdeck: https://speakerdeck.com/eliasnogueira
+    avatar: img/avatars/eliasnogueira.png
   - name: Tomasz Nurkiewicz
     year: 2018
     country:
@@ -1884,7 +2220,11 @@ members:
     city: Warsaw
     social:
       twitter: https://twitter.com/tnurkiewicz
-    avatar: images/avatars/tnurkiewicz.png
+      mastodon: https://fosstodon.org/@nurkiewicz
+      linkedin: https://www.linkedin.com/in/nurkiewicz
+      github: https://github.com/nurkiewicz
+      website: https://nurkiewicz.com
+    avatar: img/avatars/tnurkiewicz.png
   - name: Charles Oliver Nutter
     year: 2013
     country:
@@ -1892,7 +2232,9 @@ members:
     city: Minneapolis, Minnesota
     social:
       twitter: https://twitter.com/headius
-    avatar: images/avatars/headius.png
+      mastodon: https://mastodon.social/@headius
+      bluesky: https://bsky.app/profile/headius.bsky.social
+    avatar: img/avatars/headius.png
   - name: Harshad Oak
     year: 2007
     country:
@@ -1900,7 +2242,7 @@ members:
     city: Pune, Maharashtra
     social:
       twitter: https://twitter.com/HarshadOak
-    avatar: images/avatars/HarshadOak.png
+    avatar: img/avatars/HarshadOak.png
   - name: Rickard Oberg
     year: 2011
     country:
@@ -1908,7 +2250,7 @@ members:
     city: Selangor
     social:
       twitter: https://twitter.com/rickardoberg
-    avatar: images/avatars/rickardoberg.png
+    avatar: img/avatars/rickardoberg.png
     status:
       - retired
   - name: Carlos Obregon
@@ -1918,7 +2260,16 @@ members:
     city: Bogota
     social:
       twitter: https://twitter.com/gaijinco
-    avatar: images/avatars/gaijinco.png
+    avatar: img/avatars/gaijinco.png
+  - name: Daniel Oh
+    year: 2023
+    country:
+      nomination: USA
+    city: Boston
+    social:
+      twitter: https://twitter.com/danieloh30
+      bluesky: https://bsky.app/profile/danieloh30.bsky.social
+    avatar: img/avatars/danieloh30.png
   - name: Víctor Orozco
     year: 2018
     country:
@@ -1926,28 +2277,29 @@ members:
     city: Guatemala City
     social:
       twitter: https://twitter.com/tuxtor
-    avatar: images/avatars/tuxtor.png
+      mastodon: https://fosstodon.org/@tuxtor
+    avatar: img/avatars/tuxtor.png
   - name: Bethan Palmer
     year: 2018
     country:
       nomination: UK
     social:
       twitter: https://twitter.com/BethanKP
-    avatar: images/avatars/BethanKP.png
+    avatar: img/avatars/BethanKP.png
   - name: Andrei Pangin
     year: 2020
     country:
       nomination: Russian Federation
     social:
       twitter: https://twitter.com/AndreiPangin
-    avatar: images/avatars/AndreiPangin.png
+    avatar: img/avatars/AndreiPangin.png
   - name: Eugene Paraschiv
     year: 2021
     country:
       nomination: Romania
     social:
       twitter: https://twitter.com/baeldung
-    avatar: images/avatars/baeldung.png
+    avatar: img/avatars/baeldung.png
   - name: Nicolai Parlog
     year: 2019
     country:
@@ -1955,7 +2307,9 @@ members:
     city: Karlsruhe
     social:
       twitter: https://twitter.com/nipafx
-    avatar: images/avatars/nipafx.png
+      mastodon: https://mastodon.social/@nipafx
+      bluesky: https://bsky.app/profile/nipafx.bsky.social
+    avatar: img/avatars/nipafx.png
     status:
       - alumni
   - name: Sandra Parsick
@@ -1965,7 +2319,8 @@ members:
     city: Neuss
     social:
       twitter: https://twitter.com/SandraParsick
-    avatar: images/avatars/SandraParsick.png
+      mastodon: https://mastodon.social/@sparsick
+    avatar: img/avatars/SandraParsick.png
   - name: Pratik Patel
     year: 2016
     country:
@@ -1973,7 +2328,8 @@ members:
     city: Atlanta, Georgia
     social:
       twitter: https://twitter.com/prpatel
-    avatar: images/avatars/prpatel.png
+      bluesky: https://bsky.app/profile/prpatel.bsky.social
+    avatar: img/avatars/prpatel.png
   - name: Bob Paulin
     year: 2017
     country:
@@ -1981,7 +2337,7 @@ members:
     city: Chicago, Illinois
     social:
       twitter: https://twitter.com/bobpaulin
-    avatar: images/avatars/bobpaulin.png
+    avatar: img/avatars/bobpaulin.png
   - name: Dr. José Paumard
     year: 2015
     country:
@@ -1989,7 +2345,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/JosePaumard
-    avatar: images/avatars/JosePaumard.png
+    avatar: img/avatars/JosePaumard.png
     status:
       - alumni
   - name: Kirk Pepperdine
@@ -1999,7 +2355,7 @@ members:
     city: Kelowna, British Columbia
     social:
       twitter: https://twitter.com/kcpeppe
-    avatar: images/avatars/kcpeppe.png
+    avatar: img/avatars/kcpeppe.png
   - name: Dr. Jose Pereda
     year: 2017
     country:
@@ -2007,21 +2363,23 @@ members:
     city: Valladolid
     social:
       twitter: https://twitter.com/JPeredaDnr
-    avatar: images/avatars/JPeredaDnr.png
+    avatar: img/avatars/JPeredaDnr.png
   - name: Dr. Paul Perrone
     year: 2006
     country:
       nomination: USA
-    avatar: images/avatars/Paul_Perrone.png
+    avatar: img/avatars/Paul_Perrone.png
   - name: John Paul "JP" Petines
-    year: Founding Member
+    year: 2005
     country:
       nomination: Canada
       birth: Philipines
     city: Toronto, Ontario
     social:
       twitter: https://twitter.com/jppetines
-    avatar: images/avatars/jppetines.png
+    avatar: img/avatars/jppetines.png
+    status:
+      - founding-member
   - name: Sean M. Phillips
     year: 2017
     country:
@@ -2029,7 +2387,7 @@ members:
     city: Washington DC
     social:
       twitter: https://twitter.com/SeanMiPhillips
-    avatar: images/avatars/SeanMiPhillips.png
+    avatar: img/avatars/SeanMiPhillips.png
   - name: Peter Pilgrim
     year: 2007
     country:
@@ -2037,7 +2395,7 @@ members:
     city: Milton Keynes, England
     social:
       twitter: https://twitter.com/peter_pilgrim
-    avatar: images/avatars/peter_pilgrim.png
+    avatar: img/avatars/peter_pilgrim.png
   - name: Prof. William Pugh
     year: 2007
     country:
@@ -2045,7 +2403,7 @@ members:
     city: Maryland
     social:
       twitter: https://twitter.com/wpugh
-    avatar: images/avatars/wpugh.png
+    avatar: img/avatars/wpugh.png
   - name: Carl Quinn
     year: 2020
     country:
@@ -2053,7 +2411,7 @@ members:
     city: California
     social:
       twitter: https://twitter.com/cquinn
-    avatar: images/avatars/cquinn.png
+    avatar: img/avatars/cquinn.png
     status:
       - passed-away
   - name: Donald Raab
@@ -2064,7 +2422,7 @@ members:
     city: Metuchen, New Jersey
     social:
       twitter: https://twitter.com/TheDonRaab
-    avatar: images/avatars/TheDonRaab.png
+    avatar: img/avatars/TheDonRaab.png
   - name: Bazlur Rahman
     year: 2022
     country:
@@ -2072,26 +2430,50 @@ members:
       birth: Bangladesh
     city: Toronto
     social:
-      twitter: https://twitter.com/bazlur_rahman[
-    avatar: images/avatars/bazlur_rahman.png
+      twitter: https://twitter.com/bazlur_rahman
+      mastodon: https://mastodon.online/@bazlur_rahman
+      linkedin: https://www.linkedin.com/in/bazlur/
+      github: https://github.com/rokon12
+      website: https://bazlur.ca/
+      sessionize: https://sessionize.com/bazlur/
+    avatar: img/avatars/bazlur_rahman.png
   - name: Matt Raible
     year: 2016
     country:
       nomination: USA
     city: Denver, Colorado
     social:
+      website: https://raibledesigns.com
+      linkedin: https://linkedin.com/in/mraible
       twitter: https://twitter.com/mraible
-    avatar: images/avatars/mraible.png
+      bluesky: https://bsky.app/profile/mraible.bsky.social
+      sessionize: https://sessionize.com/matt-raible
+      speakerdeck: https://speakerdeck.com/mraible
+      youtube: https://youtube.com/mraible
+    avatar: img/avatars/mraible.png
   - name: Srikanth Raju
     year: 2006
     country:
       nomination: USA
-    avatar: images/avatars/Srikanth_Raju.png
+    avatar: img/avatars/Srikanth_Raju.png
   - name: Jayson Raymond
     year: 2005
     country:
       nomination: USA
-    avatar: images/avatars/Jayson_Raymond.png
+    avatar: img/avatars/Jayson_Raymond.png
+  - name: Michael P. Redlich
+    year: 2023
+    country:
+      nomination: USA
+    city: Flemington, New Jersey
+    social:
+      twitter: https://twitter.com/mpredli
+      mastodon: https://mastodon.sdf.org/@mpredli01
+      github: https://github.com/mpredli01
+      linkedin: http://www.linkedin.com/pub/michael-redlich/0/966/13a
+      sessionize: https://sessionize.com/michael-redlich
+      website: https://redlich.net
+    avatar: img/avatars/mpredli.png
   - name: Dr. Victor Rentea
     year: 2019
     country:
@@ -2099,7 +2481,7 @@ members:
     city: Bucharest
     social:
       twitter: https://twitter.com/VictorRentea
-    avatar: images/avatars/VictorRentea.png
+    avatar: img/avatars/VictorRentea.png
   - name: Chris Richardson
     year: 2007
     country:
@@ -2107,12 +2489,12 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/crichardson
-    avatar: images/avatars/crichardson.png
+    avatar: img/avatars/crichardson.png
   - name: Clark D. Richey Jr.
     year: 2005
     country:
       nomination: USA
-    avatar: images/avatars/Clark_D_Richey_Jr.png
+    avatar: img/avatars/Clark_D_Richey_Jr.png
     status:
       - founding-member
   - name: Manfred Riem
@@ -2122,7 +2504,7 @@ members:
     city: Provo, Utah
     social:
       twitter: https://twitter.com/mnriem
-    avatar: images/avatars/mnriem.png
+    avatar: img/avatars/mnriem.png
     status:
       - founding-member
   - name: Simon Ritter
@@ -2132,15 +2514,25 @@ members:
     city: Twickenham
     social:
       twitter: https://twitter.com/speakjava
-    avatar: images/avatars/speakjava.png
+      mastodon: https://mastodon.social/@speakjava
+    avatar: img/avatars/speakjava.png
   - name: Sven Reimers
     year: 2015
     country:
-      nomination: Germany}
+      nomination: Germany
     city: Konstanz
     social:
       twitter: https://twitter.com/SvenNB
-    avatar: images/avatars/SvenNB.png
+      mastodon: https://mastodon.social/@svenreimers
+    avatar: img/avatars/SvenNB.png
+  - name: Glenn Renfro
+    year: 2023
+    country:
+      nomination: USA
+    city: Atlanta
+    social:
+      twitter: https://twitter.com/cppwfs
+    avatar: img/avatars/cppwfs.png
   - name: Roy van Rijn
     year: 2018
     country:
@@ -2148,13 +2540,14 @@ members:
     city: Maassluis, South Holland Province
     social:
       twitter: https://twitter.com/royvanrijn
-    avatar: images/avatars/royvanrijn.png
+      mastodon: https://mastodon.social/@royvanrijn
+    avatar: img/avatars/royvanrijn.png
   - name: Leonardo de Moura Rocha Lima
     year: 2017
     country:
       nomination: Brazil
     city: São Paulo
-    avatar: images/avatars/leomrlima.png
+    avatar: img/avatars/leomrlima.png
   - name: Graeme Rocher
     year: 2019
     country:
@@ -2163,7 +2556,7 @@ members:
     city: Bilbao
     social:
       twitter: https://twitter.com/graemerocher
-    avatar: images/avatars/graemerocher.png
+    avatar: img/avatars/graemerocher.png
     status:
       - alumni
   - name: Antón María Rodríguez Yuste
@@ -2173,7 +2566,7 @@ members:
     city: Galicia
     social:
       twitter: https://twitter.com/antonmry
-    avatar: images/avatars/antonmry.png
+    avatar: img/avatars/antonmry.png
   - name: Ix-chel Ruiz
     year: 2017
     country:
@@ -2182,7 +2575,10 @@ members:
     city: Basel
     social:
       twitter: https://twitter.com/ixchelruiz
-    avatar: images/avatars/ixchelruiz.png
+      mastodon: https://mastodon.social/@ixchelruiz
+      bluesky: https://bsky.app/profile/ixchelruiz.bsky.social
+      sessionize: https://sessionize.com/ixchelruiz
+    avatar: img/avatars/ixchelruiz.png
   - name: Antoine Sabot-Durand
     year: 2017
     country:
@@ -2190,7 +2586,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/antoine_sd
-    avatar: images/avatars/antoine_sd.png
+    avatar: img/avatars/antoine_sd.png
   - name: Koichi Sakata
     year: 2018
     country:
@@ -2198,20 +2594,29 @@ members:
     city: Osaka
     social:
       twitter: https://twitter.com/jyukutyo
-    avatar: images/avatars/jyukutyo.png
+    avatar: img/avatars/jyukutyo.png
   - name: Yuuichi Sakuraba
+    year: 2005
     country:
       nomination: Japan
     social:
       twitter: https://twitter.com/skrb
-    avatar: images/avatars/skrb.png
+    avatar: img/avatars/skrb.png
   - name: Alberto Salazar
     year: 2018
     country:
       nomination: Ecuador
     social:
       twitter: https://twitter.com/betoSalazar
-    avatar: images/avatars/betoSalazar.png
+    avatar: img/avatars/betoSalazar.png
+  - name: Brian Sam-Bodden
+    year: 2023
+    country:
+      nomination: USA
+    social:
+      twitter: https://twitter.com/bsbodden
+      bluesky: https://bsky.app/profile/bsbodden.bsky.social
+    avatar: img/avatars/bsbodden.png
   - name: Tatu Saloranta
     year: 2021
     country:
@@ -2219,7 +2624,7 @@ members:
     city: Seattle
     social:
       twitter: https://twitter.com/cowtowncoder
-    avatar: images/avatars/cowtowncoder.png
+    avatar: img/avatars/cowtowncoder.png
   - name: Otávio Gonçalves de Santana
     year: 2015
     country:
@@ -2227,43 +2632,49 @@ members:
     city: São Paulo
     social:
       twitter: https://twitter.com/otaviojava
-    avatar: images/avatars/otaviojava.png
+    avatar: img/avatars/otaviojava.png
   - name: Michael Nascimento Santos
     year: 2006
     country:
       nomination: Brazil
-    city: Michael Nascimento Santos
     social:
       twitter: https://twitter.com/mr__m
-    avatar: images/avatars/mr__m.png
+    avatar: img/avatars/mr__m.png
   - name: Mani Sarkar
     year: 2018
     country:
       nomination: UK
     social:
       twitter: https://twitter.com/theNeomatrix369
-    avatar: images/avatars/theNeomatrix369.png
+      mastodon: https://mastodon.online/@neomatrix369
+    avatar: img/avatars/theNeomatrix369.png
   - name: Deepu K Sasidharan
     year: 2022
     country:
       nomination: The Netherlands
+      citizenship: India
     social:
+      mastodon: https://mastodon.social/@deepu105
       twitter: https://twitter.com/deepu105
-    avatar: images/avatars/deepu105.png
+      linkedin: https://www.linkedin.com/in/deepu05
+      github: https://github.com/deepu105
+      website: https://deepu.tech
+    avatar: img/avatars/deepu105.png
   - name: Tom Schindl
     year: 2015
     country:
       nomination: Austria
     social:
       twitter: https://twitter.com/tomsontom
-    avatar: images/avatars/tomsontom.png
+      mastodon: https://mastodon.social/@tomsontom
+    avatar: img/avatars/tomsontom.png
   - name: Olivier Schmitt
     year: 2005
     country:
       nomination: Switzerland
       citizenship: France
     city: Geneva
-    avatar: images/avatars/Olivier_Schmitt.png
+    avatar: img/avatars/Olivier_Schmitt.png
     status:
       - founding-member
   - name: Robert Scholte
@@ -2273,14 +2684,15 @@ members:
     city: Groningen
     social:
       twitter: https://twitter.com/rfscholte
-    avatar: images/avatars/rfscholte.png
+      mastodon: https://mstdn.social/@rfscholte
+    avatar: img/avatars/rfscholte.png
   - name: Bauke Scholtz
     year: 2017
     country:
       nomination: The Netherlands
     social:
       twitter: https://twitter.com/OmniFaces
-    avatar: images/avatars/OmniFaces.png
+    avatar: img/avatars/OmniFaces.png
   - name: Aleksey Shipilev
     year: 2017
     country:
@@ -2288,15 +2700,20 @@ members:
     city: Potsdam, Brandenburg
     social:
       twitter: https://twitter.com/shipilev
-    avatar: images/avatars/shipilev.png
-  - name: Dr. Oleg Shelajev
+    avatar: img/avatars/shipilev.png
+  - name: Oleg Šelajev
     year: 2017
     country:
       nomination: Estonia
     city: Tartu
     social:
       twitter: https://twitter.com/shelajev
-    avatar: images/avatars/shelajev.png
+      bluesky: https://bsky.app/profile/shelajev.bsky.social
+      youtube: https://www.youtube.com/@shelajev
+      linkedin: https://www.linkedin.com/in/shelajev/
+      github: https://github.com/shelajev/
+      sessionize: https://sessionize.com/oleg-selajev/
+    avatar: img/avatars/shelajev.png
   - name: Erin Schnabel
     year: 2019
     country:
@@ -2305,7 +2722,10 @@ members:
     social:
       twitter: https://twitter.com/ebullientworks
       mastodon: https://fosstodon.org/@ebullient
-    avatar: images/avatars/ebullientworks.png
+      linkedin: https://www.linkedin.com/in/erinschnabel
+      github: https://github.com/ebullient
+      website: https://ebullient.dev
+    avatar: img/avatars/ebullientworks.png
   - name: Bert Jan Schrijver
     year: 2017
     country:
@@ -2313,14 +2733,23 @@ members:
     city: Utrecht
     social:
       twitter: https://twitter.com/bjschrijver
-    avatar: images/avatars/bjschrijver.png
+      mastodon: https://mastodon.social/@bjschrijver
+    avatar: img/avatars/bjschrijver.png
+  - name: Nate Schutta
+    year: 2023
+    country:
+      nomination: USA
+    city: Forest Lake, MN
+    social:
+      twitter: https://twitter.com/ntschutta
+    avatar: img/avatars/ntschutta.png
   - name: Vinicius Senger
     year: 2016
     country:
       nomination: Brazil
     social:
       twitter: https://twitter.com/vsenger
-    avatar: images/avatars/vsenger.png
+    avatar: img/avatars/vsenger.png
   - name: Yara Senger
     year: 2012
     country:
@@ -2328,31 +2757,31 @@ members:
     city: São Paulo
     social:
       twitter: https://twitter.com/yarasenger
-    avatar: images/avatars/yarasenger.png
+    avatar: img/avatars/yarasenger.png
   - name: Dr. Zoran Sevarac
     year: 2013
     country:
       nomination: Serbia
     social:
       twitter: https://twitter.com/zsevarac
-    avatar: images/avatars/zsevarac.png
+    avatar: img/avatars/zsevarac.png
   - name: Howard Lewis Ship
     year: 2010
     country:
       nomination: USA
     city: Portland, Oregon
-    avatar: images/avatars/hlship.png
+    avatar: img/avatars/hlship.png
   - name: Jack Shirazi
     year: 2005
     country:
       nomination: UK
     city: Westminster Abbey, Greater London
-    avatar: images/avatars/Jack_Shirazi.png
+    avatar: img/avatars/Jack_Shirazi.png
   - name: Kathy Sierra
     year: 2005
     country:
       nomination: USA
-    avatar: images/avatars/Kathy_Sierra.png
+    avatar: img/avatars/Kathy_Sierra.png
     status:
       - founding-member
   - name: Michael Simons
@@ -2362,7 +2791,17 @@ members:
     city: Aachen, North Rhine-Westphalia
     social:
       twitter: https://twitter.com/rotnroll666
-    avatar: images/avatars/rotnroll666.png
+      mastodon: https://mastodon.social/@rotnroll666
+    avatar: img/avatars/rotnroll666.png
+  - name: Falk Sippach
+    year: 2023
+    country:
+      nomination: Germany
+    city: Darmstadt
+    social:
+      twitter: https://twitter.com/sippsack
+      mastodon: https://mastodon.social/@sippsack
+    avatar: img/avatars/sippsack.png
   - name: Yakov Sirotkin
     year: 2005
     country:
@@ -2370,13 +2809,13 @@ members:
     city: Saint Petersburg
     social:
       twitter: https://twitter.com/yakov_sirotkin
-    avatar: images/avatars/yakov_sirotkin.png
+    avatar: img/avatars/yakov_sirotkin.png
   - name: Bruce Snyder
     year: 2005
     country:
       nomination: USA
     city: Louisville, Colorado
-    avatar: images/avatars/Bruce_Snyder.png
+    avatar: img/avatars/Bruce_Snyder.png
   - name: Bruno Souza
     year: 2005
     country:
@@ -2385,7 +2824,7 @@ members:
     social:
       twitter: https://twitter.com/brjavaman
       website: https://code4.life/
-    avatar: images/avatars/brjavaman.png
+    avatar: img/avatars/brjavaman.png
     status:
       - founding-member
   - name: Alex Soto
@@ -2395,7 +2834,7 @@ members:
     city: Barcelona
     social:
       twitter: https://twitter.com/alexsotob
-    avatar: images/avatars/alexsotob.png
+    avatar: img/avatars/alexsotob.png
   - name: Kate Stanley
     year: 2021
     country:
@@ -2403,7 +2842,7 @@ members:
     city: Hampshire
     social:
       twitter: https://twitter.com/KateStanley91
-    avatar: images/avatars/KateStanley91.png
+    avatar: img/avatars/KateStanley91.png
   - name: James Strachan
     year: 2011
     country:
@@ -2411,7 +2850,7 @@ members:
     city: Mells, Somerset
     social:
       twitter: https://twitter.com/jstrachan
-    avatar: images/avatars/jstrachan.png
+    avatar: img/avatars/jstrachan.png
   - name: Mark Struberg
     year: 2019
     country:
@@ -2419,14 +2858,14 @@ members:
     city: Vienna
     social:
       twitter: https://twitter.com/struberg
-    avatar: images/avatars/struberg.png
+    avatar: img/avatars/struberg.png
   - name: Domingo Suarez
     year: 2019
     country:
       nomination: Mexico
     social:
       twitter: https://twitter.com/domix
-    avatar: images/avatars/domix.png
+    avatar: img/avatars/domix.png
   - name: Dr. Venkat Subramaniam
     year: 2013
     country:
@@ -2434,7 +2873,7 @@ members:
     city: Broomfield, Colorado
     social:
       twitter: https://twitter.com/venkat_s
-    avatar: images/avatars/venkat_s.png
+    avatar: img/avatars/venkat_s.png
   - name: Burr Sutter
     year: 2005
     country:
@@ -2442,7 +2881,7 @@ members:
     city: Raleigh-Durham, North Carolina
     social:
       twitter: https://twitter.com/burrsutter
-    avatar: images/avatars/burrsutter.png
+    avatar: img/avatars/burrsutter.png
   - name: Ruslan Synytsky
     year: 2020
     country:
@@ -2451,7 +2890,7 @@ members:
     city: Zhytomyr/Limassol
     social:
       twitter: https://twitter.com/siruslan
-    avatar: images/avatars/siruslan.png
+    avatar: img/avatars/siruslan.png
   - name: Attila Szegedi
     year: 2016
     country:
@@ -2459,7 +2898,7 @@ members:
     city: Szeged, Csongrád,
     social:
       twitter: https://twitter.com/asz
-    avatar: images/avatars/asz.png
+    avatar: img/avatars/asz.png
   - name: Mohamed Taman
     year: 2015
     country:
@@ -2468,7 +2907,7 @@ members:
     city: Belgrade
     social:
       twitter: https://twitter.com/_tamanm
-    avatar: images/avatars/_tamanm.png
+    avatar: img/avatars/_tamanm.png
   - name: Shin Tanimoto
     year: 2018
     country:
@@ -2476,7 +2915,7 @@ members:
     city: Yokohama, Kanagawa
     social:
       twitter: https://twitter.com/cero_t
-    avatar: images/avatars/cero_t.png
+    avatar: img/avatars/cero_t.png
   - name: Bruce Tate
     year: 2006
     country:
@@ -2484,15 +2923,15 @@ members:
     city: Chattanooga, Tennessee
     social:
       twitter: https://twitter.com/redrapids
-    avatar: images/avatars/redrapids.png
+    avatar: img/avatars/redrapids.png
   - name: Régina ten Bruggencate
     year: 2011
     country:
       nomination: The Netherlands
     city: Apeldoorn
     social:
-      twitter: https://twitter.com/reginatb38[
-    avatar: images/avatars/reginatb38.png
+      twitter: https://twitter.com/reginatb38
+    avatar: img/avatars/reginatb38.png
   - name: Gil Tene
     year: 2017
     country:
@@ -2500,7 +2939,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/giltene
-    avatar: images/avatars/giltene.png
+    avatar: img/avatars/giltene.png
   - name: Yoshio Terada
     year: 2016
     country:
@@ -2508,7 +2947,7 @@ members:
     city: Yokohama, Kanagawa
     social:
       twitter: https://twitter.com/yoshioterada
-    avatar: images/avatars/yoshioterada.png
+    avatar: img/avatars/yoshioterada.png
   - name: Frans Thamura
     year: 2005
     country:
@@ -2516,7 +2955,7 @@ members:
     city: Jakarta
     social:
       twitter: https://twitter.com/fthamura
-    avatar: images/avatars/fthamura.png
+    avatar: img/avatars/fthamura.png
     status:
       - passed-away
   - name: Chris Thalinger
@@ -2526,7 +2965,8 @@ members:
     city: Haleiwa, Hawaii
     social:
       twitter: https://twitter.com/christhalinger
-    avatar: images/avatars/christhalinger.png
+      mastodon: https://mastodon.social/@christhalinger
+    avatar: img/avatars/christhalinger.png
   - name: Alex Theedom
     year: 2018
     country:
@@ -2534,21 +2974,21 @@ members:
     city: London
     social:
       twitter: https://twitter.com/alextheedom
-    avatar: images/avatars/alextheedom.png
+    avatar: img/avatars/alextheedom.png
   - name: Martin Thompson
     year: 2015
     country:
       nomination: UK
     social:
       twitter: https://twitter.com/mjpt777
-    avatar: images/avatars/mjpt777.png
+    avatar: img/avatars/mjpt777.png
   - name: Dr. Kresten Krab Thorup
     year: 2005
     country:
       nomination: Denmark
     social:
       twitter: https://twitter.com/drkrab
-    avatar: images/avatars/drkrab.png
+    avatar: img/avatars/drkrab.png
   - name: Arjan Tijms
     year: 2020
     country:
@@ -2556,13 +2996,13 @@ members:
     city: Arnhem, Gelderland
     social:
       twitter: https://twitter.com/arjan_tijms
-    avatar: images/avatars/arjan_tijms.png
+    avatar: img/avatars/arjan_tijms.png
   - name: Neal Tisdale
     year: 2005
     country:
       nomination: USA
     city: Marietta, Georgia
-    avatar: images/avatars/Neal_Tisdale.png
+    avatar: img/avatars/Neal_Tisdale.png
     status:
       - founding-member
   - name: Dalibor Topic
@@ -2572,7 +3012,7 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/robilad
-    avatar: images/avatars/robilad.png
+    avatar: img/avatars/robilad.png
     status:
       - alumni
   - name: Mario Torre
@@ -2583,7 +3023,8 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/neugens
-    avatar: images/avatars/neugens.png
+      mastodon: https://mastodon.social/@MarioTorre
+    avatar: img/avatars/neugens.png
   - name: Henri Tremblay
     year: 2016
     country:
@@ -2591,8 +3032,10 @@ members:
     city: Montreal, Quebec
     social:
       twitter: https://twitter.com/henri_tremblay
+      mastodon: https://mastodon.world/@henri
+      linkedin: https://www.linkedin.com/in/henritremblay
       website: https://blog.tremblay.pro
-    avatar: images/avatars/henri_tremblay.png
+    avatar: img/avatars/henri_tremblay.png
   - name: Ray Tsang
     year: 2018
     country:
@@ -2600,16 +3043,19 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/saturnism
-    avatar: images/avatars/saturnism.png
+      mastodon: https://mastodon.social/@saturnism
+    avatar: img/avatars/saturnism.png
   - name: Klaasjan Tukker
-    year: Founding Member
+    year: 2005
     country:
       nomination: USA
       birth: The Netherlands
     city: Seattle, Washington
     social:
       twitter: https://twitter.com/ktukker
-    avatar: images/avatars/ktukker.png
+    avatar: img/avatars/ktukker.png
+    status:
+      - founding-member
   - name: Christian Ullenboom
     year: 2005
     country:
@@ -2617,7 +3063,7 @@ members:
     city: Nürnberg, Bavaria
     social:
       twitter: https://twitter.com/javabuch
-    avatar: images/avatars/javabuch.png
+    avatar: img/avatars/javabuch.png
   - name: Dr. Raoul-Gabriel Urma
     year: 2017
     country:
@@ -2625,24 +3071,26 @@ members:
     city: Cambridge
     social:
       twitter: https://twitter.com/raoulUK
-    avatar: images/avatars/raoulUK.png
+    avatar: img/avatars/raoulUK.png
   - name: Rahman Usta
     year: 2018
     country:
-      nomination: Poland
-      birth: Turkey
+      nomination: Turkey
+      residence: Poland
     city: Krakow
     social:
       twitter: https://twitter.com/ustarahman
-    avatar: images/avatars/ustarahman.png
+    avatar: img/avatars/ustarahman.png
   - name: Tagir Valeev
     year: 2020
     country:
-      nomination: Germany
+      nomination: Russian Federation
+      residence: Germany
     city: Munich
     social:
       twitter: https://twitter.com/tagir_valeev
-    avatar: images/avatars/tagir_valeev.png
+      mastodon: https://mastodon.online/@tagir_valeev
+    avatar: img/avatars/tagir_valeev.png
   - name: Linda van der Pal
     year: 2013
     country:
@@ -2650,7 +3098,7 @@ members:
     city: Amsterdam
     social:
       twitter: https://twitter.com/DuchessFounder
-    avatar: images/avatars/DuchessFounder.png
+    avatar: img/avatars/DuchessFounder.png
   - name: Michael Van Riper
     year: 2008
     country:
@@ -2658,22 +3106,26 @@ members:
     city: Silicon Valley, California
     social:
       twitter: https://twitter.com/vanriper
-    avatar: images/avatars/vanriper.png
+    avatar: img/avatars/vanriper.png
   - name: Jorge Vargas
     year: 2007
     country:
       nomination: Mexico
-    city: Benito Juarez
+    city: Mexico City
     social:
       twitter: https://twitter.com/edivargas
-    avatar: images/avatars/edivargas.png
+      linkedin: https://www.linkedin.com/in/edivargas
+      github: https://github.com/edivargas
+      website: https://jorgevargas.mx
+      sessionize: https://sessionize.com/edivargas
+    avatar: img/avatars/edivargas.png
   - name: Bill Venners
     year: 2005
     country:
       nomination: USA
     social:
       twitter: https://twitter.com/bvenners
-    avatar: images/avatars/bvenners.png
+    avatar: img/avatars/bvenners.png
   - name: Martijn Verburg
     year: 2012
     country:
@@ -2681,7 +3133,9 @@ members:
     city: London
     social:
       twitter: https://twitter.com/karianna
-    avatar: images/avatars/karianna.png
+      mastodon: https://mastodon.social/@martijnverburg
+      bluesky: https://bsky.app/profile/karianna.bsky.social
+    avatar: img/avatars/karianna.png
   - name: Brian Vermeer
     year: 2021
     country:
@@ -2689,7 +3143,12 @@ members:
     city: Breda
     social:
       twitter: https://twitter.com/BrianVerm
-    avatar: images/avatars/BrianVermeer.png
+      mastodon: https://mastodon.social/@brianverm
+      bluesky: https://bsky.app/profile/brianverm.bsky.social
+      linkedin: https://www.linkedin.com/in/brianvermeer/
+      website: https://brianvermeer.nl
+      sessionize: https://sessionize.com/brian-vermeer
+    avatar: img/avatars/BrianVermeer.png
   - name: Jonathan Vila
     year: 2020
     country:
@@ -2697,7 +3156,10 @@ members:
     city: Barcelona
     social:
       twitter: https://twitter.com/vilojona
-    avatar: images/avatars/vilojona.png
+      linkedin: https://www.linkedin.com/in/jonathanvila/
+      website: https://aytartana.wordpress.com
+      sessionize: https://sessionize.com/jonathan-vila/
+    avatar: img/avatars/vilojona.png
   - name: Michael Vitz
     year: 2021
     country:
@@ -2707,7 +3169,14 @@ members:
       github: https://github.com/mvitz
       mastodon: https://innoq.social/@michaelvitz
       twitter: https://twitter.com/michaelvitz
-    avatar: images/avatars/michaelvitz.png
+      mastodon: https://innoq.social/@michaelvitz
+      bluesky: https://bsky.app/profile/michaelvitz.bsky.social
+      youtube: https://www.youtube.com/@michael-on-code
+      linkedin: https://www.linkedin.com/in/michaelvitz/
+      github: https://github.com/mvitz
+      website: https://mvitz.de
+      sessionize: https://sessionize.com/michaelvitz/
+    avatar: img/avatars/michaelvitz.png
   - name: Lars Vogel
     year: 2012
     country:
@@ -2715,7 +3184,7 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/vogella
-    avatar: images/avatars/vogella.png
+    avatar: img/avatars/vogella.png
   - name: Dr. Johan Vos
     year: 2012
     country:
@@ -2723,13 +3192,14 @@ members:
     city: Leuven, Flanders
     social:
       twitter: https://twitter.com/johanvos
-    avatar: images/avatars/johanvos.png
+      mastodon: https://mastodon.social/@johanvos
+    avatar: img/avatars/johanvos.png
   - name: Joe Walker
     year: 2006
     country:
       nomination: UK
     city: Leicester
-    avatar: images/avatars/Joe_Walker.png
+    avatar: img/avatars/Joe_Walker.png
   - name: Nitsan Wakart
     year: 2018
     country:
@@ -2737,14 +3207,14 @@ members:
     city: Cape Town
     social:
       twitter: https://twitter.com/nitsanw
-    avatar: images/avatars/nitsanw.png
+    avatar: img/avatars/nitsanw.png
   - name: Dick Wall
     year: 2005
     country:
       nomination: UK
     social:
       twitter: https://twitter.com/dickwall
-    avatar: images/avatars/dickwall.png
+    avatar: img/avatars/dickwall.png
     status:
       - founding-member
   - name: Craig Walls
@@ -2754,7 +3224,9 @@ members:
     city: Castle Rock, Colorado
     social:
       twitter: https://twitter.com/habuma
-    avatar: images/avatars/habuma.png
+      mastodon: https://fosstodon.org/@habuma
+      bluesky: https://bsky.app/profile/habuma.bsky.social
+    avatar: img/avatars/habuma.png
   - name: Dr. Richard Warburton
     year: 2016
     country:
@@ -2762,7 +3234,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/RichardWarburto
-    avatar: images/avatars/RichardWarburto.png
+    avatar: img/avatars/RichardWarburto.png
   - name: James Ward
     year: 2021
     country:
@@ -2770,7 +3242,13 @@ members:
     city: Crested Butte, Colorado
     social:
       twitter: https://twitter.com/_JamesWard
-    avatar: images/avatars/_JamesWard.png
+      bluesky: https://bsky.app/profile/jamesward.com
+      linkedin: https://www.linkedin.com/in/jamesward
+      github: https://github.com/jamesward
+      website: https://jamesward.com
+      sessionize: https://sessionize.com/james-ward
+      youtube: https://www.youtube.com/@JamesWard
+    avatar: img/avatars/_JamesWard.png
   - name: Jim Weaver
     year: 2008
     country:
@@ -2778,7 +3256,7 @@ members:
     city: Indianapolis, Indiana
     social:
       twitter: https://twitter.com/JavaFXpert
-    avatar: images/avatars/JavaFXpert.png
+    avatar: img/avatars/JavaFXpert.png
   - name: Paul Webber
     year: 2005
     country:
@@ -2786,7 +3264,7 @@ members:
     city: Poway, California
     social:
       twitter: https://twitter.com/CaptainWebber
-    avatar: images/avatars/CaptainWebber.png
+    avatar: img/avatars/CaptainWebber.png
   - name: Miro Wengner
     year: 2018
     country:
@@ -2794,7 +3272,7 @@ members:
     city: Munich, Bavaria
     social:
       twitter: https://twitter.com/miragemiko
-    avatar: images/avatars/miragemiko.png
+    avatar: img/avatars/miragemiko.png
   - name: Geertjan Wielenga
     year: 2020
     country:
@@ -2802,7 +3280,7 @@ members:
     city: Amsterdam
     social:
       twitter: https://twitter.com/GeertjanW
-    avatar: images/avatars/GeertjanW.png
+    avatar: img/avatars/GeertjanW.png
   - name: Alan Williamson
     year: 2005
     country:
@@ -2810,9 +3288,8 @@ members:
       birth: Scotland
     city: Virginia
     social:
-      twitter: https://twitter.com/a1anw2
       website: https://alan.is/about
-    avatar: images/avatars/a1anw2.png
+    avatar: img/avatars/a1anw2.png
   - name: Joe Winchester
     year: 2006
     country:
@@ -2820,7 +3297,7 @@ members:
     city: Southampton
     social:
       twitter: https://twitter.com/JoeWinchester
-    avatar: images/avatars/JoeWinchester.png
+    avatar: img/avatars/JoeWinchester.png
   - name: Russel Winder
     year: 2021
     country:
@@ -2828,7 +3305,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/russel_winder
-    avatar: images/avatars/russel_winder.png
+    avatar: img/avatars/russel_winder.png
     status:
       - passed-away
   - name: Adam Winer
@@ -2836,7 +3313,7 @@ members:
     country:
       nomination: USA
     city: San Francisco, California
-    avatar: images/avatars/Adam_Winer.png
+    avatar: img/avatars/Adam_Winer.png
     status:
       - founding-member
   - name: Rafael Winterhalter
@@ -2846,7 +3323,8 @@ members:
     city: Oslo
     social:
       twitter: https://twitter.com/rafaelcodes
-    avatar: images/avatars/rafaelcodes.png
+      mastodon: https://mastodon.social/@rafaelcodes
+    avatar: img/avatars/rafaelcodes.png
   - name: Eberhard Wolff
     year: 2005
     country:
@@ -2854,7 +3332,8 @@ members:
     city: Kaiserslautern
     social:
       twitter: https://twitter.com/ewolff
-    avatar: images/avatars/ewolff.png
+      mastodon: https://mastodon.social/@ewolff
+    avatar: img/avatars/ewolff.png
     status:
       - founding-member
       - retired
@@ -2864,7 +3343,7 @@ members:
       nomination: Israel
     social:
       twitter: https://twitter.com/lifeyx
-    avatar: images/avatars/lifeyx.png
+    avatar: img/avatars/lifeyx.png
   - name: Yusuke Yamamoto
     year: 2019
     country:
@@ -2872,28 +3351,36 @@ members:
     city: Tokyo
     social:
       twitter: https://twitter.com/yusuke
-    avatar: images/avatars/yusuke.png
+    avatar: img/avatars/yusuke.png
   - name: Edson Yanaga
     year: 2015
     country:
-      nomination: USA
+      nomination: Brazil
       birth: Brazil
-    city: Raleigh-Durham, North Carolina
+      residence: USA
+    city: Cary, NC
     social:
       twitter: https://twitter.com/yanaga
-    avatar: images/avatars/yanaga.png
+      mastodon: https://mastodon.social/@yanaga
+      bluesky: https://bsky.app/profile/yanaga.io
+      linkedin: https://www.linkedin.com/in/yanaga
+      github: https://github.com/yanaga
+      website: https://yanaga.io
+      sessionize: https://sessionize.com/yanaga
+      speakerdeck: http://speakerdeck.com/yanaga
+    avatar: img/avatars/yanaga.png
   - name: Sooyeul Yang
     year: 2005
     country:
       nomination: South Korea
-    avatar: images/avatars/Sooyeul_Yang.png
+    avatar: img/avatars/Sooyeul_Yang.png
   - name: Murat Yener
     year: 2015
     country:
       nomination: Turkey
     social:
       twitter: https://twitter.com/yenerm
-    avatar: images/avatars/yenerm.png
+    avatar: img/avatars/yenerm.png
   - name: Dr. Michael Juntao Yuan
     year: 2005
     country:
@@ -2901,7 +3388,7 @@ members:
     city: Austin, Texas
     social:
       twitter: https://twitter.com/juntao
-    avatar: images/avatars/juntao.png
+    avatar: img/avatars/juntao.png
   - name: Enrique Zamudio
     year: 2015
     country:
@@ -2909,4 +3396,8 @@ members:
     city: Mexico City
     social:
       twitter: https://twitter.com/chochosmx
+<<<<<<< HEAD
     avatar: images/avatars/chochosmx.png
+=======
+    avatar: img/avatars/chochosmx.png
+>>>>>>> d2147c0d9d2ebe172f5b8f6a5d11a4593bd9acb3

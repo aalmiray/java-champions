@@ -7,19 +7,20 @@ jobs:
   avatars:
     name: Avatars
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GIT_ACCESS_TOKEN }}
 
       - name: Setup Java
-        uses: actions/setup-java@v2
+        uses: actions/setup-java@v3
         with:
-          java-version: 16
+          java-version: 17
           distribution: zulu
 
       - name: Cache Jbang
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ~/.jbang/cache/
           key: ${{ runner.os }}-jbang-cache-${{ hashFiles('**/*.java') }}
@@ -29,17 +30,13 @@ jobs:
       - name: Update Avatars
         run: |
           cd resources
-          ./jbang avatars.java ${{ secrets.TWITTER_TOKEN }} ../images/avatars
-
-      - name: Reset Avatars
-        run: |
-          BASEDIR=. sh resources/reset-avatars.sh
+          ./jbang avatars.java ${{ secrets.TWITTER_TOKEN }} ../site/assets/img/avatars
 
       - name: Commit Changes
         if: always()
         run: |
-          git add images/avatars
+          git add site/assets/img/avatars
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Action"
           git commit -a -m "Update avatars"
-          git push origin master
+          git push origin main
