@@ -22,6 +22,7 @@
 #   github:
 #   website:
 #   sessionize:
+#   xing:
 #
 ####################################################################################
 
@@ -1250,9 +1251,13 @@ members:
       nomination: USA
     city: Godfrey, Illinois
     social:
-      twitter: https://twitter.com/MkHeck
+      twitter: https://twitter.com/mkheck
+      youtube: https://www.youtube.com/c/MarkHeckler
+      linkedin: https://www.linkedin.com/in/markheckler
       mastodon: https://mastodon.cloud/@mkheck
       bluesky: https://bsky.app/profile/mkheck.bsky.social
+      xing: https://www.xing.com/profile/Mark_Heckler
+      sessionize: https://sessionize.com/mkheck
     avatar: img/avatars/MkHeck.png
   - name: David Heffelfinger
     year: 2017
