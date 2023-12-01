@@ -1070,7 +1070,12 @@ members:
       nomination: USA
     city: Godfrey, Illinois
     social:
-      twitter: https://twitter.com/MkHeck[@MkHeck]
+      twitter: https://twitter.com/mkheck[@mkheck]
+      mastodon: https://mastodon.cloud/@mkheck
+      linkedin: https://www.linkedin.com/in/markheckler
+      xing: https://www.xing.com/profile/Mark_Heckler
+      sessionize: https://sessionize.com/mkheck
+      youtube: https://www.youtube.com/c/MarkHeckler
     avatar: images/avatars/MkHeck.png
   - name: David Heffelfinger
     year: 2017
