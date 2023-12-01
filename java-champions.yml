@@ -598,9 +598,11 @@ members:
       nomination: Canada
     city: Ontario
     social:
+      github: https://github.com/IanDarwin
       mastodon: https://fosstodon.org/@IanDarwin/
       sessionize: https://sessionize.com/ian-darwin/
       twitter: https://twitter.com/Ian_Darwin
+      website: https://darwinsys.com
     avatar: img/avatars/Ian_Darwin.png
     status:
       - founding-member
