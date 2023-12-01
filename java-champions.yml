@@ -612,6 +612,10 @@ members:
     social:
       twitter: https://twitter.com/DaschnerS
       mastodon: https://mastodon.social/@daschners
+      youtube: https://youtube.com/@SebastianDaschnerIT
+      sessionize: https://sessionize.com/sebastian-daschner
+      github: https://github.com/sdaschner
+      website: https://www.sebastian-daschner.com
     avatar: img/avatars/DaschnerS.png
   - name: Paul J. Deitel
     year: 2005
@@ -1840,6 +1844,8 @@ members:
     city: Colorado
     social:
       twitter: https://twitter.com/melissajmckay
+      linkedin: https://www.linkedin.com/in/melissajmckay
+      sessionize: https://sessionize.com/melissa-mckay
     avatar: img/avatars/melissajmckay.png
   - name: Alexis Lopez
     year: 2017
@@ -3320,7 +3326,8 @@ members:
       linkedin: https://www.linkedin.com/in/yanaga
       github: https://github.com/yanaga
       website: https://yanaga.io
-      sessionize: https://sessionize.com/edson-yanaga
+      sessionize: https://sessionize.com/yanaga
+      speakerdeck: http://speakerdeck.com/yanaga
     avatar: img/avatars/yanaga.png
   - name: Sooyeul Yang
     year: 2005
