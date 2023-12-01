@@ -1,8 +1,8 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 17
-//DEPS com.fasterxml.jackson.core:jackson-core:2.14.1
-//DEPS com.fasterxml.jackson.core:jackson-databind:2.14.1
-//DEPS com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.14.1
+//DEPS com.fasterxml.jackson.core:jackson-core:2.16.0
+//DEPS com.fasterxml.jackson.core:jackson-databind:2.16.0
+//DEPS com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.16.0
 
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
 
