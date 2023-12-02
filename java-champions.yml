@@ -2567,6 +2567,11 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/antoine_sd
+      bluesky: https://bsky.app/profile/antoinesd.bsky.social
+      linkedin: https://www.linkedin.com/in/antoinesabotdurand
+      github: https://github.com/antoinesd
+      sessionize: https://sessionize.com/antoine-sabot-durand
+      speakerdeck: https://speakerdeck.com/antoine_sd
     avatar: img/avatars/antoine_sd.png
   - name: Koichi Sakata
     year: 2018
