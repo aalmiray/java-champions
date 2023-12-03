@@ -2600,8 +2600,12 @@ members:
     country:
       nomination: USA
     social:
+      github: https://github.com/bsbodden
       twitter: https://twitter.com/bsbodden
       bluesky: https://bsky.app/profile/bsbodden.bsky.social
+      sessionize: https://sessionize.com/brian-sam-bodden
+      linkedin: https://www.linkedin.com/in/sambodden
+      speakerdeck: https://speakerdeck.com/bsbodden
     avatar: img/avatars/bsbodden.png
   - name: Tatu Saloranta
     year: 2021
