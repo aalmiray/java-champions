@@ -357,8 +357,10 @@ members:
       nomination: Italy
     city: Turin
     social:
+      github: https://github.com/sbordet
+      linkedin: https://www.linkedin.com/in/simonebordet
+      sessionize: https://sessionize.com/simonebordet
       twitter: https://twitter.com/simonebordet
-      mastodon: https://mastodon.online/@simonebordet
     avatar: img/avatars/simonebordet.png
   - name: Bruno Borges
     year: 2019
