@@ -1183,9 +1183,16 @@ members:
     year: 2021
     country:
       nomination: USA
+      birth: Hong Kong
     city: Chicago
     social:
       twitter: https://twitter.com/mgrygles
+      mastodon: https://foojay.social/@mgrygles
+      github: https://github.com/mgrygles
+      linkedin: https://www.linkedin.com/in/mary-grygleski/
+      youtube: https://www.youtube.com/@marygrygleski9271
+      sessionize: https://sessionize.com/mary-grygleski
+      website: https://discord.gg/RMU4Juw
     avatar: img/avatars/mgrygles.png
   - name: Andrzej Grzesik
     year: 2016
