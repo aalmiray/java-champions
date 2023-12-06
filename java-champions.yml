@@ -1956,6 +1956,10 @@ members:
     city: Oslo
     social:
       twitter: https://twitter.com/dervismn
+      sessionize: https://sessionize.com/dervis
+      bluesky: https://bsky.app/profile/dervis.bsky.social
+      linkedin: https://www.linkedin.com/in/dervism/
+      website: https://dervis.no/
     avatar: img/avatars/dervismn.png
   - name: Simon Maple
     year: 2014
