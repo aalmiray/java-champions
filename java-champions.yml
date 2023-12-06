@@ -1432,14 +1432,6 @@ members:
     social:
       twitter: https://twitter.com/huettermann
     avatar: img/avatars/huettermann.png
-  - name: Jason Hunter
-    year: 2005
-    country:
-      nomination: Singapore
-      citizenship: USA
-    social:
-      twitter: https://twitter.com/hunterhacker
-    avatar: img/avatars/hunterhacker.png
   - name: Burk Hufnagel
     year: 2020
     country:
@@ -1447,6 +1439,7 @@ members:
     city: Atlanta
     social:
       twitter: https://twitter.com/BurkHufnagel
+      sessionize: https://sessionize.com/burk-hufnagel
     avatar: img/avatars/BurkHufnagel.png
   - name: Michael Hunger
     year: 2018
@@ -1458,6 +1451,14 @@ members:
       mastodon: https://chaos.social/@mesirii
       bluesky: https://bsky.app/profile/mesirii.de
     avatar: img/avatars/mesirii.png
+  - name: Jason Hunter
+    year: 2005
+    country:
+      nomination: Singapore
+      citizenship: USA
+    social:
+      twitter: https://twitter.com/hunterhacker
+    avatar: img/avatars/hunterhacker.png
   - name: Claus Ibsen
     year: 2018
     country:
