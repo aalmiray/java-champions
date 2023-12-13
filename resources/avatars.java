@@ -30,7 +30,8 @@ public class avatars {
         "Qusay_Mahmoud",
         "Srikanth_Raju",
         "davidgeary",
-        "dhinojosa"
+        "dhinojosa",
+        "MaritvanDijk77"
     );
 
     public static void main(String... args) throws Exception {
