@@ -1007,7 +1007,13 @@ members:
     city: Seville, Andalusia
     social:
       twitter: https://twitter.com/trisha_gee
-      mastodon: https://mastodon.social/@trishagee
+      mastodon: https://jvm.social/@trisha_gee
+      bluesky: https://bsky.app/profile/trishagee.bsky.social
+      sessionize: https://sessionize.com/trisha-gee/
+      linkedin: https://www.linkedin.com/in/trishagee/
+      github: https://trishagee.com/
+      website: https://www.agilejava.eu/
+      speakerdeck: https://github.com/trishagee
     avatar: img/avatars/trisha_gee.png
   - name: Jeff Genender
     year: 2009
