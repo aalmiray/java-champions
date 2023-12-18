@@ -720,7 +720,7 @@ members:
       bluesky: https://bsky.app/profile/maritvandijk.bsky.social
       github: https://github.com/mlvandijk
       sessionize: https://sessionize.com/maritvandijk/
-    avatar: img/avatars/MaritvanDijk77.png
+    avatar: img/avatars/MaritvanDijk77.jpeg
   - name: Filippo Diotalevi
     year: 2005
     country:
@@ -1331,6 +1331,14 @@ members:
       twitter: https://twitter.com/javatotto
       linkedin: https://www.linkedin.com/in/thorhenninghetland
     avatar: img/avatars/javatotto.png
+  - name: Jorge Hidalgo
+    year: 2023
+    country:
+      nomination: Spain
+    city: Málaga
+    social:
+      twitter: https://twitter.com/deors314
+    avatar: img/avatars/deors314.png
   - name: Rick Hightower
     year: 2017
     country:
