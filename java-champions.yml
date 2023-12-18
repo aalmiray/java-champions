@@ -1331,6 +1331,14 @@ members:
       twitter: https://twitter.com/javatotto
       linkedin: https://www.linkedin.com/in/thorhenninghetland
     avatar: img/avatars/javatotto.png
+  - name: Jorge Hidalgo
+    year: 2023
+    country:
+      nomination: Spain
+    city: Málaga
+    social:
+      twitter: https://twitter.com/deors314
+    avatar: img/avatars/deors314.png
   - name: Rick Hightower
     year: 2017
     country:
