@@ -370,7 +370,8 @@ members:
       nomination: USA
     city: Washington DC
     social:
-      twitter: https://github.com/bokmann
+      twitter: https://twitter.com/bokmann
+      github: https://github.com/bokmann
       linkedin: https://www.linkedin.com/in/davidbock/
     avatar: img/avatars/bokmann.png
   - name: Jonas Bonér
@@ -787,7 +788,6 @@ members:
       citizenship: Italy
     city: London
     social:
-      twitter: https://twitter.com/fdiotalevi
       linkedin: https://www.linkedin.com/in/fdiotalevi/
     avatar: img/avatars/fdiotalevi.png
   - name: Hans Dockter
@@ -993,8 +993,6 @@ members:
     country:
       nomination: USA
     city: Washington State
-    social:
-      twitter: https://twitter.com/__DavidFlanagan
     avatar: img/avatars/__DavidFlanagan.png
     status:
       - founding-member
@@ -1201,7 +1199,6 @@ members:
       nomination: Germany
     city: Bremen
     social:
-      twitter: https://twitter.com/rgransberger
       mastodon: https://mastodon.social/@rgransberger
       linkedin: https://www.linkedin.com/in/rgransberger/
     avatar: img/avatars/rgransberger.png
@@ -1745,8 +1742,8 @@ members:
     city: Chorafakia, Chania, Crete
     social:
       twitter: https://twitter.com/heinzkabutz
-      mastodon: https://mastodon.social/@HeinzKabutz
       linkedin: https://www.linkedin.com/in/heinzkabutz
+      github: https://github.com/kabutz
       website: https://www.javaspecialists.eu
     avatar: img/avatars/heinzkabutz.png
   - name: Mattias Karlsson
@@ -2385,7 +2382,6 @@ members:
       nomination: UK
     city: London
     social:
-      twitter: https://twitter.com/chriswhocodes
       mastodon: https://mastodon.social/@chriswhocodes
       linkedin: https://www.linkedin.com/in/chriswhocodes/
     avatar: img/avatars/chriswhocodes.png
@@ -3026,7 +3022,6 @@ members:
       nomination: Brazil
     city: São Paulo
     social:
-      twitter: https://twitter.com/yarasenger
       linkedin: https://www.linkedin.com/in/yaramascarenhas/
     avatar: img/avatars/yarasenger.png
   - name: Dr. Zoran Sevarac
