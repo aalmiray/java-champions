@@ -1,8 +1,8 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 17
-//DEPS com.fasterxml.jackson.core:jackson-core:2.14.1
-//DEPS com.fasterxml.jackson.core:jackson-databind:2.14.1
-//DEPS com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.14.1
+//DEPS com.fasterxml.jackson.core:jackson-core:2.16.0
+//DEPS com.fasterxml.jackson.core:jackson-databind:2.16.0
+//DEPS com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.16.0
 
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
 
@@ -32,6 +32,7 @@ public class site {
         "twitter", "pass:[<span class=\"icon\"><i class=\"fab fa-twitter\"></i></span>]",
         "mastodon", "pass:[<span class=\"icon\"><i class=\"fab fa-mastodon\"></i></span>]",
         "linkedin", "pass:[<span class=\"icon\"><i class=\"fab fa-linkedin\"></i></span>]",
+        "xing", "pass:[<span class=\"icon\"><i class=\"fab fa-xing\"></i></span>]",
         "github", "pass:[<span class=\"icon\"><i class=\"fab fa-github\"></i></span>]",
         "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-cloud\"></i></span>]",
         "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\"></i></span>]",
@@ -235,6 +236,7 @@ public class site {
         public String youtube;
         public String sessionize;
         public String speakerdeck;
+        public String xing;
 
         String formatted() {
             var b = new StringBuilder("|");
@@ -268,6 +270,14 @@ public class site {
                     .append(linkedin)
                     .append("[")
                     .append(SOCIAL.get("linkedin"))
+                    .append("] ");
+            }
+
+            if (xing != null && !xing.isBlank()) {
+                b.append("link:")
+                    .append(xing)
+                    .append("[")
+                    .append(SOCIAL.get("xing"))
                     .append("] ");
             }
 

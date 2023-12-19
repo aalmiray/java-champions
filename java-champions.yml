@@ -22,6 +22,7 @@
 #   github:
 #   website:
 #   sessionize:
+#   xing:
 #
 ####################################################################################
 
@@ -248,6 +249,10 @@ members:
     social:
       twitter: https://twitter.com/jpbempel
       mastodon: https://mastodon.online/@jpbempel
+      linkedin: https://www.linkedin.com/in/jeanphilippebempel
+      github: https://github.com/jpbempel
+      website: https://jpbempel.github.io/
+      sessionize: https://sessionize.com/jean-philippe-bempel/
     avatar: img/avatars/jpbempel.png
   - name: Brian Benz
     year: 2020
@@ -352,8 +357,10 @@ members:
       nomination: Italy
     city: Turin
     social:
+      github: https://github.com/sbordet
+      linkedin: https://www.linkedin.com/in/simonebordet
+      sessionize: https://sessionize.com/simonebordet
       twitter: https://twitter.com/simonebordet
-      mastodon: https://mastodon.online/@simonebordet
     avatar: img/avatars/simonebordet.png
   - name: Bruno Borges
     year: 2019
@@ -373,6 +380,7 @@ members:
     social:
       twitter: https://twitter.com/jeanneboyarsky
       mastodon: https://mastodon.social/@jeanneboyarsky
+      sessionize: https://sessionize.com/jeanneboyarsky
     avatar: img/avatars/jeanneboyarsky.png
   - name: Bruno Bossola
     year: 2005
@@ -589,8 +597,12 @@ members:
     city: London
     social:
       twitter: https://twitter.com/holly_cummins
-      mastodon: https://mastodon.social/@holly_cummins
+      linkedin: linkedin.com/in/holly-k-cummins/
+      mastodon: https://hachyderm.io/@holly_cummins
       bluesky: https://bsky.app/profile/holly-cummins.bsky.social
+      sessionize: https://sessionize.com/holly-cummins
+      speakerdeck: https://speakerdeck.com/hollycummins
+      website: https://hollycummins.com
     avatar: img/avatars/holly_cummins.png
   - name: Ian F. Darwin
     year: 2005
@@ -598,9 +610,11 @@ members:
       nomination: Canada
     city: Ontario
     social:
+      github: https://github.com/IanDarwin
       mastodon: https://fosstodon.org/@IanDarwin/
       sessionize: https://sessionize.com/ian-darwin/
       twitter: https://twitter.com/Ian_Darwin
+      website: https://darwinsys.com
     avatar: img/avatars/Ian_Darwin.png
     status:
       - founding-member
@@ -700,6 +714,12 @@ members:
     city: Amstelveen
     social:
       twitter: https://twitter.com/MaritvanDijk77
+      linkedin: https://www.linkedin.com/in/maritvandijk/
+      website: https://maritvandijk.com/
+      mastodon: https://mastodon.social/@maritvandijk
+      bluesky: https://bsky.app/profile/maritvandijk.bsky.social
+      github: https://github.com/mlvandijk
+      sessionize: https://sessionize.com/maritvandijk/
     avatar: img/avatars/MaritvanDijk77.png
   - name: Filippo Diotalevi
     year: 2005
@@ -993,7 +1013,13 @@ members:
     city: Seville, Andalusia
     social:
       twitter: https://twitter.com/trisha_gee
-      mastodon: https://mastodon.social/@trishagee
+      mastodon: https://jvm.social/@trisha_gee
+      bluesky: https://bsky.app/profile/trishagee.bsky.social
+      sessionize: https://sessionize.com/trisha-gee/
+      linkedin: https://www.linkedin.com/in/trishagee/
+      github: https://trishagee.com/
+      website: https://www.agilejava.eu/
+      speakerdeck: https://github.com/trishagee
     avatar: img/avatars/trisha_gee.png
   - name: Jeff Genender
     year: 2009
@@ -1092,6 +1118,7 @@ members:
       twitter: https://twitter.com/rodrigograciano
       mastodon: https://mastodon.social/@graciano
       bluesky: https://bsky.app/profile/graciano.bsky.social
+      sessionize: https://sessionize.com/graciano
     avatar: img/avatars/rodrigograciano.png
   - name: Victor Grazi
     year: 2012
@@ -1171,9 +1198,16 @@ members:
     year: 2021
     country:
       nomination: USA
+      birth: Hong Kong
     city: Chicago
     social:
       twitter: https://twitter.com/mgrygles
+      mastodon: https://foojay.social/@mgrygles
+      github: https://github.com/mgrygles
+      linkedin: https://www.linkedin.com/in/mary-grygleski/
+      youtube: https://www.youtube.com/@marygrygleski9271
+      sessionize: https://sessionize.com/mary-grygleski
+      website: https://discord.gg/RMU4Juw
     avatar: img/avatars/mgrygles.png
   - name: Andrzej Grzesik
     year: 2016
@@ -1240,9 +1274,13 @@ members:
       nomination: USA
     city: Godfrey, Illinois
     social:
-      twitter: https://twitter.com/MkHeck
+      twitter: https://twitter.com/mkheck
+      youtube: https://www.youtube.com/c/MarkHeckler
+      linkedin: https://www.linkedin.com/in/markheckler
       mastodon: https://mastodon.cloud/@mkheck
       bluesky: https://bsky.app/profile/mkheck.bsky.social
+      xing: https://www.xing.com/profile/Mark_Heckler
+      sessionize: https://sessionize.com/mkheck
     avatar: img/avatars/MkHeck.png
   - name: David Heffelfinger
     year: 2017
@@ -1293,6 +1331,14 @@ members:
       twitter: https://twitter.com/javatotto
       linkedin: https://www.linkedin.com/in/thorhenninghetland
     avatar: img/avatars/javatotto.png
+  - name: Jorge Hidalgo
+    year: 2023
+    country:
+      nomination: Spain
+    city: Málaga
+    social:
+      twitter: https://twitter.com/deors314
+    avatar: img/avatars/deors314.png
   - name: Rick Hightower
     year: 2017
     country:
@@ -1406,14 +1452,6 @@ members:
     social:
       twitter: https://twitter.com/huettermann
     avatar: img/avatars/huettermann.png
-  - name: Jason Hunter
-    year: 2005
-    country:
-      nomination: Singapore
-      citizenship: USA
-    social:
-      twitter: https://twitter.com/hunterhacker
-    avatar: img/avatars/hunterhacker.png
   - name: Burk Hufnagel
     year: 2020
     country:
@@ -1421,6 +1459,7 @@ members:
     city: Atlanta
     social:
       twitter: https://twitter.com/BurkHufnagel
+      sessionize: https://sessionize.com/burk-hufnagel
     avatar: img/avatars/BurkHufnagel.png
   - name: Michael Hunger
     year: 2018
@@ -1432,6 +1471,14 @@ members:
       mastodon: https://chaos.social/@mesirii
       bluesky: https://bsky.app/profile/mesirii.de
     avatar: img/avatars/mesirii.png
+  - name: Jason Hunter
+    year: 2005
+    country:
+      nomination: Singapore
+      citizenship: USA
+    social:
+      twitter: https://twitter.com/hunterhacker
+    avatar: img/avatars/hunterhacker.png
   - name: Claus Ibsen
     year: 2018
     country:
@@ -1504,7 +1551,9 @@ members:
     city: Southampton
     social:
       twitter: https://twitter.com/emilyfhjiang
+      linkedin: https://www.linkedin.com/in/emilyfhjiang
       mastodon: https://mastodon.social/@emilyjiang
+      sessionize: https://sessionize.com/emilyfhjiang
     avatar: img/avatars/emilyfhjiang.png
   - name: Dr. Rod Johnson
     year: 2006
@@ -1927,6 +1976,10 @@ members:
     city: Oslo
     social:
       twitter: https://twitter.com/dervismn
+      sessionize: https://sessionize.com/dervis
+      bluesky: https://bsky.app/profile/dervis.bsky.social
+      linkedin: https://www.linkedin.com/in/dervism/
+      website: https://dervis.no/
     avatar: img/avatars/dervismn.png
   - name: Simon Maple
     year: 2014
@@ -2090,6 +2143,10 @@ members:
       twitter: https://twitter.com/mthmulders
       mastodon: https://mastodon.online/@mthmulders
       bluesky: https://bsky.app/profile/mthmulders.bsky.social
+      linkedin: https://www.linkedin.com/in/mthmulders/
+      sessionize: https://sessionize.com/mthmulders/
+      speakerdeck: https://speakerdeck.com/mthmulders/
+      website: https://maarten.mulders.it/
     avatar: img/avatars/mthmulders.png
   - name: Benjamin Muskalla
     year: 2021
@@ -2105,6 +2162,7 @@ members:
     city: Edinburgh
     social:
       twitter: https://twitter.com/mauricenaftalin
+      sessionize: https://sessionize.com/Maurice_Naftalin
     avatar: img/avatars/mauricenaftalin.png
   - name: Nikhil Nanivadekar
     year: 2018
@@ -2548,6 +2606,11 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/antoine_sd
+      bluesky: https://bsky.app/profile/antoinesd.bsky.social
+      linkedin: https://www.linkedin.com/in/antoinesabotdurand
+      github: https://github.com/antoinesd
+      sessionize: https://sessionize.com/antoine-sabot-durand
+      speakerdeck: https://speakerdeck.com/antoine_sd
     avatar: img/avatars/antoine_sd.png
   - name: Koichi Sakata
     year: 2018
@@ -2570,14 +2633,21 @@ members:
       nomination: Ecuador
     social:
       twitter: https://twitter.com/betoSalazar
+      linkedin: https://www.linkedin.com/in/alberto-salazar-15334154
+      github: https://github.com/lasalazarr
+      sessionize: https://sessionize.com/alberto-salazar
     avatar: img/avatars/betoSalazar.png
   - name: Brian Sam-Bodden
     year: 2023
     country:
       nomination: USA
     social:
+      github: https://github.com/bsbodden
       twitter: https://twitter.com/bsbodden
       bluesky: https://bsky.app/profile/bsbodden.bsky.social
+      sessionize: https://sessionize.com/brian-sam-bodden
+      linkedin: https://www.linkedin.com/in/sambodden
+      speakerdeck: https://speakerdeck.com/bsbodden
     avatar: img/avatars/bsbodden.png
   - name: Tatu Saloranta
     year: 2021
@@ -3097,6 +3167,8 @@ members:
       twitter: https://twitter.com/karianna
       mastodon: https://mastodon.social/@martijnverburg
       bluesky: https://bsky.app/profile/karianna.bsky.social
+      linkedin: https://www.linkedin.com/in/martijnverburg
+      sessionize: https://sessionize.com/martijnverburg
     avatar: img/avatars/karianna.png
   - name: Brian Vermeer
     year: 2021
@@ -3186,6 +3258,8 @@ members:
       twitter: https://twitter.com/habuma
       mastodon: https://fosstodon.org/@habuma
       bluesky: https://bsky.app/profile/habuma.bsky.social
+      sessionize: https://sessionize.com/CraigWalls
+      youtube: https://www.youtube.com/channel/UC4KvfQvH5XAfbA5g7sMdOww
     avatar: img/avatars/habuma.png
   - name: Dr. Richard Warburton
     year: 2016
@@ -3232,6 +3306,10 @@ members:
     city: Munich, Bavaria
     social:
       twitter: https://twitter.com/miragemiko
+      github: https://github.com/mirage22
+      sessionize: https://sessionize.com/miro-wengner
+      website: https://www.wengnermiro.com
+      linkedin: https://www.linkedin.com/in/mwengner/
     avatar: img/avatars/miragemiko.png
   - name: Geertjan Wielenga
     year: 2020
@@ -3302,7 +3380,11 @@ members:
     country:
       nomination: Israel
     social:
+      github: https://github.com/lifey
+      linkedin: https://www.linkedin.com/in/haimyadid
       twitter: https://twitter.com/lifeyx
+      sessionize: https://sessionize.com/lifey
+      youtube: https://www.youtube.com/playlist?list=PL6DehzPjjueerkXWcy1AkoRNxWTLRCnrT
     avatar: img/avatars/lifeyx.png
   - name: Yusuke Yamamoto
     year: 2019
