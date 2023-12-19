@@ -35,6 +35,7 @@ members:
     city: Frankfurt
     social:
       twitter: https://twitter.com/oezcanacar
+      linkedin: https://www.linkedin.com/in/acar1/
     avatar: img/avatars/oezcanacar.png
   - name: George Adams
     year: 2021
@@ -56,6 +57,7 @@ members:
     social:
       twitter: https://twitter.com/bercut2000
       mastodon: https://c.im/@bercut2000
+      linkedin: https://www.linkedin.com/in/dalexandrov/
     avatar: img/avatars/bercut2000.png
     status:
       - alumni
@@ -66,6 +68,7 @@ members:
     city: Denver, Colorado
     social:
       twitter: https://twitter.com/mojavelinux
+      linkedin: https://www.linkedin.com/in/mojavelinux/
     avatar: img/avatars/mojavelinux.png
   - name: Dion Almaer
     year: 2005
@@ -75,6 +78,7 @@ members:
     social:
       twitter: https://twitter.com/dalmaer
       bluesky: https://bsky.app/profile/almaer.com
+      linkedin: https://www.linkedin.com/in/dalmaer/
     avatar: img/avatars/dalmaer.png
   - name: Andres Almiray
     year: 2010
@@ -102,6 +106,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/deepakalur
+      linkedin: https://www.linkedin.com/in/deepakalur/
     avatar: img/avatars/deepakalur.png
   - name: Gail C. Anderson
     year: 2016
@@ -110,6 +115,7 @@ members:
     city: San Diego, California
     social:
       twitter: https://twitter.com/gail_asgteach
+      linkedin: https://www.linkedin.com/in/gail-asgteach/
     avatar: img/avatars/gail_asgteach.png
   - name: Paul L. Anderson
     year: 2016
@@ -118,11 +124,14 @@ members:
     city: San Diego, California
     social:
       twitter: https://twitter.com/Paul_ASGTeach
+      linkedin: https://www.linkedin.com/in/paul-asgteach/
     avatar: img/avatars/Paul_ASGTeach.png
   - name: Fernando Anselmo
     year: 2006
     country:
       nomination: Brazil
+    social:
+      linkedin: https://www.linkedin.com/in/fernando-anselmo-bb423623/
     avatar: img/avatars/Fernando_Anselmo.png
   - name: Paris Apostolopoulos
     year: 2007
@@ -132,6 +141,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/javapapo
+      linkedin: https://www.linkedin.com/in/javapapo/
     avatar: img/avatars/javapapo.png
   - name: Jean-François Arcand
     year: 2018
@@ -140,6 +150,7 @@ members:
     city: Montreal
     social:
       twitter: https://twitter.com/jfarcand
+      linkedin: https://www.linkedin.com/in/jfarcand/
     avatar: img/avatars/jfarcand.png
   - name: Katia Aresti
     year: 2019
@@ -148,6 +159,7 @@ members:
       citizenship: Spain
     social:
       twitter: https://twitter.com/karesti
+      linkedin: https://www.linkedin.com/in/karesti/
     avatar: img/avatars/karesti.png
   - name: Anton Arhipov
     year: 2014
@@ -185,12 +197,15 @@ members:
       nomination: Canada
     social:
       twitter: https://twitter.com/rotty3000
+      linkedin: https://www.linkedin.com/in/raymond-aug%C3%A9/
     avatar: img/avatars/rotty3000.png
   - name: Calvin Austin
     year: 2005
     country:
       nomination: USA
     city: San Francisco, California
+    social:
+      linkedin: https://www.linkedin.com/in/calvin-austin/
     avatar: img/avatars/Calvin_Austin.png
   - name: Hovhannes Avoyan
     year: 2005
@@ -206,6 +221,7 @@ members:
     city: São Paulo
     social:
       twitter: https://twitter.com/babadopulos
+      linkedin: https://www.linkedin.com/in/babadopulos/
     avatar: img/avatars/babadopulos.png
   - name: Paul Bakker
     year: 2017
@@ -215,6 +231,7 @@ members:
     social:
       twitter: https://twitter.com/pbakker
       mastodon: https://mastodon.online/@paulbakker
+      linkedin: https://www.linkedin.com/in/paulb01/
     avatar: img/avatars/pbakker.png
   - name: Bert Bates
     year: 2005
@@ -222,6 +239,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/BertBates
+      linkedin: https://www.linkedin.com/in/bert-bates-854903234/
     avatar: img/avatars/BertBates.png
     status:
       - founding-member
@@ -232,6 +250,7 @@ members:
     city: Texas
     social:
       twitter: https://twitter.com/mon_beck
+      linkedin: https://www.linkedin.com/in/monicabeckwith/
     avatar: img/avatars/mon_beck.png
   - name: Lucio Benfante
     year: 2006
@@ -240,6 +259,7 @@ members:
     city: Verona
     social:
       twitter: https://twitter.com/luciobenfante
+      linkedin: https://www.linkedin.com/in/benfante/
     avatar: img/avatars/luciobenfante.png
   - name: Jean-Philippe Bempel
     year: 2021
@@ -263,6 +283,7 @@ members:
       twitter: https://twitter.com/bbenz
       mastodon: https://mastodon.social/@bbenz
       bluesky: https://bsky.app/profile/bbenz.bsky.social
+      linkedin: https://www.linkedin.com/in/brianbenz/
     avatar: img/avatars/bbenz.png
   - name: Emmanuel Bernard
     year: 2017
@@ -271,6 +292,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/emmanuelbernard
+      linkedin: https://www.linkedin.com/in/emmanuelbernard/
     avatar: img/avatars/emmanuelbernard.png
   - name: Geert Bevin
     year: 2006
@@ -280,6 +302,7 @@ members:
       twitter: https://twitter.com/gbevin
       mastodon: https://uwyn.net/@gbevin
       bluesky: https://bsky.app/profile/gbevin.uwyn.com
+      linkedin: https://www.linkedin.com/in/gbevin/
     avatar: img/avatars/gbevin.png
   - name: Adam Bien
     year: 2007
@@ -301,6 +324,7 @@ members:
     social:
       twitter: https://twitter.com/jean_bisutti
       mastodon: https://mastodon.social/@jean_bisutti
+      linkedin: https://www.linkedin.com/in/jean-bisutti-33587090/
     avatar: img/avatars/jean_bisutti.png
   - name: Sébastien Blanc
     year: 2020
@@ -309,6 +333,7 @@ members:
     city: Nice
     social:
       twitter: https://twitter.com/sebi2706
+      linkedin: https://www.linkedin.com/in/s%C3%A9bastien-blanc-08a73b1/
     avatar: img/avatars/sebi2706.png
   - name: David Blevins
     year: 2015
@@ -317,6 +342,7 @@ members:
     city: Santa Monica, California
     social:
       twitter: https://twitter.com/dblevins
+      linkedin: https://www.linkedin.com/in/dblevins/
     avatar: img/avatars/dblevins.png
   - name: Dr. Alex Blewitt
     year: 2020
@@ -325,6 +351,7 @@ members:
     city: Milton Keynes
     social:
       twitter: https://twitter.com/alblue
+      linkedin: https://www.linkedin.com/in/alblue/
     avatar: img/avatars/alblue.png
     status:
       - passed-away
@@ -335,6 +362,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/joshbloch
+      linkedin: https://www.linkedin.com/in/joshua-bloch-37038/
     avatar: img/avatars/joshbloch.png
   - name: David Bock
     year: 2006
@@ -343,6 +371,7 @@ members:
     city: Washington DC
     social:
       twitter: https://github.com/bokmann
+      linkedin: https://www.linkedin.com/in/davidbock/
     avatar: img/avatars/bokmann.png
   - name: Jonas Bonér
     year: 2011
@@ -350,6 +379,7 @@ members:
       nomination: Sweden
     social:
       twitter: https://twitter.com/jboner
+      linkedin: https://www.linkedin.com/in/jonasboner/
     avatar: img/avatars/jboner.png
   - name: Simone Bordet
     year: 2016
@@ -371,6 +401,7 @@ members:
       twitter: https://twitter.com/brunoborges
       mastodon: https://mastodon.social/@brunoborges
       bluesky: https://bsky.app/profile/brunoborges.bsky.social
+      linkedin: https://www.linkedin.com/in/brunocborges/
     avatar: img/avatars/brunoborges.png
   - name: Jeanne Boyarsky
     year: 2019
@@ -381,6 +412,7 @@ members:
       twitter: https://twitter.com/jeanneboyarsky
       mastodon: https://mastodon.social/@jeanneboyarsky
       sessionize: https://sessionize.com/jeanneboyarsky
+      linkedin: https://www.linkedin.com/in/jeanne-boyarsky/
     avatar: img/avatars/jeanneboyarsky.png
   - name: Bruno Bossola
     year: 2005
@@ -406,6 +438,7 @@ members:
       nomination: Panama
     social:
       twitter: https://twitter.com/aristidesvbravo
+      linkedin: https://www.linkedin.com/in/aristides-villarreal-bravo-6258543/
     avatar: img/avatars/aristidesvbravo.png
   - name: Dr. Daniel Bryant
     year: 2018
@@ -414,11 +447,14 @@ members:
     city: London
     social:
       twitter: https://twitter.com/danielbryantuk
+      linkedin: https://www.linkedin.com/in/danielbryantuk/
     avatar: img/avatars/danielbryantuk.png
   - name: Bill Burke
     year: 2005
     country:
       nomination: USA
+    social:
+      linkedin: https://www.linkedin.com/in/bill-burke-091864121/
     avatar: img/avatars/Bill_Burke.png
     status:
       - founding-member
@@ -428,6 +464,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/barryburdtweets
+      linkedin: https://www.linkedin.com/in/barry-burd/
     avatar: img/avatars/barryburdtweets.png
   - name: Ed Burns
     year: 2020
@@ -436,6 +473,7 @@ members:
     city: Florida
     social:
       twitter: https://twitter.com/edburns
+      linkedin: https://www.linkedin.com/in/edburns/
     avatar: img/avatars/edburns.png
   - name: Mert Caliskan
     year: 2014
@@ -453,6 +491,7 @@ members:
     city: Sydney
     social:
       twitter: https://twitter.com/mcannonbrookes
+      linkedin: https://www.linkedin.com/in/mcannonbrookes/
     avatar: img/avatars/mcannonbrookes.png
   - name: Tasha Carl
     year: 2013
@@ -468,6 +507,7 @@ members:
     city: Rio de Janeiro
     social:
       twitter: https://twitter.com/magnocav
+      linkedin: https://www.linkedin.com/in/magnocav/
     avatar: img/avatars/magnocav.png
   - name: Ludovic Champenois
     year: 2022
@@ -476,6 +516,7 @@ members:
     city: Mountain View, California
     social:
       twitter: https://twitter.com/ludoch
+      linkedin: https://www.linkedin.com/in/ludovicchampenois/
     avatar: img/avatars/ludoch.png
   - name: Stephen Chin
     year: 2009
@@ -484,6 +525,7 @@ members:
     city: Belmont, California
     social:
       twitter: https://twitter.com/steveonjava
+      linkedin: https://www.linkedin.com/in/steveonjava/
     avatar: img/avatars/steveonjava.png
   - name: Hillmer Chona
     year: 2019
@@ -491,6 +533,7 @@ members:
       nomination: Colombia
     social:
       twitter: https://twitter.com/HillmerCh
+      linkedin: https://www.linkedin.com/in/hillmerch/
     avatar: img/avatars/HillmerCh.png
   - name: Dr. Cliff Click
     year: 2019
@@ -499,6 +542,7 @@ members:
     city: Sunnyvale, California
     social:
       twitter: https://twitter.com/cliff_click
+      linkedin: https://www.linkedin.com/in/cliff-click-b252a070/
     avatar: img/avatars/cliff_click.png
   - name: Cagatay Civici
     year: 2017
@@ -506,11 +550,14 @@ members:
       nomination: Turkey
     social:
       twitter: https://twitter.com/cagataycivici
+      linkedin: https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-%C3%A7ivici-1579b0129/
     avatar: img/avatars/cagataycivici.png
   - name: Jeff Cobb
     year: 2005
     country:
       nomination: USA
+    social:
+      linkedin: https://www.linkedin.com/in/jeffcobbseattle/
     avatar: img/avatars/Jeff_Cobb.png
   - name: Flavia Coelho
     year: 2006
@@ -526,6 +573,7 @@ members:
     social:
       twitter: https://twitter.com/_pitest
       mastodon: https://mastodon.me.uk/@hjc
+      linkedin: https://www.linkedin.com/in/henry-coles-474ab93/
     avatar: img/avatars/_pitest.png
   - name: Stephen Colebourne
     year: 2007
@@ -534,6 +582,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/jodastephen
+      linkedin: https://www.linkedin.com/in/stephencolebourne/
     avatar: img/avatars/jodastephen.png
   - name: Drabo Constantin
     year: 2020
@@ -550,6 +599,7 @@ members:
       twitter: https://twitter.com/TCoolsIT
       mastodon: https://mastodon.social/@TCoolsIT
       bluesky: https://bsky.app/profile/tcoolsit.bsky.social
+      linkedin: https://www.linkedin.com/in/tom-cools-17547548/
     avatar: img/avatars/TCoolsIT.png
   - name: Joel Costigliola
     year: 2021
@@ -559,6 +609,7 @@ members:
     social:
       twitter: https://twitter.com/JoCosti
       mastodon: https://mstdn.social/@JoCosti
+      linkedin: https://www.linkedin.com/in/joelcostigliola/
     avatar: img/avatars/JoCosti.png
   - name: Roberto Cortez
     year: 2016
@@ -567,6 +618,7 @@ members:
     city: Coimbra
     social:
       twitter: https://twitter.com/radcortez
+      linkedin: https://www.linkedin.com/in/radcortez/
     avatar: img/avatars/radcortez.png
   - name: Nacho Cougil
     year: 2022
@@ -589,6 +641,7 @@ members:
     city: Amsterdam
     social:
       twitter: https://twitter.com/agnes_crepet
+      linkedin: https://www.linkedin.com/in/agnescrepet/
     avatar: img/avatars/agnes_crepet.png
   - name: Dr. Holly Cummins
     year: 2017
@@ -597,7 +650,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/holly_cummins
-      linkedin: linkedin.com/in/holly-k-cummins/
+      linkedin: https://linkedin.com/in/holly-k-cummins/
       mastodon: https://hachyderm.io/@holly_cummins
       bluesky: https://bsky.app/profile/holly-cummins.bsky.social
       sessionize: https://sessionize.com/holly-cummins
@@ -615,6 +668,7 @@ members:
       sessionize: https://sessionize.com/ian-darwin/
       twitter: https://twitter.com/Ian_Darwin
       website: https://darwinsys.com
+      linkedin: https://www.linkedin.com/in/idarwin/
     avatar: img/avatars/Ian_Darwin.png
     status:
       - founding-member
@@ -630,6 +684,7 @@ members:
       sessionize: https://sessionize.com/sebastian-daschner
       github: https://github.com/sdaschner
       website: https://www.sebastian-daschner.com
+      linkedin: https://www.linkedin.com/in/sebastian-daschner-9894bb103/
     avatar: img/avatars/DaschnerS.png
   - name: Paul J. Deitel
     year: 2005
@@ -638,6 +693,7 @@ members:
     city: Sudbury, Massachusetts
     social:
       twitter: https://twitter.com/deitel
+      linkedin: https://www.linkedin.com/in/pauldeitel/
     avatar: http://i.picasion.com/resize89/e4a02b14694e419dbd39f90befecd1ee.jpg
   - name: Valere Dejardin
     year: 2005
@@ -653,6 +709,7 @@ members:
     city: Brussels
     social:
       twitter: https://twitter.com/danieldeluca
+      linkedin: https://www.linkedin.com/in/danieldeluca/
     avatar: img/avatars/danieldeluca.png
   - name: Frank Delporte
     year: 2023
@@ -689,6 +746,7 @@ members:
     social:
       twitter: https://twitter.com/edwinderks
       mastodon: https://mastodon.social/@edwinderks
+      linkedin: https://www.linkedin.com/in/edwin-derks/
     avatar: img/avatars/edwinderks.png
   - name: Daniel deOliveira
     year: 2005
@@ -706,6 +764,7 @@ members:
       nomination: Perú
     social:
       twitter: https://twitter.com/jamdiazdiaz
+      linkedin: https://www.linkedin.com/in/joedayz/
     avatar: img/avatars/jamdiazdiaz.png
   - name: Marit van Dijk
     year: 2023
@@ -729,6 +788,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/fdiotalevi
+      linkedin: https://www.linkedin.com/in/fdiotalevi/
     avatar: img/avatars/fdiotalevi.png
   - name: Hans Dockter
     year: 2023
@@ -736,6 +796,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/hans_d
+      linkedin: https://www.linkedin.com/in/hansdockter/
     avatar: img/avatars/hans_d.png
   - name: Oleh Dokuka
     year: 2019
@@ -743,6 +804,7 @@ members:
       nomination: Ukraine
     social:
       twitter: https://twitter.com/OlehDokuka
+      linkedin: https://www.linkedin.com/in/olegdokuka/
     avatar: img/avatars/OlehDokuka.png
   - name: Jean-Michel Doudoux
     year: 2014
@@ -751,6 +813,7 @@ members:
     city: Metz
     social:
       twitter: https://twitter.com/jmdoudoux
+      linkedin: https://www.linkedin.com/in/jmdoudoux/
     avatar: img/avatars/jmdoudoux.png
   - name: Oliver Drotbohm
     year: 2017
@@ -773,6 +836,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/juliendubois
+      linkedin: https://www.linkedin.com/in/juliendubois/
     avatar: img/avatars/juliendubois.png
   - name: Hendrik Ebbers
     year: 2016
@@ -782,6 +846,7 @@ members:
     social:
       twitter: https://twitter.com/hendrikEbbers
       mastodon: https://mastodon.cloud/@hendrikEbbers
+      linkedin: https://www.linkedin.com/in/hendrik-ebbers/
     avatar: img/avatars/hendrikEbbers.png
   - name: Bruce Eckel
     year: 2006
@@ -790,6 +855,7 @@ members:
     city: Colorado
     social:
       twitter: https://twitter.com/BruceEckel
+      linkedin: https://www.linkedin.com/in/bruceeckel/
     avatar: img/avatars/BruceEckel.png
   - name: Lukas Eder
     year: 2015
@@ -799,6 +865,7 @@ members:
     social:
       twitter: https://twitter.com/lukaseder
       mastodon: https://mastodon.social/@lukaseder
+      linkedin: https://www.linkedin.com/in/lukaseder/
     avatar: img/avatars/lukaseder.png
   - name: Sergei Egorov
     year: 2020
@@ -807,6 +874,7 @@ members:
     social:
       twitter: https://twitter.com/bsideup
       bluesky: https://bsky.app/profile/bsideup.bsky.social
+      linkedin: https://www.linkedin.com/in/bsideup/
     avatar: img/avatars/bsideup.png
   - name: Markus Eisele
     year: 2014
@@ -817,6 +885,7 @@ members:
       twitter: https://twitter.com/myfear
       mastodon: https://mastodon.online/@myfear
       bluesky: https://bsky.app/profile/myfear.com
+      linkedin: https://www.linkedin.com/in/markuseisele/
     avatar: img/avatars/myfear.png
   - name: Badr El Houari
     year: 2016
@@ -825,6 +894,7 @@ members:
     city: Casablanca
     social:
       twitter: https://twitter.com/badrelhouari
+      linkedin: https://www.linkedin.com/in/badrelhouari/
     avatar: img/avatars/badrelhouari.png
   - name: Roman Elizarov
     year: 2006
@@ -832,6 +902,7 @@ members:
       nomination: Russian Federation
     social:
       twitter: https://twitter.com/relizarov
+      linkedin: https://www.linkedin.com/in/relizarov/
     avatar: img/avatars/relizarov.png
   - name: Hanno Embregts
     year: 2023
@@ -865,6 +936,7 @@ members:
     city: Munich
     social:
       twitter: https://twitter.com/monacotoni
+      linkedin: https://www.linkedin.com/in/antonepple/
     avatar: img/avatars/monacotoni.png
   - name: Bert Ertman
     year: 2008
@@ -873,6 +945,7 @@ members:
     city: Nijmegen
     social:
       twitter: https://twitter.com/BertErtman
+      linkedin: https://www.linkedin.com/in/bertertman/
     avatar: img/avatars/BertErtman.png
   - name: Dr. Clement Escoffier
     year: 2019
@@ -882,6 +955,7 @@ members:
     social:
       twitter: https://twitter.com/clementplop
       mastodon: https://mastodon.social/@clementplop
+      linkedin: https://www.linkedin.com/in/clementescoffier/
     avatar: img/avatars/clementplop.png
   - name: Ben Evans
     year: 2013
@@ -891,6 +965,7 @@ members:
     social:
       twitter: https://twitter.com/kittylyst
       mastodon: https://mastodon.social/@kittylyst
+      linkedin: https://www.linkedin.com/in/kittylyst/
     avatar: img/avatars/kittylyst.png
   - name: Yakov Fain
     year: 2005
@@ -900,6 +975,7 @@ members:
     social:
       twitter: https://twitter.com/yfain
       website: https://yakovfain.com/
+      linkedin: https://www.linkedin.com/in/yfain/
     avatar: img/avatars/yfain.png
   - name: Rommel Feria
     year: 2005
@@ -930,6 +1006,7 @@ members:
     social:
       twitter: https://twitter.com/omniprof
       mastodon: https://mastodon.social/@omniprof
+      linkedin: https://www.linkedin.com/in/kenfogel/
     avatar: img/avatars/omniprof.png
   - name: Axel Fontaine
     year: 2016
@@ -937,6 +1014,7 @@ members:
       nomination: Germany
     social:
       twitter: https://twitter.com/axelfontaine
+      linkedin: https://www.linkedin.com/in/axel-fontaine-5a9a601/
     avatar: img/avatars/axelfontaine.png
   - name: Dr. Remi Forax
     year: 2016
@@ -950,6 +1028,7 @@ members:
     city: Ludwigsburg
     social:
       twitter: https://twitter.com/TobiasFrech
+      linkedin: https://www.linkedin.com/in/javaadministration/
     avatar: img/avatars/TobiasFrech.png
   - name: Mario Fusco
     year: 2016
@@ -958,6 +1037,7 @@ members:
     city: Milan
     social:
       twitter: https://twitter.com/mariofusco
+      linkedin: https://www.linkedin.com/in/mario-fusco-3467213/
     avatar: img/avatars/mariofusco.png
   - name: Dr. Alexey Fyodorov
     year: 2016
@@ -966,6 +1046,7 @@ members:
     city: Saint Petersburg
     social:
       twitter: https://twitter.com/23derevo
+      linkedin: https://www.linkedin.com/in/23derevo/
     avatar: img/avatars/23derevo.png
   - name: Dr. Neal Gafter
     year: 2007
@@ -974,6 +1055,7 @@ members:
     city: Seattle, Washington
     social:
       twitter: https://twitter.com/gafter
+      linkedin: https://www.linkedin.com/in/neal-gafter-625393/
     avatar: img/avatars/gafter.png
   - name: David Gageot
     year: 2014
@@ -982,6 +1064,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/dgageot
+      linkedin: https://www.linkedin.com/in/davidgageot/
     avatar: img/avatars/dgageot.png
   - name: Viktor Gamov
     year: 2021
@@ -990,6 +1073,7 @@ members:
     social:
       twitter: https://twitter.com/gAmUssA
       bluesky: https://bsky.app/profile/gamussa.bsky.social
+      linkedin: https://www.linkedin.com/in/vikgamov/
     avatar: img/avatars/gAmUssA.png
   - name: Felipe Gaúcho
     year: 2010
@@ -1004,6 +1088,8 @@ members:
     country:
       nomination: USA
     city: Loveland, Colorado
+    social:
+      linkedin: https://www.linkedin.com/in/davidmgeary/
     avatar: img/avatars/davidgeary.png
   - name: Trisha Gee
     year: 2014
@@ -1028,12 +1114,15 @@ members:
     city: Denver, Colorado
     social:
       twitter: https://twitter.com/jgenender
+      linkedin: https://www.linkedin.com/in/jgenender/
     avatar: img/avatars/jgenender.png
   - name: Bruno Ghisi
     year: 2007
     country:
       nomination: Brazil
     city: Florianópolis, Santa Catarina
+    social:
+      linkedin: https://www.linkedin.com/in/brunoghisi/
     avatar: img/avatars/Bruno_Ghisi.png
   - name: Fabrizio Gianneschi
     year: 2005
@@ -1042,6 +1131,7 @@ members:
     city: Cagliari, Sardinia
     social:
       twitter: https://twitter.com/javabird
+      linkedin: https://www.linkedin.com/in/gianneschi/
     avatar: img/avatars/javabird.png
   - name: Jonathan Giles
     year: 2018
@@ -1050,6 +1140,7 @@ members:
     social:
       twitter: https://twitter.com/JonathanGiles
       mastodon: https://hachyderm.io/@JonathanGiles
+      linkedin: https://www.linkedin.com/in/jonathangiles/
     avatar: img/avatars/JonathanGiles.png
   - name: Brian Goetz
     year: 2006
@@ -1058,6 +1149,7 @@ members:
     city: Burlington, Vermont
     social:
       twitter: https://twitter.com/BrianGoetz
+      linkedin: https://www.linkedin.com/in/briangoetz/
     avatar: img/avatars/BrianGoetz.png
     status:
       - alumni
@@ -1070,6 +1162,7 @@ members:
       twitter: https://twitter.com/dgomezg
       mastodon: https://jvm.social/@dgomezg
       sessionize: https://sessionize.com/david-gomez-garcia/
+      linkedin: https://www.linkedin.com/in/dgomezg/
     avatar: img/avatars/dgomezg.png
   - name: Antonio Goncalves
     year: 2008
@@ -1079,6 +1172,7 @@ members:
     social:
       twitter: https://twitter.com/agoncal
       mastodon: https://fosstodon.org/@agoncal
+      linkedin: https://www.linkedin.com/in/agoncal/
     avatar: img/avatars/agoncal.png
   - name: Dr. James Gosling
     year: 2005
@@ -1088,6 +1182,7 @@ members:
     social:
       twitter: https://twitter.com/errcraft
       mastodon: https://universeodon.com/@JamesGosling
+      linkedin: https://www.linkedin.com/in/jamesgosling/
     avatar: img/avatars/errcraft.png
     status:
       - honorary-member
@@ -1098,6 +1193,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/Jim__Gough
+      linkedin: https://www.linkedin.com/in/jpgough/
     avatar: img/avatars/Jim__Gough.png
   - name: Rabea Gransberger
     year: 2017
@@ -1107,6 +1203,7 @@ members:
     social:
       twitter: https://twitter.com/rgransberger
       mastodon: https://mastodon.social/@rgransberger
+      linkedin: https://www.linkedin.com/in/rgransberger/
     avatar: img/avatars/rgransberger.png
   - name: Rodrigo Graciano
     year: 2022
@@ -1119,6 +1216,7 @@ members:
       mastodon: https://mastodon.social/@graciano
       bluesky: https://bsky.app/profile/graciano.bsky.social
       sessionize: https://sessionize.com/graciano
+      linkedin: https://www.linkedin.com/in/rodrigograciano/
     avatar: img/avatars/rodrigograciano.png
   - name: Victor Grazi
     year: 2012
@@ -1127,6 +1225,7 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/vgrazi
+      linkedin: https://www.linkedin.com/in/victorgrazi/
     avatar: img/avatars/vgrazi.png
   - name: Frank Greco
     year: 2007
@@ -1135,6 +1234,7 @@ members:
     city: New York City, New York
     social:
       twitter: https://twitter.com/frankgreco
+      linkedin: https://www.linkedin.com/in/frankdgreco/
     avatar: img/avatars/frankgreco.png
   - name: Neil Griffin
     year: 2017
@@ -1143,6 +1243,7 @@ members:
     city: Orlando, Florida
     social:
       twitter: https://twitter.com/NeilGriffin95
+      linkedin: https://www.linkedin.com/in/neilgriffin95/
     avatar: img/avatars/NeilGriffin95.png
   - name: Ivar Grimstad
     year: 2016
@@ -1169,6 +1270,7 @@ members:
     social:
       twitter: https://twitter.com/SanneGrinovero
       mastodon: https://fosstodon.org/@sanne
+      linkedin: https://www.linkedin.com/in/sannegrinovero/
     avatar: img/avatars/SanneGrinovero.png
   - name: Loiane Groner
     year: 2020
@@ -1178,6 +1280,7 @@ members:
     city: Tampa, Florida
     social:
       twitter: https://twitter.com/loiane
+      linkedin: https://www.linkedin.com/in/loiane/
     avatar: img/avatars/loiane.png
   - name: Gerrit Grunwald
     year: 2013
@@ -1217,6 +1320,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/ags313
+      linkedin: https://www.linkedin.com/in/andrzejgrzesik/
     avatar: img/avatars/ags313.png
   - name: Freddy Guime
     year: 2015
@@ -1225,6 +1329,7 @@ members:
     city: Seattle, Washington
     social:
       twitter: https://twitter.com/fguime
+      linkedin: https://www.linkedin.com/in/fguime/
     avatar: img/avatars/fguime.png
   - name: Chandra Guntur
     year: 2019
@@ -1234,6 +1339,7 @@ members:
     social:
       twitter: https://twitter.com/CGuntur
       bluesky: https://bsky.app/profile/cguntur.bsky.social
+      linkedin: https://www.linkedin.com/in/cguntur/
     avatar: img/avatars/CGuntur.png
   - name: Arun Gupta
     year: 2013
@@ -1243,6 +1349,7 @@ members:
     social:
       twitter: https://twitter.com/arungupta
       bluesky: https://bsky.app/profile/arungupta.bsky.social
+      linkedin: https://www.linkedin.com/in/arunpgupta/
     avatar: img/avatars/arungupta.png
   - name: Mala Gupta
     year: 2018
@@ -1251,6 +1358,7 @@ members:
     city: New Delhi, Delhi
     social:
       twitter: https://twitter.com/eMalaGupta
+      linkedin: https://www.linkedin.com/in/malagupta/
     avatar: img/avatars/eMalaGupta.png
   - name: Romain Guy
     year: 2006
@@ -1259,6 +1367,7 @@ members:
     city: Los Altos, California
     social:
       twitter: https://twitter.com/romainguy
+      linkedin: https://www.linkedin.com/in/romainguy/
     avatar: img/avatars/romainguy.png
   - name: Ahmed Hashim
     year: 2007
@@ -1298,6 +1407,7 @@ members:
     city: Hyderabad, Telangana
     social:
       twitter: https://twitter.com/rajmahendrar
+      linkedin: https://www.linkedin.com/in/rajmahendrar/
     avatar: img/avatars/rajmahendrar.png
   - name: Dan Heidinga
     year: 2022
@@ -1306,6 +1416,7 @@ members:
     city: Ottawa, Ontario
     social:
       twitter: https://twitter.com/DanHeidinga
+      linkedin: https://www.linkedin.com/in/dan-heidinga/
     avatar: img/avatars/DanHeidinga.png
   - name: Michael Heinrichs
     year: 2017
@@ -1314,6 +1425,7 @@ members:
     city: Freiburg
     social:
       twitter: https://twitter.com/net0pyr
+      linkedin: https://www.linkedin.com/in/heinrichs/
     avatar: img/avatars/net0pyr.png
   - name: César Hernández
     year: 2016
@@ -1321,6 +1433,7 @@ members:
       nomination: Guatemala
     social:
       twitter: https://twitter.com/CesarHgt
+      linkedin: https://www.linkedin.com/in/cesarhernandezgt/
     avatar: img/avatars/CesarHgt.png
   - name: Thor Henning Hetland
     year: 2005
@@ -1338,6 +1451,7 @@ members:
     city: Málaga
     social:
       twitter: https://twitter.com/deors314
+      linkedin: https://www.linkedin.com/in/deors/
     avatar: img/avatars/deors314.png
   - name: Rick Hightower
     year: 2017
@@ -1346,6 +1460,7 @@ members:
     city: Dublin, California
     social:
       twitter: https://twitter.com/RickHigh
+      linkedin: https://www.linkedin.com/in/rickhigh/
     avatar: img/avatars/RickHigh.png
   - name: Gunnar Hillert
     year: 2016
@@ -1355,6 +1470,7 @@ members:
     city: Holualoa, Hawaii
     social:
       twitter: https://twitter.com/ghillert
+      linkedin: https://www.linkedin.com/in/hillert/
     avatar: img/avatars/ghillert.png
     status:
       - alumni
@@ -1394,6 +1510,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/ronhitchens
+      linkedin: https://www.linkedin.com/in/ronhitchens/
     avatar: img/avatars/ronhitchens.png
   - name: Juergen Hoeller
     year: 2009
@@ -1402,6 +1519,7 @@ members:
     city: Linz, Upper Austria
     social:
       twitter: https://twitter.com/springjuergen
+      linkedin: https://www.linkedin.com/in/juergenhoeller/
     avatar: img/avatars/springjuergen.png
   - name: Marc Hoffmann
     year: 2014
@@ -1418,6 +1536,7 @@ members:
     city: Minneapolis-St. Paul, Minnesota
     social:
       twitter: https://twitter.com/jacobhookom
+      linkedin: https://www.linkedin.com/in/jacobhookom/
     avatar: img/avatars/jacobhookom.png
     status:
       - founding-member
@@ -1433,6 +1552,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/cayhorstmann
+      linkedin: https://www.linkedin.com/in/cay-horstmann-659a4b/
     avatar: img/avatars/cayhorstmann.png
   - name: Gerardo Horvilleur
     year: 2005
@@ -1441,6 +1561,7 @@ members:
     city: Mexico City
     social:
       twitter: https://twitter.com/magoghm
+      linkedin: https://www.linkedin.com/in/gerardohorvilleur/
     avatar: img/avatars/magoghm.png
     status:
       - founding-member
@@ -1451,6 +1572,7 @@ members:
     city: Cologne
     social:
       twitter: https://twitter.com/huettermann
+      linkedin: https://www.linkedin.com/in/huettermann/
     avatar: img/avatars/huettermann.png
   - name: Burk Hufnagel
     year: 2020
@@ -1460,6 +1582,7 @@ members:
     social:
       twitter: https://twitter.com/BurkHufnagel
       sessionize: https://sessionize.com/burk-hufnagel
+      linkedin: https://www.linkedin.com/in/hufnagel/
     avatar: img/avatars/BurkHufnagel.png
   - name: Michael Hunger
     year: 2018
@@ -1470,6 +1593,7 @@ members:
       twitter: https://twitter.com/mesirii
       mastodon: https://chaos.social/@mesirii
       bluesky: https://bsky.app/profile/mesirii.de
+      linkedin: https://www.linkedin.com/in/jexpde/
     avatar: img/avatars/mesirii.png
   - name: Jason Hunter
     year: 2005
@@ -1478,6 +1602,7 @@ members:
       citizenship: USA
     social:
       twitter: https://twitter.com/hunterhacker
+      linkedin: https://www.linkedin.com/in/jasonhunter3/
     avatar: img/avatars/hunterhacker.png
   - name: Claus Ibsen
     year: 2018
@@ -1486,6 +1611,7 @@ members:
     city: Esbjerg
     social:
       twitter: https://twitter.com/davsclaus
+      linkedin: https://www.linkedin.com/in/davsclaus/
     avatar: img/avatars/davsclaus.png
   - name: Eder Ignatowicz
     year: 2017
@@ -1495,6 +1621,7 @@ members:
     city: Boston, Massachusetts
     social:
       twitter: https://twitter.com/ederign
+      linkedin: https://www.linkedin.com/in/ederign/
     avatar: img/avatars/ederign.png
   - name: Oliver Ihns
     year: 2005
@@ -1503,6 +1630,7 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/oliverihns
+      linkedin: https://www.linkedin.com/in/oliver-ihns-4455609/
     avatar: img/avatars/oliverihns.png
   - name: Francisco Isidro
     year: 2023
@@ -1519,6 +1647,7 @@ members:
     city: Sofia
     social:
       twitter: https://twitter.com/ivan_stefanov
+      linkedin: https://www.linkedin.com/in/ivan-ivanov-25ab324/
     avatar: img/avatars/ivan_stefanov.png
   - name: Grace Jansen
     year: 2022
@@ -1526,6 +1655,7 @@ members:
       nomination: UK
     social:
       twitter: https://twitter.com/gracejansen27
+      linkedin: https://www.linkedin.com/in/grace-jansen/
     avatar: img/avatars/gracejansen27.png
   - name: Stephan Janssen
     year: 2005
@@ -1535,6 +1665,7 @@ members:
     social:
       twitter: https://twitter.com/Stephan007
       mastodon: https://techhub.social/@stephan007
+      linkedin: https://www.linkedin.com/in/stephanjanssen/
     avatar: img/avatars/Stephan007.png
   - name: Jakob Jenkov
     year: 2022
@@ -1543,6 +1674,7 @@ members:
     city: Copenhagen
     social:
       twitter: https://twitter.com/jjenkov
+      linkedin: https://www.linkedin.com/in/jakob-jenkov-4a3a8/
     avatar: img/avatars/jjenkov.png
   - name: Emily Jiang
     year: 2019
@@ -1563,6 +1695,7 @@ members:
     city: Sydney
     social:
       twitter: https://twitter.com/springrod
+      linkedin: https://www.linkedin.com/in/johnsonroda/
     avatar: img/avatars/springrod.png
   - name: Angie Jones
     year: 2020
@@ -1572,6 +1705,7 @@ members:
     social:
       twitter: https://twitter.com/techgirl1908
       bluesky: https://bsky.app/profile/angiejones.tech
+      linkedin: https://www.linkedin.com/in/angiejones/
     avatar: img/avatars/techgirl1908.png
   - name: Christopher Judd
     year: 2017
@@ -1593,6 +1727,7 @@ members:
     social:
       twitter: https://twitter.com/javajuneau
       mastodon: https://fosstodon.org/@javajuneau
+      linkedin: https://www.linkedin.com/in/josh-juneau-84b4867/
     avatar: img/avatars/javajuneau.png
   - name: Prof. Matjaz Juric
     year: 2010
@@ -1600,6 +1735,7 @@ members:
       nomination: Slovenia
     social:
       twitter: https://twitter.com/matjazbj
+      linkedin: https://www.linkedin.com/in/matjaz-b-juric-93b645/
     avatar: img/avatars/matjazbj.png
   - name: Dr. Heinz M. Kabutz
     year: 2005
@@ -1621,6 +1757,7 @@ members:
     social:
       twitter: https://twitter.com/matkar
       mastodon: https://mastodon.social/@matkar
+      linkedin: https://www.linkedin.com/in/mattiask/
     avatar: img/avatars/matkar.png
   - name: Kohsuke Kawaguchi
     year: 2020
@@ -1630,6 +1767,7 @@ members:
     city: San Jose, California
     social:
       twitter: https://twitter.com/kohsukekawa
+      linkedin: https://www.linkedin.com/in/kohsukekawaguchi/
     avatar: img/avatars/kohsukekawa.png
   - name: Roman Kennke
     year: 2017
@@ -1638,6 +1776,7 @@ members:
     city: Freiburg
     social:
       twitter: https://twitter.com/rkennke
+      linkedin: https://www.linkedin.com/in/romankennke/
     avatar: img/avatars/rkennke.png
   - name: Gavin King
     year: 2005
@@ -1646,6 +1785,7 @@ members:
       citizenship: UK
     social:
       twitter: https://twitter.com/1ovthafew
+      linkedin: https://www.linkedin.com/in/gavinking/
     avatar: img/avatars/1ovthafew.png
   - name: Viktor Klang
     year: 2018
@@ -1654,6 +1794,7 @@ members:
     city: Angelholm
     social:
       twitter: https://twitter.com/viktorklang
+      linkedin: https://www.linkedin.com/in/viktorklang/
     avatar: img/avatars/viktorklang.png
     status:
       - alumni
@@ -1664,6 +1805,7 @@ members:
     city: Oslo
     social:
       twitter: https://twitter.com/aslakknutsen
+      linkedin: https://www.linkedin.com/in/aslakknutsen/
     avatar: img/avatars/aslakknutsen.png
   - name: Clara Ko
     year: 2011
@@ -1673,6 +1815,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/clarako
+      linkedin: https://www.linkedin.com/in/clarako/
     avatar: img/avatars/clarako.png
   - name: Panos Konstantinidis
     year: 2007
@@ -1703,6 +1846,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/michaelkolling
+      linkedin: https://www.linkedin.com/in/kolling/
     avatar: img/avatars/michaelkolling.png
   - name: Prof. Dierk König
     year: 2016
@@ -1711,6 +1855,7 @@ members:
     city: Zürich
     social:
       twitter: https://twitter.com/mittie
+      linkedin: https://www.linkedin.com/in/mittie/
     avatar: img/avatars/mittie.png
   - name: Guillaume Laforge
     year: 2017
@@ -1730,6 +1875,7 @@ members:
       nomination: Sweden
     social:
       twitter: https://twitter.com/lagergren
+      linkedin: https://www.linkedin.com/in/lagergren/
     avatar: img/avatars/lagergren.png
   - name: Amira Lakhal
     year: 2016
@@ -1737,6 +1883,7 @@ members:
       nomination: Switzerland
     social:
       twitter: https://twitter.com/MiraLak
+      linkedin: https://www.linkedin.com/in/amiralakhal/
     avatar: img/avatars/MiraLak.png
   - name: Angelika Langer
     year: 2005
@@ -1745,6 +1892,7 @@ members:
     city: Munich
     social:
       twitter: https://twitter.com/AngelikaLanger
+      linkedin: https://www.linkedin.com/in/angelika-langer-0858501/
     avatar: img/avatars/AngelikaLanger.png
   - name: Dr. Edward Lank
     year: 2005
@@ -1759,6 +1907,7 @@ members:
     city: Warsaw
     social:
       twitter: https://twitter.com/jaceklaskowski
+      linkedin: https://www.linkedin.com/in/jaceklaskowski/
     avatar: img/avatars/jaceklaskowski.png
   - name: Enrique Lasterra
     year: 2005
@@ -1774,6 +1923,7 @@ members:
     social:
       twitter: https://twitter.com/PeterLawrey
       mastodon: https://mastodon.social/@PeterLawrey
+      linkedin: https://www.linkedin.com/in/peterlawrey/
     avatar: img/avatars/PeterLawrey.png
   - name: Dr. Doug Lea
     year: 2005
@@ -1782,6 +1932,7 @@ members:
     city: Syracuse, New York
     social:
       twitter: https://twitter.com/douglea
+      linkedin: https://www.linkedin.com/in/douglea/
     avatar: img/avatars/douglea.png
   - name: Bob Lee
     year: 2007
@@ -1827,6 +1978,7 @@ members:
       nomination: South Korea
     social:
       twitter: https://twitter.com/trustin
+      linkedin: https://www.linkedin.com/in/trustin/
     avatar: img/avatars/trustin.png
   - name: Dirk Lemmermann
     year: 2019
@@ -1834,6 +1986,7 @@ members:
       nomination: Switzerland
     social:
       twitter: https://twitter.com/dlemmermann
+      linkedin: https://www.linkedin.com/in/dlemmermann/
     avatar: img/avatars/dlemmermann.png
   - name: Michael Levin
     year: 2011
@@ -1841,6 +1994,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/mikelevin77
+      linkedin: https://www.linkedin.com/in/zoobird/
     avatar: img/avatars/mikelevin77.png
   - name: Dr. Barry Levine
     year: 2005
@@ -1858,6 +2012,7 @@ members:
       nomination: China
     social:
       twitter: https://twitter.com/sanhong_li
+      linkedin: https://www.linkedin.com/in/san-hong-li-443732a/
     avatar: img/avatars/sanhong_li.png
   - name: Dr. Daniel Liang
     year: 2005
@@ -1870,6 +2025,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/plinskey
+      linkedin: https://www.linkedin.com/in/plinskey/
     avatar: img/avatars/plinskey.png
   - name: Paul Lipton
     year: 2005
@@ -1885,6 +2041,7 @@ members:
       twitter: https://twitter.com/starbuxman
       mastodon: https://mastodon.online/@starbuxman
       bluesky: https://bsky.app/profile/starbuxman.joshlong.com
+      linkedin: https://www.linkedin.com/in/joshlong/
     avatar: img/avatars/starbuxman.png
   - name: Melissa McKay
     year: 2021
@@ -1912,11 +2069,14 @@ members:
     city: Wilton, Connecticut
     social:
       twitter: https://twitter.com/geirmagnusson
+      linkedin: https://www.linkedin.com/in/geirmagnussonjr/
     avatar: img/avatars/geirmagnusson.png
   - name: Dr. Qusay Mahmoud
     year: 2007
     country:
       nomination: Canada
+    social:
+      linkedin: https://www.linkedin.com/in/qmahmoud/
     avatar: img/avatars/Qusay_Mahmoud.png
   - name: Sander Mak
     year: 2017
@@ -1926,6 +2086,7 @@ members:
     social:
       twitter: https://twitter.com/Sander_Mak
       mastodon: https://federate.social/@sander_mak
+      linkedin: https://www.linkedin.com/in/sandermak/
     avatar: img/avatars/Sander_Mak.png
   - name: Konrad Malawski
     year: 2017
@@ -1934,6 +2095,7 @@ members:
       residence: Japan
     social:
       twitter: https://twitter.com/ktosopl
+      linkedin: https://www.linkedin.com/in/konrad-ktoso-malawski/
     avatar: img/avatars/ktosopl.png
   - name: Stephane Maldini
     year: 2022
@@ -1950,6 +2112,8 @@ members:
     year: 2007
     country:
       nomination: USA
+    social:
+      linkedin: https://www.linkedin.com/in/danmalks/
     avatar: img/avatars/Dan_Malks.png
   - name: Jim Manico
     year: 2018
@@ -1958,6 +2122,7 @@ members:
     city: Anahola, Hawaii
     social:
       twitter: https://twitter.com/manicode
+      linkedin: https://www.linkedin.com/in/jmanico/
     avatar: img/avatars/manicode.png
   - name: Kito Mann
     year: 2017
@@ -1968,6 +2133,7 @@ members:
       twitter: https://twitter.com/kito99
       mastodon: https://mastodon.social/@kito99
       github: https://github.com/kito99
+      linkedin: https://www.linkedin.com/in/kitomann/
     avatar: img/avatars/kito99.png
   - name: Dervis Mansuroglu
     year: 2019
@@ -1988,6 +2154,7 @@ members:
     city: Basingstoke, Hampshire
     social:
       twitter: https://twitter.com/sjmaple
+      linkedin: https://www.linkedin.com/in/simonmaple/
     avatar: img/avatars/sjmaple.png
   - name: Joshua Marinacci
     year: 2010
@@ -1996,6 +2163,7 @@ members:
     city: Eugene, Oregon
     social:
       twitter: https://twitter.com/joshmarinacci
+      linkedin: https://www.linkedin.com/in/joshmarinacci/
     avatar: img/avatars/joshmarinacci.png
   - name: Floyd Marinescu
     year: 2005
@@ -2004,6 +2172,7 @@ members:
     city: Etobicoke, Ontario
     social:
       twitter: https://twitter.com/floydmarinescu
+      linkedin: https://www.linkedin.com/in/floydm/
     avatar: img/avatars/floydmarinescu.png
   - name: Simon Martinelli
     year: 2023
@@ -2014,7 +2183,7 @@ members:
       twitter: https://twitter.com/simas_ch
       mastodon: https://mastodon.social/@SimonMartinelli
       bluesky: https://bsky.app/profile/martinelli.ch
-      linkedin: http://linkedin.com/in/simonmartinelli
+      linkedin: https://www.linkedin.com/in/simonmartinelli
       github: https://github.com/simasch
       sessionize: https://sessionize.com/simon-martinelli
       youtube: https://www.youtube.com/@simonmartinelli
@@ -2028,6 +2197,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/vmassol
+      linkedin: https://www.linkedin.com/in/vmassol/
     avatar: img/avatars/vmassol.png
   - name: Norman Maurer
     year: 2016
@@ -2036,6 +2206,7 @@ members:
     city: Frankfurt
     social:
       twitter: https://twitter.com/normanmaurer
+      linkedin: https://www.linkedin.com/in/normanmaurer/
     avatar: img/avatars/normanmaurer.png
   - name: Vincent Mayers
     year: 2016
@@ -2044,6 +2215,7 @@ members:
     city: Atlanta, Georgia
     social:
       twitter: https://twitter.com/vincentmayers
+      linkedin: https://www.linkedin.com/in/vincentmayers/
     avatar: img/avatars/vincentmayers.png
   - name: Carole McDonald
     year: 2021
@@ -2063,6 +2235,7 @@ members:
       bluesky: https://bsky.app/profile/mehmandarov.bsky.social
       sessionize: https://sessionize.com/mehmandarov
       website: https://rustam.no
+      linkedin: https://www.linkedin.com/in/mehmandarov/
     avatar: img/avatars/rmehmandarov.png
   - name: Eddú Meléndez Gonzales
     year: 2022
@@ -2083,6 +2256,7 @@ members:
     social:
       twitter: https://twitter.com/OndroMih
       mastodon: https://mastodon.online/@ondromih
+      linkedin: https://www.linkedin.com/in/mihalyiondrej/
     avatar: img/avatars/OndroMih.png
   - name: Vlad Mihalcea
     year: 2017
@@ -2091,6 +2265,7 @@ members:
     city: Cluj County
     social:
       twitter: https://twitter.com/vlad_mihalcea
+      linkedin: https://www.linkedin.com/in/vladmihalcea/
     avatar: img/avatars/vlad_mihalcea.png
   - name: Ana-Maria Mihalceanu
     year: 2021
@@ -2100,6 +2275,7 @@ members:
       twitter: https://twitter.com/ammbra1508
       mastodon: https://mastodon.social/@ammbra1508
       bluesky: https://bsky.app/profile/ammbra1508.bsky.social
+      linkedin: https://www.linkedin.com/in/ana-maria-mihalceanu-1508/
     avatar: img/avatars/ammbra1508.png
     status:
       - alumni
@@ -2110,6 +2286,7 @@ members:
     city: Naperville, Illinois
     social:
       twitter: https://twitter.com/michaelminella
+      linkedin: https://www.linkedin.com/in/michaelminella/
     avatar: img/avatars/michaelminella.png
   - name: Elder Moraes
     year: 2020
@@ -2133,6 +2310,7 @@ members:
       twitter: https://twitter.com/gunnarmorling
       mastodon: https://mastodon.online/@gunnarmorling
       bluesky: https://bsky.app/profile/gunnar.bsky.social
+      linkedin: https://www.linkedin.com/in/gunnar-morling-2b44b7229/
     avatar: img/avatars/gunnarmorling.png
   - name: Maarten Mulders
     year: 2022
@@ -2154,6 +2332,7 @@ members:
       nomination: Germany
     social:
       twitter: https://twitter.com/bmuskalla
+      linkedin: https://www.linkedin.com/in/benjaminmuskalla/
     avatar: img/avatars/bmuskalla.png
   - name: Maurice Naftalin
     year: 2014
@@ -2163,6 +2342,7 @@ members:
     social:
       twitter: https://twitter.com/mauricenaftalin
       sessionize: https://sessionize.com/Maurice_Naftalin
+      linkedin: https://www.linkedin.com/in/maurice-naftalin/
     avatar: img/avatars/mauricenaftalin.png
   - name: Nikhil Nanivadekar
     year: 2018
@@ -2170,6 +2350,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/NikhilNanivade
+      linkedin: https://www.linkedin.com/in/nikhilnanivadekar/
     avatar: img/avatars/NikhilNanivade.png
   - name: Dr. Fabiane Bizinella Nardon
     year: 2006
@@ -2178,6 +2359,7 @@ members:
     city: São Paulo
     social:
       twitter: https://twitter.com/fabianenardon
+      linkedin: https://www.linkedin.com/in/fabianenardon/
     avatar: img/avatars/fabianenardon.png
   - name: Rafael Del Nero
     year: 2018
@@ -2186,6 +2368,7 @@ members:
     city: Dublin, Leinster
     social:
       twitter: https://twitter.com/RafaDelNero
+      linkedin: https://www.linkedin.com/in/rafadelnero/
     avatar: img/avatars/RafaDelNero.png
   - name: Audrey Neveu
     year: 2020
@@ -2194,6 +2377,7 @@ members:
     city: Rouen
     social:
       twitter: https://twitter.com/Audrey_Neveu
+      linkedin: https://www.linkedin.com/in/audreyneveu/
     avatar: img/avatars/Audrey_Neveu.png
   - name: Chris Newland
     year: 2017
@@ -2203,6 +2387,7 @@ members:
     social:
       twitter: https://twitter.com/chriswhocodes
       mastodon: https://mastodon.social/@chriswhocodes
+      linkedin: https://www.linkedin.com/in/chriswhocodes/
     avatar: img/avatars/chriswhocodes.png
   - name: Francesco Nigro
     year: 2023
@@ -2210,6 +2395,7 @@ members:
       nomination: Italy
     social:
       twitter: https://twitter.com/forked_franz
+      linkedin: https://www.linkedin.com/in/francesco-nigro-69963597/
     avatar: img/avatars/forked_franz.png
   - name: Kevin Nilson
     year: 2009
@@ -2218,6 +2404,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/javaclimber
+      linkedin: https://www.linkedin.com/in/kevinnilson/
     avatar: img/avatars/javaclimber.png
   - name: Elias Nogueira
     year: 2023
@@ -2254,6 +2441,7 @@ members:
       twitter: https://twitter.com/headius
       mastodon: https://mastodon.social/@headius
       bluesky: https://bsky.app/profile/headius.bsky.social
+      linkedin: https://www.linkedin.com/in/headius/
     avatar: img/avatars/headius.png
   - name: Harshad Oak
     year: 2007
@@ -2262,6 +2450,7 @@ members:
     city: Pune, Maharashtra
     social:
       twitter: https://twitter.com/HarshadOak
+      linkedin: https://www.linkedin.com/in/harshadoak/
     avatar: img/avatars/HarshadOak.png
   - name: Rickard Oberg
     year: 2011
@@ -2270,6 +2459,7 @@ members:
     city: Selangor
     social:
       twitter: https://twitter.com/rickardoberg
+      linkedin: https://www.linkedin.com/in/rickardoberg/
     avatar: img/avatars/rickardoberg.png
     status:
       - retired
@@ -2280,6 +2470,7 @@ members:
     city: Bogota
     social:
       twitter: https://twitter.com/gaijinco
+      linkedin: https://www.linkedin.com/in/carlos-obregon-1565aab/
     avatar: img/avatars/gaijinco.png
   - name: Daniel Oh
     year: 2023
@@ -2289,6 +2480,7 @@ members:
     social:
       twitter: https://twitter.com/danieloh30
       bluesky: https://bsky.app/profile/danieloh30.bsky.social
+      linkedin: https://www.linkedin.com/in/daniel-oh-083818112/
     avatar: img/avatars/danieloh30.png
   - name: Víctor Orozco
     year: 2018
@@ -2298,6 +2490,7 @@ members:
     social:
       twitter: https://twitter.com/tuxtor
       mastodon: https://fosstodon.org/@tuxtor
+      linkedin: https://www.linkedin.com/in/victororozco/
     avatar: img/avatars/tuxtor.png
   - name: Bethan Palmer
     year: 2018
@@ -2305,6 +2498,7 @@ members:
       nomination: UK
     social:
       twitter: https://twitter.com/BethanKP
+      linkedin: https://www.linkedin.com/in/bethan-palmer/
     avatar: img/avatars/BethanKP.png
   - name: Andrei Pangin
     year: 2020
@@ -2312,6 +2506,7 @@ members:
       nomination: Russian Federation
     social:
       twitter: https://twitter.com/AndreiPangin
+      linkedin: https://www.linkedin.com/in/apangin/
     avatar: img/avatars/AndreiPangin.png
   - name: Eugene Paraschiv
     year: 2021
@@ -2319,6 +2514,7 @@ members:
       nomination: Romania
     social:
       twitter: https://twitter.com/baeldung
+      linkedin: https://www.linkedin.com/in/eugenparaschiv/
     avatar: img/avatars/baeldung.png
   - name: Nicolai Parlog
     year: 2019
@@ -2340,6 +2536,7 @@ members:
     social:
       twitter: https://twitter.com/SandraParsick
       mastodon: https://mastodon.social/@sparsick
+      linkedin: https://www.linkedin.com/in/sandra-parsick/
     avatar: img/avatars/SandraParsick.png
   - name: Pratik Patel
     year: 2016
@@ -2349,6 +2546,7 @@ members:
     social:
       twitter: https://twitter.com/prpatel
       bluesky: https://bsky.app/profile/prpatel.bsky.social
+      linkedin: https://www.linkedin.com/in/prpatel/
     avatar: img/avatars/prpatel.png
   - name: Bob Paulin
     year: 2017
@@ -2357,6 +2555,7 @@ members:
     city: Chicago, Illinois
     social:
       twitter: https://twitter.com/bobpaulin
+      linkedin: https://www.linkedin.com/in/bobpaulin/
     avatar: img/avatars/bobpaulin.png
   - name: Dr. José Paumard
     year: 2015
@@ -2365,6 +2564,7 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/JosePaumard
+      linkedin: https://www.linkedin.com/in/jos%C3%A9-paumard-2458ba5/
     avatar: img/avatars/JosePaumard.png
     status:
       - alumni
@@ -2375,6 +2575,7 @@ members:
     city: Kelowna, British Columbia
     social:
       twitter: https://twitter.com/kcpeppe
+      linkedin: https://www.linkedin.com/in/kirk-pepperdine/
     avatar: img/avatars/kcpeppe.png
   - name: Dr. Jose Pereda
     year: 2017
@@ -2383,11 +2584,14 @@ members:
     city: Valladolid
     social:
       twitter: https://twitter.com/JPeredaDnr
+      linkedin: https://www.linkedin.com/in/jperedadnr/
     avatar: img/avatars/JPeredaDnr.png
   - name: Dr. Paul Perrone
     year: 2006
     country:
       nomination: USA
+    social:
+      linkedin: https://www.linkedin.com/in/paulperrone/
     avatar: img/avatars/Paul_Perrone.png
   - name: John Paul "JP" Petines
     year: 2005
@@ -2407,6 +2611,7 @@ members:
     city: Washington DC
     social:
       twitter: https://twitter.com/SeanMiPhillips
+      linkedin: https://www.linkedin.com/in/seanmiphillips/
     avatar: img/avatars/SeanMiPhillips.png
   - name: Peter Pilgrim
     year: 2007
@@ -2415,6 +2620,7 @@ members:
     city: Milton Keynes, England
     social:
       twitter: https://twitter.com/peter_pilgrim
+      linkedin: https://www.linkedin.com/in/peterpilgrim2000/
     avatar: img/avatars/peter_pilgrim.png
   - name: Prof. William Pugh
     year: 2007
@@ -2423,6 +2629,7 @@ members:
     city: Maryland
     social:
       twitter: https://twitter.com/wpugh
+      linkedin: https://www.linkedin.com/in/billpugh/
     avatar: img/avatars/wpugh.png
   - name: Carl Quinn
     year: 2020
@@ -2442,6 +2649,7 @@ members:
     city: Metuchen, New Jersey
     social:
       twitter: https://twitter.com/TheDonRaab
+      linkedin: https://www.linkedin.com/in/donald-raab-56016a121/
     avatar: img/avatars/TheDonRaab.png
   - name: Bazlur Rahman
     year: 2022
@@ -2475,6 +2683,8 @@ members:
     year: 2006
     country:
       nomination: USA
+    social:
+      linkedin: https://www.linkedin.com/in/srikanthraju/
     avatar: img/avatars/Srikanth_Raju.png
   - name: Jayson Raymond
     year: 2005
@@ -2490,7 +2700,7 @@ members:
       twitter: https://twitter.com/mpredli
       mastodon: https://mastodon.sdf.org/@mpredli01
       github: https://github.com/mpredli01
-      linkedin: http://www.linkedin.com/pub/michael-redlich/0/966/13a
+      linkedin: https://www.linkedin.com/pub/michael-redlich/0/966/13a
       sessionize: https://sessionize.com/michael-redlich
       website: https://redlich.net
     avatar: img/avatars/mpredli.png
@@ -2501,6 +2711,7 @@ members:
     city: Bucharest
     social:
       twitter: https://twitter.com/VictorRentea
+      linkedin: https://www.linkedin.com/in/victor-rentea-trainer/
     avatar: img/avatars/VictorRentea.png
   - name: Chris Richardson
     year: 2007
@@ -2509,11 +2720,14 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/crichardson
+      linkedin: https://www.linkedin.com/in/pojos/
     avatar: img/avatars/crichardson.png
   - name: Clark D. Richey Jr.
     year: 2005
     country:
       nomination: USA
+    social:
+      linkedin: https://www.linkedin.com/in/clark-richey-6b737/
     avatar: img/avatars/Clark_D_Richey_Jr.png
     status:
       - founding-member
@@ -2524,6 +2738,7 @@ members:
     city: Provo, Utah
     social:
       twitter: https://twitter.com/mnriem
+      linkedin: https://www.linkedin.com/in/mriem/
     avatar: img/avatars/mnriem.png
     status:
       - founding-member
@@ -2535,6 +2750,7 @@ members:
     social:
       twitter: https://twitter.com/speakjava
       mastodon: https://mastodon.social/@speakjava
+      linkedin: https://www.linkedin.com/in/siritter/
     avatar: img/avatars/speakjava.png
   - name: Sven Reimers
     year: 2015
@@ -2544,6 +2760,7 @@ members:
     social:
       twitter: https://twitter.com/SvenNB
       mastodon: https://mastodon.social/@svenreimers
+      linkedin: https://www.linkedin.com/in/svenreimers/
     avatar: img/avatars/SvenNB.png
   - name: Glenn Renfro
     year: 2023
@@ -2552,6 +2769,7 @@ members:
     city: Atlanta
     social:
       twitter: https://twitter.com/cppwfs
+      linkedin: https://www.linkedin.com/in/cppwfs/
     avatar: img/avatars/cppwfs.png
   - name: Roy van Rijn
     year: 2018
@@ -2561,12 +2779,15 @@ members:
     social:
       twitter: https://twitter.com/royvanrijn
       mastodon: https://mastodon.social/@royvanrijn
+      linkedin: https://www.linkedin.com/in/royvanrijn/
     avatar: img/avatars/royvanrijn.png
   - name: Leonardo de Moura Rocha Lima
     year: 2017
     country:
       nomination: Brazil
     city: São Paulo
+    social:
+      linkedin: https://www.linkedin.com/in/leomrlima/
     avatar: img/avatars/leomrlima.png
   - name: Graeme Rocher
     year: 2019
@@ -2576,6 +2797,7 @@ members:
     city: Bilbao
     social:
       twitter: https://twitter.com/graemerocher
+      linkedin: https://www.linkedin.com/in/graemerocher/
     avatar: img/avatars/graemerocher.png
     status:
       - alumni
@@ -2586,6 +2808,7 @@ members:
     city: Galicia
     social:
       twitter: https://twitter.com/antonmry
+      linkedin: https://www.linkedin.com/in/antonmry/
     avatar: img/avatars/antonmry.png
   - name: Ix-chel Ruiz
     year: 2017
@@ -2598,6 +2821,7 @@ members:
       mastodon: https://mastodon.social/@ixchelruiz
       bluesky: https://bsky.app/profile/ixchelruiz.bsky.social
       sessionize: https://sessionize.com/ixchelruiz
+      linkedin: https://www.linkedin.com/in/ixchelruiz/
     avatar: img/avatars/ixchelruiz.png
   - name: Antoine Sabot-Durand
     year: 2017
@@ -2626,6 +2850,7 @@ members:
       nomination: Japan
     social:
       twitter: https://twitter.com/skrb
+      linkedin: https://www.linkedin.com/in/koichisakata/
     avatar: img/avatars/skrb.png
   - name: Alberto Salazar
     year: 2018
@@ -2656,6 +2881,7 @@ members:
     city: Seattle
     social:
       twitter: https://twitter.com/cowtowncoder
+      linkedin: https://www.linkedin.com/in/tatu-saloranta-b2b36/
     avatar: img/avatars/cowtowncoder.png
   - name: Otávio Gonçalves de Santana
     year: 2015
@@ -2664,6 +2890,7 @@ members:
     city: São Paulo
     social:
       twitter: https://twitter.com/otaviojava
+      linkedin: https://www.linkedin.com/in/otaviojava/
     avatar: img/avatars/otaviojava.png
   - name: Michael Nascimento Santos
     year: 2006
@@ -2671,6 +2898,7 @@ members:
       nomination: Brazil
     social:
       twitter: https://twitter.com/mr__m
+      linkedin: https://www.linkedin.com/in/michaelnascimento/
     avatar: img/avatars/mr__m.png
   - name: Mani Sarkar
     year: 2018
@@ -2679,6 +2907,7 @@ members:
     social:
       twitter: https://twitter.com/theNeomatrix369
       mastodon: https://mastodon.online/@neomatrix369
+      linkedin: https://www.linkedin.com/in/mani-sarkar/
     avatar: img/avatars/theNeomatrix369.png
   - name: Deepu K Sasidharan
     year: 2022
@@ -2699,6 +2928,7 @@ members:
     social:
       twitter: https://twitter.com/tomsontom
       mastodon: https://mastodon.social/@tomsontom
+      linkedin: https://www.linkedin.com/in/tom-schindl-178ba63/
     avatar: img/avatars/tomsontom.png
   - name: Olivier Schmitt
     year: 2005
@@ -2706,6 +2936,8 @@ members:
       nomination: Switzerland
       citizenship: France
     city: Geneva
+    social:
+      linkedin: https://www.linkedin.com/in/olivier-schmitt-architect/
     avatar: img/avatars/Olivier_Schmitt.png
     status:
       - founding-member
@@ -2717,6 +2949,7 @@ members:
     social:
       twitter: https://twitter.com/rfscholte
       mastodon: https://mstdn.social/@rfscholte
+      linkedin: https://www.linkedin.com/in/rfscholte/
     avatar: img/avatars/rfscholte.png
   - name: Bauke Scholtz
     year: 2017
@@ -2724,6 +2957,7 @@ members:
       nomination: The Netherlands
     social:
       twitter: https://twitter.com/OmniFaces
+      linkedin: https://www.linkedin.com/in/balusc/
     avatar: img/avatars/OmniFaces.png
   - name: Aleksey Shipilev
     year: 2017
@@ -2732,6 +2966,7 @@ members:
     city: Potsdam, Brandenburg
     social:
       twitter: https://twitter.com/shipilev
+      linkedin: https://www.linkedin.com/in/alekseyshipilev/
     avatar: img/avatars/shipilev.png
   - name: Oleg Šelajev
     year: 2017
@@ -2766,6 +3001,7 @@ members:
     social:
       twitter: https://twitter.com/bjschrijver
       mastodon: https://mastodon.social/@bjschrijver
+      linkedin: https://www.linkedin.com/in/bjschrijver/
     avatar: img/avatars/bjschrijver.png
   - name: Nate Schutta
     year: 2023
@@ -2774,6 +3010,7 @@ members:
     city: Forest Lake, MN
     social:
       twitter: https://twitter.com/ntschutta
+      linkedin: https://www.linkedin.com/in/nate-schutta-2634b4241/
     avatar: img/avatars/ntschutta.png
   - name: Vinicius Senger
     year: 2016
@@ -2781,6 +3018,7 @@ members:
       nomination: Brazil
     social:
       twitter: https://twitter.com/vsenger
+      linkedin: https://www.linkedin.com/in/viniciussenger/
     avatar: img/avatars/vsenger.png
   - name: Yara Senger
     year: 2012
@@ -2789,6 +3027,7 @@ members:
     city: São Paulo
     social:
       twitter: https://twitter.com/yarasenger
+      linkedin: https://www.linkedin.com/in/yaramascarenhas/
     avatar: img/avatars/yarasenger.png
   - name: Dr. Zoran Sevarac
     year: 2013
@@ -2796,18 +3035,23 @@ members:
       nomination: Serbia
     social:
       twitter: https://twitter.com/zsevarac
+      linkedin: https://www.linkedin.com/in/zoran-sevarac-phd-49a9a411/
     avatar: img/avatars/zsevarac.png
   - name: Howard Lewis Ship
     year: 2010
     country:
       nomination: USA
     city: Portland, Oregon
+    social:
+      linkedin: https://www.linkedin.com/in/howard-lewis-ship-a86a0a21b/
     avatar: img/avatars/hlship.png
   - name: Jack Shirazi
     year: 2005
     country:
       nomination: UK
     city: Westminster Abbey, Greater London
+    social:
+      linkedin: https://www.linkedin.com/in/jack-shirazi-a547831/
     avatar: img/avatars/Jack_Shirazi.png
   - name: Kathy Sierra
     year: 2005
@@ -2824,6 +3068,7 @@ members:
     social:
       twitter: https://twitter.com/rotnroll666
       mastodon: https://mastodon.social/@rotnroll666
+      linkedin: https://www.linkedin.com/in/michael-simons-196712139/
     avatar: img/avatars/rotnroll666.png
   - name: Falk Sippach
     year: 2023
@@ -2833,6 +3078,7 @@ members:
     social:
       twitter: https://twitter.com/sippsack
       mastodon: https://mastodon.social/@sippsack
+      linkedin: https://www.linkedin.com/in/falk-sippach/
     avatar: img/avatars/sippsack.png
   - name: Yakov Sirotkin
     year: 2005
@@ -2841,12 +3087,15 @@ members:
     city: Saint Petersburg
     social:
       twitter: https://twitter.com/yakov_sirotkin
+      linkedin: https://www.linkedin.com/in/yakovsirotkin/
     avatar: img/avatars/yakov_sirotkin.png
   - name: Bruce Snyder
     year: 2005
     country:
       nomination: USA
     city: Louisville, Colorado
+    social:
+      linkedin: https://www.linkedin.com/in/brucesnyder/
     avatar: img/avatars/Bruce_Snyder.png
   - name: Bruno Souza
     year: 2005
@@ -2856,6 +3105,7 @@ members:
     social:
       twitter: https://twitter.com/brjavaman
       website: https://code4.life/
+      linkedin: https://www.linkedin.com/in/brjavaman/
     avatar: img/avatars/brjavaman.png
     status:
       - founding-member
@@ -2866,6 +3116,7 @@ members:
     city: Barcelona
     social:
       twitter: https://twitter.com/alexsotob
+      linkedin: https://www.linkedin.com/in/asotobu/
     avatar: img/avatars/alexsotob.png
   - name: Kate Stanley
     year: 2021
@@ -2874,6 +3125,7 @@ members:
     city: Hampshire
     social:
       twitter: https://twitter.com/KateStanley91
+      linkedin: https://www.linkedin.com/in/katherine-kate-stanley-3796b579/
     avatar: img/avatars/KateStanley91.png
   - name: James Strachan
     year: 2011
@@ -2882,6 +3134,7 @@ members:
     city: Mells, Somerset
     social:
       twitter: https://twitter.com/jstrachan
+      linkedin: https://www.linkedin.com/in/jstrachan/
     avatar: img/avatars/jstrachan.png
   - name: Mark Struberg
     year: 2019
@@ -2897,6 +3150,7 @@ members:
       nomination: Mexico
     social:
       twitter: https://twitter.com/domix
+      linkedin: https://www.linkedin.com/in/domix/
     avatar: img/avatars/domix.png
   - name: Dr. Venkat Subramaniam
     year: 2013
@@ -2905,6 +3159,7 @@ members:
     city: Broomfield, Colorado
     social:
       twitter: https://twitter.com/venkat_s
+      linkedin: https://www.linkedin.com/in/vsubramaniam/
     avatar: img/avatars/venkat_s.png
   - name: Burr Sutter
     year: 2005
@@ -2913,6 +3168,7 @@ members:
     city: Raleigh-Durham, North Carolina
     social:
       twitter: https://twitter.com/burrsutter
+      linkedin: https://www.linkedin.com/in/burrsutter/
     avatar: img/avatars/burrsutter.png
   - name: Ruslan Synytsky
     year: 2020
@@ -2922,6 +3178,7 @@ members:
     city: Zhytomyr/Limassol
     social:
       twitter: https://twitter.com/siruslan
+      linkedin: https://www.linkedin.com/in/siruslan/
     avatar: img/avatars/siruslan.png
   - name: Attila Szegedi
     year: 2016
@@ -2930,6 +3187,7 @@ members:
     city: Szeged, Csongrád,
     social:
       twitter: https://twitter.com/asz
+      linkedin: https://www.linkedin.com/in/atszegedi/
     avatar: img/avatars/asz.png
   - name: Mohamed Taman
     year: 2015
@@ -2939,6 +3197,7 @@ members:
     city: Belgrade
     social:
       twitter: https://twitter.com/_tamanm
+      linkedin: https://www.linkedin.com/in/mohamedtaman/
     avatar: img/avatars/_tamanm.png
   - name: Shin Tanimoto
     year: 2018
@@ -2947,6 +3206,7 @@ members:
     city: Yokohama, Kanagawa
     social:
       twitter: https://twitter.com/cero_t
+      linkedin: https://www.linkedin.com/in/shintanimoto/
     avatar: img/avatars/cero_t.png
   - name: Bruce Tate
     year: 2006
@@ -2955,6 +3215,7 @@ members:
     city: Chattanooga, Tennessee
     social:
       twitter: https://twitter.com/redrapids
+      linkedin: https://www.linkedin.com/in/bruce-tate/
     avatar: img/avatars/redrapids.png
   - name: Régina ten Bruggencate
     year: 2011
@@ -2963,6 +3224,7 @@ members:
     city: Apeldoorn
     social:
       twitter: https://twitter.com/reginatb38
+      linkedin: https://www.linkedin.com/in/reginatb/
     avatar: img/avatars/reginatb38.png
   - name: Gil Tene
     year: 2017
@@ -2971,6 +3233,7 @@ members:
     city: San Francisco, California
     social:
       twitter: https://twitter.com/giltene
+      linkedin: https://www.linkedin.com/in/giltene/
     avatar: img/avatars/giltene.png
   - name: Yoshio Terada
     year: 2016
@@ -2979,6 +3242,7 @@ members:
     city: Yokohama, Kanagawa
     social:
       twitter: https://twitter.com/yoshioterada
+      linkedin: https://www.linkedin.com/in/yoshioterada/
     avatar: img/avatars/yoshioterada.png
   - name: Frans Thamura
     year: 2005
@@ -2998,6 +3262,7 @@ members:
     social:
       twitter: https://twitter.com/christhalinger
       mastodon: https://mastodon.social/@christhalinger
+      linkedin: https://www.linkedin.com/in/christian-thalinger-7a203347/
     avatar: img/avatars/christhalinger.png
   - name: Alex Theedom
     year: 2018
@@ -3006,6 +3271,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/alextheedom
+      linkedin: https://www.linkedin.com/in/alextheedom/
     avatar: img/avatars/alextheedom.png
   - name: Martin Thompson
     year: 2015
@@ -3013,6 +3279,7 @@ members:
       nomination: UK
     social:
       twitter: https://twitter.com/mjpt777
+      linkedin: https://www.linkedin.com/in/martinjthompson/
     avatar: img/avatars/mjpt777.png
   - name: Dr. Kresten Krab Thorup
     year: 2005
@@ -3020,6 +3287,7 @@ members:
       nomination: Denmark
     social:
       twitter: https://twitter.com/drkrab
+      linkedin: https://www.linkedin.com/in/krestenkrabthorup/
     avatar: img/avatars/drkrab.png
   - name: Arjan Tijms
     year: 2020
@@ -3028,6 +3296,7 @@ members:
     city: Arnhem, Gelderland
     social:
       twitter: https://twitter.com/arjan_tijms
+      linkedin: https://www.linkedin.com/in/arjan-tijms-1214aa1b1/
     avatar: img/avatars/arjan_tijms.png
   - name: Neal Tisdale
     year: 2005
@@ -3044,6 +3313,7 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/robilad
+      linkedin: https://www.linkedin.com/in/dalibortopic/
     avatar: img/avatars/robilad.png
     status:
       - alumni
@@ -3056,6 +3326,7 @@ members:
     social:
       twitter: https://twitter.com/neugens
       mastodon: https://mastodon.social/@MarioTorre
+      linkedin: https://www.linkedin.com/in/neugens/
     avatar: img/avatars/neugens.png
   - name: Henri Tremblay
     year: 2016
@@ -3076,6 +3347,7 @@ members:
     social:
       twitter: https://twitter.com/saturnism
       mastodon: https://mastodon.social/@saturnism
+      linkedin: https://www.linkedin.com/in/rayjtsang/
     avatar: img/avatars/saturnism.png
   - name: Klaasjan Tukker
     year: 2005
@@ -3085,6 +3357,7 @@ members:
     city: Seattle, Washington
     social:
       twitter: https://twitter.com/ktukker
+      linkedin: https://www.linkedin.com/in/ktukker/
     avatar: img/avatars/ktukker.png
     status:
       - founding-member
@@ -3095,6 +3368,7 @@ members:
     city: Nürnberg, Bavaria
     social:
       twitter: https://twitter.com/javabuch
+      linkedin: https://www.linkedin.com/in/christian-ullenboom/
     avatar: img/avatars/javabuch.png
   - name: Dr. Raoul-Gabriel Urma
     year: 2017
@@ -3103,6 +3377,7 @@ members:
     city: Cambridge
     social:
       twitter: https://twitter.com/raoulUK
+      linkedin: https://www.linkedin.com/in/raoulurma/
     avatar: img/avatars/raoulUK.png
   - name: Rahman Usta
     year: 2018
@@ -3112,6 +3387,7 @@ members:
     city: Krakow
     social:
       twitter: https://twitter.com/ustarahman
+      linkedin: https://www.linkedin.com/in/rahmanusta/
     avatar: img/avatars/ustarahman.png
   - name: Tagir Valeev
     year: 2020
@@ -3130,6 +3406,7 @@ members:
     city: Amsterdam
     social:
       twitter: https://twitter.com/DuchessFounder
+      linkedin: https://www.linkedin.com/in/lvdpal/
     avatar: img/avatars/DuchessFounder.png
   - name: Michael Van Riper
     year: 2008
@@ -3138,6 +3415,7 @@ members:
     city: Silicon Valley, California
     social:
       twitter: https://twitter.com/vanriper
+      linkedin: https://www.linkedin.com/in/vanriper/
     avatar: img/avatars/vanriper.png
   - name: Jorge Vargas
     year: 2007
@@ -3157,6 +3435,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/bvenners
+      linkedin: https://www.linkedin.com/in/bill-venners-27570a1/
     avatar: img/avatars/bvenners.png
   - name: Martijn Verburg
     year: 2012
@@ -3216,6 +3495,7 @@ members:
     city: Hamburg
     social:
       twitter: https://twitter.com/vogella
+      linkedin: https://www.linkedin.com/in/vogella/
     avatar: img/avatars/vogella.png
   - name: Dr. Johan Vos
     year: 2012
@@ -3225,12 +3505,15 @@ members:
     social:
       twitter: https://twitter.com/johanvos
       mastodon: https://mastodon.social/@johanvos
+      linkedin: https://www.linkedin.com/in/johanvos/
     avatar: img/avatars/johanvos.png
   - name: Joe Walker
     year: 2006
     country:
       nomination: UK
     city: Leicester
+    social:
+      linkedin: https://www.linkedin.com/in/joewalkeruk/
     avatar: img/avatars/Joe_Walker.png
   - name: Nitsan Wakart
     year: 2018
@@ -3239,6 +3522,7 @@ members:
     city: Cape Town
     social:
       twitter: https://twitter.com/nitsanw
+      linkedin: https://www.linkedin.com/in/nitsanwakart/
     avatar: img/avatars/nitsanw.png
   - name: Dick Wall
     year: 2005
@@ -3246,6 +3530,7 @@ members:
       nomination: UK
     social:
       twitter: https://twitter.com/dickwall
+      linkedin: https://www.linkedin.com/in/dickwall/
     avatar: img/avatars/dickwall.png
     status:
       - founding-member
@@ -3260,6 +3545,7 @@ members:
       bluesky: https://bsky.app/profile/habuma.bsky.social
       sessionize: https://sessionize.com/CraigWalls
       youtube: https://www.youtube.com/channel/UC4KvfQvH5XAfbA5g7sMdOww
+      linkedin: https://www.linkedin.com/in/habuma/
     avatar: img/avatars/habuma.png
   - name: Dr. Richard Warburton
     year: 2016
@@ -3268,6 +3554,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/RichardWarburto
+      linkedin: https://www.linkedin.com/in/richard-warburton-5b03613/
     avatar: img/avatars/RichardWarburto.png
   - name: James Ward
     year: 2021
@@ -3290,6 +3577,7 @@ members:
     city: Indianapolis, Indiana
     social:
       twitter: https://twitter.com/JavaFXpert
+      linkedin: https://www.linkedin.com/in/javafxpert/
     avatar: img/avatars/JavaFXpert.png
   - name: Paul Webber
     year: 2005
@@ -3298,6 +3586,7 @@ members:
     city: Poway, California
     social:
       twitter: https://twitter.com/CaptainWebber
+      linkedin: https://www.linkedin.com/in/captainwebber/
     avatar: img/avatars/CaptainWebber.png
   - name: Miro Wengner
     year: 2018
@@ -3318,6 +3607,7 @@ members:
     city: Amsterdam
     social:
       twitter: https://twitter.com/GeertjanW
+      linkedin: https://www.linkedin.com/in/geertjanwielenga/
     avatar: img/avatars/GeertjanW.png
   - name: Alan Williamson
     year: 2005
@@ -3327,6 +3617,7 @@ members:
     city: Virginia
     social:
       website: https://alan.is/about
+      linkedin: https://www.linkedin.com/in/a1anw2/
     avatar: img/avatars/a1anw2.png
   - name: Joe Winchester
     year: 2006
@@ -3335,6 +3626,7 @@ members:
     city: Southampton
     social:
       twitter: https://twitter.com/JoeWinchester
+      linkedin: https://www.linkedin.com/in/joewinchester/
     avatar: img/avatars/JoeWinchester.png
   - name: Russel Winder
     year: 2021
@@ -3343,6 +3635,7 @@ members:
     city: London
     social:
       twitter: https://twitter.com/russel_winder
+      linkedin: https://www.linkedin.com/in/russelwinder/
     avatar: img/avatars/russel_winder.png
     status:
       - passed-away
@@ -3362,6 +3655,7 @@ members:
     social:
       twitter: https://twitter.com/rafaelcodes
       mastodon: https://mastodon.social/@rafaelcodes
+      linkedin: https://www.linkedin.com/in/rafaelwth/
     avatar: img/avatars/rafaelcodes.png
   - name: Eberhard Wolff
     year: 2005
@@ -3371,6 +3665,7 @@ members:
     social:
       twitter: https://twitter.com/ewolff
       mastodon: https://mastodon.social/@ewolff
+      linkedin: https://www.linkedin.com/in/eberhardwolff/
     avatar: img/avatars/ewolff.png
     status:
       - founding-member
@@ -3393,6 +3688,7 @@ members:
     city: Tokyo
     social:
       twitter: https://twitter.com/yusuke
+      linkedin: https://www.linkedin.com/in/yusuke/
     avatar: img/avatars/yusuke.png
   - name: Edson Yanaga
     year: 2015
@@ -3415,6 +3711,8 @@ members:
     year: 2005
     country:
       nomination: South Korea
+    social:
+      linkedin: https://www.linkedin.com/in/javaoracle/
     avatar: img/avatars/Sooyeul_Yang.png
   - name: Murat Yener
     year: 2015
@@ -3422,6 +3720,7 @@ members:
       nomination: Turkey
     social:
       twitter: https://twitter.com/yenerm
+      linkedin: https://www.linkedin.com/in/muratyener/
     avatar: img/avatars/yenerm.png
   - name: Dr. Michael Juntao Yuan
     year: 2005
@@ -3438,4 +3737,5 @@ members:
     city: Mexico City
     social:
       twitter: https://twitter.com/chochosmx
+      linkedin: https://www.linkedin.com/in/myuan/
     avatar: img/avatars/chochosmx.png
