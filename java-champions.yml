@@ -456,6 +456,7 @@ members:
       nomination: USA
     social:
       linkedin: https://www.linkedin.com/in/bill-burke-091864121/
+      twitter: https://twitter.com/patriot1burke
     avatar: img/avatars/Bill_Burke.png
     status:
       - founding-member
@@ -464,7 +465,7 @@ members:
     country:
       nomination: USA
     social:
-      twitter: https://twitter.com/barryburdtweets
+      twitter: https://twitter.com/allmycode
       linkedin: https://www.linkedin.com/in/barry-burd/
     avatar: img/avatars/barryburdtweets.png
   - name: Ed Burns
@@ -1121,6 +1122,7 @@ members:
     city: Florianópolis, Santa Catarina
     social:
       linkedin: https://www.linkedin.com/in/brunoghisi/
+      twitter: https://twitter.com/brunogh
     avatar: img/avatars/Bruno_Ghisi.png
   - name: Fabrizio Gianneschi
     year: 2005
@@ -3023,6 +3025,7 @@ members:
     city: São Paulo
     social:
       linkedin: https://www.linkedin.com/in/yaramascarenhas/
+      twitter: https://twitter.com/yara_tdc
     avatar: img/avatars/yarasenger.png
   - name: Dr. Zoran Sevarac
     year: 2013
