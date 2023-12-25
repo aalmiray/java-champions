@@ -2621,6 +2621,14 @@ members:
       twitter: https://twitter.com/peter_pilgrim
       linkedin: https://www.linkedin.com/in/peterpilgrim2000/
     avatar: img/avatars/peter_pilgrim.png
+  - name: Piotr Przybyl
+    year: 2023
+    country:
+      nomination: Poland
+    city: Wrocław
+    social:
+      twitter: https://twitter.com/piotrprz
+    avatar: img/avatars/piotrprz.png
   - name: Prof. William Pugh
     year: 2007
     country:
