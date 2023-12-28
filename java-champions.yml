@@ -2628,6 +2628,11 @@ members:
     city: Wrocław
     social:
       twitter: https://twitter.com/piotrprz
+      linkedin: https://www.linkedin.com/in/piotrprzybyl/
+      mastodon: https://mstdn.social/@piotrprz
+      bluesky: https://bsky.app/profile/piotrprz.bsky.social
+      website: https://softwaregarden.dev/
+      sessionize: https://sessionize.com/piotr-przybyl/
     avatar: img/avatars/piotrprz.png
   - name: Prof. William Pugh
     year: 2007
