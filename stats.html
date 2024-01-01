@@ -58,7 +58,7 @@
 		<h1>Stats</h1>
 	</div>
 
-	<p><em>28 December 2023</em></p>
+	<p><em>01 January 2024</em></p>
 
 	<p><script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
@@ -76,7 +76,7 @@ function drawCharts() {
         ['France', 17],
         ['Canada', 13],
         ['Spain', 13],
-        ['Belgium', 8],
+        ['Belgium', 9],
         ['Switzerland', 8],
         ['Russian Federation', 7],
         ['Sweden', 6],
@@ -143,6 +143,7 @@ function drawCharts() {
 
       var yearsData = google.visualization.arrayToDataTable([
         ['YEAR', 'Total'],
+        ['2024', 1],
         ['2023', 19],
         ['2022', 14],
         ['2021', 22],
@@ -177,7 +178,7 @@ function drawCharts() {
           title: 'Country'
         },
         bars: 'horizontal',
-        height: '570'
+        height: '600'
       };
       var yearsChart = new google.charts.Bar(document.getElementById('years_chart_div'));
       yearsChart.draw(yearsData, yearsOptions);
