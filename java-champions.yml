@@ -839,6 +839,15 @@ members:
       twitter: https://twitter.com/juliendubois
       linkedin: https://www.linkedin.com/in/juliendubois/
     avatar: img/avatars/juliendubois.png
+  - name: Kevin Dubois
+    year: 2024
+    country:
+      nomination: Belgium
+    city: Brussels
+    social:
+      twitter: https://twitter.com/kevindubois
+      linkedin: https://www.linkedin.com/in/kevindubois/
+    avatar: img/avatars/kevindubois.png
   - name: Hendrik Ebbers
     year: 2016
     country:
