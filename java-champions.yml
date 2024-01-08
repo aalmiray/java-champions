@@ -3457,6 +3457,15 @@ members:
       website: https://jorgevargas.mx
       sessionize: https://sessionize.com/edivargas
     avatar: img/avatars/edivargas.png
+  - name: Dan Vega
+    year: 2024
+    country:
+      nomination: USA
+    city: Rocky River, OH
+    social:
+      twitter: https://twitter.com/therealdanvega
+      linkedin: https://www.linkedin.com/in/danvega/
+    avatar: img/avatars/therealdanvega.png
   - name: Bill Venners
     year: 2005
     country:
