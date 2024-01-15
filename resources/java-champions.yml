@@ -2514,6 +2514,17 @@ members:
       twitter: https://twitter.com/BethanKP
       linkedin: https://www.linkedin.com/in/bethan-palmer/
     avatar: img/avatars/BethanKP.png
+  - name: Mark Paluch
+    year: 2024
+    country:
+      nomination: Germany
+    social:
+      twitter: https://twitter.com/mp911de
+      mastodon: https://mastodon.social/@mp911de
+      github: https://github.com/mp911de
+      linkedin: https://www.linkedin.com/in/mark-paluch-6482092a4
+      website: https://paluch.biz
+    avatar: img/avatars/mp911de.png
   - name: Andrei Pangin
     year: 2020
     country:
