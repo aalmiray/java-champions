@@ -59,8 +59,6 @@ members:
       mastodon: https://c.im/@bercut2000
       linkedin: https://www.linkedin.com/in/dalexandrov/
     avatar: img/avatars/bercut2000.png
-    status:
-      - alumni
   - name: Dan Allen
     year: 2013
     country:
@@ -370,7 +368,8 @@ members:
       nomination: USA
     city: Washington DC
     social:
-      twitter: https://github.com/bokmann
+      twitter: https://twitter.com/bokmann
+      github: https://github.com/bokmann
       linkedin: https://www.linkedin.com/in/davidbock/
     avatar: img/avatars/bokmann.png
   - name: Jonas Bonér
@@ -455,6 +454,7 @@ members:
       nomination: USA
     social:
       linkedin: https://www.linkedin.com/in/bill-burke-091864121/
+      twitter: https://twitter.com/patriot1burke
     avatar: img/avatars/Bill_Burke.png
     status:
       - founding-member
@@ -463,7 +463,7 @@ members:
     country:
       nomination: USA
     social:
-      twitter: https://twitter.com/barryburdtweets
+      twitter: https://twitter.com/allmycode
       linkedin: https://www.linkedin.com/in/barry-burd/
     avatar: img/avatars/barryburdtweets.png
   - name: Ed Burns
@@ -787,7 +787,6 @@ members:
       citizenship: Italy
     city: London
     social:
-      twitter: https://twitter.com/fdiotalevi
       linkedin: https://www.linkedin.com/in/fdiotalevi/
     avatar: img/avatars/fdiotalevi.png
   - name: Hans Dockter
@@ -838,6 +837,21 @@ members:
       twitter: https://twitter.com/juliendubois
       linkedin: https://www.linkedin.com/in/juliendubois/
     avatar: img/avatars/juliendubois.png
+  - name: Kevin Dubois
+    year: 2024
+    country:
+      nomination: Belgium
+    city: Brussels
+    social:
+      twitter: https://twitter.com/kevindubois
+      linkedin: https://www.linkedin.com/in/kevindubois/
+      youtube: https://youtube.com/@thekevindubois
+      mastodon: https://mastodon.social/@kevindubois
+      bluesky: https://bsky.app/profile/kevindubois.com
+      sessionize: https://sessionize.com/kevindubois
+      github: https://github.com/kdubois
+      website: https://www.kevindubois.com
+    avatar: img/avatars/kevindubois.png
   - name: Hendrik Ebbers
     year: 2016
     country:
@@ -914,6 +928,8 @@ members:
       mastodon: https://foojay.social/@hannotify
       bluesky: https://bsky.app/profile/hannotify.bsky.social
       linkedin: https://www.linkedin.com/in/hannoembregts
+      sessionize: https://sessionize.com/hanno-embregts
+      github: https://github.com/hannotify
       website: https://hanno.codes
     avatar: img/avatars/hannotify.png
   - name: Christoph Engelbert
@@ -993,8 +1009,6 @@ members:
     country:
       nomination: USA
     city: Washington State
-    social:
-      twitter: https://twitter.com/__DavidFlanagan
     avatar: img/avatars/__DavidFlanagan.png
     status:
       - founding-member
@@ -1123,6 +1137,7 @@ members:
     city: Florianópolis, Santa Catarina
     social:
       linkedin: https://www.linkedin.com/in/brunoghisi/
+      twitter: https://twitter.com/brunogh
     avatar: img/avatars/Bruno_Ghisi.png
   - name: Fabrizio Gianneschi
     year: 2005
@@ -1201,7 +1216,6 @@ members:
       nomination: Germany
     city: Bremen
     social:
-      twitter: https://twitter.com/rgransberger
       mastodon: https://mastodon.social/@rgransberger
       linkedin: https://www.linkedin.com/in/rgransberger/
     avatar: img/avatars/rgransberger.png
@@ -1321,6 +1335,7 @@ members:
     social:
       twitter: https://twitter.com/ags313
       linkedin: https://www.linkedin.com/in/andrzejgrzesik/
+      sessionize: https://sessionize.com/ags
     avatar: img/avatars/ags313.png
   - name: Freddy Guime
     year: 2015
@@ -1745,8 +1760,8 @@ members:
     city: Chorafakia, Chania, Crete
     social:
       twitter: https://twitter.com/heinzkabutz
-      mastodon: https://mastodon.social/@HeinzKabutz
       linkedin: https://www.linkedin.com/in/heinzkabutz
+      github: https://github.com/kabutz
       website: https://www.javaspecialists.eu
     avatar: img/avatars/heinzkabutz.png
   - name: Mattias Karlsson
@@ -2385,7 +2400,6 @@ members:
       nomination: UK
     city: London
     social:
-      twitter: https://twitter.com/chriswhocodes
       mastodon: https://mastodon.social/@chriswhocodes
       linkedin: https://www.linkedin.com/in/chriswhocodes/
     avatar: img/avatars/chriswhocodes.png
@@ -2500,6 +2514,17 @@ members:
       twitter: https://twitter.com/BethanKP
       linkedin: https://www.linkedin.com/in/bethan-palmer/
     avatar: img/avatars/BethanKP.png
+  - name: Mark Paluch
+    year: 2024
+    country:
+      nomination: Germany
+    social:
+      twitter: https://twitter.com/mp911de
+      mastodon: https://mastodon.social/@mp911de
+      github: https://github.com/mp911de
+      linkedin: https://www.linkedin.com/in/mark-paluch-6482092a4
+      website: https://paluch.biz
+    avatar: img/avatars/mp911de.png
   - name: Andrei Pangin
     year: 2020
     country:
@@ -2622,6 +2647,19 @@ members:
       twitter: https://twitter.com/peter_pilgrim
       linkedin: https://www.linkedin.com/in/peterpilgrim2000/
     avatar: img/avatars/peter_pilgrim.png
+  - name: Piotr Przybyl
+    year: 2023
+    country:
+      nomination: Poland
+    city: Wrocław
+    social:
+      twitter: https://twitter.com/piotrprz
+      linkedin: https://www.linkedin.com/in/piotrprzybyl/
+      mastodon: https://mstdn.social/@piotrprz
+      bluesky: https://bsky.app/profile/piotrprz.bsky.social
+      website: https://softwaregarden.dev/
+      sessionize: https://sessionize.com/piotr-przybyl/
+    avatar: img/avatars/piotrprz.png
   - name: Prof. William Pugh
     year: 2007
     country:
@@ -2920,6 +2958,7 @@ members:
       linkedin: https://www.linkedin.com/in/deepu05
       github: https://github.com/deepu105
       website: https://deepu.tech
+      sessionize: https://sessionize.com/deepu-k-sasidharan
     avatar: img/avatars/deepu105.png
   - name: Tom Schindl
     year: 2015
@@ -3010,7 +3049,12 @@ members:
     city: Forest Lake, MN
     social:
       twitter: https://twitter.com/ntschutta
-      linkedin: https://www.linkedin.com/in/nate-schutta-2634b4241/
+      linkedin: https://www.linkedin.com/in/nate-schutta/
+      bluesky: https://bsky.app/profile/nts.bsky.social
+      youtube: https://www.youtube.com/channel/UCQv8lTtoo-rNOmfrlQn6IyQ
+      github: https://github.com/ntschutta/
+      website: https://ntschutta.io
+      sessionize: https://sessionize.com/nathaniel-schutta/
     avatar: img/avatars/ntschutta.png
   - name: Vinicius Senger
     year: 2016
@@ -3026,8 +3070,8 @@ members:
       nomination: Brazil
     city: São Paulo
     social:
-      twitter: https://twitter.com/yarasenger
       linkedin: https://www.linkedin.com/in/yaramascarenhas/
+      twitter: https://twitter.com/yara_tdc
     avatar: img/avatars/yarasenger.png
   - name: Dr. Zoran Sevarac
     year: 2013
@@ -3337,6 +3381,7 @@ members:
       twitter: https://twitter.com/henri_tremblay
       mastodon: https://mastodon.world/@henri
       linkedin: https://www.linkedin.com/in/henritremblay
+      github: https://github.com/henri-tremblay
       website: https://blog.tremblay.pro
     avatar: img/avatars/henri_tremblay.png
   - name: Ray Tsang
@@ -3349,6 +3394,15 @@ members:
       mastodon: https://mastodon.social/@saturnism
       linkedin: https://www.linkedin.com/in/rayjtsang/
     avatar: img/avatars/saturnism.png
+  - name: Cǎtǎlin Tudose
+    year: 2024
+    country:
+      nomination: Romania
+    city: Bucharest
+    social:
+      twitter: https://twitter.com/CatalinTudose5
+      linkedin: https://www.linkedin.com/in/catalin-tudose-847667a1/
+    avatar: img/avatars/CatalinTudose.jpg
   - name: Klaasjan Tukker
     year: 2005
     country:
@@ -3429,6 +3483,15 @@ members:
       website: https://jorgevargas.mx
       sessionize: https://sessionize.com/edivargas
     avatar: img/avatars/edivargas.png
+  - name: Dan Vega
+    year: 2024
+    country:
+      nomination: USA
+    city: Rocky River, OH
+    social:
+      twitter: https://twitter.com/therealdanvega
+      linkedin: https://www.linkedin.com/in/danvega/
+    avatar: img/avatars/therealdanvega.png
   - name: Bill Venners
     year: 2005
     country:
