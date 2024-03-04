@@ -2980,6 +2980,15 @@ members:
     avatar: img/avatars/Olivier_Schmitt.png
     status:
       - founding-member
+  - name: Jonathan Schneider
+    year: 2024
+    country:
+      nomination: USA
+    city: Miami
+    social:
+      twitter: https://twitter.com/jon_k_schneider
+      linkedin: https://www.linkedin.com/in/jonkschneider
+    avatar: img/avatars/jon_k_schneider.png
   - name: Robert Scholte
     year: 2019
     country:
