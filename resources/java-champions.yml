@@ -2647,6 +2647,15 @@ members:
       twitter: https://twitter.com/peter_pilgrim
       linkedin: https://www.linkedin.com/in/peterpilgrim2000/
     avatar: img/avatars/peter_pilgrim.png
+  - name: Julien Ponge
+    year: 2024
+    country:
+      nomination: France
+    city: Tassin-la-Demi-Lune
+    social:
+      twitter: https://twitter.com/jponge
+      linkedin: https://www.linkedin.com/in/julienponge/
+    avatar: img/avatars/jponge.jpg
   - name: Piotr Przybyl
     year: 2023
     country:
@@ -3660,6 +3669,14 @@ members:
       twitter: https://twitter.com/CaptainWebber
       linkedin: https://www.linkedin.com/in/captainwebber/
     avatar: img/avatars/CaptainWebber.png
+  - name: Patrycja Wegrzynowicz
+    year: 2024
+    country:
+      nomination: Poland
+    social:
+      twitter: https://twitter.com/yonlabs
+      linkedin: https://www.linkedin.com/in/patrycjaw/
+    avatar: img/avatars/yonlabs.jpg
   - name: Miro Wengner
     year: 2018
     country:
