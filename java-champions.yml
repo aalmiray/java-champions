@@ -3660,6 +3660,14 @@ members:
       twitter: https://twitter.com/CaptainWebber
       linkedin: https://www.linkedin.com/in/captainwebber/
     avatar: img/avatars/CaptainWebber.png
+  - name: Patrycja Wegrzynowicz
+    year: 2024
+    country:
+      nomination: Poland
+    social:
+      twitter: https://twitter.com/yonlabs
+      linkedin: https://www.linkedin.com/in/patrycjaw/
+    avatar: img/avatars/yonlabs.jpg
   - name: Miro Wengner
     year: 2018
     country:
