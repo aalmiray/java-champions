@@ -2651,10 +2651,13 @@ members:
     year: 2024
     country:
       nomination: France
-    city: Tassin-la-Demi-Lune
+    city: Tassin-La-Demi-Lune, Lyon
     social:
       twitter: https://twitter.com/jponge
       linkedin: https://www.linkedin.com/in/julienponge/
+      bluesky: https://bsky.app/profile/jponge.bsky.social
+      github: https://github.com/jponge
+      website: https://julien.ponge.org/
     avatar: img/avatars/jponge.jpg
   - name: Piotr Przybyl
     year: 2023
