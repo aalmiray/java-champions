@@ -58,7 +58,7 @@
 		<h1>Stats</h1>
 	</div>
 
-	<p><em>19 March 2024</em></p>
+	<p><em>25 March 2024</em></p>
 
 	<p><script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
@@ -68,7 +68,7 @@ google.charts.setOnLoadCallback(drawCharts);
 function drawCharts() {
       var countriesData = google.visualization.arrayToDataTable([
         ['Country', 'Total'],
-        ['USA', 126],
+        ['USA', 127],
         ['Germany', 35],
         ['UK', 33],
         ['The Netherlands', 18],
@@ -117,6 +117,7 @@ function drawCharts() {
         ['Philippines', 1],
         ['Czech Republic', 1],
         ['Burkina Faso', 1],
+        ['Dominican Republic', 1],
         ['Israel', 1],
         ['Australia', 1],
         ['Indonesia', 1],
@@ -136,14 +137,14 @@ function drawCharts() {
           title: 'Country'
         },
         bars: 'horizontal',
-        height: '1560'
+        height: '1590'
       };
       var countriesChart = new google.charts.Bar(document.getElementById('countries_chart_div'));
       countriesChart.draw(countriesData, countriesOptions);
 
       var yearsData = google.visualization.arrayToDataTable([
         ['YEAR', 'Total'],
-        ['2024', 7],
+        ['2024', 9],
         ['2023', 19],
         ['2022', 14],
         ['2021', 22],
