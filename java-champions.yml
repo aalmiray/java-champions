@@ -475,6 +475,15 @@ members:
       twitter: https://twitter.com/edburns
       linkedin: https://www.linkedin.com/in/edburns/
     avatar: img/avatars/edburns.png
+  - name: Eudris Cabrera
+    year: 2024
+    country:
+      nomination: Dominican Republic
+    city: Santiago
+    social:
+      twitter: https://twitter.com/eudriscabrera
+      linkedin: https://www.linkedin.com/in/eudriscabrera/
+    avatar: img/avatars/eudriscabrera.jpg
   - name: Mert Caliskan
     year: 2014
     country:
