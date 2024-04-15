@@ -2909,6 +2909,14 @@ members:
       sessionize: https://sessionize.com/antoine-sabot-durand
       speakerdeck: https://speakerdeck.com/antoine_sd
     avatar: img/avatars/antoine_sd.png
+  - name: Baruch Sadogursky
+    year: 2024
+    country:
+      nomination: USA
+    city: Nolensville, TN
+    social:
+      twitter: https://twitter.com/jbaruch
+    avatar: img/avatars/jbaruch.png
   - name: Koichi Sakata
     year: 2018
     country:
