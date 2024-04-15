@@ -1587,10 +1587,13 @@ members:
     year: 2005
     country:
       nomination: USA
-    city: San Francisco, California
+      residence: Germany
+    city: Düsseldorf
     social:
-      twitter: https://twitter.com/cayhorstmann
       linkedin: https://www.linkedin.com/in/cay-horstmann-659a4b/
+      mastodon: https://foojay.social/@cayhorstmann
+      github: https://github.com/cayhorstmann
+      website: https://horstmann.com
     avatar: img/avatars/cayhorstmann.png
   - name: Gerardo Horvilleur
     year: 2005
