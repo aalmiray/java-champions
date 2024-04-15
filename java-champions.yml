@@ -1586,7 +1586,8 @@ members:
   - name: Dr. Cay Horstmann
     year: 2005
     country:
-      nomination: Germany
+      nomination: USA
+      residence: Germany
     city: Düsseldorf
     social:
       linkedin: https://www.linkedin.com/in/cay-horstmann-659a4b/
