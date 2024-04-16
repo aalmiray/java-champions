@@ -2916,14 +2916,18 @@ members:
     year: 2024
     country:
       nomination: USA
+      residence: USA
       citizenship: Israel
+      birth: USSR
     city: Nolensville, TN
     social:
       twitter: https://twitter.com/jbaruch
       bluesky: https://bsky.app/profile/jbaru.ch
       linkedin: https://www.linkedin.com/in/jbaruch
       sessionize: https://sessionize.com/jbaruch/
-      notist: https://speaking.jbaru.ch/
+      website: https://speaking.jbaru.ch/
+      mastodon: https://mastodon.online/@jbaruch
+      youtube: https://www.youtube.com/channel/UCZ8-VX2SiAIBE7guw7NG-Sg
     avatar: img/avatars/jbaruch.png
   - name: Koichi Sakata
     year: 2018
