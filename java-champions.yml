@@ -2916,9 +2916,14 @@ members:
     year: 2024
     country:
       nomination: USA
+      citizenship: Israel
     city: Nolensville, TN
     social:
       twitter: https://twitter.com/jbaruch
+      bluesky: https://bsky.app/profile/jbaru.ch
+      linkedin: https://www.linkedin.com/in/jbaruch
+      sessionize: https://sessionize.com/jbaruch/
+      notist: https://speaking.jbaru.ch/
     avatar: img/avatars/jbaruch.png
   - name: Koichi Sakata
     year: 2018
