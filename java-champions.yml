@@ -3595,6 +3595,8 @@ members:
     year: 2021
     country:
       nomination: Germany
+      residence: Germany
+      birth: Germany
     city: Moenchengladbach
     social:
       twitter: https://twitter.com/michaelvitz
@@ -3605,6 +3607,7 @@ members:
       github: https://github.com/mvitz
       website: https://mvitz.de
       sessionize: https://sessionize.com/michaelvitz/
+      xing: https://www.xing.com/profile/Michael_Vitz2
     avatar: img/avatars/michaelvitz.png
   - name: Lars Vogel
     year: 2012
