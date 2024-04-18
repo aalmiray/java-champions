@@ -3568,12 +3568,14 @@ members:
     year: 2012
     country:
       nomination: UK
-    city: London
+      residence: New Zealand
+      birth: The Netherlands
     social:
       twitter: https://twitter.com/karianna
       mastodon: https://mastodon.social/@martijnverburg
       bluesky: https://bsky.app/profile/karianna.bsky.social
       linkedin: https://www.linkedin.com/in/martijnverburg
+      github: https://github.com/karianna
       sessionize: https://sessionize.com/martijnverburg
     avatar: img/avatars/karianna.png
   - name: Brian Vermeer
