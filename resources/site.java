@@ -1,8 +1,8 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 17
-//DEPS com.fasterxml.jackson.core:jackson-core:2.14.1
-//DEPS com.fasterxml.jackson.core:jackson-databind:2.14.1
-//DEPS com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.14.1
+//DEPS com.fasterxml.jackson.core:jackson-core:2.16.0
+//DEPS com.fasterxml.jackson.core:jackson-databind:2.16.0
+//DEPS com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.16.0
 
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
 
@@ -20,7 +20,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class site {
-    private static final Map<String, String> STATUS = new TreeMap(Map.of(
+    private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
         "founding-member", "pass:[<i class=\"fa fa-star\"></i>]",
         "honorary-member", "pass:[<i class=\"fa fa-medal\"></i>]",
         "alumni", "pass:[<i class=\"fa fa-pause\"></i>]",
@@ -32,8 +32,13 @@ public class site {
         "twitter", "pass:[<span class=\"icon\"><i class=\"fab fa-twitter\"></i></span>]",
         "mastodon", "pass:[<span class=\"icon\"><i class=\"fab fa-mastodon\"></i></span>]",
         "linkedin", "pass:[<span class=\"icon\"><i class=\"fab fa-linkedin\"></i></span>]",
+        "xing", "pass:[<span class=\"icon\"><i class=\"fab fa-xing\"></i></span>]",
         "github", "pass:[<span class=\"icon\"><i class=\"fab fa-github\"></i></span>]",
-        "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\"></i></span>]"
+        "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-cloud\"></i></span>]",
+        "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\"></i></span>]",
+        "youtube", "pass:[<span class=\"icon\"><i class=\"fab fa-youtube-square\"></i></span>]",
+        "sessionize", "pass:[<span class=\"icon\"><i class=\"fa fa-bullhorn\"></i></span>]",
+        "speakerdeck", "pass:[<span class=\"icon\"><i class=\"fab fa-speaker-deck\"></i></span>]"
     );
 
     private static final Map<String, String> COUNTRY = Map.of(
@@ -74,12 +79,12 @@ public class site {
         Files.write(output, membersDoc.toString().getBytes());
 
         // generate stats.adoc
-        Map<String, Long> countries = members.members.stream()
+        var countries = members.members.stream()
             .map(m -> m.country.nomination)
             .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
         // TODO: sort by country name after sorting by count
-        StringBuilder countriesSb = new StringBuilder();
+        var countriesSb = new StringBuilder();
         countries.entrySet().stream()
             .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
             .forEach(e -> countriesSb.append("        ['")
@@ -88,11 +93,11 @@ public class site {
                 .append(e.getValue())
                 .append("],\n"));
 
-        Map<String, Long> years = members.members.stream()
+        var years = members.members.stream()
             .map(m -> m.year)
             .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
-        StringBuilder yearsSb = new StringBuilder();
+        var yearsSb = new StringBuilder();
         years.entrySet().stream()
             .sorted(Map.Entry.comparingByKey(Comparator.reverseOrder()))
             .forEach(e -> yearsSb.append("        ['")
@@ -134,7 +139,7 @@ public class site {
         public List<String> status = new ArrayList<>();
 
         String formatted() {
-            StringBuilder b = new StringBuilder("|{counter:idx}\n")
+            var b = new StringBuilder("|{counter:idx}\n")
                 .append("|image:")
                 .append(avatar)
                 .append("[]");
@@ -190,7 +195,7 @@ public class site {
         public String birth;
 
         String formatted() {
-            StringBuilder b = new StringBuilder("|")
+            var b = new StringBuilder("|")
                 .append(COUNTRY.get("nomination"))
                 .append(" ")
                 .append(nomination);
@@ -224,12 +229,17 @@ public class site {
     static class Social {
         public String twitter;
         public String mastodon;
+        public String bluesky;
         public String linkedin;
         public String github;
         public String website;
+        public String youtube;
+        public String sessionize;
+        public String speakerdeck;
+        public String xing;
 
         String formatted() {
-            StringBuilder b = new StringBuilder("|");
+            var b = new StringBuilder("|");
 
             if (twitter != null && !twitter.isBlank()) {
                 b.append("link:")
@@ -247,11 +257,27 @@ public class site {
                     .append("] ");
             }
 
+            if (bluesky != null && !bluesky.isBlank()) {
+                b.append("link:")
+                    .append(bluesky)
+                    .append("[")
+                    .append(SOCIAL.get("bluesky"))
+                    .append("] ");
+            }
+
             if (linkedin != null && !linkedin.isBlank()) {
                 b.append("link:")
                     .append(linkedin)
                     .append("[")
                     .append(SOCIAL.get("linkedin"))
+                    .append("] ");
+            }
+
+            if (xing != null && !xing.isBlank()) {
+                b.append("link:")
+                    .append(xing)
+                    .append("[")
+                    .append(SOCIAL.get("xing"))
                     .append("] ");
             }
 
@@ -271,13 +297,37 @@ public class site {
                     .append("] ");
             }
 
+            if (youtube != null && !youtube.isBlank()) {
+                b.append("link:")
+                    .append(youtube)
+                    .append("[")
+                    .append(SOCIAL.get("youtube"))
+                    .append("] ");
+            }
+
+            if (sessionize != null && !sessionize.isBlank()) {
+                b.append("link:")
+                    .append(sessionize)
+                    .append("[")
+                    .append(SOCIAL.get("sessionize"))
+                    .append("] ");
+            }
+
+            if (speakerdeck != null && !speakerdeck.isBlank()) {
+                b.append("link:")
+                    .append(speakerdeck)
+                    .append("[")
+                    .append(SOCIAL.get("speakerdeck"))
+                    .append("] ");
+            }
+
             return b.append("\n").toString();
         }
 
         String getMastodonAccount() {
-            String s = mastodon.split("@")[0].substring(8);
+            var s = mastodon.split("@")[0].substring(8);
             s = s.substring(0, s.length() - 1);
-            String n = mastodon.split("@")[1];
+            var n = mastodon.split("@")[1];
             return "@" + n + "@" + s;
         }
     }

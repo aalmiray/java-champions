@@ -1,19 +1,38 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 17
-//DEPS com.fasterxml.jackson.core:jackson-core:2.12.3
-//DEPS com.fasterxml.jackson.core:jackson-databind:2.12.3
-
-import java.io.*;
-import java.net.*;
-import java.net.http.*;
-import java.nio.file.*;
-import java.time.Duration;
-import java.time.temporal.ChronoUnit;
+//DEPS com.fasterxml.jackson.core:jackson-core:2.16.0
+//DEPS com.fasterxml.jackson.core:jackson-databind:2.16.0
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import java.net.URI;
+import java.net.URL;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.StandardCopyOption;
+import java.time.Duration;
+import java.time.temporal.ChronoUnit;
+import java.util.List;
+
 public class avatars {
     private static final long PAUSE = 5000;
+
+    private static final List<String> SKIP = List.of(
+        "Barry_Levine",
+        "Calvin_Austin",
+        "Flavia_Coelho",
+        "Jayson_Raymond",
+        "Jeff_Cobb",
+        "Paul_Lipton",
+        "Qusay_Mahmoud",
+        "Srikanth_Raju",
+        "davidgeary",
+        "dhinojosa",
+        "MaritvanDijk77"
+    );
 
     public static void main(String... args) throws Exception {
         if (null == args || args.length != 2) {
@@ -35,6 +54,10 @@ public class avatars {
         Files.list(directory).sorted().forEach(image -> {
             var imageName = image.getFileName().toString();
             var username = imageName.substring(0, imageName.length() - 4);
+            if (SKIP.contains(username)) {
+                System.out.printf("🛑 %s%n", username);
+                return;
+            }
 
             try {
                 var userProfileUri = new URI("https://api.twitter.com/1.1/users/show.json?screen_name=" + username);
@@ -73,7 +96,7 @@ public class avatars {
 
                 Thread.sleep(PAUSE);
             } catch (Exception e) {
-                System.out.printf("❌ %s -> %s%n", username, e.toString());
+                System.out.printf("❌ %s -> %s%n", username, e);
             }
         });
     }
