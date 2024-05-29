@@ -14,7 +14,7 @@ The Java Champions group operates under the Java Champions Oracle Trademark; the
 ## Article II: Membership
 
 ### Section 1: Eligibility
-Membership is open to individuals who have been nominated by a current Java Champion Member and approved by the Java Champion Group.
+Membership is open to individuals who have been nominated by a current Java Champion Member and approved by the Java Champion Group and are not Oracle Employees.
 
 ### Section 2: Nomination
 A current Java Champion nominates an individual by submitting the form on [Typeform](https://form.typeform.com/to/dMS1s8). The nomination requires both a nominator and a co-nominator.
