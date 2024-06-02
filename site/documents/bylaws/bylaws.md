@@ -28,7 +28,7 @@ To participate in any Group activity, a member must be active unless otherwise n
 Membership is open to individuals who have been nominated by a current Group member and approved by the Group and are not Oracle Employees.
 
 ### Section 3: Nomination
-A Group member nominates an individual by submitting the form on [Typeform](https://form.typeform.com/to/dMS1s8). The nomination requires both a nominator and a co-nominator.
+A Group member nominates an individual by submitting the nomination form. The nomination form is created and maintained by the Group. The nomination requires both a nominator and a co-nominator.
 
 ### Section 4: Discussion Period
 Once a nomination has been submitted and processed by Oracle's Java Champion Team, it will be announced on the Group Mailing List. This initiates a two-week discussion period during which Group members can discuss the candidate without voting.
