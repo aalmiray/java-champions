@@ -124,6 +124,14 @@ members:
       twitter: https://twitter.com/Paul_ASGTeach
       linkedin: https://www.linkedin.com/in/paul-asgteach/
     avatar: img/avatars/Paul_ASGTeach.png
+  - name: Mohammed Aboullaite
+    year: 2024  
+    country:
+      nomination: Sweden
+    city: Stockholm
+    social:
+      twitter: https://twitter.com/laytoun
+    avatar: img/avatars/laytoun.png
   - name: Fernando Anselmo
     year: 2006
     country:
