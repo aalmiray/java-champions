@@ -2939,6 +2939,14 @@ members:
       mastodon: https://mastodon.online/@jbaruch
       youtube: https://www.youtube.com/channel/UCZ8-VX2SiAIBE7guw7NG-Sg
     avatar: img/avatars/jbaruch.png
+  - name: Charles Sabourdin
+    year: 2024
+    country:
+      nomination: France
+    city: Ile-de-France
+    social:
+      twitter: https://twitter.com/kanedafromparis
+    avatar: img/avatars/kanedafromparis.png
   - name: Koichi Sakata
     year: 2018
     country:
