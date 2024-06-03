@@ -1456,6 +1456,8 @@ members:
       twitter: https://twitter.com/DanHeidinga
       linkedin: https://www.linkedin.com/in/dan-heidinga/
     avatar: img/avatars/DanHeidinga.png
+    status:
+      - alumni
   - name: Michael Heinrichs
     year: 2017
     country:
