@@ -6,7 +6,7 @@
 The name of this organization shall be the Java Champions Community, hereinafter referred to as "the Group."
 
 ### Section 2: Purpose
-The purpose of the Group is to recognize key influencers in the Java community, provide advice, advance the adoption, and support the Java language and platform.
+The purpose of the Group is to recognize key influencers in the Java community, provide advice, support and advance the adoption of the Java language and platform.
 
 ### Section 3: Trademark
 The Group operates under the Java Champions Oracle Trademark; therefore, these bylaws must be considered in the context of the Trademark.
