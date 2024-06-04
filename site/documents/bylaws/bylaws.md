@@ -19,7 +19,8 @@ The Group use of the Java Champions Logo is subject to Oracle's Term and Conditi
 ### Section 1: Membership Status
 Members of the Group can fall into three categories:
 
- - Renounced: Members that have chosen to leave the Group
+ 1. Renounced: Members that have chosen to leave the Group
+
  - Alumni: Members that have joined Oracle after becoming Java Champions
  - Active: Members that are neither Renounced nor Alumni
 
