@@ -79,7 +79,7 @@ After the amendment pull request has been submitted, a two-week discussion perio
 Following the discussion period, a one-week voting period is set aside for open polling through the mailing list.
 
 ### Section 5: Voting Procedure
-Voting on amendments to these bylaws shall be conducted openly to ensure transparency. Each member's vote shall be recorded and disclosed. The results, including the total number of votes for and against, shall be documented by merging (if passed) or closing (if failed) the pull request amending the bylaws.
+Voting on amendments to these bylaws shall be conducted openly within the Group to ensure transparency. Each member's vote shall be recorded and disclosed. The results, including the total number of votes for and against, shall be documented by merging (if passed) or closing (if failed) the pull request amending the bylaws.
 
 ### Section 6: Approval
 Amendments must be approved by a two-thirds majority of the members voting in the poll.
