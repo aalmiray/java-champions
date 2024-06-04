@@ -46,12 +46,12 @@ Voting is not compulsory, so Group members may choose not to participate in a ca
 A vote of "-1" carries significant weight against the nomination. Group members voting "-1" must provide a reason for their disapproval.
 
 ### Section 7: Results
-After the two-week voting period, the results are tallied.
+After the two-week voting period, the results are tallied:
 - Two negative ("-1") votes will disqualify a candidate.
 - A minimum of three "+1" votes are required to confirm a candidate as a Java Champion, and becoming a new member of the group.
 
 ### Section 8: Rights and Responsibilities
-Members have the right to attend meetings, vote on the Group matters, and participate in the Group activities. They are responsible for upholding the Group's mission and adhering to these bylaws.
+Members have the right to attend meetings, vote on the Group matters, and participate in the Group activities. They are responsible for upholding the Group's purpose and adhering to these bylaws.
 
 ### Section 9: Renouncing Membership
 A member may renounce their membership at any time by submitting a pull request to update their status in the [Java Champions List](https://github.com/aalmiray/java-champions/blob/main/java-champions.yml) as renounced. In addition, the member must announce to our mailing list their intent to renounce membership to the Group.
