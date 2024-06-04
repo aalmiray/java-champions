@@ -54,7 +54,7 @@ After the two-week voting period, the results are tallied:
 Members have the right to attend meetings, vote on the Group matters, and participate in the Group activities. They are responsible for upholding the Group's purpose and adhering to these bylaws.
 
 ### Section 9: Renouncing Membership
-A member may renounce their membership at any time by submitting a pull request to update their status in the [Java Champions List](https://github.com/aalmiray/java-champions/blob/main/java-champions.yml) as renounced. In addition, the member must announce to our mailing list their intent to renounce membership to the Group.
+A member may renounce their membership at any time by announcing their intent to renounce to the Group mailing list.
 
 ## Article III: Meetings
 
