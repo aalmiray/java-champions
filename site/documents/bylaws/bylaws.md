@@ -21,7 +21,8 @@ Members of the Group can fall into three categories:
 
  1. Renounced: Members that have chosen to leave the Group
 
- - Alumni: Members that have joined Oracle after becoming Java Champions
+ 1. Alumni: Members that have joined Oracle after becoming Java Champions
+
  - Active: Members that are neither Renounced nor Alumni
 
 To participate in any Group activity, a member must be active unless otherwise noted in these bylaws.
