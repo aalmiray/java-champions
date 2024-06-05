@@ -3272,11 +3272,14 @@ members:
     avatar: img/avatars/struberg.png
   - name: Domingo Suarez
     year: 2019
+    city: Mexico City
     country:
       nomination: Mexico
     social:
       twitter: https://twitter.com/domix
       linkedin: https://www.linkedin.com/in/domix/
+      github: https://github.com/domix
+      website: https://domingosuarez.com
     avatar: img/avatars/domix.png
   - name: Dr. Venkat Subramaniam
     year: 2013
