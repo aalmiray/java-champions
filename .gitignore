@@ -5,3 +5,6 @@
 *.iws
 output/
 .DS_Store
+
+# VS Code project files
+.vscode/

@@ -124,6 +124,14 @@ members:
       twitter: https://twitter.com/Paul_ASGTeach
       linkedin: https://www.linkedin.com/in/paul-asgteach/
     avatar: img/avatars/Paul_ASGTeach.png
+  - name: Mohammed Aboullaite
+    year: 2024  
+    country:
+      nomination: Sweden
+    city: Stockholm
+    social:
+      twitter: https://twitter.com/laytoun
+    avatar: img/avatars/laytoun.png
   - name: Fernando Anselmo
     year: 2006
     country:
@@ -475,6 +483,15 @@ members:
       twitter: https://twitter.com/edburns
       linkedin: https://www.linkedin.com/in/edburns/
     avatar: img/avatars/edburns.png
+  - name: Eudris Cabrera
+    year: 2024
+    country:
+      nomination: Dominican Republic
+    city: Santiago
+    social:
+      twitter: https://twitter.com/eudriscabrera
+      linkedin: https://www.linkedin.com/in/eudriscabrera/
+    avatar: img/avatars/eudriscabrera.jpg
   - name: Mert Caliskan
     year: 2014
     country:
@@ -686,6 +703,20 @@ members:
       website: https://www.sebastian-daschner.com
       linkedin: https://www.linkedin.com/in/sebastian-daschner-9894bb103/
     avatar: img/avatars/DaschnerS.png
+  - name: Eric Deandrea
+    year: 2024
+    country:
+      nomination: USA
+    city: Manchester, New Hampshire
+    social:
+      twitter: https://twitter.com/edeandrea
+      mastodon: https://mastodon.social/@edeandrea
+      linkedin: https://www.linkedin.com/in/edeandrea/
+      github: https://github.com/edeandrea
+      speakerdeck: https://speakerdeck.com/edeandrea
+      bluesky: https://bsky.app/profile/edeandrea.bsky.social
+      sessionize: https://sessionize.com/edeandrea/
+    avatar: img/avatars/edeandrea.jpg
   - name: Paul J. Deitel
     year: 2005
     country:
@@ -1012,7 +1043,7 @@ members:
     avatar: img/avatars/__DavidFlanagan.png
     status:
       - founding-member
-  - name: Prof. Ken Fogel
+  - name: Ken Fogel
     year: 2018
     country:
       nomination: Canada
@@ -1433,6 +1464,8 @@ members:
       twitter: https://twitter.com/DanHeidinga
       linkedin: https://www.linkedin.com/in/dan-heidinga/
     avatar: img/avatars/DanHeidinga.png
+    status:
+      - alumni
   - name: Michael Heinrichs
     year: 2017
     country:
@@ -1564,10 +1597,13 @@ members:
     year: 2005
     country:
       nomination: USA
-    city: San Francisco, California
+      residence: Germany
+    city: Düsseldorf
     social:
-      twitter: https://twitter.com/cayhorstmann
       linkedin: https://www.linkedin.com/in/cay-horstmann-659a4b/
+      mastodon: https://foojay.social/@cayhorstmann
+      github: https://github.com/cayhorstmann
+      website: https://horstmann.com
     avatar: img/avatars/cayhorstmann.png
   - name: Gerardo Horvilleur
     year: 2005
@@ -2647,6 +2683,18 @@ members:
       twitter: https://twitter.com/peter_pilgrim
       linkedin: https://www.linkedin.com/in/peterpilgrim2000/
     avatar: img/avatars/peter_pilgrim.png
+  - name: Dr. Julien Ponge
+    year: 2024
+    country:
+      nomination: France
+    city: Tassin-La-Demi-Lune, Lyon
+    social:
+      twitter: https://twitter.com/jponge
+      linkedin: https://www.linkedin.com/in/julienponge/
+      bluesky: https://bsky.app/profile/jponge.bsky.social
+      github: https://github.com/jponge
+      website: https://julien.ponge.org/
+    avatar: img/avatars/jponge.jpg
   - name: Piotr Przybyl
     year: 2023
     country:
@@ -2874,6 +2922,31 @@ members:
       sessionize: https://sessionize.com/antoine-sabot-durand
       speakerdeck: https://speakerdeck.com/antoine_sd
     avatar: img/avatars/antoine_sd.png
+  - name: Baruch Sadogursky
+    year: 2024
+    country:
+      nomination: USA
+      residence: USA
+      citizenship: Israel
+      birth: USSR
+    city: Nolensville, TN
+    social:
+      twitter: https://twitter.com/jbaruch
+      bluesky: https://bsky.app/profile/jbaru.ch
+      linkedin: https://www.linkedin.com/in/jbaruch
+      sessionize: https://sessionize.com/jbaruch/
+      website: https://speaking.jbaru.ch/
+      mastodon: https://mastodon.online/@jbaruch
+      youtube: https://www.youtube.com/channel/UCZ8-VX2SiAIBE7guw7NG-Sg
+    avatar: img/avatars/jbaruch.png
+  - name: Charles Sabourdin
+    year: 2024
+    country:
+      nomination: France
+    city: Ile-de-France
+    social:
+      twitter: https://twitter.com/kanedafromparis
+    avatar: img/avatars/kanedafromparis.png
   - name: Koichi Sakata
     year: 2018
     country:
@@ -2958,6 +3031,7 @@ members:
       linkedin: https://www.linkedin.com/in/deepu05
       github: https://github.com/deepu105
       website: https://deepu.tech
+      sessionize: https://sessionize.com/deepu-k-sasidharan
     avatar: img/avatars/deepu105.png
   - name: Tom Schindl
     year: 2015
@@ -2979,6 +3053,15 @@ members:
     avatar: img/avatars/Olivier_Schmitt.png
     status:
       - founding-member
+  - name: Jonathan Schneider
+    year: 2024
+    country:
+      nomination: USA
+    city: Miami
+    social:
+      twitter: https://twitter.com/jon_k_schneider
+      linkedin: https://www.linkedin.com/in/jonkschneider
+    avatar: img/avatars/jon_k_schneider.png
   - name: Robert Scholte
     year: 2019
     country:
@@ -3503,12 +3586,14 @@ members:
     year: 2012
     country:
       nomination: UK
-    city: London
+      residence: New Zealand
+      birth: The Netherlands
     social:
       twitter: https://twitter.com/karianna
       mastodon: https://mastodon.social/@martijnverburg
       bluesky: https://bsky.app/profile/karianna.bsky.social
       linkedin: https://www.linkedin.com/in/martijnverburg
+      github: https://github.com/karianna
       sessionize: https://sessionize.com/martijnverburg
     avatar: img/avatars/karianna.png
   - name: Brian Vermeer
@@ -3539,6 +3624,8 @@ members:
     year: 2021
     country:
       nomination: Germany
+      residence: Germany
+      birth: Germany
     city: Moenchengladbach
     social:
       twitter: https://twitter.com/michaelvitz
@@ -3549,6 +3636,7 @@ members:
       github: https://github.com/mvitz
       website: https://mvitz.de
       sessionize: https://sessionize.com/michaelvitz/
+      xing: https://www.xing.com/profile/Michael_Vitz2
     avatar: img/avatars/michaelvitz.png
   - name: Lars Vogel
     year: 2012
@@ -3650,6 +3738,14 @@ members:
       twitter: https://twitter.com/CaptainWebber
       linkedin: https://www.linkedin.com/in/captainwebber/
     avatar: img/avatars/CaptainWebber.png
+  - name: Patrycja Wegrzynowicz
+    year: 2024
+    country:
+      nomination: Poland
+    social:
+      twitter: https://twitter.com/yonlabs
+      linkedin: https://www.linkedin.com/in/patrycjaw/
+    avatar: img/avatars/yonlabs.jpg
   - name: Miro Wengner
     year: 2018
     country:
