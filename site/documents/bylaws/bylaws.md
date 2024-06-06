@@ -11,9 +11,6 @@ The purpose of the Group is to recognize key influencers in the Java community, 
 ### Section 3: Trademark
 The Group operates under the Java Champions Oracle Trademark; therefore, these bylaws must be considered in the context of the Trademark.
 
-### Section 4: Logo
-The Group use of the Java Champions Logo is subject to Oracle's Term and Conditions. 
-
 ## Article II: Membership
 
 ### Section 1: Membership Status
