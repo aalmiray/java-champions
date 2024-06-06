@@ -48,7 +48,7 @@ After the two-week voting period, the results are tallied:
 - A minimum of three "+1" votes are required to confirm a candidate as a Java Champion, and becoming a new member of the group.
 
 ### Section 8: Rights and Responsibilities
-Members have the right to attend meetings, vote on the Group matters, and participate in the Group activities. They are responsible for upholding the Group's purpose and adhering to these bylaws.
+Members have the right to attend meetings, vote on the Group matters, and participate in the Group activities.
 
 ### Section 9: Renouncing Membership
 A member may renounce their membership at any time by announcing their intent to renounce to the Group mailing list.
