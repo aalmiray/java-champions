@@ -2747,11 +2747,13 @@ members:
       twitter: https://twitter.com/TheDonRaab
       linkedin: https://www.linkedin.com/in/donald-raab-56016a121/
     avatar: img/avatars/TheDonRaab.png
-  - name: Bazlur Rahman
+  - name: A N M Bazlur Rahman
     year: 2022
     country:
       nomination: Canada
       birth: Bangladesh
+      residence: Canada
+      citizenship: Bangladesh, Canada
     city: Toronto
     social:
       twitter: https://twitter.com/bazlur_rahman
