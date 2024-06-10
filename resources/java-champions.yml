@@ -2166,6 +2166,14 @@ members:
     social:
       linkedin: https://www.linkedin.com/in/danmalks/
     avatar: img/avatars/Dan_Malks.png
+  - name: Evgeny Mandrikov
+    year: 2024
+    country:
+      nomination: Switzerland
+    social:
+      twitter: https://twitter.com/_godin_
+      linkedin: https://www.linkedin.com/in/mandrikov/
+    avatar: img/avatars/_godin_.png
   - name: Jim Manico
     year: 2018
     country:
