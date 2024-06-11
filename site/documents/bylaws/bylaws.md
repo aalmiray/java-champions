@@ -26,7 +26,7 @@ Members of the Group can fall into three categories:
 To participate in any Group activity, a member must be active unless otherwise noted in these bylaws.
 
 ### Section 2: Eligibility
-Membership is open to individuals who have been nominated by a current Group member and approved by the Group and are not Oracle Employees.
+Membership is open to individuals who have been nominated by at least two current Group members and approved by the Group and are not Oracle Employees.
 
 ### Section 3: Nomination
 A Group member nominates an individual by submitting the nomination form. The nomination form is created and maintained by the Group. The nomination requires both a nominator and a co-nominator.
