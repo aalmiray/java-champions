@@ -1618,14 +1618,16 @@ members:
     avatar: img/avatars/magoghm.png
     status:
       - founding-member
-  - name: Michael Huettermann
+  - name: Dr. Michael Huettermann
     year: 2006
     country:
       nomination: Germany
+      residence: Germany
     city: Cologne
     social:
       twitter: https://twitter.com/huettermann
       linkedin: https://www.linkedin.com/in/huettermann/
+      website: http://huettermann.net
     avatar: img/avatars/huettermann.png
   - name: Burk Hufnagel
     year: 2020
