@@ -2175,11 +2175,11 @@ members:
     country:
       nomination: Switzerland
     social:
-      twitter: https://twitter.com/_godin_
+      twitter: https://twitter.com/%5Fgodin%5F
       linkedin: https://www.linkedin.com/in/mandrikov/
       github: https://github.com/godin
       sessionize: https://sessionize.com/godin
-    avatar: img/avatars/_godin_.png
+    avatar: img/avatars/godin.png
   - name: Jim Manico
     year: 2018
     country:
