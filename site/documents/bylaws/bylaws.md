@@ -55,6 +55,9 @@ Members have the right to attend meetings, vote on the Group matters, and partic
 ### Section 9: Renouncing Membership
 A member may renounce their membership at any time by announcing their intent to renounce to the Group mailing list.
 
+### Section 10: Oracle Employees
+A member that starts working for Oracle would transition from being an Active Member to Alumni. If the member leaves Oracle, its Active status is re-instated.
+
 ## Article III: Meetings
 
 ### Section 1: In-Person Meetings
