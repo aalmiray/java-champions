@@ -9,7 +9,7 @@ The name of this organization shall be the Java Champions Community, hereinafter
 The purpose of the Group is to recognize key influencers in the Java community, provide advice, support and advance the adoption of Java technologies.
 
 ### Section 3: Trademark
-The Group operates under the Java Champions Oracle Trademark; therefore, these bylaws must be considered in the context of the Trademark.
+The Group name includes the word "Java", which is trademarked by Oracle.
 
 ## Article II: Membership
 
@@ -33,6 +33,8 @@ A Group member nominates an individual by submitting the nomination form. The no
 
 ### Section 4: Discussion Period
 Once a nomination has been submitted and processed by Oracle's Java Champion Team, it will be announced on the Group Mailing List. This initiates a two-week discussion period during which Group members can discuss the candidate without voting.
+
+The purpose of the discussion period is raise any concerns about the candidate, and facilitate discussions and/or the shifting of opinions without committing to a vote. This process also helps keeping the voting period purely for voting on a candidate instead of discussing the candidate's merits and/or shortcomings.
 
 ### Section 5: Voting Period
 After the discussion period, a two-week voting period begins. The start of the voting process is announced via an email from Oracle's Java Champions Team, creating a voting email thread. Group members vote on the Mailing List by replying to the thread, using "+1" for approval, "-1" for disapproval, and "0" for non-commitment.
