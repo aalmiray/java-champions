@@ -128,9 +128,11 @@ members:
     year: 2024  
     country:
       nomination: Sweden
+      citizenship: Morocco
     city: Stockholm
     social:
       twitter: https://twitter.com/laytoun
+      linkedin: https://www.linkedin.com/in/aboullaite
     avatar: img/avatars/laytoun.png
   - name: Fernando Anselmo
     year: 2006
@@ -299,6 +301,8 @@ members:
     social:
       twitter: https://twitter.com/emmanuelbernard
       linkedin: https://www.linkedin.com/in/emmanuelbernard/
+      github: https://github.com/emmanuelbernard/
+      website: https://emmanuelbernard.com/
     avatar: img/avatars/emmanuelbernard.png
   - name: Geert Bevin
     year: 2006
@@ -1616,14 +1620,16 @@ members:
     avatar: img/avatars/magoghm.png
     status:
       - founding-member
-  - name: Michael Huettermann
+  - name: Dr. Michael Huettermann
     year: 2006
     country:
       nomination: Germany
+      residence: Germany
     city: Cologne
     social:
       twitter: https://twitter.com/huettermann
       linkedin: https://www.linkedin.com/in/huettermann/
+      website: http://huettermann.net
     avatar: img/avatars/huettermann.png
   - name: Burk Hufnagel
     year: 2020
@@ -2166,6 +2172,16 @@ members:
     social:
       linkedin: https://www.linkedin.com/in/danmalks/
     avatar: img/avatars/Dan_Malks.png
+  - name: Evgeny Mandrikov
+    year: 2024
+    country:
+      nomination: Switzerland
+    social:
+      twitter: https://twitter.com/%5Fgodin%5F
+      linkedin: https://www.linkedin.com/in/mandrikov/
+      github: https://github.com/godin
+      sessionize: https://sessionize.com/godin
+    avatar: img/avatars/godin.png
   - name: Jim Manico
     year: 2018
     country:
