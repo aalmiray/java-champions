@@ -63,6 +63,9 @@ In-person meetings may be held at conferences or events and can occur organicall
 ### Section 2: Online Meetings
 Online meetings can be organized by any Group member. Attendance at these meetings is not compulsory.
 
+### Section 3: Oracle-run meetings
+Oracle may choose to host In-Person and/or Online meetings for the Java Champions
+
 ## Article IV: Amendments
 
 ### Section 1: Proposal
