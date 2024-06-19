@@ -1613,6 +1613,8 @@ members:
     year: 2005
     country:
       nomination: Mexico
+      citizenship: Mexico
+      birth: Mexico
     city: Mexico City
     social:
       twitter: https://twitter.com/magoghm
@@ -3291,6 +3293,8 @@ members:
     city: Mexico City
     country:
       nomination: Mexico
+      citizenship: Mexico
+      birth: Mexico
     social:
       twitter: https://twitter.com/domix
       linkedin: https://www.linkedin.com/in/domix/
@@ -3576,6 +3580,8 @@ members:
     year: 2007
     country:
       nomination: Mexico
+      citizenship: Mexico
+      birth: Mexico
     city: Mexico City
     social:
       twitter: https://twitter.com/edivargas
@@ -3911,6 +3917,8 @@ members:
     year: 2015
     country:
       nomination: Mexico
+      citizenship: Mexico
+      birth: Mexico
     city: Mexico City
     social:
       twitter: https://twitter.com/chochosmx
