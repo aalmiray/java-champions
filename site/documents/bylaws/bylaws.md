@@ -78,10 +78,10 @@ Amendments to these bylaws may be proposed by any member.
 Proposed amendments must be submitted to the Group Mailing List and as a pull request to the [Java Champions Document GitHub Repo](https://github.com/aalmiray/java-champions).
 
 ### Section 3: Discussion Period
-After the amendment pull request has been submitted, a two-week discussion period is set aside for discussion and amendments within the Group Mailing List.
+After the amendment pull request has been submitted, a minimum of two-week discussion period is set aside for discussion and amendments within the Group Mailing List.
 
 ### Section 4: Voting Period
-Following the discussion period, a one-week voting period is set aside for open polling through the mailing list.
+Following the discussion period, a minimum of one-week voting period is set aside for open polling through the mailing list. The proposing member should announce the length of the voting period.
 
 ### Section 5: Voting Procedure
 Voting on amendments to these bylaws shall be conducted openly within the Group to ensure transparency. Each member's vote shall be recorded and disclosed. The results, including the total number of votes for and against, shall be documented by merging (if passed) or closing (if failed) the pull request amending the bylaws.
