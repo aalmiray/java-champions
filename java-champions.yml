@@ -124,6 +124,16 @@ members:
       twitter: https://twitter.com/Paul_ASGTeach
       linkedin: https://www.linkedin.com/in/paul-asgteach/
     avatar: img/avatars/Paul_ASGTeach.png
+  - name: Mohammed Aboullaite
+    year: 2024  
+    country:
+      nomination: Sweden
+      citizenship: Morocco
+    city: Stockholm
+    social:
+      twitter: https://twitter.com/laytoun
+      linkedin: https://www.linkedin.com/in/aboullaite
+    avatar: img/avatars/laytoun.png
   - name: Fernando Anselmo
     year: 2006
     country:
@@ -291,6 +301,8 @@ members:
     social:
       twitter: https://twitter.com/emmanuelbernard
       linkedin: https://www.linkedin.com/in/emmanuelbernard/
+      github: https://github.com/emmanuelbernard/
+      website: https://emmanuelbernard.com/
     avatar: img/avatars/emmanuelbernard.png
   - name: Geert Bevin
     year: 2006
@@ -923,6 +935,10 @@ members:
       mastodon: https://mastodon.online/@myfear
       bluesky: https://bsky.app/profile/myfear.com
       linkedin: https://www.linkedin.com/in/markuseisele/
+      sessionize: https://sessionize.com/markus-eisele
+      website: https://www.eisele.net
+      youtube: https://www.youtube.com/@myfear
+      github: https://github.com/myfear
     avatar: img/avatars/myfear.png
   - name: Badr El Houari
     year: 2016
@@ -1035,7 +1051,7 @@ members:
     avatar: img/avatars/__DavidFlanagan.png
     status:
       - founding-member
-  - name: Prof. Ken Fogel
+  - name: Ken Fogel
     year: 2018
     country:
       nomination: Canada
@@ -1456,6 +1472,8 @@ members:
       twitter: https://twitter.com/DanHeidinga
       linkedin: https://www.linkedin.com/in/dan-heidinga/
     avatar: img/avatars/DanHeidinga.png
+    status:
+      - alumni
   - name: Michael Heinrichs
     year: 2017
     country:
@@ -1587,15 +1605,20 @@ members:
     year: 2005
     country:
       nomination: USA
-    city: San Francisco, California
+      residence: Germany
+    city: Düsseldorf
     social:
-      twitter: https://twitter.com/cayhorstmann
       linkedin: https://www.linkedin.com/in/cay-horstmann-659a4b/
+      mastodon: https://foojay.social/@cayhorstmann
+      github: https://github.com/cayhorstmann
+      website: https://horstmann.com
     avatar: img/avatars/cayhorstmann.png
   - name: Gerardo Horvilleur
     year: 2005
     country:
       nomination: Mexico
+      citizenship: Mexico
+      birth: Mexico
     city: Mexico City
     social:
       twitter: https://twitter.com/magoghm
@@ -1603,14 +1626,16 @@ members:
     avatar: img/avatars/magoghm.png
     status:
       - founding-member
-  - name: Michael Huettermann
+  - name: Dr. Michael Huettermann
     year: 2006
     country:
       nomination: Germany
+      residence: Germany
     city: Cologne
     social:
       twitter: https://twitter.com/huettermann
       linkedin: https://www.linkedin.com/in/huettermann/
+      website: http://huettermann.net
     avatar: img/avatars/huettermann.png
   - name: Burk Hufnagel
     year: 2020
@@ -2153,6 +2178,16 @@ members:
     social:
       linkedin: https://www.linkedin.com/in/danmalks/
     avatar: img/avatars/Dan_Malks.png
+  - name: Evgeny Mandrikov
+    year: 2024
+    country:
+      nomination: Switzerland
+    social:
+      twitter: https://twitter.com/%5Fgodin%5F
+      linkedin: https://www.linkedin.com/in/mandrikov/
+      github: https://github.com/godin
+      sessionize: https://sessionize.com/godin
+    avatar: img/avatars/godin.png
   - name: Jim Manico
     year: 2018
     country:
@@ -2909,6 +2944,31 @@ members:
       sessionize: https://sessionize.com/antoine-sabot-durand
       speakerdeck: https://speakerdeck.com/antoine_sd
     avatar: img/avatars/antoine_sd.png
+  - name: Baruch Sadogursky
+    year: 2024
+    country:
+      nomination: USA
+      residence: USA
+      citizenship: Israel
+      birth: USSR
+    city: Nolensville, TN
+    social:
+      twitter: https://twitter.com/jbaruch
+      bluesky: https://bsky.app/profile/jbaru.ch
+      linkedin: https://www.linkedin.com/in/jbaruch
+      sessionize: https://sessionize.com/jbaruch/
+      website: https://speaking.jbaru.ch/
+      mastodon: https://mastodon.online/@jbaruch
+      youtube: https://www.youtube.com/channel/UCZ8-VX2SiAIBE7guw7NG-Sg
+    avatar: img/avatars/jbaruch.png
+  - name: Charles Sabourdin
+    year: 2024
+    country:
+      nomination: France
+    city: Ile-de-France
+    social:
+      twitter: https://twitter.com/kanedafromparis
+    avatar: img/avatars/kanedafromparis.png
   - name: Koichi Sakata
     year: 2018
     country:
@@ -3234,11 +3294,16 @@ members:
     avatar: img/avatars/struberg.png
   - name: Domingo Suarez
     year: 2019
+    city: Mexico City
     country:
       nomination: Mexico
+      citizenship: Mexico
+      birth: Mexico
     social:
       twitter: https://twitter.com/domix
       linkedin: https://www.linkedin.com/in/domix/
+      github: https://github.com/domix
+      website: https://domingosuarez.com
     avatar: img/avatars/domix.png
   - name: Dr. Venkat Subramaniam
     year: 2013
@@ -3438,7 +3503,7 @@ members:
       mastodon: https://mastodon.social/@saturnism
       linkedin: https://www.linkedin.com/in/rayjtsang/
     avatar: img/avatars/saturnism.png
-  - name: Cǎtǎlin Tudose
+  - name: Dr. Cǎtǎlin Tudose
     year: 2024
     country:
       nomination: Romania
@@ -3519,6 +3584,8 @@ members:
     year: 2007
     country:
       nomination: Mexico
+      citizenship: Mexico
+      birth: Mexico
     city: Mexico City
     social:
       twitter: https://twitter.com/edivargas
@@ -3548,12 +3615,14 @@ members:
     year: 2012
     country:
       nomination: UK
-    city: London
+      residence: New Zealand
+      birth: The Netherlands
     social:
       twitter: https://twitter.com/karianna
       mastodon: https://mastodon.social/@martijnverburg
       bluesky: https://bsky.app/profile/karianna.bsky.social
       linkedin: https://www.linkedin.com/in/martijnverburg
+      github: https://github.com/karianna
       sessionize: https://sessionize.com/martijnverburg
     avatar: img/avatars/karianna.png
   - name: Brian Vermeer
@@ -3584,6 +3653,8 @@ members:
     year: 2021
     country:
       nomination: Germany
+      residence: Germany
+      birth: Germany
     city: Moenchengladbach
     social:
       twitter: https://twitter.com/michaelvitz
@@ -3594,6 +3665,7 @@ members:
       github: https://github.com/mvitz
       website: https://mvitz.de
       sessionize: https://sessionize.com/michaelvitz/
+      xing: https://www.xing.com/profile/Michael_Vitz2
     avatar: img/avatars/michaelvitz.png
   - name: Lars Vogel
     year: 2012
@@ -3849,6 +3921,8 @@ members:
     year: 2015
     country:
       nomination: Mexico
+      citizenship: Mexico
+      birth: Mexico
     city: Mexico City
     social:
       twitter: https://twitter.com/chochosmx
