@@ -45,7 +45,7 @@ A vote of "-1" carries significant weight against the nomination. Group members 
 ### Section 7: Results
 After the two-week voting period, the results are tallied:
 - Two negative ("-1") votes will disqualify a candidate.
-- A minimum of three "+1" votes are required to confirm a candidate as a Java Champion, and becoming a new member of the group.
+- A minimum of three "+1" votes are required to confirm a candidate as a Java Champion, and becoming a new member of the group. Votes of nominator and a co-nominator are not counting.
 
 ### Section 8: Rights and Responsibilities
 Members have the right to attend meetings, vote on the Group matters, and participate in the Group activities.
@@ -79,4 +79,4 @@ Following the discussion period, a one-week voting period is set aside for open 
 Voting on amendments to these bylaws shall be conducted openly within the Group to ensure transparency. Each member's vote shall be recorded and disclosed. The results, including the total number of votes for and against, shall be documented by merging (if passed) or closing (if failed) the pull request amending the bylaws.
 
 ### Section 6: Approval
-Amendments must be approved by a two-thirds majority of the members voting in the poll.
+Amendments must be approved by a two-thirds majority of the members voting in the poll with a quorum (i.e., the minimum number of members of a group to actively participat in the poll) of two-thirds of the members of the group at the moment the voting starts.
