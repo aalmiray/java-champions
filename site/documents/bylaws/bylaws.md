@@ -45,7 +45,7 @@ A vote of "-1" carries significant weight against the nomination. Group members 
 ### Section 7: Results
 After the two-week voting period, the results are tallied:
 - Two negative ("-1") votes will disqualify a candidate.
-- A minimum of three "+1" votes are required to confirm a candidate as a Java Champion, and becoming a new member of the group. Votes of nominator and a co-nominator are not counting.
+- A minimum of three "+1" votes are required to confirm a candidate as a Java Champion, and becoming a new member of the group.
 
 ### Section 8: Rights and Responsibilities
 Members have the right to attend meetings, vote on the Group matters, and participate in the Group activities.
