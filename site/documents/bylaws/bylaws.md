@@ -6,7 +6,7 @@
 The name of this organization shall be the Java Champions Community, hereinafter referred to as "the Group."
 
 ### Section 2: Purpose
-The purpose of the Group is to recognize key influencers in the Java community, provide advice, support and advance the adoption of Java technologies.
+The purpose of the Group is to serve as part of a Java community outreach program for Oracle. Originally formed by Sun Microsystem, the Java Champion program was intended to reach Java developers not involved with a Java User Group (JUG). To achieve this they drew together a self-identifying group of independent thought leaders and key influencers from the Java community. The intent was for the group to provide an independent voice for the community that, Sun and now Oracle could use to help guide decision making and reshape messaging. The remainder of this document lays out the rules by which Java Champions are nominated and confirmed.
 
 ### Section 3: Trademark
 The Group name includes the word "Java", which is trademarked by Oracle.
@@ -26,23 +26,34 @@ Members of the Group can fall into three categories:
 To participate in any Group activity, a member must be active unless otherwise noted in these bylaws.
 
 ### Section 2: Eligibility
-Membership is open to individuals who have been nominated by at least two current Group members and approved by the Group and are not Oracle Employees.
+Membership is open to individuals who have been nominated by a current Group member and has been seconded by at least 1 other current Group member. As this is a community outreach program, Oracle Employees are not eligible for Group membership.
 
 ### Section 3: Nomination
-A Group member nominates an individual by submitting the nomination form. The nomination form is created and maintained by the Group. The nomination requires both a nominator and a co-nominator.
+A Group member nominates an individual by submitting the nomination form. The nomination form is created and maintained by the Group. The nomination requires both a nominator and one or more co-nominators. The nomination should demonstrate how the candidate meets the five criteria of a Java Champion. These criteria are as follows:
 
+1. Java Champions are leaders
+    - ideal candidates are leading Java-related projects, JUG communities, and so on
+2. Java Champions are technical luminaries
+    - The candidate should be a Java engineer or architect who is relatively senior and has lots of experience
+3. Java Champions are independent-minded and credible
+    - Java Champions may author or publish content that is pro, neutral, or negative toward Oracle.
+4. Java Champions are involved with some really cool applications of Java Technology or some humanitarian or educational effort
+    -The application must be openly available to the Java community (vs. a company-proprietary or government-classified project).
+5. Java Champions are able to evangelize or influence other developers
+   - through their own professional activities (via consulting, teaching, writing, speaking, etc.)
+  
 ### Section 4: Discussion Period
-Once a nomination has been submitted and processed by Oracle's Java Champion Team, it will be announced on the Group Mailing List. This initiates a two-week discussion period during which Group members can discuss the candidate without voting.
+Once a nomination has been submitted and processed by Oracle's Java Champion Team, it will be announced on the Group Mailing List. This initiates a two-week discussion period during which Group members can assess the candidates adherence to the 5 criteria prior to voting to confirm the nomination.
 
-The purpose of the discussion period is raise any concerns about the candidate, and facilitate discussions and/or the shifting of opinions without committing to a vote. This process also helps keeping the voting period purely for voting on a candidate instead of discussing the candidate's merits and/or shortcomings.
+The purpose of the discussion period is raise any concerns about the candidate, and facilitate discussions and/or the shifting of opinions without committing to a vote. This process also helps keep the voting period purely for voting on a candidate instead of discussing the candidate's merits and/or shortcomings.
 
 ### Section 5: Voting Period
 After the discussion period, a two-week voting period begins. The start of the voting process is announced via an email from Oracle's Java Champions Team, creating a voting email thread. Group members vote on the Mailing List by replying to the thread, using "+1" for approval, "-1" for disapproval, and "0" for non-commitment.
 
-Voting is not compulsory, so Group members may choose not to participate in a candidate nomination.
+Voting is not compulsory, so Group members may choose not to participate in a candidate nomination. Voting is not compulsory as Group members may choose not to participate in a candidate nomination. Note that not voting indicates a confirmation of the nomination.
 
 ### Section 6: Negative Votes
-A vote of "-1" carries significant weight against the nomination. Group members voting "-1" must provide a reason for their disapproval.
+A vote of "-1" carries significant weight against the nomination. Group members voting "-1" must provide a reason for their disapproval. Failing to provide a reason will result in the vote being discarded.
 
 ### Section 7: Results
 After the two-week voting period, the results are tallied:
@@ -56,7 +67,7 @@ Members have the right to attend meetings, vote on the Group matters, and partic
 A member may renounce their membership at any time by announcing their intent to renounce to the Group mailing list.
 
 ### Section 10: Oracle Employees
-A member that starts working for Oracle would transition from being an Active Member to Alumni. If the member leaves Oracle, its Active status is re-instated.
+A member that starts working for Oracle would transition from being an Active Member to Alumni. If the member leaves Oracle, the Active status is re-instated.
 
 ## Article III: Meetings
 
@@ -68,6 +79,9 @@ Online meetings can be organized by any Group member. Attendance at these meetin
 
 ### Section 3: Oracle-run meetings
 Oracle may choose to host In-Person and/or Online meetings for the Java Champions
+
+### Section 4: Decisions during Meetings
+All decisions made during a meeting need to be ratified in the mailing list.
 
 ## Article IV: Amendments
 
