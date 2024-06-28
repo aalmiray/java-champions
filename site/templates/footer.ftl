@@ -17,7 +17,7 @@
     <script defer src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/brands.js"></script>
     <script defer src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/solid.js"></script>
     <script defer src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/fontawesome.js"></script>
-    <script defer src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/4-shims.js"></script>
+    <script defer src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/v4-shims.js"></script>
 
   </body>
 </html>
