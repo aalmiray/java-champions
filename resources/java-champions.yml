@@ -1779,7 +1779,7 @@ members:
       twitter: https://twitter.com/javajudd
       linkedin: https://www.linkedin.com/in/christophermjudd/
       github: https://github.com/cjudd/
-      website: https://juddsolutions.com/
+      website: https://www.juddsolutions.com/
       sessionize: https://sessionize.com/christopher-judd/
     avatar: img/avatars/javajudd.png
   - name: Josh Juneau
@@ -3746,7 +3746,7 @@ members:
       linkedin: https://www.linkedin.com/in/jamesward
       github: https://github.com/jamesward
       website: https://jamesward.com
-      sessionize: https://sessionize.com/james-ward
+      sessionize: https://sessionize.com/jamesward
       youtube: https://www.youtube.com/@JamesWard
     avatar: img/avatars/_JamesWard.png
   - name: Jim Weaver
@@ -3886,7 +3886,7 @@ members:
     city: Cary, NC
     social:
       twitter: https://twitter.com/yanaga
-      mastodon: https://mastodon.social/@yanaga
+      mastodon: https://mastodon.online/@yanaga
       bluesky: https://bsky.app/profile/yanaga.io
       linkedin: https://www.linkedin.com/in/yanaga
       github: https://github.com/yanaga
