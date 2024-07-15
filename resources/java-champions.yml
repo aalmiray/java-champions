@@ -1043,6 +1043,15 @@ members:
     avatar: img/avatars/rom.png
     status:
       - founding-member
+  - name: Richard Fichtner
+    year: 2024
+    country:
+      nomination: Germany
+    city: Weiden
+    social:
+      twitter: https://twitter.com/RichardFichtner
+      linkedin: https://www.linkedin.com/in/richardfichtner
+    avatar: img/avatars/RichardFichtner.png
   - name: David Flanagan
     year: 2005
     country:
