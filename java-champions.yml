@@ -1047,10 +1047,14 @@ members:
     year: 2024
     country:
       nomination: Germany
-    city: Weiden
+    city: Weiden in der Oberpfalz
     social:
       twitter: https://twitter.com/RichardFichtner
       linkedin: https://www.linkedin.com/in/richardfichtner
+      mastodon: https://fosstodon.org/@RichardFichtner
+      bluesky: https://bsky.app/profile/richardfichtner.bsky.social
+      github: https://github.com/rfichtner/
+      sessionize: https://sessionize.com/richard-fichtner/
     avatar: img/avatars/RichardFichtner.png
   - name: David Flanagan
     year: 2005
