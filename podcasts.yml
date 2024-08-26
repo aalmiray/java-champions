@@ -32,4 +32,10 @@ podcasts:
       mastodon: https://foojay.social/@foojay
     hosts:
       - name: Frank Delporte
+  - title: JavaFX In Action
+    url: https://webtechie.be/tags/jfx-in-action/
+    social:
+      mastodon: https://foojay.social/@frankdelporte
+    hosts:
+      - name: Frank Delporte
     
