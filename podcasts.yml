@@ -23,4 +23,13 @@ podcasts:
       - name: Josh Juneau
       - name: Daniel Hinojosa
       - name: Ian Hlavats
+  - title: Foojay Podcast
+    url: https://foojay.io/today/category/podcast/
+    logo: img/logos/foojay_podcast.png
+    social:
+      twitter: https://x.com/foojayio
+      linkedin: https://www.linkedin.com/company/foojayio/
+      mastodon: https://foojay.social/@foojay
+    hosts:
+      - name: Frank Delporte
     
