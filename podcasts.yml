@@ -1,0 +1,26 @@
+####################################################################################
+#
+# social:
+#   twitter:
+#   mastodon:
+#   bluesky:
+#
+####################################################################################
+
+podcasts:
+  - title: Airhacks
+    url: https://airhacks.fm
+    logo: img/logos/airhacks.png
+    hosts:
+      - name: Adam Bien
+  - title: Stackd
+    url: https://stackdpodcast.com
+    logo: img/logos/stackd.png
+    social:
+      twitter: https://twitter.com/stackdpodcast
+    hosts:
+      - name: Kito Mann
+      - name: Josh Juneau
+      - name: Daniel Hinojosa
+      - name: Ian Hlavats
+    
