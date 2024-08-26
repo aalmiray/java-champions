@@ -34,6 +34,7 @@ podcasts:
       - name: Frank Delporte
   - title: JavaFX In Action
     url: https://webtechie.be/tags/jfx-in-action/
+    logo: img/logos/jfx-in-action.png
     social:
       mastodon: https://foojay.social/@frankdelporte
     hosts:
