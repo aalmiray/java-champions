@@ -47,3 +47,11 @@ podcasts:
     hosts:
       - name: Bruce Eckel
       - name: James Ward
+  - title: Coffee Software
+    url: https://youtube.com/@coffeesoftware
+    logo: img/logos/hpp.jpg
+    social:
+      twitter: https://x.com/coffee_software
+    hosts:
+      - name: Josh Long
+      - name: Dashaun Carter
