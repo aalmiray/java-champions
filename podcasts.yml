@@ -39,4 +39,11 @@ podcasts:
       mastodon: https://foojay.social/@frankdelporte
     hosts:
       - name: Frank Delporte
-    
+  - title: Happy Path Programming
+    url: https://happypathprogramming.com/
+    logo: img/logos/hpp.jpg
+    social:
+      twitter: https://twitter.com/happypathprog
+    hosts:
+      - name: Bruce Eckel
+      - name: James Ward
