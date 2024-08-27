@@ -47,3 +47,16 @@ podcasts:
     hosts:
       - name: Bruce Eckel
       - name: James Ward
+  - title: Les Cast Codeurs Podcast
+    url: https://lescastcodeurs.com/
+    logo: img/logos/lescastcodeurs.png
+    language: FR
+    social:
+      twitter: https://twitter.com/lescastcodeurs
+    hosts:
+      - name: Antonio Goncalves
+      - name: Arnaud Héritier
+      - name: Emmanuel Bernard
+      - name: Guillaume Laforge
+      - name: Katia Aresti
+
