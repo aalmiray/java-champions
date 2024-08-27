@@ -1015,12 +1015,15 @@ members:
   - name: Ben Evans
     year: 2013
     country:
-      nomination: Spain
-      citizenship: UK
+      nomination: UK
+      residence: Spain
+      birth: UK
+    city: Barcelona
     social:
-      twitter: https://twitter.com/kittylyst
       mastodon: https://mastodon.social/@kittylyst
       linkedin: https://www.linkedin.com/in/kittylyst/
+      github: https://github.com/kittylyst
+      website: https://www.kittylyst.com/
     avatar: img/avatars/kittylyst.png
   - name: Yakov Fain
     year: 2005
