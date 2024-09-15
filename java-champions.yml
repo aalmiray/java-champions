@@ -1346,10 +1346,14 @@ members:
     country:
       nomination: USA
       citizenship: Brazil
-    city: Tampa, Florida
+    city: Orlando, Florida
     social:
       twitter: https://twitter.com/loiane
-      linkedin: https://www.linkedin.com/in/loiane/
+      linkedin: https://www.linkedin.com/in/loiane
+      github: https://github.com/loiane
+      website: https://loiane.com
+      youtube: https://www.youtube.com/@loianegroner
+      sessionize: https://sessionize.com/loiane
     avatar: img/avatars/loiane.png
   - name: Gerrit Grunwald
     year: 2013
