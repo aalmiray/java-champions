@@ -3529,7 +3529,10 @@ members:
     social:
       twitter: https://twitter.com/saturnism
       mastodon: https://mastodon.social/@saturnism
+      bluesky: https://bsky.app/profile/saturnism.me
       linkedin: https://www.linkedin.com/in/rayjtsang/
+      github: https://github.com/saturnism
+      website: https://saturnism.me
     avatar: img/avatars/saturnism.png
   - name: Dr. Cǎtǎlin Tudose
     year: 2024
