@@ -1015,12 +1015,15 @@ members:
   - name: Ben Evans
     year: 2013
     country:
-      nomination: Spain
-      citizenship: UK
+      nomination: UK
+      residence: Spain
+      birth: UK
+    city: Barcelona
     social:
-      twitter: https://twitter.com/kittylyst
       mastodon: https://mastodon.social/@kittylyst
       linkedin: https://www.linkedin.com/in/kittylyst/
+      github: https://github.com/kittylyst
+      website: https://www.kittylyst.com/
     avatar: img/avatars/kittylyst.png
   - name: Yakov Fain
     year: 2005
@@ -1043,6 +1046,19 @@ members:
     avatar: img/avatars/rom.png
     status:
       - founding-member
+  - name: Richard Fichtner
+    year: 2024
+    country:
+      nomination: Germany
+    city: Weiden in der Oberpfalz
+    social:
+      twitter: https://twitter.com/RichardFichtner
+      linkedin: https://www.linkedin.com/in/richardfichtner
+      mastodon: https://fosstodon.org/@RichardFichtner
+      bluesky: https://bsky.app/profile/richardfichtner.bsky.social
+      github: https://github.com/rfichtner/
+      sessionize: https://sessionize.com/richard-fichtner/
+    avatar: img/avatars/RichardFichtner.png
   - name: David Flanagan
     year: 2005
     country:
@@ -1330,10 +1346,14 @@ members:
     country:
       nomination: USA
       citizenship: Brazil
-    city: Tampa, Florida
+    city: Orlando, Florida
     social:
       twitter: https://twitter.com/loiane
-      linkedin: https://www.linkedin.com/in/loiane/
+      linkedin: https://www.linkedin.com/in/loiane
+      github: https://github.com/loiane
+      website: https://loiane.com
+      youtube: https://www.youtube.com/@loianegroner
+      sessionize: https://sessionize.com/loiane
     avatar: img/avatars/loiane.png
   - name: Gerrit Grunwald
     year: 2013
@@ -1365,6 +1385,14 @@ members:
       sessionize: https://sessionize.com/mary-grygleski
       website: https://discord.gg/RMU4Juw
     avatar: img/avatars/mgrygles.png
+  - name: Marcin Grzejszczak
+    year: 2024
+    country:
+      nomination: Poland
+    social:
+      twitter: https://twitter.com/MGrzejszczak
+      linkedin: https://www.linkedin.com/in/%F0%9F%91%BE-marcin-grzejszczak-15565119/
+    avatar: img/avatars/MGrzejszczak.png
   - name: Andrzej Grzesik
     year: 2016
     country:
@@ -1779,7 +1807,7 @@ members:
       twitter: https://twitter.com/javajudd
       linkedin: https://www.linkedin.com/in/christophermjudd/
       github: https://github.com/cjudd/
-      website: https://juddsolutions.com/
+      website: https://www.juddsolutions.com/
       sessionize: https://sessionize.com/christopher-judd/
     avatar: img/avatars/javajudd.png
   - name: Josh Juneau
@@ -3501,7 +3529,10 @@ members:
     social:
       twitter: https://twitter.com/saturnism
       mastodon: https://mastodon.social/@saturnism
+      bluesky: https://bsky.app/profile/saturnism.me
       linkedin: https://www.linkedin.com/in/rayjtsang/
+      github: https://github.com/saturnism
+      website: https://saturnism.me
     avatar: img/avatars/saturnism.png
   - name: Dr. Cǎtǎlin Tudose
     year: 2024
@@ -3746,7 +3777,7 @@ members:
       linkedin: https://www.linkedin.com/in/jamesward
       github: https://github.com/jamesward
       website: https://jamesward.com
-      sessionize: https://sessionize.com/james-ward
+      sessionize: https://sessionize.com/jamesward
       youtube: https://www.youtube.com/@JamesWard
     avatar: img/avatars/_JamesWard.png
   - name: Jim Weaver
@@ -3842,7 +3873,10 @@ members:
     social:
       twitter: https://twitter.com/rafaelcodes
       mastodon: https://mastodon.social/@rafaelcodes
-      linkedin: https://www.linkedin.com/in/rafaelwth/
+      linkedin: https://www.linkedin.com/in/rafaelwth
+      website: https://rafael.codes
+      sessionize: https://sessionize.com/rafaelw
+      github: https://github.com/raphw
     avatar: img/avatars/rafaelcodes.png
   - name: Eberhard Wolff
     year: 2005
@@ -3886,7 +3920,7 @@ members:
     city: Cary, NC
     social:
       twitter: https://twitter.com/yanaga
-      mastodon: https://mastodon.social/@yanaga
+      mastodon: https://mastodon.online/@yanaga
       bluesky: https://bsky.app/profile/yanaga.io
       linkedin: https://www.linkedin.com/in/yanaga
       github: https://github.com/yanaga
@@ -3926,5 +3960,5 @@ members:
     city: Mexico City
     social:
       twitter: https://twitter.com/chochosmx
-      linkedin: https://www.linkedin.com/in/myuan/
+      linkedin: https://www.linkedin.com/in/enriquezamudiolopez/
     avatar: img/avatars/chochosmx.png
