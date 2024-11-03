@@ -34,7 +34,7 @@ public class site {
         "linkedin", "pass:[<span class=\"icon\"><i class=\"fab fa-linkedin\"></i></span>]",
         "xing", "pass:[<span class=\"icon\"><i class=\"fab fa-xing\"></i></span>]",
         "github", "pass:[<span class=\"icon\"><i class=\"fab fa-github\"></i></span>]",
-        "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-cloud\"></i></span>]",
+        "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-brands fa-bluesky\"></i></span>]",
         "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\"></i></span>]",
         "youtube", "pass:[<span class=\"icon\"><i class=\"fab fa-youtube-square\"></i></span>]",
         "sessionize", "pass:[<span class=\"icon\"><i class=\"fa fa-bullhorn\"></i></span>]",
