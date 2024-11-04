@@ -2259,6 +2259,14 @@ members:
       twitter: https://twitter.com/sjmaple
       linkedin: https://www.linkedin.com/in/simonmaple/
     avatar: img/avatars/sjmaple.png
+  - name: Karl Heinz Marbaise
+    year: 2024
+    country:
+      nomination: Germany
+    social:
+      twitter: https://twitter.com/khmarbaise
+      mastodon: https://mastodon.social/@khmarbaise
+    avatar: img/avatars/khmarbaise.png
   - name: Joshua Marinacci
     year: 2010
     country:
