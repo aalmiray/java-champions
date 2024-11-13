@@ -2997,8 +2997,9 @@ members:
       nomination: Spain
     city: Galicia
     social:
-      twitter: https://twitter.com/antonmry
       linkedin: https://www.linkedin.com/in/antonmry/
+      bluesky: https://bsky.app/profile/antonmry.bsky.social
+      sessionize: https://sessionize.com/antonmry
     avatar: img/avatars/antonmry.png
   - name: Ix-chel Ruiz
     year: 2017
