@@ -391,6 +391,7 @@ members:
       twitter: https://twitter.com/bokmann
       github: https://github.com/bokmann
       linkedin: https://www.linkedin.com/in/davidbock/
+      bluesky: https://bsky.app/profile/bokmann87.bsky.social
     avatar: img/avatars/bokmann.png
   - name: Jonas Bonér
     year: 2011
@@ -875,6 +876,7 @@ members:
       sessionize: https://sessionize.com/odrotbohm
       speakerdeck: https://speakerdeck.com/olivergierke
       linkedin: https://www.linkedin.com/in/odrotbohm
+      bluesky: https://bsky.app/profile/odrotbohm.bsky.social
     avatar: img/avatars/odrotbohm.png
   - name: Julien Dubois
     year: 2018
@@ -1261,6 +1263,7 @@ members:
       twitter: https://twitter.com/agoncal
       mastodon: https://fosstodon.org/@agoncal
       linkedin: https://www.linkedin.com/in/agoncal/
+      bluesky: https://bsky.app/profile/agoncal.bsky.social
     avatar: img/avatars/agoncal.png
   - name: Dr. James Gosling
     year: 2005
@@ -2049,6 +2052,7 @@ members:
       twitter: https://twitter.com/PeterLawrey
       mastodon: https://mastodon.social/@PeterLawrey
       linkedin: https://www.linkedin.com/in/peterlawrey/
+      bluesky: https://bsky.app/profile/peterlawrey.bsky.social
     avatar: img/avatars/PeterLawrey.png
   - name: Dr. Doug Lea
     year: 2005
@@ -3176,6 +3180,7 @@ members:
       twitter: https://twitter.com/rfscholte
       mastodon: https://mstdn.social/@rfscholte
       linkedin: https://www.linkedin.com/in/rfscholte/
+      bluesky: https://bsky.app/profile/rfscholte.bsky.social
     avatar: img/avatars/rfscholte.png
   - name: Bauke Scholtz
     year: 2017
