@@ -15,7 +15,7 @@
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>bylaws.html">Bylaws</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>members.html">Members</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>podcasts.html">Podcasts</a></li>
+            <!--<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>podcasts.html">Podcasts</a></li>-->
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>stats.html">Stats</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
           </ul>

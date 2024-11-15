@@ -356,13 +356,25 @@ public class site {
         public List<Podcast> podcasts = new ArrayList<>();
     }
 
+    static class Host {
+        public String name;
+
+        String formatted() {
+            var b = new StringBuilder()
+                    .append(name);
+
+            return b.append("\n")
+                    .toString();
+        }
+    }
+
     static class Podcast {
         public String title;
         public String url;
         public String language;
         public String logo;
         public Social social;
-        public List<String> hosts = new ArrayList<>();
+        public List<Host> hosts = new ArrayList<>();
 
         String formatted() {
             var b = new StringBuilder("|{counter:idx}\n")
@@ -383,8 +395,9 @@ public class site {
                     .append("\n");
 
             if (hosts != null && !hosts.isEmpty()) {
-                b.append("|")
-                        .append(String.join(", " , hosts));
+                b.append("a|");
+                hosts.forEach(h -> b.append("* ").append(h.formatted()).append("\n"));
+                b.append("\n");
             } else {
                 b.append("|\n");
             }
