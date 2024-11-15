@@ -2302,10 +2302,18 @@ members:
     year: 2024
     country:
       nomination: Germany
+      citizenship: Germany
+      birth: German
+    city: Würselen
     social:
       twitter: https://twitter.com/khmarbaise
       mastodon: https://mastodon.social/@khmarbaise
       bluesky: https://bsky.app/profile/khmarbaise.bsky.social
+      sessionize: https://sessionize.com/khmarbaise
+      linkedin: https://www.linkedin.com/in/khmarbaise/
+      github: https://github.com/khmarbaise
+      youtube: https://youtube.com/@khmarbaise
+      website: https://soebes.io
     avatar: img/avatars/khmarbaise.png
   - name: Joshua Marinacci
     year: 2010
