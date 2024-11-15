@@ -31,7 +31,7 @@ jobs:
       - name: Parse data
         run: |
           cd resources
-          ./jbang site.java ../java-champions.yml ../site/content/
+          ./jbang site.java ../java-champions.yml ../podcasts.yml ../site/content/
 
       - name: Generate site
         run: |

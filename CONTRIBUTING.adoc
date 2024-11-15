@@ -14,7 +14,7 @@ You may install of these prerequisites with link:https://sdkman.io[Sdkman].
 
 1. `git clone https://github.com/aalmiray/java-champions.git`
 2. `cd java-champions/resources`
-3. `jbang site.java ../java-champions.yml ../site/content/`
+3. `jbang site.java ../java-champions.yml ../podcasts.yml ../site/content/`
 4. `cd ../site`
 5. `jbake -b`
 6. `jbake -s`

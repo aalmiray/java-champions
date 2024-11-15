@@ -8,6 +8,7 @@ output/
 
 # VS Code project files
 .vscode/
+/out/
 
 # Generated site content
 site/content/resources/mastodon.csv
