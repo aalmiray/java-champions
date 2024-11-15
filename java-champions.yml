@@ -872,12 +872,11 @@ members:
     social:
       website: https://odrotbohm.de
       github: https://github.com/odrotbohm
-      twitter: https://twitter.com/odrotbohm
       mastodon: https://chaos.social/@odrotbohm
       sessionize: https://sessionize.com/odrotbohm
       speakerdeck: https://speakerdeck.com/olivergierke
       linkedin: https://www.linkedin.com/in/odrotbohm
-      bluesky: https://bsky.app/profile/odrotbohm.bsky.social
+      bluesky: https://bsky.app/profile/odrotbohm.de
     avatar: img/avatars/odrotbohm.png
   - name: Julien Dubois
     year: 2018
