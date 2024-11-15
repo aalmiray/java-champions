@@ -80,15 +80,6 @@ public class site {
         var outputMembers = directory.resolve("members.adoc");
         Files.write(outputMembers, membersDoc.toString().getBytes());
 
-        // parse podcasts input data
-        try (InputStream in = Files.newInputStream(filePodcasts)) {
-            podcasts = mapper.readValue(in, Podcasts.class);
-        } catch (IOException e) {
-            e.printStackTrace();
-            System.out.printf("❌ Unexpected error reading %s%n", filePodcasts);
-            System.exit(1);
-        }
-
         // generate stats.adoc
         var countries = members.members.stream()
             .map(m -> m.country.nomination)
@@ -134,6 +125,15 @@ public class site {
             .forEach(mastodonCsv::println);
         mastodonCsv.flush();
         mastodonCsv.close();
+
+        // parse podcasts input data
+        try (InputStream in = Files.newInputStream(filePodcasts)) {
+            podcasts = mapper.readValue(in, Podcasts.class);
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.out.printf("❌ Unexpected error reading %s%n", filePodcasts);
+            System.exit(1);
+        }
 
         // generate podcasts.adoc
         var podcastsDoc = new StringBuilder(Files.readString(Path.of("podcasts.adoc.tpl")));
