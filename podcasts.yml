@@ -11,11 +11,13 @@ podcasts:
   - title: Airhacks
     url: https://airhacks.fm
     logo: img/logos/airhacks.png
+    language: EN
     hosts:
       - name: Adam Bien
   - title: Stackd
     url: https://stackdpodcast.com
     logo: img/logos/stackd.png
+    language: EN
     social:
       twitter: https://twitter.com/stackdpodcast
     hosts:
@@ -23,4 +25,43 @@ podcasts:
       - name: Josh Juneau
       - name: Daniel Hinojosa
       - name: Ian Hlavats
-    
+  - title: Foojay Podcast
+    url: https://foojay.io/today/category/podcast/
+    logo: img/logos/foojay_podcast.png
+    language: EN
+    social:
+      twitter: https://x.com/foojayio
+      linkedin: https://www.linkedin.com/company/foojayio/
+      mastodon: https://foojay.social/@foojay
+    hosts:
+      - name: Frank Delporte
+  - title: JavaFX In Action
+    url: https://webtechie.be/tags/jfx-in-action/
+    logo: img/logos/jfx-in-action.png
+    language: EN
+    social:
+      mastodon: https://foojay.social/@frankdelporte
+    hosts:
+      - name: Frank Delporte
+  - title: Happy Path Programming
+    url: https://happypathprogramming.com/
+    logo: img/logos/hpp.jpg
+    language: EN
+    social:
+      twitter: https://twitter.com/happypathprog
+    hosts:
+      - name: Bruce Eckel
+      - name: James Ward
+  - title: Les Cast Codeurs Podcast
+    url: https://lescastcodeurs.com/
+    logo: img/logos/lescastcodeurs.png
+    language: FR
+    social:
+      twitter: https://twitter.com/lescastcodeurs
+    hosts:
+      - name: Antonio Goncalves
+      - name: Arnaud Héritier
+      - name: Emmanuel Bernard
+      - name: Guillaume Laforge
+      - name: Katia Aresti
+
