@@ -3457,11 +3457,13 @@ members:
     year: 2016
     country:
       nomination: Hungary
-    city: Szeged, Csongrád,
+      residence: Switzerland
+    city: Zug
     social:
-      twitter: https://twitter.com/asz
+      mastodon: https://mastodon.social/@attilasz
       linkedin: https://www.linkedin.com/in/atszegedi/
       bluesky: https://bsky.app/profile/szegedia.bsky.social
+      github: https://github.com/szegedi
     avatar: img/avatars/asz.png
   - name: Mohamed Taman
     year: 2015
