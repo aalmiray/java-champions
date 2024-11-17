@@ -67,7 +67,7 @@ members:
     social:
       twitter: https://twitter.com/mojavelinux
       linkedin: https://www.linkedin.com/in/mojavelinux/
-      bluesky: https://bsky.app/profile/mojavelinux.bsky.social‬
+      bluesky: https://bsky.app/profile/mojavelinux.com
     avatar: img/avatars/mojavelinux.png
   - name: Dion Almaer
     year: 2005
@@ -89,7 +89,7 @@ members:
     social:
       twitter: https://twitter.com/aalmiray
       mastodon: https://mastodon.social/@aalmiray
-      bluesky: https://bsky.app/profile/aalmiray.bsky.social
+      bluesky: https://bsky.app/profile/andresalmiray.com
       linkedin: https://www.linkedin.com/in/aalmiray
       github: https://github.com/aalmiray
       website: https://andresalmiray.com
@@ -244,6 +244,7 @@ members:
       twitter: https://twitter.com/pbakker
       mastodon: https://mastodon.online/@paulbakker
       linkedin: https://www.linkedin.com/in/paulb01/
+      bluesky: https://bsky.app/profile/pbakker.bsky.social
     avatar: img/avatars/pbakker.png
   - name: Bert Bates
     year: 2005
@@ -351,7 +352,7 @@ members:
     social:
       twitter: https://twitter.com/sebi2706
       linkedin: https://www.linkedin.com/in/s%C3%A9bastien-blanc-08a73b1/
-      bluesky: ‪https://bsky.app/profile/sebi2706.bsky.social‬
+      bluesky: https://bsky.app/profile/sebi2706.bsky.social‬
     avatar: img/avatars/sebi2706.png
   - name: David Blevins
     year: 2015
@@ -932,6 +933,7 @@ members:
       twitter: https://twitter.com/lukaseder
       mastodon: https://mastodon.social/@lukaseder
       linkedin: https://www.linkedin.com/in/lukaseder/
+      bluesky: https://bsky.app/profile/lukaseder.bsky.social
     avatar: img/avatars/lukaseder.png
   - name: Sergei Egorov
     year: 2020
@@ -1707,6 +1709,7 @@ members:
       twitter: https://twitter.com/BurkHufnagel
       sessionize: https://sessionize.com/burk-hufnagel
       linkedin: https://www.linkedin.com/in/hufnagel/
+      bluesky: https://bsky.app/profile/burkhufnagel.bsky.social
     avatar: img/avatars/BurkHufnagel.png
   - name: Michael Hunger
     year: 2018
@@ -1790,7 +1793,7 @@ members:
       twitter: https://twitter.com/Stephan007
       mastodon: https://techhub.social/@stephan007
       linkedin: https://www.linkedin.com/in/stephanjanssen/
-      bluesky: https://bsky.app/profile/stephan007.bsky.social
+      bluesky: https://bsky.app/profile/stephanjanssen.be
     avatar: img/avatars/Stephan007.png
   - name: Jakob Jenkov
     year: 2022
@@ -2118,6 +2121,7 @@ members:
     social:
       twitter: https://twitter.com/dlemmermann
       linkedin: https://www.linkedin.com/in/dlemmermann/
+      bluesky: https://bsky.app/profile/dlemmermann.bsky.social
     avatar: img/avatars/dlemmermann.png
   - name: Michael Levin
     year: 2011
@@ -2729,6 +2733,7 @@ members:
     social:
       twitter: https://twitter.com/bobpaulin
       linkedin: https://www.linkedin.com/in/bobpaulin/
+      bluesky: https://bsky.app/profile/bobpaulin.com
     avatar: img/avatars/bobpaulin.png
   - name: Dr. José Paumard
     year: 2015
@@ -2738,6 +2743,7 @@ members:
     social:
       twitter: https://twitter.com/JosePaumard
       linkedin: https://www.linkedin.com/in/jos%C3%A9-paumard-2458ba5/
+      bluesky: https://bsky.app/profile/josepaumard.bsky.social
     avatar: img/avatars/JosePaumard.png
     status:
       - alumni
@@ -3112,6 +3118,7 @@ members:
     social:
       twitter: https://twitter.com/cowtowncoder
       linkedin: https://www.linkedin.com/in/tatu-saloranta-b2b36/
+      bluesky: https://bsky.app/profile/cowtowncoder.bsky.social
     avatar: img/avatars/cowtowncoder.png
   - name: Otávio Gonçalves de Santana
     year: 2015
@@ -3246,7 +3253,7 @@ members:
       twitter: https://twitter.com/bjschrijver
       mastodon: https://mastodon.social/@bjschrijver
       linkedin: https://www.linkedin.com/in/bjschrijver/
-      bluesky: https://bsky.app/profile/bjschrijver.bsky.social
+      bluesky: https://bsky.app/profile/bjschrijver.dev
     avatar: img/avatars/bjschrijver.png
   - name: Nate Schutta
     year: 2023
