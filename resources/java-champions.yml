@@ -617,7 +617,9 @@ members:
     city: London
     social:
       twitter: https://twitter.com/jodastephen
+      bluesky: https://bsky.app/profile/jodastephen.bsky.social
       linkedin: https://www.linkedin.com/in/stephencolebourne/
+      github: https://github.com/jodastephen
     avatar: img/avatars/jodastephen.png
   - name: Drabo Constantin
     year: 2020
