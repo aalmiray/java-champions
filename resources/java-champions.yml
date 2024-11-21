@@ -726,6 +726,7 @@ members:
       github: https://github.com/sdaschner
       website: https://www.sebastian-daschner.com
       linkedin: https://www.linkedin.com/in/sebastian-daschner-9894bb103/
+      bluesky: https://bsky.app/profile/daschners.bsky.social
     avatar: img/avatars/DaschnerS.png
   - name: Eric Deandrea
     year: 2024
@@ -1518,6 +1519,7 @@ members:
     social:
       twitter: https://twitter.com/ensode
       linkedin: https://www.linkedin.com/in/dheffelfinger
+      bluesky: https://bsky.app/profile/ensode.bsky.social
     avatar: img/avatars/ensode.png
   - name: Rajmahendra Hegde
     year: 2016
@@ -1564,6 +1566,7 @@ members:
     social:
       twitter: https://twitter.com/javatotto
       linkedin: https://www.linkedin.com/in/thorhenninghetland
+      bluesky: https://bsky.app/profile/javatotto.bsky.social
     avatar: img/avatars/javatotto.png
   - name: Jorge Hidalgo
     year: 2023
@@ -1790,6 +1793,7 @@ members:
     social:
       twitter: https://twitter.com/ivan_stefanov
       linkedin: https://www.linkedin.com/in/ivan-ivanov-25ab324/
+      bluesky: https://bsky.app/profile/ivannov.bsky.social
     avatar: img/avatars/ivan_stefanov.png
   - name: Grace Jansen
     year: 2022
@@ -2002,6 +2006,7 @@ members:
     social:
       twitter: https://twitter.com/mittie
       linkedin: https://www.linkedin.com/in/mittie/
+      bluesky: https://bsky.app/profile/dierk-koenig.bsky.social
     avatar: img/avatars/mittie.png
   - name: Guillaume Laforge
     year: 2017
@@ -2316,6 +2321,7 @@ members:
     social:
       twitter: https://twitter.com/sjmaple
       linkedin: https://www.linkedin.com/in/simonmaple/
+      bluesky: https://bsky.app/profile/sjmaple.bsky.social
     avatar: img/avatars/sjmaple.png
   - name: Karl Heinz Marbaise
     year: 2024
@@ -2394,6 +2400,7 @@ members:
     social:
       twitter: https://twitter.com/vincentmayers
       linkedin: https://www.linkedin.com/in/vincentmayers/
+      bluesky: https://bsky.app/profile/mayers.io
     avatar: img/avatars/vincentmayers.png
   - name: Carole McDonald
     year: 2021
@@ -2974,6 +2981,7 @@ members:
       twitter: https://twitter.com/speakjava
       mastodon: https://mastodon.social/@speakjava
       linkedin: https://www.linkedin.com/in/siritter/
+      bluesky: https://bsky.app/profile/speakjava.bsky.social
     avatar: img/avatars/speakjava.png
   - name: Sven Reimers
     year: 2015
@@ -3023,6 +3031,7 @@ members:
     social:
       twitter: https://twitter.com/graemerocher
       linkedin: https://www.linkedin.com/in/graemerocher/
+      bluesky: https://bsky.app/profile/graemerocher.bsky.social
     avatar: img/avatars/graemerocher.png
     status:
       - alumni
@@ -3623,6 +3632,7 @@ members:
       twitter: https://twitter.com/neugens
       mastodon: https://mastodon.social/@MarioTorre
       linkedin: https://www.linkedin.com/in/neugens/
+      bluesky: https://bsky.app/profile/mariotorre.bsky.social
     avatar: img/avatars/neugens.png
   - name: Henri Tremblay
     year: 2016
