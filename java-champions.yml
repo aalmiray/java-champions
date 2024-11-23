@@ -1779,11 +1779,16 @@ members:
     year: 2024
     country:
       nomination: USA
-    city: Seattle
+      residence: USA
+      birth: Hungary
+    city: Seattle, Washington
     social:
       twitter: https://twitter.com/jonatan_ivanov
       linkedin: https://www.linkedin.com/in/jonatan-ivanov/
       bluesky: https://bsky.app/profile/jonatan-ivanov.bsky.social
+      sessionize: https://sessionize.com/jonatan-ivanov
+      github: https://github.com/jonatan-ivanov
+      website: https://develotters.com
     avatar: img/avatars/jonatan_ivanov.png
   - name: Ivan St. Ivanov
     year: 2018
