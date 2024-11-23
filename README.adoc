@@ -2,6 +2,8 @@
 
 image:site/assets/img/duke_champion.png[align="center"]
 
+The data collected in this repository is used to update link:javachampions.org[javachampions.org].
+
 == What is a Java Champion?
 
 One of the best descriptions was given in the 2009 JavaOne

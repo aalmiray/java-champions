@@ -8,3 +8,4 @@ output/
 
 # VS Code project files
 .vscode/
+/out/
