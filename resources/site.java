@@ -21,31 +21,31 @@ import java.util.stream.Collectors;
 
 public class site {
     private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
-        "founding-member", "pass:[<i class=\"fa fa-star\"></i>]",
-        "honorary-member", "pass:[<i class=\"fa fa-medal\"></i>]",
-        "alumni", "pass:[<i class=\"fa fa-pause\"></i>]",
-        "passed-away", "pass:[<i class=\"fa fa-ribbon\"></i>]",
-        "retired", "pass:[<i class=\"fa fa-umbrella-beach\"></i>]"
+        "founding-member", "pass:[<i class=\"fa fa-star\" title=\"Founding Member\"></i>]",
+        "honorary-member", "pass:[<i class=\"fa fa-medal\" title=\"Honorary Member\"></i>]",
+        "alumni", "pass:[<i class=\"fa fa-pause\" title=\"Alumni Member\"></i>]",
+        "passed-away", "pass:[<i class=\"fa fa-ribbon\" title=\"Member has passed away\"></i>]",
+        "retired", "pass:[<i class=\"fa fa-umbrella-beach\" title=\"Member has retired from the program\"></i>]"
     ));
 
     private static final Map<String, String> SOCIAL = Map.of(
-        "twitter", "pass:[<span class=\"icon\"><i class=\"fab fa-twitter\"></i></span>]",
-        "mastodon", "pass:[<span class=\"icon\"><i class=\"fab fa-mastodon\"></i></span>]",
-        "linkedin", "pass:[<span class=\"icon\"><i class=\"fab fa-linkedin\"></i></span>]",
-        "xing", "pass:[<span class=\"icon\"><i class=\"fab fa-xing\"></i></span>]",
-        "github", "pass:[<span class=\"icon\"><i class=\"fab fa-github\"></i></span>]",
-        "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-brands fa-bluesky\"></i></span>]",
-        "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\"></i></span>]",
-        "youtube", "pass:[<span class=\"icon\"><i class=\"fab fa-youtube-square\"></i></span>]",
-        "sessionize", "pass:[<span class=\"icon\"><i class=\"fa fa-bullhorn\"></i></span>]",
-        "speakerdeck", "pass:[<span class=\"icon\"><i class=\"fab fa-speaker-deck\"></i></span>]"
+        "twitter", "pass:[<span class=\"icon\"><i class=\"fab fa-twitter\" title=\"Twitter\"></i></span>]",
+        "mastodon", "pass:[<span class=\"icon\"><i class=\"fab fa-mastodon\" title=\"Mastodon\"></i></span>]",
+        "linkedin", "pass:[<span class=\"icon\"><i class=\"fab fa-linkedin\" title=\"LinkedIn\"></i></span>]",
+        "xing", "pass:[<span class=\"icon\"><i class=\"fab fa-xing\" title=\"Xing\"></i></span>]",
+        "github", "pass:[<span class=\"icon\"><i class=\"fab fa-github\" title=\"GitHub\"></i></span>]",
+        "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-brands fa-bluesky\" title=\"BlueSky\"></i></span>]",
+        "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\" title=\"Website\"></i></span>]",
+        "youtube", "pass:[<span class=\"icon\"><i class=\"fab fa-youtube-square\" title=\"YouTube\"></i></span>]",
+        "sessionize", "pass:[<span class=\"icon\"><i class=\"fa fa-bullhorn\" title=\"Sessionize\"></i></span>]",
+        "speakerdeck", "pass:[<span class=\"icon\"><i class=\"fab fa-speaker-deck\" title=\"SpeakerDeck\"></i></span>]"
     );
 
     private static final Map<String, String> COUNTRY = Map.of(
-        "nomination", "pass:[<i class=\"fa fa-award\"></i>]",
-        "residence", "pass:[<i class=\"fa fa-home\"></i>]",
-        "citizenship", "pass:[<i class=\"fa fa-passport\"></i>]",
-        "birth", "pass:[<i class=\"fa fa-baby\"></i>]"
+        "nomination", "pass:[<i class=\"fa fa-award\" title=\"Country of nomination\"></i>]",
+        "residence", "pass:[<i class=\"fa fa-home\" title=\"Country of residence\"></i>]",
+        "citizenship", "pass:[<i class=\"fa fa-passport\" title=\"Country of citizenship\"></i>]",
+        "birth", "pass:[<i class=\"fa fa-baby\" title=\"Country of birth\"></i>]"
     );
 
     public static void main(String... args) throws Exception {
