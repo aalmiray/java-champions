@@ -416,6 +416,7 @@ members:
       linkedin: https://www.linkedin.com/in/simonebordet
       sessionize: https://sessionize.com/simonebordet
       twitter: https://twitter.com/simonebordet
+      bluesky: https://bsky.app/profile/simonebordet.bsky.social
     avatar: img/avatars/simonebordet.png
   - name: Bruno Borges
     year: 2019
@@ -3116,7 +3117,8 @@ members:
       nomination: Japan
     social:
       twitter: https://twitter.com/skrb
-      linkedin: https://www.linkedin.com/in/koichisakata/
+      linkedin: https://www.linkedin.com/in/yuichi-sakuraba-4129699/
+      bluesky: https://bsky.app/profile/skrb95.bsky.social
     avatar: img/avatars/skrb.png
   - name: Alberto Salazar
     year: 2018
