@@ -2681,11 +2681,13 @@ members:
     year: 2018
     country:
       nomination: Guatemala
-    city: Guatemala City
+      residence: Brazil
+    city: São Paulo
     social:
       twitter: https://twitter.com/tuxtor
       mastodon: https://fosstodon.org/@tuxtor
       linkedin: https://www.linkedin.com/in/victororozco/
+      bluesky: https://bsky.app/profile/tuxtor.bsky.social
     avatar: img/avatars/tuxtor.png
   - name: Bethan Palmer
     year: 2018
