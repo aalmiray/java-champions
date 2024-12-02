@@ -2733,11 +2733,15 @@ members:
     year: 2019
     country:
       nomination: Germany
+      residence: Germany
     city: Karlsruhe
     social:
       twitter: https://twitter.com/nipafx
       mastodon: https://mastodon.social/@nipafx
-      bluesky: https://bsky.app/profile/nipafx.bsky.social
+      bluesky: https://bsky.app/profile/nipafx.dev
+      github: https://github.com/nipafx/
+      youtube: https://youtube.com/nipafx
+      website: https://nipafx.dev
     avatar: img/avatars/nipafx.png
     status:
       - alumni
