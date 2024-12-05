@@ -1608,9 +1608,9 @@ members:
       twitter: https://twitter.com/ghillert
       linkedin: https://www.linkedin.com/in/hillert/
       bluesky: https://bsky.app/profile/hillert.bsky.social
+      github: https://github.com/ghillert
+      website: https://hillert.com
     avatar: img/avatars/ghillert.png
-    status:
-      - alumni
   - name: Daniel Hinojosa
     year: 2020
     country:
