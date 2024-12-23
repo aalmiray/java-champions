@@ -1820,6 +1820,15 @@ members:
       twitter: https://twitter.com/gracejansen27
       linkedin: https://www.linkedin.com/in/grace-jansen/
     avatar: img/avatars/gracejansen27.png
+  - name: Johan Jansen
+    year: 2024
+    country:
+      nomination: The Netherlands
+    social:
+      twitter: https://twitter.com/johanjanssen42
+      linkedin: https://www.linkedin.com/in/johanjanssen2001/
+      bluesky: https://bsky.app/profile/johanjanssen.bsky.social
+    avatar: img/avatars/johanjanssen42.png
   - name: Stephan Janssen
     year: 2005
     country:
