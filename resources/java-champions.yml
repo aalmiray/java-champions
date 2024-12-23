@@ -2631,7 +2631,9 @@ members:
     year: 2023
     country:
       nomination: The Netherlands
+      residence: The Netherlands
       citizenship: Brazil
+      birth: Brazil
     city: Utrecht
     social:
       twitter: https://twitter.com/eliasnogueira
@@ -2640,6 +2642,7 @@ members:
       website: https://eliasnogueira.com
       sessionize: https://sessionize.com/elias-nogueira
       speakerdeck: https://speakerdeck.com/eliasnogueira
+      bluesky: https://bsky.app/profile/elias-nogueira.bsky.social
     avatar: img/avatars/eliasnogueira.png
   - name: Tomasz Nurkiewicz
     year: 2018
