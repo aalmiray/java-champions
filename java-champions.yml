@@ -2482,6 +2482,7 @@ members:
     social:
       twitter: https://twitter.com/vlad_mihalcea
       linkedin: https://www.linkedin.com/in/vladmihalcea/
+      bluesky: https://bsky.app/profile/vladmihalcea.bsky.social
     avatar: img/avatars/vlad_mihalcea.png
   - name: Ana-Maria Mihalceanu
     year: 2021
@@ -2820,6 +2821,7 @@ members:
     social:
       twitter: https://twitter.com/kcpeppe
       linkedin: https://www.linkedin.com/in/kirk-pepperdine/
+      bluesky: https://bsky.app/profile/kcpeppe.bsky.social
     avatar: img/avatars/kcpeppe.png
   - name: Dr. Jose Pereda
     year: 2017
