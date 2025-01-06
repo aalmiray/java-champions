@@ -1561,6 +1561,15 @@ members:
       twitter: https://twitter.com/net0pyr
       linkedin: https://www.linkedin.com/in/heinrichs/
     avatar: img/avatars/net0pyr.png
+  - name: Marcus Hellberg
+    year: 2025
+    country:
+      nomination: USA
+      city: San Jose
+    social:
+      twitter: https://twitter.com/marcushellberg
+      linkedin: https://www.linkedin.com/in/marcushellberg/
+    avatar: img/avatars/marcushellberg.png
   - name: César Hernández
     year: 2016
     country:
