@@ -331,7 +331,7 @@ members:
       nomination: Germany
     social:
       twitter: https://twitter.com/AdamBien
-      bluesky: https://bsky.app/profile/adambien.blog‬
+      bluesky: https://bsky.app/profile/adambien.blog
     avatar: img/avatars/AdamBien.png
   - name: Dr. Xu Bin
     year: 2005
@@ -358,7 +358,7 @@ members:
     social:
       twitter: https://twitter.com/sebi2706
       linkedin: https://www.linkedin.com/in/s%C3%A9bastien-blanc-08a73b1/
-      bluesky: https://bsky.app/profile/sebi2706.bsky.social‬
+      bluesky: https://bsky.app/profile/sebi2706.bsky.social
     avatar: img/avatars/sebi2706.png
   - name: David Blevins
     year: 2015
@@ -477,7 +477,7 @@ members:
     social:
       twitter: https://twitter.com/danielbryantuk
       linkedin: https://www.linkedin.com/in/danielbryantuk/
-      bluesky: https://bsky.app/profile/danielbryantuk.bsky.social
+      bluesky: https://bsky.app/profile/danielbryantuk.com
     avatar: img/avatars/danielbryantuk.png
   - name: Bill Burke
     year: 2005
@@ -486,7 +486,7 @@ members:
     social:
       linkedin: https://www.linkedin.com/in/bill-burke-091864121/
       twitter: https://twitter.com/patriot1burke
-      bluesky: https://bsky.app/profile/billburke.bsky.social
+      bluesky: https://bsky.app/profile/billburke.ie
     avatar: img/avatars/Bill_Burke.png
     status:
       - founding-member
@@ -956,7 +956,7 @@ members:
       nomination: Russian Federation
     social:
       twitter: https://twitter.com/bsideup
-      bluesky: https://bsky.app/profile/bsideup.bsky.social
+      bluesky: https://bsky.app/profile/bsideup.github.io
       linkedin: https://www.linkedin.com/in/bsideup/
     avatar: img/avatars/bsideup.png
   - name: Markus Eisele
@@ -1177,7 +1177,7 @@ members:
       nomination: USA
     social:
       twitter: https://twitter.com/gAmUssA
-      bluesky: https://bsky.app/profile/gamussa.bsky.social
+      bluesky: https://bsky.app/profile/gamussa.dev
       linkedin: https://www.linkedin.com/in/vikgamov/
     avatar: img/avatars/gAmUssA.png
   - name: Felipe Gaúcho
@@ -1982,7 +1982,7 @@ members:
     social:
       twitter: https://twitter.com/viktorklang
       linkedin: https://www.linkedin.com/in/viktorklang/
-      bluesky: https://bsky.app/profile/viktorklang.bsky.social
+      bluesky: https://bsky.app/profile/viktorklang.com
     avatar: img/avatars/viktorklang.png
     status:
       - alumni
@@ -2099,7 +2099,7 @@ members:
     social:
       twitter: https://twitter.com/jaceklaskowski
       linkedin: https://www.linkedin.com/in/jaceklaskowski/
-      bluesky: https://bsky.app/profile/jaceklaskowski.bsky.social
+      bluesky: https://bsky.app/profile/books.japila.pl
     avatar: img/avatars/jaceklaskowski.png
   - name: Enrique Lasterra
     year: 2005
@@ -3069,7 +3069,7 @@ members:
       twitter: https://twitter.com/royvanrijn
       mastodon: https://mastodon.social/@royvanrijn
       linkedin: https://www.linkedin.com/in/royvanrijn/
-      bluesky: https://bsky.app/profile/royvanrijn.bsky.social
+      bluesky: https://bsky.app/profile/royvanrijn.com
     avatar: img/avatars/royvanrijn.png
   - name: Leonardo de Moura Rocha Lima
     year: 2017
@@ -3099,7 +3099,7 @@ members:
     city: Galicia
     social:
       linkedin: https://www.linkedin.com/in/antonmry/
-      bluesky: https://bsky.app/profile/antonmry.bsky.social
+      bluesky: https://bsky.app/profile/galiglobal.com
       sessionize: https://sessionize.com/antonmry
     avatar: img/avatars/antonmry.png
   - name: Ix-chel Ruiz
@@ -3949,7 +3949,7 @@ members:
     social:
       twitter: https://twitter.com/habuma
       mastodon: https://fosstodon.org/@habuma
-      bluesky: https://bsky.app/profile/habuma.bsky.social
+      bluesky: https://bsky.app/profile/habuma.com
       sessionize: https://sessionize.com/CraigWalls
       youtube: https://www.youtube.com/channel/UC4KvfQvH5XAfbA5g7sMdOww
       linkedin: https://www.linkedin.com/in/habuma/
