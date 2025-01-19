@@ -701,7 +701,7 @@ members:
       twitter: https://twitter.com/holly_cummins
       linkedin: https://linkedin.com/in/holly-k-cummins/
       mastodon: https://hachyderm.io/@holly_cummins
-      bluesky: https://bsky.app/profile/holly-cummins.bsky.social
+      bluesky: https://bsky.app/profile/hollycummins.com
       sessionize: https://sessionize.com/holly-cummins
       speakerdeck: https://speakerdeck.com/hollycummins
       website: https://hollycummins.com
@@ -946,7 +946,6 @@ members:
       nomination: Switzerland
     city: St. Gallen
     social:
-      twitter: https://twitter.com/lukaseder
       mastodon: https://mastodon.social/@lukaseder
       linkedin: https://www.linkedin.com/in/lukaseder/
       bluesky: https://bsky.app/profile/lukaseder.bsky.social
@@ -1562,6 +1561,18 @@ members:
       twitter: https://twitter.com/net0pyr
       linkedin: https://www.linkedin.com/in/heinrichs/
     avatar: img/avatars/net0pyr.png
+  - name: Marcus Hellberg
+    year: 2025
+    country:
+      nomination: USA
+    city: Tahoe
+    social:
+      twitter: https://twitter.com/marcushellberg
+      linkedin: https://www.linkedin.com/in/marcushellberg
+      bluesky: https://bsky.app/profile/marcushellberg.dev
+      github: https://github.com/marcushellberg
+      sessionize: https://sessionize.com/marcushellberg 
+    avatar: img/avatars/marcushellberg.png
   - name: César Hernández
     year: 2016
     country:
@@ -1820,6 +1831,15 @@ members:
       twitter: https://twitter.com/gracejansen27
       linkedin: https://www.linkedin.com/in/grace-jansen/
     avatar: img/avatars/gracejansen27.png
+  - name: Johan Janssen
+    year: 2024
+    country:
+      nomination: The Netherlands
+    social:
+      twitter: https://twitter.com/johanjanssen42
+      linkedin: https://www.linkedin.com/in/johanjanssen2001/
+      bluesky: https://bsky.app/profile/johanjanssen.bsky.social
+    avatar: img/avatars/johanjanssen42.png
   - name: Stephan Janssen
     year: 2005
     country:
@@ -1913,6 +1933,7 @@ members:
       linkedin: https://www.linkedin.com/in/heinzkabutz
       github: https://github.com/kabutz
       website: https://www.javaspecialists.eu
+      bluesky: https://bsky.app/profile/heinzkabutz.bsky.social
     avatar: img/avatars/heinzkabutz.png
   - name: Mattias Karlsson
     year: 2009
@@ -2295,6 +2316,8 @@ members:
       nomination: Switzerland
     social:
       twitter: https://twitter.com/%5Fgodin%5F
+      bluesky: https://bsky.app/profile/mandrikov.bsky.social
+      mastodon: https://mastodon.social/@godin
       linkedin: https://www.linkedin.com/in/mandrikov/
       github: https://github.com/godin
       sessionize: https://sessionize.com/godin
@@ -2471,6 +2494,7 @@ members:
     social:
       twitter: https://twitter.com/vlad_mihalcea
       linkedin: https://www.linkedin.com/in/vladmihalcea/
+      bluesky: https://bsky.app/profile/vladmihalcea.bsky.social
     avatar: img/avatars/vlad_mihalcea.png
   - name: Ana-Maria Mihalceanu
     year: 2021
@@ -2619,7 +2643,9 @@ members:
     year: 2023
     country:
       nomination: The Netherlands
+      residence: The Netherlands
       citizenship: Brazil
+      birth: Brazil
     city: Utrecht
     social:
       twitter: https://twitter.com/eliasnogueira
@@ -2628,6 +2654,7 @@ members:
       website: https://eliasnogueira.com
       sessionize: https://sessionize.com/elias-nogueira
       speakerdeck: https://speakerdeck.com/eliasnogueira
+      bluesky: https://bsky.app/profile/elias-nogueira.bsky.social
     avatar: img/avatars/eliasnogueira.png
   - name: Tomasz Nurkiewicz
     year: 2018
@@ -2806,6 +2833,7 @@ members:
     social:
       twitter: https://twitter.com/kcpeppe
       linkedin: https://www.linkedin.com/in/kirk-pepperdine/
+      bluesky: https://bsky.app/profile/kcpeppe.bsky.social
     avatar: img/avatars/kcpeppe.png
   - name: Dr. Jose Pereda
     year: 2017
@@ -2933,7 +2961,7 @@ members:
       linkedin: https://linkedin.com/in/mraible
       twitter: https://twitter.com/mraible
       bluesky: https://bsky.app/profile/mraible.bsky.social
-      sessionize: https://sessionize.com/matt-raible
+      sessionize: https://sessionize.com/mraible
       speakerdeck: https://speakerdeck.com/mraible
       youtube: https://youtube.com/mraible
     avatar: img/avatars/mraible.png
@@ -3438,6 +3466,15 @@ members:
       twitter: https://twitter.com/alexsotob
       linkedin: https://www.linkedin.com/in/asotobu/
     avatar: img/avatars/alexsotob.png
+  - name: Laurentiu Spilca
+    year: 2024
+    country:
+      nomination: Romania
+    city: Bucharest
+    social:
+      twitter: https://twitter.com/laurspilca
+      linkedin: https://www.linkedin.com/in/lauren%C5%A3iu-spilc%C4%83-01a931107/
+    avatar: img/avatars/laurspilca.png
   - name: Kate Stanley
     year: 2021
     country:
@@ -3668,14 +3705,14 @@ members:
     year: 2016
     country:
       nomination: Canada
-    city: Montreal, Quebec
+    city: Montréal, Québec
     social:
       twitter: https://twitter.com/henri_tremblay
       mastodon: https://mastodon.world/@henri
       linkedin: https://www.linkedin.com/in/henritremblay
       github: https://github.com/henri-tremblay
       website: https://blog.tremblay.pro
-      bluesky: https://bsky.app/profile/henritremblay.bsky.social
+      bluesky: https://bsky.app/profile/henri.tremblay.pro
     avatar: img/avatars/henri_tremblay.png
   - name: Ray Tsang
     year: 2018
@@ -3848,7 +3885,7 @@ members:
     social:
       twitter: https://twitter.com/michaelvitz
       mastodon: https://innoq.social/@michaelvitz
-      bluesky: https://bsky.app/profile/michaelvitz.bsky.social
+      bluesky: https://bsky.app/profile/michael.vitz.me
       youtube: https://www.youtube.com/@michael-on-code
       linkedin: https://www.linkedin.com/in/michaelvitz/
       github: https://github.com/mvitz
