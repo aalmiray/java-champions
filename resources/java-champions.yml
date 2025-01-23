@@ -1175,10 +1175,16 @@ members:
     year: 2021
     country:
       nomination: USA
+      residence: USA
+    city: New York, New York
     social:
       twitter: https://twitter.com/gAmUssA
       bluesky: https://bsky.app/profile/gamussa.dev
-      linkedin: https://www.linkedin.com/in/vikgamov/
+      linkedin: https://linkedin.com/in/vikgamov
+      github: https://github.com/gamussa/
+      website: http://gamov.io/
+      sessionize: https://sessionize.com/vikgamov
+      youtube: https://www.youtube.com/@viktorgamov
     avatar: img/avatars/gAmUssA.png
   - name: Felipe Gaúcho
     year: 2010
