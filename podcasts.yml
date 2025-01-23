@@ -64,4 +64,12 @@ podcasts:
       - name: Emmanuel Bernard
       - name: Guillaume Laforge
       - name: Katia Aresti
-
+  - title: Devrel Radio
+    url: https://www.youtube.com/@devrelradio
+    logo: img/logos/devrelradio.png
+    language: EN
+    social:
+      twitter: https://x.com/devrelradio
+    hosts:
+      - name: Viktor Gamov
+      - name: Baruch Sadogursky
