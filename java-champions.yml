@@ -1132,8 +1132,9 @@ members:
       nomination: Germany
     city: Ludwigsburg
     social:
-      twitter: https://twitter.com/TobiasFrech
+      mastodon: https://ijug.social/@TobiasFrech
       linkedin: https://www.linkedin.com/in/javaadministration/
+      github: https://github.com/JOpsDev
     avatar: img/avatars/TobiasFrech.png
   - name: Mario Fusco
     year: 2016
