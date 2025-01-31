@@ -184,7 +184,7 @@ public class site {
 
     private static Optional<Location> getLocation(String apiKey, String country, String city) {
         try {
-            JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("cb1ea3889f3b484ebdaf0a898c0b34de");
+            JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
             JOpenCageForwardRequest request = new JOpenCageForwardRequest(city + ", " + country);
             JOpenCageResponse response = jOpenCageGeocoder.forward(request);
             JOpenCageLatLng firstResultLatLng = response.getFirstPosition(); // get the coordinate pair of the first result
