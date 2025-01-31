@@ -20,6 +20,8 @@ import java.util.stream.Collectors;
 import org.json.JSONObject;
 import org.json.JSONArray;
 
+import javax.print.attribute.standard.MediaSize;
+
 /**
  * To be executed with JBang
  * jbang site.java ../java-champions.yml ../podcasts.yml ../site/content/ GEO_API_KEY
@@ -143,12 +145,8 @@ public class site {
             if (m.city != null && !m.city.isBlank()) {}
         });
 
-        var locationsSb = new StringBuilder();
-        locationsSb.append("{");
-        locationsSb.append(String.join(",\n", locations));
-        locationsSb.append("}");
         var mapDoc = Files.readString(Path.of("map.adoc.tpl"));
-        mapDoc = mapDoc.replace("@LOCATIONS@", ("[\n" + String.join(",\n\t", locations) + "\n]"));
+        mapDoc = mapDoc.replace("@LOCATIONS@", String.join(",\n\t", locations));
         var outputMap = directory.resolve("map.adoc");
         Files.write(outputMap, mapDoc.getBytes());
 
@@ -200,8 +198,8 @@ public class site {
                 JSONObject result = results.getJSONObject(0);
                 double latitude = result.getDouble("lat");
                 double longitude = result.getDouble("lon");
-                // Use the latitude and longitude values as needed (e.g., to display on a map)
                 System.out.println("Location for " + city + ", " + country + ": " + latitude + "/" + longitude);
+                return Optional.of(new Location(latitude, longitude));
             } else {
                 System.out.println("Error: " + responseCode);
             }

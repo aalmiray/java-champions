@@ -15,7 +15,7 @@ Frank Delporte
     var markers = new L.LayerGroup();
 
     // Data
-    var data = @LOCATIONS@;
+    var data = [@LOCATIONS@];
 
     // Visualize the locations
     data => {
