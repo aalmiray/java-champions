@@ -2,16 +2,12 @@
 
 //JAVA 17
 
-//DEPS com.opencagedata:jopencage:2.2.2
+//DEPS org.json:json:20250107
 //DEPS com.fasterxml.jackson.core:jackson-core:2.16.0
 //DEPS com.fasterxml.jackson.core:jackson-databind:2.16.0
 //DEPS com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.16.0
 
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
-import com.opencagedata.jopencage.JOpenCageGeocoder;
-import com.opencagedata.jopencage.model.JOpenCageForwardRequest;
-import com.opencagedata.jopencage.model.JOpenCageLatLng;
-import com.opencagedata.jopencage.model.JOpenCageResponse;
 
 import java.io.*;
 import java.net.HttpURLConnection;
@@ -21,10 +17,13 @@ import java.nio.file.Path;
 import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
+import org.json.JSONObject;
+import org.json.JSONArray;
 
 /**
  * To be executed with JBang
  * jbang site.java ../java-champions.yml ../podcasts.yml ../site/content/ GEO_API_KEY
+ * API key to be generated on https://geocode.maps.co, is free for 5000 request/day, max 1/sec
  */
 public class site {
     private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
@@ -136,9 +135,9 @@ public class site {
                 var location = getLocation(geoApiKey, country, city);
                 if (location.isPresent()) {
                     locations.add("{lat: " + location.get().lat
-                    + ", lng: " + location.get().lon
-                    + ", name: \"" + m.name + "\""
-                    + "}");
+                            + ", lng: " + location.get().lon
+                            + ", name: \"" + m.name + "\""
+                            + "}");
                 }
             }
             if (m.city != null && !m.city.isBlank()) {}
@@ -184,16 +183,30 @@ public class site {
 
     private static Optional<Location> getLocation(String apiKey, String country, String city) {
         try {
-            JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
-            JOpenCageForwardRequest request = new JOpenCageForwardRequest(city + ", " + country);
-            JOpenCageResponse response = jOpenCageGeocoder.forward(request);
-            JOpenCageLatLng firstResultLatLng = response.getFirstPosition(); // get the coordinate pair of the first result
-            var loc = new Location(firstResultLatLng.getLat(), firstResultLatLng.getLng());
-            System.out.println("Found location for " + city + ", " + country + ": " + loc.lat + "/" + loc.lon);
-            return Optional.of(loc);
+            Thread.sleep(1000); // GEO API can only be called once per second
+            URL url = new URL("https://geocode.maps.co/search?q=" + (city == null ? "" : city + ",") + country + "&api_key=" + apiKey);
+            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+            connection.setRequestMethod("GET");
+            int responseCode = connection.getResponseCode();
+            if (responseCode == 200) {
+                BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+                String line;
+                StringBuilder response = new StringBuilder();
+                while ((line = reader.readLine()) != null) {
+                    response.append(line);
+                }
+                // Parse the JSON response to extract latitude and longitude
+                JSONArray results = new JSONArray(response.toString());
+                JSONObject result = results.getJSONObject(0);
+                double latitude = result.getDouble("lat");
+                double longitude = result.getDouble("lon");
+                // Use the latitude and longitude values as needed (e.g., to display on a map)
+                System.out.println("Location for " + city + ", " + country + ": " + latitude + "/" + longitude);
+            } else {
+                System.out.println("Error: " + responseCode);
+            }
         } catch (Exception e) {
-            e.printStackTrace();
-            System.out.printf("❌ Unexpected error while getting location %s%n", e.getMessage());
+            System.out.printf("❌ Unexpected error while getting location for %s, %s: %s%n", city, country, e.getMessage());
         }
         return Optional.empty();
     }
