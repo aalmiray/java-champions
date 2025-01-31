@@ -779,6 +779,9 @@ members:
     year: 2023
     country:
       nomination: Belgium
+      residence: Belgium
+      birth: Belgium
+    city: Zonnebeke
     social:
       twitter: https://twitter.com/FrankDelporte
       mastodon: https://foojay.social/@frankdelporte

@@ -1,24 +1,31 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
+
 //JAVA 17
+
+//DEPS com.opencagedata:jopencage:2.2.2
 //DEPS com.fasterxml.jackson.core:jackson-core:2.16.0
 //DEPS com.fasterxml.jackson.core:jackson-databind:2.16.0
 //DEPS com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.16.0
 
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
+import com.opencagedata.jopencage.JOpenCageGeocoder;
+import com.opencagedata.jopencage.model.JOpenCageForwardRequest;
+import com.opencagedata.jopencage.model.JOpenCageLatLng;
+import com.opencagedata.jopencage.model.JOpenCageResponse;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.PrintWriter;
+import java.io.*;
+import java.net.HttpURLConnection;
+import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
+import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+/**
+ * To be executed with JBang
+ * jbang site.java ../java-champions.yml ../podcasts.yml ../site/content/ GEO_API_KEY
+ */
 public class site {
     private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
         "founding-member", "pass:[<i class=\"fa fa-star\" title=\"Founding Member\"></i>]",
@@ -49,7 +56,7 @@ public class site {
     );
 
     public static void main(String... args) throws Exception {
-        if (null == args || args.length != 3) {
+        if (null == args || args.length != 4) {
             System.out.println("❌ Usage: java site.java [YAML members] [YAML podcasts] [DIRECTORY]");
             System.exit(1);
         }
@@ -57,6 +64,7 @@ public class site {
         var fileMembers = Path.of(args[0]);
         var filePodcasts = Path.of(args[1]);
         var directory = Path.of(args[2]);
+        var geoApiKey = args[3];
 
         var mapper = YAMLMapper.builder().build();
         var members = new Members();
@@ -116,6 +124,35 @@ public class site {
         var outputStats = directory.resolve("stats.adoc");
         Files.write(outputStats, statsDoc.getBytes());
 
+        // generate map.adoc
+        var locations = new ArrayList<String>();
+        members.members.forEach(m -> {
+            var city = m.city;
+            var country = m.country.nomination;
+            if (country == null || country.isBlank()) {
+                country = m.country.residence;
+            }
+            if (country != null && !country.isBlank()) {
+                var location = getLocation(geoApiKey, country, city);
+                if (location.isPresent()) {
+                    locations.add("{lat: " + location.get().lat
+                    + ", lng: " + location.get().lon
+                    + ", name: \"" + m.name + "\""
+                    + "}");
+                }
+            }
+            if (m.city != null && !m.city.isBlank()) {}
+        });
+
+        var locationsSb = new StringBuilder();
+        locationsSb.append("{");
+        locationsSb.append(String.join(",\n", locations));
+        locationsSb.append("}");
+        var mapDoc = Files.readString(Path.of("map.adoc.tpl"));
+        mapDoc = mapDoc.replace("@LOCATIONS@", ("[\n" + String.join(",\n\t", locations) + "\n]"));
+        var outputMap = directory.resolve("map.adoc");
+        Files.write(outputMap, mapDoc.getBytes());
+
         // generate fediverse CSV file
         var mastodonCsv = new PrintWriter(Files.newOutputStream(directory.resolve("resources").resolve("mastodon.csv")));
         mastodonCsv.println("Account address,Show boosts,Notify on new posts,Languages");
@@ -143,6 +180,32 @@ public class site {
 
         var outputPodcasts = directory.resolve("podcasts.adoc");
         Files.write(outputPodcasts, podcastsDoc.toString().getBytes());
+    }
+
+    private static Optional<Location> getLocation(String apiKey, String country, String city) {
+        try {
+            JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("cb1ea3889f3b484ebdaf0a898c0b34de");
+            JOpenCageForwardRequest request = new JOpenCageForwardRequest(city + ", " + country);
+            JOpenCageResponse response = jOpenCageGeocoder.forward(request);
+            JOpenCageLatLng firstResultLatLng = response.getFirstPosition(); // get the coordinate pair of the first result
+            var loc = new Location(firstResultLatLng.getLat(), firstResultLatLng.getLng());
+            System.out.println("Found location for " + city + ", " + country + ": " + loc.lat + "/" + loc.lon);
+            return Optional.of(loc);
+        } catch (Exception e) {
+            e.printStackTrace();
+            System.out.printf("❌ Unexpected error while getting location %s%n", e.getMessage());
+        }
+        return Optional.empty();
+    }
+
+    static class Location {
+        public double lat;
+        public double lon;
+
+        public Location(double lat, double lon) {
+            this.lat = lat;
+            this.lon = lon;
+        }
     }
 
     static class Members {
