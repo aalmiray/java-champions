@@ -49,14 +49,25 @@ public class site {
     );
 
     public static void main(String... args) throws Exception {
-        if (null == args || args.length != 3) {
-            System.out.println("❌ Usage: java site.java [YAML members] [YAML podcasts] [DIRECTORY]");
+        if (null == args || args.length != 2) {
+            System.out.println("❌ Usage: java site.java [YAML DIRECTORY] [OUTPUT DIRECTORY]");
             System.exit(1);
         }
 
-        var fileMembers = Path.of(args[0]);
-        var filePodcasts = Path.of(args[1]);
-        var directory = Path.of(args[2]);
+        var inputDirectory = Path.of(args[0]);
+        var outputDirectory = Path.of(args[1]);
+        var fileMembers = inputDirectory.resolve("java-champions.yml");
+        var filePodcasts = inputDirectory.resolve("podcasts.yml");
+
+        if (!Files.exists(fileMembers)) {
+            System.out.printf("❌ %s/java-champions.yml does not exist%n", inputDirectory.toAbsolutePath());
+            System.exit(1);
+        }
+
+        if (!Files.exists(filePodcasts)) {
+            System.out.printf("❌ %s/podcasts.yml does not exist%n", inputDirectory.toAbsolutePath());
+            System.exit(1);
+        }
 
         var mapper = YAMLMapper.builder().build();
         var members = new Members();
@@ -77,7 +88,7 @@ public class site {
             membersDoc.append(member.formatted());
         }
 
-        var outputMembers = directory.resolve("members.adoc");
+        var outputMembers = outputDirectory.resolve("members.adoc");
         Files.write(outputMembers, membersDoc.toString().getBytes());
 
         // generate stats.adoc
@@ -113,11 +124,11 @@ public class site {
             .replace("@COUNTRIES_HEIGHT@", String.valueOf(countries.size() * 30))
             .replace("@YEARS@", yearsSb.toString())
             .replace("@YEARS_HEIGHT@", String.valueOf(years.size() * 30));
-        var outputStats = directory.resolve("stats.adoc");
+        var outputStats = outputDirectory.resolve("stats.adoc");
         Files.write(outputStats, statsDoc.getBytes());
 
         // generate fediverse CSV file
-        var mastodonCsv = new PrintWriter(Files.newOutputStream(directory.resolve("resources").resolve("mastodon.csv")));
+        var mastodonCsv = new PrintWriter(Files.newOutputStream(outputDirectory.resolve("resources").resolve("mastodon.csv")));
         mastodonCsv.println("Account address,Show boosts,Notify on new posts,Languages");
         members.members.stream()
             .filter(JavaChampion::hasMastodon)
@@ -141,7 +152,7 @@ public class site {
             podcastsDoc.append(podcast.formatted());
         }
 
-        var outputPodcasts = directory.resolve("podcasts.adoc");
+        var outputPodcasts = outputDirectory.resolve("podcasts.adoc");
         Files.write(outputPodcasts, podcastsDoc.toString().getBytes());
     }
 
