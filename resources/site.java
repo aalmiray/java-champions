@@ -23,9 +23,14 @@ import org.json.JSONArray;
 import javax.print.attribute.standard.MediaSize;
 
 /**
- * To be executed with JBang
- * jbang site.java ../java-champions.yml ../podcasts.yml ../site/content/ GEO_API_KEY
- * API key to be generated on https://geocode.maps.co, is free for 5000 request/day, max 1/sec
+ * To be executed with JBang:
+ * jbang site.java INPUT_DIR OUTPUT_DIR GEO_API_KEY
+ *
+ * GEO API key to be generated on https://geocode.maps.co, is free for 5000 request/day, max 1/sec
+ *
+ * For example:
+ * cd resources
+ * ./jbang site.java .. ../site/content/ ${{ secrets.GEO_API_TOKEN }}
  */
 public class site {
     private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
@@ -158,7 +163,7 @@ public class site {
 
         var mapDoc = Files.readString(Path.of("map.adoc.tpl"));
         mapDoc = mapDoc.replace("@LOCATIONS@", String.join(",\n\t", locations));
-        var outputMap = directory.resolve("map.adoc");
+        var outputMap = outputDirectory.resolve("map.adoc");
         Files.write(outputMap, mapDoc.getBytes());
 
         // generate fediverse CSV file
@@ -218,6 +223,16 @@ public class site {
             System.out.printf("❌ Unexpected error while getting location for %s, %s: %s%n", city, country, e.getMessage());
         }
         return Optional.empty();
+    }
+
+    static class Location {
+        public double lat;
+        public double lon;
+
+        public Location(double lat, double lon) {
+            this.lat = lat;
+            this.lon = lon;
+        }
     }
 
     static class Members {
