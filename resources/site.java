@@ -21,51 +21,53 @@ import java.util.stream.Collectors;
 
 public class site {
     private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
-        "founding-member", "pass:[<i class=\"fa fa-star\"></i>]",
-        "honorary-member", "pass:[<i class=\"fa fa-medal\"></i>]",
-        "alumni", "pass:[<i class=\"fa fa-pause\"></i>]",
-        "passed-away", "pass:[<i class=\"fa fa-ribbon\"></i>]",
-        "retired", "pass:[<i class=\"fa fa-umbrella-beach\"></i>]"
+        "founding-member", "pass:[<i class=\"fa fa-star\" title=\"Founding Member\"></i>]",
+        "honorary-member", "pass:[<i class=\"fa fa-medal\" title=\"Honorary Member\"></i>]",
+        "alumni", "pass:[<i class=\"fa fa-pause\" title=\"Alumni Member\"></i>]",
+        "passed-away", "pass:[<i class=\"fa fa-ribbon\" title=\"Member has passed away\"></i>]",
+        "retired", "pass:[<i class=\"fa fa-umbrella-beach\" title=\"Member has retired from the program\"></i>]"
     ));
 
     private static final Map<String, String> SOCIAL = Map.of(
-        "twitter", "pass:[<span class=\"icon\"><i class=\"fab fa-twitter\"></i></span>]",
-        "mastodon", "pass:[<span class=\"icon\"><i class=\"fab fa-mastodon\"></i></span>]",
-        "linkedin", "pass:[<span class=\"icon\"><i class=\"fab fa-linkedin\"></i></span>]",
-        "xing", "pass:[<span class=\"icon\"><i class=\"fab fa-xing\"></i></span>]",
-        "github", "pass:[<span class=\"icon\"><i class=\"fab fa-github\"></i></span>]",
-        "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-brands fa-bluesky\"></i></span>]",
-        "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\"></i></span>]",
-        "youtube", "pass:[<span class=\"icon\"><i class=\"fab fa-youtube-square\"></i></span>]",
-        "sessionize", "pass:[<span class=\"icon\"><i class=\"fa fa-bullhorn\"></i></span>]",
-        "speakerdeck", "pass:[<span class=\"icon\"><i class=\"fab fa-speaker-deck\"></i></span>]"
+        "twitter", "pass:[<span class=\"icon\"><i class=\"fab fa-twitter\" title=\"Twitter\"></i></span>]",
+        "mastodon", "pass:[<span class=\"icon\"><i class=\"fab fa-mastodon\" title=\"Mastodon\"></i></span>]",
+        "linkedin", "pass:[<span class=\"icon\"><i class=\"fab fa-linkedin\" title=\"LinkedIn\"></i></span>]",
+        "xing", "pass:[<span class=\"icon\"><i class=\"fab fa-xing\" title=\"Xing\"></i></span>]",
+        "github", "pass:[<span class=\"icon\"><i class=\"fab fa-github\" title=\"GitHub\"></i></span>]",
+        "bluesky", "pass:[<span class=\"icon\"><i class=\"fa fa-brands fa-bluesky\" title=\"BlueSky\"></i></span>]",
+        "website", "pass:[<span class=\"icon\"><i class=\"fa fa-globe\" title=\"Website\"></i></span>]",
+        "youtube", "pass:[<span class=\"icon\"><i class=\"fab fa-youtube-square\" title=\"YouTube\"></i></span>]",
+        "sessionize", "pass:[<span class=\"icon\"><i class=\"fa fa-bullhorn\" title=\"Sessionize\"></i></span>]",
+        "speakerdeck", "pass:[<span class=\"icon\"><i class=\"fab fa-speaker-deck\" title=\"SpeakerDeck\"></i></span>]"
     );
 
     private static final Map<String, String> COUNTRY = Map.of(
-        "nomination", "pass:[<i class=\"fa fa-award\"></i>]",
-        "residence", "pass:[<i class=\"fa fa-home\"></i>]",
-        "citizenship", "pass:[<i class=\"fa fa-passport\"></i>]",
-        "birth", "pass:[<i class=\"fa fa-baby\"></i>]"
+        "nomination", "pass:[<i class=\"fa fa-award\" title=\"Country of nomination\"></i>]",
+        "residence", "pass:[<i class=\"fa fa-home\" title=\"Country of residence\"></i>]",
+        "citizenship", "pass:[<i class=\"fa fa-passport\" title=\"Country of citizenship\"></i>]",
+        "birth", "pass:[<i class=\"fa fa-baby\" title=\"Country of birth\"></i>]"
     );
 
     public static void main(String... args) throws Exception {
-        if (null == args || args.length != 2) {
-            System.out.println("❌ Usage: java site.java [YAML] [DIRECTORY]");
+        if (null == args || args.length != 3) {
+            System.out.println("❌ Usage: java site.java [YAML members] [YAML podcasts] [DIRECTORY]");
             System.exit(1);
         }
 
-        var file = Path.of(args[0]);
-        var directory = Path.of(args[1]);
+        var fileMembers = Path.of(args[0]);
+        var filePodcasts = Path.of(args[1]);
+        var directory = Path.of(args[2]);
 
         var mapper = YAMLMapper.builder().build();
         var members = new Members();
+        var podcasts = new Podcasts();
 
-        // parse input data
-        try (InputStream in = Files.newInputStream(file)) {
+        // parse members input data
+        try (InputStream in = Files.newInputStream(fileMembers)) {
             members = mapper.readValue(in, Members.class);
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.printf("❌ Unexpected error reading %s%n", file);
+            System.out.printf("❌ Unexpected error reading %s%n", fileMembers);
             System.exit(1);
         }
 
@@ -75,8 +77,8 @@ public class site {
             membersDoc.append(member.formatted());
         }
 
-        var output = directory.resolve("members.adoc");
-        Files.write(output, membersDoc.toString().getBytes());
+        var outputMembers = directory.resolve("members.adoc");
+        Files.write(outputMembers, membersDoc.toString().getBytes());
 
         // generate stats.adoc
         var countries = members.members.stream()
@@ -111,8 +113,8 @@ public class site {
             .replace("@COUNTRIES_HEIGHT@", String.valueOf(countries.size() * 30))
             .replace("@YEARS@", yearsSb.toString())
             .replace("@YEARS_HEIGHT@", String.valueOf(years.size() * 30));
-        output = directory.resolve("stats.adoc");
-        Files.write(output, statsDoc.getBytes());
+        var outputStats = directory.resolve("stats.adoc");
+        Files.write(outputStats, statsDoc.getBytes());
 
         // generate fediverse CSV file
         var mastodonCsv = new PrintWriter(Files.newOutputStream(directory.resolve("resources").resolve("mastodon.csv")));
@@ -123,6 +125,24 @@ public class site {
             .forEach(mastodonCsv::println);
         mastodonCsv.flush();
         mastodonCsv.close();
+
+        // parse podcasts input data
+        try (InputStream in = Files.newInputStream(filePodcasts)) {
+            podcasts = mapper.readValue(in, Podcasts.class);
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.out.printf("❌ Unexpected error reading %s%n", filePodcasts);
+            System.exit(1);
+        }
+
+        // generate podcasts.adoc
+        var podcastsDoc = new StringBuilder(Files.readString(Path.of("podcasts.adoc.tpl")));
+        for (Podcast podcast : podcasts.podcasts) {
+            podcastsDoc.append(podcast.formatted());
+        }
+
+        var outputPodcasts = directory.resolve("podcasts.adoc");
+        Files.write(outputPodcasts, podcastsDoc.toString().getBytes());
     }
 
     static class Members {
@@ -329,6 +349,67 @@ public class site {
             s = s.substring(0, s.length() - 1);
             var n = mastodon.split("@")[1];
             return "@" + n + "@" + s;
+        }
+    }
+
+    static class Podcasts {
+        public List<Podcast> podcasts = new ArrayList<>();
+    }
+
+    static class Host {
+        public String name;
+
+        String formatted() {
+            var b = new StringBuilder()
+                    .append(name);
+
+            return b.append("\n")
+                    .toString();
+        }
+    }
+
+    static class Podcast {
+        public String title;
+        public String url;
+        public String language;
+        public String logo;
+        public Social social;
+        public List<Host> hosts = new ArrayList<>();
+
+        String formatted() {
+            var b = new StringBuilder("|{counter:idx}\n")
+                    .append("|image:")
+                    .append(logo)
+                    .append("[]");
+
+            b.append("|")
+                    .append("link:")
+                    .append(url)
+                    .append("[")
+                    .append(title)
+                    .append("]")
+                    .append("\n");
+
+            b.append("|")
+                    .append(language)
+                    .append("\n");
+
+            if (hosts != null && !hosts.isEmpty()) {
+                b.append("a|");
+                hosts.forEach(h -> b.append("* ").append(h.formatted()).append("\n"));
+                b.append("\n");
+            } else {
+                b.append("|\n");
+            }
+
+            if (social != null) {
+                b.append(social.formatted());
+            } else {
+                b.append("|\n");
+            }
+
+            return b.append("\n\n")
+                    .toString();
         }
     }
 }
