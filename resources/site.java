@@ -15,11 +15,13 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import org.json.JSONObject;
 import org.json.JSONArray;
 
+import javax.print.attribute.Attribute;
 import javax.print.attribute.standard.MediaSize;
 
 /**
@@ -143,20 +145,30 @@ public class site {
 
         // generate map.adoc
         var locations = new ArrayList<String>();
+        var notFound = new ArrayList<String>();
+        var counter = new AtomicInteger(0);
         members.members.forEach(m -> {
             var city = m.city;
-            var country = m.country.nomination;
+            var country = m.country.residence;
             if (country == null || country.isBlank()) {
-                country = m.country.residence;
+                country = m.country.nomination;
             }
             if (country != null && !country.isBlank()) {
                 var location = getLocation(geoApiKey, country, city);
                 if (location.isPresent()) {
+                    System.out.println("Location " + counter.incrementAndGet() +
+                            " found for " + m.name
+                            + ": " + country + ", " + city
+                            + " - " + location.get().lat + "/" + location.get().lon);
                     locations.add("{lat: " + location.get().lat
                             + ", lng: " + location.get().lon
-                            + ", name: \"" + m.name + "\""
+                            + ", name: \"" + m.name.replace("\"", "'") + "\""
                             + "}");
+                } else {
+                    notFound.add(m.name + ": " + city + ", " + country);
                 }
+            } else {
+                notFound.add(m.name + ": " + city + ", " + country);
             }
             if (m.city != null && !m.city.isBlank()) {}
         });
@@ -165,6 +177,9 @@ public class site {
         mapDoc = mapDoc.replace("@LOCATIONS@", String.join(",\n\t", locations));
         var outputMap = outputDirectory.resolve("map.adoc");
         Files.write(outputMap, mapDoc.getBytes());
+        System.out.println("HTML generated for maps");
+        Files.write(outputDirectory.resolve("not_found_for_map.txt"), String.join("\n", notFound).getBytes());
+        System.out.println("Didn't find location for " + notFound.size() + " champions. List is saved to not_found_for_map.txt");
 
         // generate fediverse CSV file
         var mastodonCsv = new PrintWriter(Files.newOutputStream(outputDirectory.resolve("resources").resolve("mastodon.csv")));
@@ -196,9 +211,10 @@ public class site {
     }
 
     private static Optional<Location> getLocation(String apiKey, String country, String city) {
+        var q = (city == null ? "" : city + ", ") + country;
         try {
             Thread.sleep(1000); // GEO API can only be called once per second
-            URL url = new URL("https://geocode.maps.co/search?q=" + (city == null ? "" : city + ",") + country + "&api_key=" + apiKey);
+            URL url = new URL("https://geocode.maps.co/search?q=" + q + "&api_key=" + apiKey);
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
             connection.setRequestMethod("GET");
             int responseCode = connection.getResponseCode();
@@ -214,13 +230,12 @@ public class site {
                 JSONObject result = results.getJSONObject(0);
                 double latitude = result.getDouble("lat");
                 double longitude = result.getDouble("lon");
-                System.out.println("Location for " + city + ", " + country + ": " + latitude + "/" + longitude);
                 return Optional.of(new Location(latitude, longitude));
             } else {
                 System.out.println("Error: " + responseCode);
             }
         } catch (Exception e) {
-            System.out.printf("❌ Unexpected error while getting location for %s, %s: %s%n", city, country, e.getMessage());
+            System.out.printf("❌ Unexpected error while getting location for %s: %s%n", q, e.getMessage());
         }
         return Optional.empty();
     }

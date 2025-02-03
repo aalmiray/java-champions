@@ -5,30 +5,40 @@ Frank Delporte
 :linkattrs:
 
 ++++
-<div id="map"></div>
-  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+  <div id="map" style="height: 800px;"></div>
+
   <script>
-    // Initialize the map
-    var map = L.map('map').setView([0, 0], 2);
+      var data = [@LOCATIONS@];
 
-    // Add a marker layer
-    var markers = new L.LayerGroup();
+      document.addEventListener('DOMContentLoaded', function() {
+        var map = L.map('map').setView([0, 0], 2);
 
-    // Data
-    var data = [@LOCATIONS@];
+        // Add a tile layer (OpenStreetMap)
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
 
-    // Visualize the locations
-    data => {
-        // Loop through each champion and add a marker to the map
+        var markers = L.markerClusterGroup({
+          maxClusterRadius: 50, // Pixels to cluster markers
+          disableClusteringAtZoom: 10, // Don't cluster when zoomed in past this level
+          spiderfyOnMaxZoom: false // Spread out markers instead of zooming
+        });
         data.forEach(champion => {
-          var marker = L.marker([champion.lat, champion.long], {
+          var marker = L.marker([champion.lat, champion.lng], {
             title: champion.name,
             alt: champion.name
           });
+          marker.bindPopup(champion.name);
           markers.addLayer(marker);
         });
-        // Add the marker layer to the map
         map.addLayer(markers);
-      };
+      });
   </script>
 ++++
