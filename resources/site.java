@@ -232,7 +232,7 @@ public class site {
                 double longitude = result.getDouble("lon");
                 return Optional.of(new Location(latitude, longitude));
             } else {
-                System.out.println("Error: " + responseCode);
+                System.out.println("Error: " + responseCode + " for " + q);
             }
         } catch (Exception e) {
             System.out.printf("❌ Unexpected error while getting location for %s: %s%n", q, e.getMessage());
