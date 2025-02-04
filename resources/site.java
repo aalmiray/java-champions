@@ -12,6 +12,8 @@ import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
@@ -20,9 +22,6 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import org.json.JSONObject;
 import org.json.JSONArray;
-
-import javax.print.attribute.Attribute;
-import javax.print.attribute.standard.MediaSize;
 
 /**
  * To be executed with JBang:
@@ -158,7 +157,7 @@ public class site {
                 if (location.isPresent()) {
                     System.out.println("Location " + counter.incrementAndGet() +
                             " found for " + m.name
-                            + ": " + country + ", " + city
+                            + ": " + city + ", " + country
                             + " - " + location.get().lat + "/" + location.get().lon);
                     locations.add("{lat: " + location.get().lat
                             + ", lng: " + location.get().lon
@@ -211,10 +210,26 @@ public class site {
     }
 
     private static Optional<Location> getLocation(String apiKey, String country, String city) {
+        var maxAttempts = 3;
+        var attempt = 1;
+        while (attempt <= maxAttempts) {
+            var location = getLocationFromApi(apiKey, country, city);
+            if (location.isPresent()) {
+                return location;
+            }
+            attempt++;
+        }
+        System.out.println("Couldn't find location for " + city + ", " + country + " after " + maxAttempts + " attempts");
+        return Optional.empty();
+    }
+
+    private static Optional<Location> getLocationFromApi(String apiKey, String country, String city) {
         var q = (city == null ? "" : city + ", ") + country;
         try {
             Thread.sleep(1000); // GEO API can only be called once per second
-            URL url = new URL("https://geocode.maps.co/search?q=" + q + "&api_key=" + apiKey);
+            URL url = new URL("https://geocode.maps.co/search"
+                    + "?q=" + URLEncoder.encode(q, StandardCharsets.UTF_8)
+                    + "&api_key=" + apiKey);
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
             connection.setRequestMethod("GET");
             int responseCode = connection.getResponseCode();
@@ -231,6 +246,15 @@ public class site {
                 double latitude = result.getDouble("lat");
                 double longitude = result.getDouble("lon");
                 return Optional.of(new Location(latitude, longitude));
+            } else if (responseCode == 400) {
+                System.out.println("Error 400 for " + url);
+                BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+                String line;
+                StringBuilder response = new StringBuilder();
+                while ((line = reader.readLine()) != null) {
+                    response.append(line);
+                }
+                System.out.println(response);
             } else {
                 System.out.println("Error: " + responseCode + " for " + q);
             }
