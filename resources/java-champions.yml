@@ -2744,9 +2744,10 @@ members:
     year: 2018
     country:
       nomination: UK
+      residence: Denmark
     social:
-      twitter: https://twitter.com/BethanKP
       linkedin: https://www.linkedin.com/in/bethan-palmer/
+      bluesky: https://bsky.app/profile/bet-han.bsky.social
     avatar: img/avatars/BethanKP.png
   - name: Mark Paluch
     year: 2024
