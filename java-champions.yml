@@ -319,6 +319,7 @@ members:
     year: 2006
     country:
       nomination: Belgium
+      residence: USA
     social:
       twitter: https://twitter.com/gbevin
       mastodon: https://uwyn.net/@gbevin
@@ -780,6 +781,9 @@ members:
     year: 2023
     country:
       nomination: Belgium
+      residence: Belgium
+      birth: Belgium
+    city: Zonnebeke
     social:
       twitter: https://twitter.com/FrankDelporte
       mastodon: https://foojay.social/@frankdelporte
@@ -3074,7 +3078,7 @@ members:
     year: 2018
     country:
       nomination: The Netherlands
-    city: Maassluis, South Holland Province
+    city: Maassluis
     social:
       twitter: https://twitter.com/royvanrijn
       mastodon: https://mastodon.social/@royvanrijn
@@ -3551,7 +3555,7 @@ members:
     country:
       nomination: Ukraine
       residence: Cyprus
-    city: Zhytomyr/Limassol
+    city: Limassol
     social:
       twitter: https://twitter.com/siruslan
       linkedin: https://www.linkedin.com/in/siruslan/

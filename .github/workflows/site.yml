@@ -31,7 +31,7 @@ jobs:
       - name: Parse data
         run: |
           cd resources
-          ./jbang site.java .. ../site/content/
+          ./jbang site.java .. ../site/content/ ${{ secrets.GEO_API_TOKEN }}
 
       - name: Generate site
         run: |
