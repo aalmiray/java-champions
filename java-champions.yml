@@ -1389,6 +1389,15 @@ members:
       linkedin: https://www.linkedin.com/in/sannegrinovero/
       bluesky: https://bsky.app/profile/sannegrinovero.bsky.social
     avatar: img/avatars/SanneGrinovero.png
+  - name: Christian Grobmeier
+    year: 2025
+    country:
+      nomination: Germany
+    city: Langerringen
+    social:
+      linkedin: https://www.linkedin.com/in/grobmeier/
+      bluesky: https://bsky.app/profile/grobmeier.de
+    avatar: img/avatars/ChristianGrobmeier.png
   - name: Loiane Groner
     year: 2020
     country:
