@@ -3896,6 +3896,16 @@ members:
       sessionize: https://sessionize.com/jonathan-vila/
       bluesky: https://bsky.app/profile/vilojona.bsky.social
     avatar: img/avatars/vilojona.png
+  - name: Thomas Vitale
+    year: 2025
+    country:
+      nomination: Denmark
+    city: Aarhus
+    social:
+      twitter: https://twitter.com/vitalethomas
+      linkedin: https://www.linkedin.com/in/vitalethomas/
+      bluesky: https://bsky.app/profile/thomasvitale.com
+    avatar: img/avatars/vitalethomas.png
   - name: Michael Vitz
     year: 2021
     country:
