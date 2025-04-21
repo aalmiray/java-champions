@@ -2911,6 +2911,14 @@ members:
       github: https://github.com/jponge
       website: https://julien.ponge.org/
     avatar: img/avatars/jponge.jpg
+  - name: Steve Poole
+    year: 2025
+    country:
+      nomination: UK
+    city: Hook
+    social:
+      twitter: https://twitter.com/spoole167
+    avatar: img/avatars/spoole167.png
   - name: Piotr Przybyl
     year: 2023
     country:
