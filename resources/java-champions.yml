@@ -257,6 +257,16 @@ members:
     avatar: img/avatars/BertBates.png
     status:
       - founding-member
+  - name: Patrick Baumgartner
+    year: 2025
+    country:
+      nomination: Switzerland
+    city: St. Gallen
+    social:
+      twitter: https://twitter.com/patbaumgartner
+      linkedin: https://www.linkedin.com/in/patbaumgartner/
+      bluesky: https://bsky.app/profile/patbaumgartner.com
+    avatar: img/avatars/patbaumgartner.png
   - name: Monica Beckwith
     year: 2017
     country:
@@ -3218,6 +3228,16 @@ members:
       linkedin: https://www.linkedin.com/in/sambodden
       speakerdeck: https://speakerdeck.com/bsbodden
     avatar: img/avatars/bsbodden.png
+  - name: Mauricio Salatino
+    year: 2025
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/salaboy
+      linkedin: https://www.linkedin.com/in/salaboy/
+      bluesky: https://bsky.app/profile/salaboy.com
+    avatar: img/avatars/salaboy.png
   - name: Tatu Saloranta
     year: 2021
     country:
@@ -3226,7 +3246,6 @@ members:
     social:
       twitter: https://twitter.com/cowtowncoder
       linkedin: https://www.linkedin.com/in/tatu-saloranta-b2b36/
-      bluesky: https://bsky.app/profile/cowtowncoder.bsky.social
       bluesky: https://bsky.app/profile/cowtowncoder.bsky.social
     avatar: img/avatars/cowtowncoder.png
   - name: Otávio Gonçalves de Santana
