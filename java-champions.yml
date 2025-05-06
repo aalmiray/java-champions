@@ -257,6 +257,16 @@ members:
     avatar: img/avatars/BertBates.png
     status:
       - founding-member
+  - name: Patrick Baumgartner
+    year: 2025
+    country:
+      nomination: Switzerland
+    city: St. Gallen
+    social:
+      twitter: https://twitter.com/patbaumgartner
+      linkedin: https://www.linkedin.com/in/patbaumgartner/
+      bluesky: https://bsky.app/profile/patbaumgartner.com
+    avatar: img/avatars/patbaumgartner.png
   - name: Monica Beckwith
     year: 2017
     country:
