@@ -3206,6 +3206,16 @@ members:
       linkedin: https://www.linkedin.com/in/yuichi-sakuraba-4129699/
       bluesky: https://bsky.app/profile/skrb95.bsky.social
     avatar: img/avatars/skrb.png
+  - name: Mauricio Salatino
+    year: 2025
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/salaboy
+      linkedin: https://www.linkedin.com/in/salaboy/
+      bluesky: https://bsky.app/profile/salaboy.com
+    avatar: img/avatars/salaboy.png
   - name: Alberto Salazar
     year: 2018
     country:
@@ -3216,6 +3226,16 @@ members:
       github: https://github.com/lasalazarr
       sessionize: https://sessionize.com/alberto-salazar
     avatar: img/avatars/betoSalazar.png
+  - name: Tatu Saloranta
+    year: 2021
+    country:
+      nomination: USA
+    city: Seattle
+    social:
+      twitter: https://twitter.com/cowtowncoder
+      linkedin: https://www.linkedin.com/in/tatu-saloranta-b2b36/
+      bluesky: https://bsky.app/profile/cowtowncoder.bsky.social
+    avatar: img/avatars/cowtowncoder.png
   - name: Brian Sam-Bodden
     year: 2023
     country:
@@ -3228,17 +3248,6 @@ members:
       linkedin: https://www.linkedin.com/in/sambodden
       speakerdeck: https://speakerdeck.com/bsbodden
     avatar: img/avatars/bsbodden.png
-  - name: Tatu Saloranta
-    year: 2021
-    country:
-      nomination: USA
-    city: Seattle
-    social:
-      twitter: https://twitter.com/cowtowncoder
-      linkedin: https://www.linkedin.com/in/tatu-saloranta-b2b36/
-      bluesky: https://bsky.app/profile/cowtowncoder.bsky.social
-      bluesky: https://bsky.app/profile/cowtowncoder.bsky.social
-    avatar: img/avatars/cowtowncoder.png
   - name: Otávio Gonçalves de Santana
     year: 2015
     country:
