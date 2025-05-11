@@ -264,7 +264,11 @@ members:
     city: St. Gallen
     social:
       twitter: https://twitter.com/patbaumgartner
+      mastodon: https://mastodon.social/@patbaumgartner
       linkedin: https://www.linkedin.com/in/patbaumgartner/
+      github: https://github.com/patbaumgartner
+      website: https://patbaumgartner.com/
+      sessionize: https://sessionize.com/patbaumgartner/
       bluesky: https://bsky.app/profile/patbaumgartner.com
     avatar: img/avatars/patbaumgartner.png
   - name: Monica Beckwith
