@@ -3032,6 +3032,15 @@ members:
       sessionize: https://sessionize.com/michael-redlich
       website: https://redlich.net
     avatar: img/avatars/mpredli.png
+  - name: Jennifer Reif
+    year: 2025
+    country:
+      nomination: USA
+    city: St. Louis
+    social:
+      twitter: https://twitter.com/JMHReif
+      linkedin: https://www.linkedin.com/in/jmhreif
+    avatar: img/avatars/jmhreif.png
   - name: Dr. Victor Rentea
     year: 2019
     country:
