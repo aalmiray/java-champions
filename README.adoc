@@ -2,7 +2,7 @@
 
 image:site/assets/img/duke_champion.png[align="center"]
 
-The data collected in this repository is used to update link:javachampions.org[javachampions.org].
+The data collected in this repository is used to update link:https://javachampions.org[javachampions.org].
 
 == What is a Java Champion?
 
