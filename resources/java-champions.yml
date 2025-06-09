@@ -247,6 +247,15 @@ members:
       linkedin: https://www.linkedin.com/in/paulb01/
       bluesky: https://bsky.app/profile/pbakker.bsky.social
     avatar: img/avatars/pbakker.png
+  - name: Ionut Balosin
+    year: 2025
+    country:
+      nomination: Austria
+    city: Vienna
+    social:
+      twitter: https://twitter.com/ionutbalosin
+      linkedin: https://www.linkedin.com/in/ionutbalosin/
+    avatar: img/avatars/ionutbalosin.png
   - name: Bert Bates
     year: 2005
     country:
