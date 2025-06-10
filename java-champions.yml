@@ -255,6 +255,10 @@ members:
     social:
       twitter: https://twitter.com/ionutbalosin
       linkedin: https://www.linkedin.com/in/ionutbalosin/
+      website: https://ionutbalosin.com/
+      mastodon: https://mastodon.social/@ionutbalosin
+      bluesky: https://bsky.app/profile/ionutbalosin.bsky.social
+      github: https://github.com/ionutbalosin
     avatar: img/avatars/ionutbalosin.png
   - name: Bert Bates
     year: 2005
