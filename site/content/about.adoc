@@ -6,4 +6,4 @@ Andres Almiray
 
 == The Site
 
-This site was created using https://jbake.org[JBake, window="_blank"].
+This site was created using https://jbake.org[JBake, window="_blank"] from this https://github.com/aalmiray/java-champions[public GitHub repository, window="_blank"].
