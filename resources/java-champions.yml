@@ -2907,6 +2907,15 @@ members:
     avatar: img/avatars/jppetines.png
     status:
       - founding-member
+  - name: Marc Phillip
+    year: 2025
+    country:
+      nomination: Germany
+    social:
+      mastodon: https://chaos.social/@marcphilipp
+      linkedin: https://www.linkedin.com/in/marcphilipp
+      bluesky: https://bsky.app/profile/marcphilipp.de
+    avatar: img/avatars/marcphilipp.png
   - name: Sean M. Phillips
     year: 2017
     country:
