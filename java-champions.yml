@@ -1087,6 +1087,16 @@ members:
       github: https://github.com/kittylyst
       website: https://www.kittylyst.com/
     avatar: img/avatars/kittylyst.png
+  - name: Stéphane Épardaud
+    year: 2025
+    country:
+      nomination: France
+    city: Nice
+    social:
+      twitter: https://x.com/UnFroMage
+      linkedin: https://www.linkedin.com/in/stephaneepardaud/
+      bluesky: https://bsky.app/profile/unfromage.bsky.social
+    avatar: img/avatars/UnFroMage.png
   - name: Yakov Fain
     year: 2005
     country:
