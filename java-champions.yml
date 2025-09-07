@@ -1402,7 +1402,9 @@ members:
     year: 2016
     country:
       nomination: Sweden
+      residence: Sweden
       birth: Norway
+      citizenship: Norway
     city: Malmo
     social:
       twitter: https://twitter.com/ivar_grimstad
