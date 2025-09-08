@@ -935,8 +935,9 @@ members:
   - name: Kevin Dubois
     year: 2024
     country:
+      residence: Switzerland
       nomination: Belgium
-    city: Brussels
+    city: Val de Bagnes
     social:
       twitter: https://twitter.com/kevindubois
       linkedin: https://www.linkedin.com/in/kevindubois/
