@@ -588,6 +588,15 @@ members:
       linkedin: https://www.linkedin.com/in/ludovicchampenois/
       bluesky: https://bsky.app/profile/ludoch.bsky.social
     avatar: img/avatars/ludoch.png
+  - name: Cassandra Chin
+    year: 2025
+    country:
+      nomination: USA
+    city: Belmont, California
+    social:
+      twitter: https://twitter.com/cassandraonjava
+      linkedin: https://www.linkedin.com/in/cassandra-chin-developer
+    avatar: img/avatars/cassandraonjava.png
   - name: Stephen Chin
     year: 2009
     country:
