@@ -14,3 +14,6 @@ output/
 site/content/resources/mastodon.csv
 site/content/members.adoc
 site/content/stats.adoc
+site/content/podcasts.adoc
+site/content/map.adoc
+site/content/not_found_for_map.txt
