@@ -14,6 +14,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 import java.util.TreeMap;
 import java.util.function.Function;
@@ -170,7 +171,10 @@ public class site {
         public List<String> status = new ArrayList<>();
 
         String formatted() {
-            var b = new StringBuilder("|{counter:idx}\n")
+            var b = new StringBuilder()
+                .append("|[[")
+                .append(nameAsAnchor())
+                .append("]]{counter:idx}\n")
                 .append("|image:")
                 .append(avatar)
                 .append("[]");
@@ -216,6 +220,16 @@ public class site {
 
         String asMastodonCsvEntry() {
             return social.getMastodonAccount() + ",true,false,";
+        }
+
+        String nameAsAnchor() {
+            // URL Encoding would have been _cleaner_ but that doesn't create output that works with flexmark
+            // instead this method will strip whitespace and punctuation, and lowercase the result so
+            // anchors are predictable and do not depend on how a name is capitalized
+            return name
+                    .replaceAll("\\s", "")
+                    .replaceAll("\\p{Punct}", "")
+                    .toLowerCase(Locale.ROOT);
         }
     }
 
