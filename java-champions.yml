@@ -208,7 +208,7 @@ members:
       nomination: Canada
     social:
       twitter: https://twitter.com/rotty3000
-      linkedin: https://www.linkedin.com/in/raymond-aug%C3%A9/
+      linkedin: https://www.linkedin.com/in/raymond-auge/
     avatar: img/avatars/rotty3000.png
   - name: Calvin Austin
     year: 2005
@@ -430,7 +430,6 @@ members:
     country:
       nomination: Sweden
     social:
-      twitter: https://twitter.com/jboner
       linkedin: https://www.linkedin.com/in/jonasboner/
     avatar: img/avatars/jboner.png
   - name: Simone Bordet
@@ -1496,7 +1495,7 @@ members:
       nomination: Poland
     social:
       twitter: https://twitter.com/MGrzejszczak
-      linkedin: https://www.linkedin.com/in/%F0%9F%91%BE-marcin-grzejszczak-15565119/
+      linkedin: https://www.linkedin.com/in/marcin-grzejszczak-15565119/
       bluesky: https://bsky.app/profile/toomuchcoding.com
       mastodon: https://fosstodon.org/@toomuchcoding   
       website: https://toomuchcoding.com
@@ -1519,7 +1518,6 @@ members:
       nomination: USA
     city: Seattle, Washington
     social:
-      twitter: https://twitter.com/fguime
       linkedin: https://www.linkedin.com/in/fguime/
       bluesky: https://bsky.app/profile/fguime.bsky.social
     avatar: img/avatars/fguime.png
@@ -1899,7 +1897,6 @@ members:
     country:
       nomination: The Netherlands
     social:
-      twitter: https://twitter.com/johanjanssen42
       linkedin: https://www.linkedin.com/in/johanjanssen2001/
       bluesky: https://bsky.app/profile/johanjanssen.bsky.social
     avatar: img/avatars/johanjanssen42.png
@@ -2097,7 +2094,6 @@ members:
       nomination: UK
     city: London
     social:
-      twitter: https://twitter.com/michaelkolling
       linkedin: https://www.linkedin.com/in/kolling/
       bluesky: https://bsky.app/profile/kolling.uk
     avatar: img/avatars/michaelkolling.png
@@ -2685,7 +2681,6 @@ members:
       nomination: France
     city: Rouen
     social:
-      twitter: https://twitter.com/Audrey_Neveu
       linkedin: https://www.linkedin.com/in/audreyneveu/
     avatar: img/avatars/Audrey_Neveu.png
   - name: Chris Newland
@@ -3601,7 +3596,7 @@ members:
     city: Bucharest
     social:
       twitter: https://twitter.com/laurspilca
-      linkedin: https://www.linkedin.com/in/lauren%C5%A3iu-spilc%C4%83-01a931107/
+      linkedin: https://www.linkedin.com/in/laurspilca/
     avatar: img/avatars/laurspilca.png
   - name: Kate Stanley
     year: 2021
@@ -4119,7 +4114,7 @@ members:
       nomination: USA
     city: Crested Butte, Colorado
     social:
-      twitter: https://twitter.com/_JamesWard
+      twitter: https://twitter.com/JamesWard
       bluesky: https://bsky.app/profile/jamesward.com
       linkedin: https://www.linkedin.com/in/jamesward
       github: https://github.com/jamesward
