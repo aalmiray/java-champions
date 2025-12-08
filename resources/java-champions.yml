@@ -2322,6 +2322,15 @@ members:
       twitter: https://twitter.com/acelopezco
       linkedin: https://www.linkedin.com/in/acelopezco
     avatar: img/avatars/acelopezco.png
+  - name: Ivan Lopez
+    year: 2025
+    country:
+      nomination: Spain
+    city: Madrid
+    social:
+      twitter: https://twitter.com/ilopmar
+      linkedin: https://www.linkedin.com/in/ivanlopezmartin
+    avatar: img/avatars/acelopezco.png
   - name: Geir Magnusson
     year: 2006
     country:
