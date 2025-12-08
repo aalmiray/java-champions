@@ -2322,7 +2322,7 @@ members:
       twitter: https://twitter.com/acelopezco
       linkedin: https://www.linkedin.com/in/acelopezco
     avatar: img/avatars/acelopezco.png
-  - name: Ivan Lopez
+  - name: Iván López
     year: 2025
     country:
       nomination: Spain
@@ -2330,7 +2330,9 @@ members:
     social:
       twitter: https://twitter.com/ilopmar
       linkedin: https://www.linkedin.com/in/ivanlopezmartin
-    avatar: img/avatars/acelopezco.png
+      github: https://github.com/ilopmar
+      bluesky: https://bsky.app/profile/ilopmar.bsky.social
+    avatar: img/avatars/ilopmar.png
   - name: Geir Magnusson
     year: 2006
     country:
