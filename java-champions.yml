@@ -3984,6 +3984,15 @@ members:
       website: https://brianvermeer.nl
       sessionize: https://sessionize.com/brian-vermeer
     avatar: img/avatars/BrianVermeer.png
+  - name: Julien Viet
+    year: 2025
+    country:
+      nomination: France
+    city: Marseille
+    social:
+      twitter: https://twitter.com/julienviet
+      linkedin: https://www.linkedin.com/in/julienviet/
+    avatar: img/avatars/julienviet.png
   - name: Jonathan Vila
     year: 2020
     country:
