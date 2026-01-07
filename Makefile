@@ -11,7 +11,7 @@ endif
 	@echo 'JBang and JBake installations found.'
 
 build: prerequisites-check
-	cd resources; jbang site.java ../java-champions.yml ../site/content/
+	cd resources; jbang site.java .. ../site/content/
 	cd site; jbake --bake
 
 server: build
