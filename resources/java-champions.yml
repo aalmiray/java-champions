@@ -2969,6 +2969,16 @@ members:
       linkedin: https://www.linkedin.com/in/peterpilgrim2000/
       bluesky: https://bsky.app/profile/peterpilgrim.bsky.social
     avatar: img/avatars/peter_pilgrim.png
+  - name: Grzegorz Piwowarek
+    year: 2026
+    country:
+      nomination: PL
+    city: Warsaw
+    social:
+      github: https://github.com/pivovarit
+      linkedin: https://www.linkedin.com/in/gpiwowarek/
+      bluesky: https://bsky.app/profile/pivovarit.bsky.social
+    avatar: img/avatars/pivovarit.png
   - name: Dr. Julien Ponge
     year: 2024
     country:
