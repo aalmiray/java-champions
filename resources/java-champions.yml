@@ -2975,6 +2975,7 @@ members:
       nomination: PL
     city: Warsaw
     social:
+      twitter: https://x.com/pivovarit
       github: https://github.com/pivovarit
       linkedin: https://www.linkedin.com/in/gpiwowarek/
       bluesky: https://bsky.app/profile/pivovarit.bsky.social
