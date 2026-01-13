@@ -2972,9 +2972,10 @@ members:
   - name: Grzegorz Piwowarek
     year: 2026
     country:
-      nomination: PL
+      nomination: Poland
     city: Warsaw
     social:
+      website: https://4comprehension.com
       twitter: https://x.com/pivovarit
       github: https://github.com/pivovarit
       linkedin: https://www.linkedin.com/in/gpiwowarek/
