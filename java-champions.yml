@@ -98,8 +98,6 @@ members:
       youtube: https://www.youtube.com/@aalmiray
       speakerdeck: https://speakerdeck.com/aalmiray
     avatar: img/avatars/aalmiray.png
-    status:
-      - alumni
   - name: Deepak Alur
     year: 2006
     country:
@@ -247,6 +245,19 @@ members:
       linkedin: https://www.linkedin.com/in/paulb01/
       bluesky: https://bsky.app/profile/pbakker.bsky.social
     avatar: img/avatars/pbakker.png
+  - name: Ionut Balosin
+    year: 2025
+    country:
+      nomination: Austria
+    city: Vienna
+    social:
+      twitter: https://twitter.com/ionutbalosin
+      linkedin: https://www.linkedin.com/in/ionutbalosin/
+      website: https://ionutbalosin.com/
+      mastodon: https://mastodon.social/@ionutbalosin
+      bluesky: https://bsky.app/profile/ionutbalosin.bsky.social
+      github: https://github.com/ionutbalosin
+    avatar: img/avatars/ionutbalosin.png
   - name: Bert Bates
     year: 2005
     country:
@@ -257,6 +268,20 @@ members:
     avatar: img/avatars/BertBates.png
     status:
       - founding-member
+  - name: Patrick Baumgartner
+    year: 2025
+    country:
+      nomination: Switzerland
+    city: St. Gallen
+    social:
+      twitter: https://twitter.com/patbaumgartner
+      mastodon: https://mastodon.social/@patbaumgartner
+      linkedin: https://www.linkedin.com/in/patbaumgartner/
+      github: https://github.com/patbaumgartner
+      website: https://patbaumgartner.com/
+      sessionize: https://sessionize.com/patbaumgartner/
+      bluesky: https://bsky.app/profile/patbaumgartner.com
+    avatar: img/avatars/patbaumgartner.png
   - name: Monica Beckwith
     year: 2017
     country:
@@ -562,6 +587,15 @@ members:
       linkedin: https://www.linkedin.com/in/ludovicchampenois/
       bluesky: https://bsky.app/profile/ludoch.bsky.social
     avatar: img/avatars/ludoch.png
+  - name: Cassandra Chin
+    year: 2025
+    country:
+      nomination: USA
+    city: Belmont, California
+    social:
+      twitter: https://twitter.com/cassandraonjava
+      linkedin: https://www.linkedin.com/in/cassandra-chin-developer
+    avatar: img/avatars/cassandraonjava.png
   - name: Stephen Chin
     year: 2009
     country:
@@ -785,7 +819,6 @@ members:
       birth: Belgium
     city: Zonnebeke
     social:
-      twitter: https://twitter.com/FrankDelporte
       mastodon: https://foojay.social/@frankdelporte
       bluesky: https://bsky.app/profile/frankdelporte.be
       youtube: https://www.youtube.com/@FrankDelporte
@@ -850,7 +883,7 @@ members:
       bluesky: https://bsky.app/profile/maritvandijk.bsky.social
       github: https://github.com/mlvandijk
       sessionize: https://sessionize.com/maritvandijk/
-    avatar: img/avatars/MaritvanDijk77.png
+    avatar: img/avatars/maritvandijk.png
   - name: Filippo Diotalevi
     year: 2005
     country:
@@ -913,8 +946,9 @@ members:
   - name: Kevin Dubois
     year: 2024
     country:
+      residence: Switzerland
       nomination: Belgium
-    city: Brussels
+    city: Val de Bagnes
     social:
       twitter: https://twitter.com/kevindubois
       linkedin: https://www.linkedin.com/in/kevindubois/
@@ -1065,6 +1099,16 @@ members:
       github: https://github.com/kittylyst
       website: https://www.kittylyst.com/
     avatar: img/avatars/kittylyst.png
+  - name: Stéphane Épardaud
+    year: 2025
+    country:
+      nomination: France
+    city: Nice
+    social:
+      twitter: https://x.com/UnFroMage
+      linkedin: https://www.linkedin.com/in/stephaneepardaud/
+      bluesky: https://bsky.app/profile/unfromage.bsky.social
+    avatar: img/avatars/UnFroMage.png
   - name: Yakov Fain
     year: 2005
     country:
@@ -1370,12 +1414,14 @@ members:
     year: 2016
     country:
       nomination: Sweden
+      residence: Sweden
       birth: Norway
+      citizenship: Norway
     city: Malmo
     social:
       twitter: https://twitter.com/ivar_grimstad
       mastodon: https://mastodon.social/deck/@ivar_grimstad
-      bluesky: https://bsky.app/profile/ivargrimstad.bsky.social
+      bluesky: https://bsky.app/profile/theguywiththeduketattoo.com
       linkedin: https://www.linkedin.com/in/ivargrimstad/
       github: https://github.com/ivargrimstad
       website: https://www.agilejava.eu/
@@ -1394,6 +1440,15 @@ members:
       linkedin: https://www.linkedin.com/in/sannegrinovero/
       bluesky: https://bsky.app/profile/sannegrinovero.bsky.social
     avatar: img/avatars/SanneGrinovero.png
+  - name: Christian Grobmeier
+    year: 2025
+    country:
+      nomination: Germany
+    city: Langerringen
+    social:
+      linkedin: https://www.linkedin.com/in/grobmeier/
+      bluesky: https://bsky.app/profile/grobmeier.de
+    avatar: img/avatars/ChristianGrobmeier.png
   - name: Loiane Groner
     year: 2020
     country:
@@ -2269,6 +2324,17 @@ members:
       twitter: https://twitter.com/acelopezco
       linkedin: https://www.linkedin.com/in/acelopezco
     avatar: img/avatars/acelopezco.png
+  - name: Iván López
+    year: 2025
+    country:
+      nomination: Spain
+    city: Madrid
+    social:
+      twitter: https://twitter.com/ilopmar
+      linkedin: https://www.linkedin.com/in/ivanlopezmartin
+      github: https://github.com/ilopmar
+      bluesky: https://bsky.app/profile/ilopmar.bsky.social
+    avatar: img/avatars/ilopmar.png
   - name: Geir Magnusson
     year: 2006
     country:
@@ -2667,7 +2733,7 @@ members:
       website: https://eliasnogueira.com
       sessionize: https://sessionize.com/elias-nogueira
       speakerdeck: https://speakerdeck.com/eliasnogueira
-      bluesky: https://bsky.app/profile/elias-nogueira.bsky.social
+      bluesky: https://bsky.app/profile/eliasnogueira.com
     avatar: img/avatars/eliasnogueira.png
   - name: Tomasz Nurkiewicz
     year: 2018
@@ -2748,9 +2814,10 @@ members:
     year: 2018
     country:
       nomination: UK
+      residence: Denmark
     social:
-      twitter: https://twitter.com/BethanKP
       linkedin: https://www.linkedin.com/in/bethan-palmer/
+      bluesky: https://bsky.app/profile/bet-han.bsky.social
     avatar: img/avatars/BethanKP.png
   - name: Mark Paluch
     year: 2024
@@ -2875,6 +2942,18 @@ members:
     avatar: img/avatars/jppetines.png
     status:
       - founding-member
+  - name: Marc Philipp
+    year: 2025
+    country:
+      nomination: Germany
+    city: Karlsruhe
+    social:
+      mastodon: https://chaos.social/@marcphilipp
+      linkedin: https://www.linkedin.com/in/marcphilipp
+      bluesky: https://bsky.app/profile/marcphilipp.de
+      website: https://marcphilipp.de
+      speakerdeck: https://speakerdeck.com/marcphilipp
+    avatar: img/avatars/marcphilipp.png
   - name: Sean M. Phillips
     year: 2017
     country:
@@ -2894,6 +2973,18 @@ members:
       linkedin: https://www.linkedin.com/in/peterpilgrim2000/
       bluesky: https://bsky.app/profile/peterpilgrim.bsky.social
     avatar: img/avatars/peter_pilgrim.png
+  - name: Grzegorz Piwowarek
+    year: 2026
+    country:
+      nomination: Poland
+    city: Warsaw
+    social:
+      website: https://4comprehension.com
+      twitter: https://x.com/pivovarit
+      github: https://github.com/pivovarit
+      linkedin: https://www.linkedin.com/in/gpiwowarek/
+      bluesky: https://bsky.app/profile/pivovarit.bsky.social
+    avatar: img/avatars/pivovarit.png
   - name: Dr. Julien Ponge
     year: 2024
     country:
@@ -2906,6 +2997,14 @@ members:
       github: https://github.com/jponge
       website: https://julien.ponge.org/
     avatar: img/avatars/jponge.jpg
+  - name: Steve Poole
+    year: 2025
+    country:
+      nomination: UK
+    city: Hook
+    social:
+      twitter: https://twitter.com/spoole167
+    avatar: img/avatars/spoole167.png
   - name: Piotr Przybyl
     year: 2023
     country:
@@ -2949,11 +3048,13 @@ members:
       linkedin: https://www.linkedin.com/in/donald-raab-56016a121/
       bluesky: https://bsky.app/profile/thedonraab.bsky.social
     avatar: img/avatars/TheDonRaab.png
-  - name: Bazlur Rahman
+  - name: A N M *Bazlur* Rahman
     year: 2022
     country:
       nomination: Canada
       birth: Bangladesh
+      residence: Canada
+      citizenship: Bangladesh
     city: Toronto
     social:
       twitter: https://twitter.com/bazlur_rahman
@@ -3003,6 +3104,15 @@ members:
       sessionize: https://sessionize.com/michael-redlich
       website: https://redlich.net
     avatar: img/avatars/mpredli.png
+  - name: Jennifer Reif
+    year: 2025
+    country:
+      nomination: USA
+    city: St. Louis
+    social:
+      twitter: https://twitter.com/JMHReif
+      linkedin: https://www.linkedin.com/in/jmhreif
+    avatar: img/avatars/jmhreif.png
   - name: Dr. Victor Rentea
     year: 2019
     country:
@@ -3183,6 +3293,16 @@ members:
       linkedin: https://www.linkedin.com/in/yuichi-sakuraba-4129699/
       bluesky: https://bsky.app/profile/skrb95.bsky.social
     avatar: img/avatars/skrb.png
+  - name: Mauricio Salatino
+    year: 2025
+    country:
+      nomination: UK
+    city: London
+    social:
+      twitter: https://twitter.com/salaboy
+      linkedin: https://www.linkedin.com/in/salaboy/
+      bluesky: https://bsky.app/profile/salaboy.com
+    avatar: img/avatars/salaboy.png
   - name: Alberto Salazar
     year: 2018
     country:
@@ -3193,6 +3313,16 @@ members:
       github: https://github.com/lasalazarr
       sessionize: https://sessionize.com/alberto-salazar
     avatar: img/avatars/betoSalazar.png
+  - name: Tatu Saloranta
+    year: 2021
+    country:
+      nomination: USA
+    city: Seattle
+    social:
+      twitter: https://twitter.com/cowtowncoder
+      linkedin: https://www.linkedin.com/in/tatu-saloranta-b2b36/
+      bluesky: https://bsky.app/profile/cowtowncoder.bsky.social
+    avatar: img/avatars/cowtowncoder.png
   - name: Brian Sam-Bodden
     year: 2023
     country:
@@ -3205,17 +3335,6 @@ members:
       linkedin: https://www.linkedin.com/in/sambodden
       speakerdeck: https://speakerdeck.com/bsbodden
     avatar: img/avatars/bsbodden.png
-  - name: Tatu Saloranta
-    year: 2021
-    country:
-      nomination: USA
-    city: Seattle
-    social:
-      twitter: https://twitter.com/cowtowncoder
-      linkedin: https://www.linkedin.com/in/tatu-saloranta-b2b36/
-      bluesky: https://bsky.app/profile/cowtowncoder.bsky.social
-      bluesky: https://bsky.app/profile/cowtowncoder.bsky.social
-    avatar: img/avatars/cowtowncoder.png
   - name: Otávio Gonçalves de Santana
     year: 2015
     country:
@@ -3879,6 +3998,15 @@ members:
       website: https://brianvermeer.nl
       sessionize: https://sessionize.com/brian-vermeer
     avatar: img/avatars/BrianVermeer.png
+  - name: Julien Viet
+    year: 2025
+    country:
+      nomination: France
+    city: Marseille
+    social:
+      twitter: https://twitter.com/julienviet
+      linkedin: https://www.linkedin.com/in/julienviet/
+    avatar: img/avatars/julienviet.png
   - name: Jonathan Vila
     year: 2020
     country:
@@ -3891,6 +4019,16 @@ members:
       sessionize: https://sessionize.com/jonathan-vila/
       bluesky: https://bsky.app/profile/vilojona.bsky.social
     avatar: img/avatars/vilojona.png
+  - name: Thomas Vitale
+    year: 2025
+    country:
+      nomination: Denmark
+    city: Aarhus
+    social:
+      twitter: https://twitter.com/vitalethomas
+      linkedin: https://www.linkedin.com/in/vitalethomas/
+      bluesky: https://bsky.app/profile/thomasvitale.com
+    avatar: img/avatars/vitalethomas.png
   - name: Michael Vitz
     year: 2021
     country:

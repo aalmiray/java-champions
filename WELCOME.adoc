@@ -1,0 +1,15 @@
+= Welcome
+
+First of all, congratulations for your nomination!
+Here you can read about what's next and what's out there for Java Champions:
+
+* You will be invited to the Java Champions email list and Slack workspace
+* You will be added to the Members list on this site, please send a PR to the https://github.com/aalmiray/java-champions[repo] if an update is needed
+* Consider joining to the https://www.linkedin.com/groups/10011883/[Java Champions LinkedIn group] (ask the group managers to be added)
+* You should be followed by Java Champions social accounts:
+** https://x.com/Java_Champions[@Java_Champions] on Twitter
+** https://mastodon.social/@JavaChampions[@JavaChampions] on Mastodon
+** https://bsky.app/profile/java-champions.bsky.social[@java-champions.bsky.social] on BlueSky
+* You can get a verified Java Champion label on BlueSky (see https://verifiedbsky.net/[instructions])
+* You can get a verified Java Champion award on Sessionize (see https://sessionize.com/app/speaker/profile#_tab-certificate[instructions])
+* You can get a JetBrains license through the JetBrains Developer Recognition Program (see https://www.jetbrains.com/shop/eform/javaChampion[instructions])

@@ -20,6 +20,7 @@ podcasts:
     language: EN
     social:
       twitter: https://twitter.com/stackdpodcast
+      mastodon: https://mastodon.social/@stackdpodcast
     hosts:
       - name: Kito Mann
       - name: Josh Juneau
