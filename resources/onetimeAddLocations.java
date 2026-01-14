@@ -199,7 +199,7 @@ public class onetimeAddLocations {
 
     static class JavaChampion {
         public String name;
-        public String year;
+        public int year;
         public String avatar;
         public Social social;
         public Country country;
