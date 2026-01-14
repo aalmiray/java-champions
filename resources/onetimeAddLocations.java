@@ -8,23 +8,28 @@
 //DEPS com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.16.0
 
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
+import com.fasterxml.jackson.dataformat.yaml.YAMLGenerator;
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 import java.io.*;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
-import java.util.function.Function;
-import java.util.stream.Collectors;
 
 /**
- * To be executed with JBang:
- * jbang site.java INPUT_DIR OUTPUT_DIR
+ * This script reads the YAML file with Java Champions, and adds the coordinates, used for the map.
  *
- * For example:
- * cd resources
- * ./jbang site.java .. ../site/content/
+ * Get an API key from https://geocode.maps.co (free for 5000 request/day, max 1/sec).
+ *
+ * To be executed with JBang:
+ * jbang onetimeAddLocations.java [YAML DIRECTORY] [GEO TOKEN]
  */
-public class site {
+public class onetimeAddLocations {
     private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
         "founding-member", "pass:[<i class=\"fa fa-star\" title=\"Founding Member\"></i>]",
         "honorary-member", "pass:[<i class=\"fa fa-medal\" title=\"Honorary Member\"></i>]",
@@ -55,28 +60,33 @@ public class site {
 
     public static void main(String... args) throws Exception {
         if (null == args || args.length != 2) {
-            System.out.println("❌ Usage: java site.java [YAML DIRECTORY] [OUTPUT DIRECTORY]");
+            System.out.println("❌ Usage: jbang onetimeAddLocations.java [YAML DIRECTORY] [GEO TOKEN]");
             System.exit(1);
         }
 
         var inputDirectory = Path.of(args[0]);
-        var outputDirectory = Path.of(args[1]);
+        var geoApiKey = args[1];
         var fileMembers = inputDirectory.resolve("java-champions.yml");
-        var filePodcasts = inputDirectory.resolve("podcasts.yml");
 
         if (!Files.exists(fileMembers)) {
             System.out.printf("❌ %s/java-champions.yml does not exist%n", inputDirectory.toAbsolutePath());
             System.exit(1);
         }
 
-        if (!Files.exists(filePodcasts)) {
-            System.out.printf("❌ %s/podcasts.yml does not exist%n", inputDirectory.toAbsolutePath());
-            System.exit(1);
-        }
+        var mapper = YAMLMapper.builder()
+                .disable(com.fasterxml.jackson.databind.SerializationFeature.WRITE_DATES_AS_TIMESTAMPS)
+                .disable(YAMLGenerator.Feature.MINIMIZE_QUOTES) // This often helps with consistency
+                .enable(YAMLGenerator.Feature.ALWAYS_QUOTE_NUMBERS_AS_STRINGS) // Optional: if you have strings that look like numbers
+                .build();
+        // This is the key setting for "clean" YAML without unnecessary quotes
+        mapper.getFactory().configure(YAMLGenerator.Feature.MINIMIZE_QUOTES, true);
+        mapper.getFactory().configure(YAMLGenerator.Feature.WRITE_DOC_START_MARKER, false); // Removes the --- at the top
+        // This will only write non-null values to keep the YAML clean
+        mapper.setSerializationInclusion(com.fasterxml.jackson.annotation.JsonInclude.Include.NON_NULL);
+        // This will exclude nulls, empty strings, and empty lists/collections
+        mapper.setSerializationInclusion(com.fasterxml.jackson.annotation.JsonInclude.Include.NON_EMPTY);
 
-        var mapper = YAMLMapper.builder().build();
         var members = new Members();
-        var podcasts = new Podcasts();
 
         // parse members input data
         try (InputStream in = Files.newInputStream(fileMembers)) {
@@ -87,98 +97,100 @@ public class site {
             System.exit(1);
         }
 
-        // generate members.adoc
-        var membersDoc = new StringBuilder(Files.readString(Path.of("members.adoc.tpl")));
-        for (JavaChampion member : members.members) {
-            membersDoc.append(member.formatted());
-        }
+        // Find and add location
+        members.members.forEach(m -> {
+            var city = m.city;
+            var country = m.country.residence;
+            if (country == null || country.isBlank()) {
+                country = m.country.nomination;
+            }
+            if (country != null && !country.isBlank()) {
+                var location = getLocation(geoApiKey, country, city);
+                if (location.isPresent()) {
+                    System.out.println("Location found for " + m.name
+                            + ": " + city + ", " + country
+                            + " - " + location.get().lat + "/" + location.get().lon);
+                    m.location = location.get();
+                } else {
+                    System.err.println("No location found for " + m.name + ": " + city + ", " + country);
+                }
+            } else {
+                System.err.println("Country is not defined for " + m.name + ": " + city + ", " + country);
+            }
+        });
 
-        var outputMembers = outputDirectory.resolve("members.adoc");
-        Files.write(outputMembers, membersDoc.toString().getBytes());
-
-        // generate stats.adoc
-        var countries = members.members.stream()
-            .map(m -> m.country.nomination)
-            .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
-
-        // TODO: sort by country name after sorting by count
-        var countriesSb = new StringBuilder();
-        countries.entrySet().stream()
-            .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
-            .forEach(e -> countriesSb.append("        ['")
-                .append(e.getKey())
-                .append("', ")
-                .append(e.getValue())
-                .append("],\n"));
-
-        var years = members.members.stream()
-            .map(m -> m.year)
-            .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
-
-        var yearsSb = new StringBuilder();
-        years.entrySet().stream()
-            .sorted(Map.Entry.comparingByKey(Comparator.reverseOrder()))
-            .forEach(e -> yearsSb.append("        ['")
-                .append(e.getKey())
-                .append("', ")
-                .append(e.getValue())
-                .append("],\n"));
-
-        var statsDoc = Files.readString(Path.of("stats.adoc.tpl"));
-        statsDoc = statsDoc.replace("@COUNTRIES@", countriesSb.toString())
-            .replace("@COUNTRIES_HEIGHT@", String.valueOf(countries.size() * 30))
-            .replace("@YEARS@", yearsSb.toString())
-            .replace("@YEARS_HEIGHT@", String.valueOf(years.size() * 30));
-        var outputStats = outputDirectory.resolve("stats.adoc");
-        Files.write(outputStats, statsDoc.getBytes());
-
-        // generate map.adoc
-        var locations = members.members.stream()
-                .filter(m -> m.location != null)
-                .map(m -> "{lat: " + m.location.lat
-                                + ", lng: " + m.location.lon
-                                + ", name: \"" + m.name.replace("\"", "'") + "\""
-                                + "}")
-                .toList();
-
-        var mapDoc = Files.readString(Path.of("map.adoc.tpl"));
-        mapDoc = mapDoc.replace("@LOCATIONS@", String.join(",\n\t", locations));
-        var outputMap = outputDirectory.resolve("map.adoc");
-        Files.write(outputMap, mapDoc.getBytes());
-        System.out.println("HTML generated for maps");
-
-        // generate fediverse CSV file
-        var mastodonCsv = new PrintWriter(Files.newOutputStream(outputDirectory.resolve("resources").resolve("mastodon.csv")));
-        mastodonCsv.println("Account address,Show boosts,Notify on new posts,Languages");
-        members.members.stream()
-            .filter(JavaChampion::hasMastodon)
-            .map(JavaChampion::asMastodonCsvEntry)
-            .forEach(mastodonCsv::println);
-        mastodonCsv.flush();
-        mastodonCsv.close();
-
-        // parse podcasts input data
-        try (InputStream in = Files.newInputStream(filePodcasts)) {
-            podcasts = mapper.readValue(in, Podcasts.class);
+        try {
+            mapper.writeValue(fileMembers.toFile(), members);
+            System.out.println("✅ Successfully updated " + fileMembers);
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.printf("❌ Unexpected error reading %s%n", filePodcasts);
-            System.exit(1);
+            System.out.printf("❌ Failed to write updates to %s%n", fileMembers);
         }
+    }
 
-        // generate podcasts.adoc
-        var podcastsDoc = new StringBuilder(Files.readString(Path.of("podcasts.adoc.tpl")));
-        for (Podcast podcast : podcasts.podcasts) {
-            podcastsDoc.append(podcast.formatted());
+    private static Optional<Location> getLocation(String apiKey, String country, String city) {
+        var maxAttempts = 3;
+        var attempt = 1;
+        while (attempt <= maxAttempts) {
+            var location = getLocationFromApi(apiKey, country, city);
+            if (location.isPresent()) {
+                return location;
+            }
+            attempt++;
         }
+        System.out.println("Couldn't find location for " + city + ", " + country + " after " + maxAttempts + " attempts");
+        return Optional.empty();
+    }
 
-        var outputPodcasts = outputDirectory.resolve("podcasts.adoc");
-        Files.write(outputPodcasts, podcastsDoc.toString().getBytes());
+    private static Optional<Location> getLocationFromApi(String apiKey, String country, String city) {
+        var q = (city == null ? "" : city + ", ") + country;
+        try {
+            Thread.sleep(1000); // GEO API can only be called once per second
+            URL url = new URL("https://geocode.maps.co/search"
+                    + "?q=" + URLEncoder.encode(q, StandardCharsets.UTF_8)
+                    + "&api_key=" + apiKey);
+            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+            connection.setRequestMethod("GET");
+            int responseCode = connection.getResponseCode();
+            if (responseCode == 200) {
+                BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+                String line;
+                StringBuilder response = new StringBuilder();
+                while ((line = reader.readLine()) != null) {
+                    response.append(line);
+                }
+                // Parse the JSON response to extract latitude and longitude
+                JSONArray results = new JSONArray(response.toString());
+                JSONObject result = results.getJSONObject(0);
+                double latitude = result.getDouble("lat");
+                double longitude = result.getDouble("lon");
+                return Optional.of(new Location(latitude, longitude));
+            } else if (responseCode == 400) {
+                System.out.println("Error 400 for " + url);
+                BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+                String line;
+                StringBuilder response = new StringBuilder();
+                while ((line = reader.readLine()) != null) {
+                    response.append(line);
+                }
+                System.out.println(response);
+            } else {
+                System.out.println("Error: " + responseCode + " for " + q);
+            }
+        } catch (Exception e) {
+            System.out.printf("❌ Unexpected error while getting location for %s: %s%n", q, e.getMessage());
+        }
+        return Optional.empty();
     }
 
     static class Location {
         public double lat;
         public double lon;
+
+        public Location(double lat, double lon) {
+            this.lat = lat;
+            this.lon = lon;
+        }
     }
 
     static class Members {
@@ -386,67 +398,6 @@ public class site {
             s = s.substring(0, s.length() - 1);
             var n = mastodon.split("@")[1];
             return "@" + n + "@" + s;
-        }
-    }
-
-    static class Podcasts {
-        public List<Podcast> podcasts = new ArrayList<>();
-    }
-
-    static class Host {
-        public String name;
-
-        String formatted() {
-            var b = new StringBuilder()
-                    .append(name);
-
-            return b.append("\n")
-                    .toString();
-        }
-    }
-
-    static class Podcast {
-        public String title;
-        public String url;
-        public String language;
-        public String logo;
-        public Social social;
-        public List<Host> hosts = new ArrayList<>();
-
-        String formatted() {
-            var b = new StringBuilder("|{counter:idx}\n")
-                    .append("|image:")
-                    .append(logo)
-                    .append("[]");
-
-            b.append("|")
-                    .append("link:")
-                    .append(url)
-                    .append("[")
-                    .append(title)
-                    .append("]")
-                    .append("\n");
-
-            b.append("|")
-                    .append(language)
-                    .append("\n");
-
-            if (hosts != null && !hosts.isEmpty()) {
-                b.append("a|");
-                hosts.forEach(h -> b.append("* ").append(h.formatted()).append("\n"));
-                b.append("\n");
-            } else {
-                b.append("|\n");
-            }
-
-            if (social != null) {
-                b.append(social.formatted());
-            } else {
-                b.append("|\n");
-            }
-
-            return b.append("\n\n")
-                    .toString();
         }
     }
 }
