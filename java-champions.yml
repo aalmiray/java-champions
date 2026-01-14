@@ -1,5 +1,9 @@
 ####################################################################################
 #
+# location: optional, used on the map, don't use the exact location of your house, but e.g. city center
+#  lat:
+#  long:
+#
 # country:
 #  nomination: country of residence at the time of nomination
 #  residence: current residence
