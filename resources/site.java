@@ -16,14 +16,6 @@ import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-/**
- * To be executed with JBang:
- * jbang site.java INPUT_DIR OUTPUT_DIR
- *
- * For example:
- * cd resources
- * ./jbang site.java .. ../site/content/
- */
 public class site {
     private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
         "founding-member", "pass:[<i class=\"fa fa-star\" title=\"Founding Member\"></i>]",
