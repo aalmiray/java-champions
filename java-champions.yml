@@ -3747,10 +3747,6 @@ members:
     country:
       nomination: USA
     city: Haleiwa, Hawaii
-    social:
-      twitter: https://twitter.com/christhalinger
-      mastodon: https://mastodon.social/@christhalinger
-      linkedin: https://www.linkedin.com/in/christian-thalinger-7a203347/
     avatar: img/avatars/christhalinger.png
   - name: Alex Theedom
     year: 2018
@@ -3872,7 +3868,6 @@ members:
       nomination: Germany
     city: Nürnberg, Bavaria
     social:
-      twitter: https://twitter.com/javabuch
       linkedin: https://www.linkedin.com/in/christian-ullenboom/
     avatar: img/avatars/javabuch.png
   - name: Dr. Raoul-Gabriel Urma
@@ -4209,7 +4204,6 @@ members:
       nomination: Norway
     city: Oslo
     social:
-      twitter: https://twitter.com/rafaelcodes
       bluesky: https://bsky.app/profile/rafaelcodes.bsky.social
       mastodon: https://mastodon.social/@rafaelcodes
       linkedin: https://www.linkedin.com/in/rafaelwth
