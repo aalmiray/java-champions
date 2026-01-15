@@ -2238,7 +2238,6 @@ members:
     country:
       nomination: Switzerland
     social:
-      twitter: https://twitter.com/dlemmermann
       linkedin: https://www.linkedin.com/in/dlemmermann/
       bluesky: https://bsky.app/profile/dlemmermann.bsky.social
     avatar: img/avatars/dlemmermann.png
@@ -2247,7 +2246,6 @@ members:
     country:
       nomination: USA
     social:
-      twitter: https://twitter.com/mikelevin77
       linkedin: https://www.linkedin.com/in/zoobird/
     avatar: img/avatars/mikelevin77.png
   - name: Dr. Barry Levine
@@ -2732,7 +2730,6 @@ members:
       nomination: Poland
     city: Warsaw
     social:
-      twitter: https://twitter.com/tnurkiewicz
       mastodon: https://fosstodon.org/@nurkiewicz
       linkedin: https://www.linkedin.com/in/nurkiewicz
       github: https://github.com/nurkiewicz
@@ -2860,7 +2857,6 @@ members:
       nomination: Germany
     city: Neuss
     social:
-      twitter: https://twitter.com/SandraParsick
       mastodon: https://mastodon.social/@sparsick
       linkedin: https://www.linkedin.com/in/sandra-parsick/
     avatar: img/avatars/SandraParsick.png
@@ -3530,7 +3526,6 @@ members:
       nomination: Germany
     city: Aachen, North Rhine-Westphalia
     social:
-      twitter: https://twitter.com/rotnroll666
       mastodon: https://mastodon.social/@rotnroll666
       bluesky: https://bsky.app/profile/rotnroll666.bsky.social
       github: https://github.com/michael-simons
@@ -3752,10 +3747,6 @@ members:
     country:
       nomination: USA
     city: Haleiwa, Hawaii
-    social:
-      twitter: https://twitter.com/christhalinger
-      mastodon: https://mastodon.social/@christhalinger
-      linkedin: https://www.linkedin.com/in/christian-thalinger-7a203347/
     avatar: img/avatars/christhalinger.png
   - name: Alex Theedom
     year: 2018
@@ -3877,7 +3868,6 @@ members:
       nomination: Germany
     city: Nürnberg, Bavaria
     social:
-      twitter: https://twitter.com/javabuch
       linkedin: https://www.linkedin.com/in/christian-ullenboom/
     avatar: img/avatars/javabuch.png
   - name: Dr. Raoul-Gabriel Urma
@@ -4214,7 +4204,6 @@ members:
       nomination: Norway
     city: Oslo
     social:
-      twitter: https://twitter.com/rafaelcodes
       bluesky: https://bsky.app/profile/rafaelcodes.bsky.social
       mastodon: https://mastodon.social/@rafaelcodes
       linkedin: https://www.linkedin.com/in/rafaelwth
