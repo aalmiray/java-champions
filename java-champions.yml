@@ -1441,8 +1441,12 @@ members:
       nomination: Germany
     city: Langerringen
     social:
+      mastodon: https://mastodon.social/@grobmeier
       linkedin: https://www.linkedin.com/in/grobmeier/
       bluesky: https://bsky.app/profile/grobmeier.de
+      youtube: https://www.youtube.com/@grobmeier
+      github: https://github.com/grobmeier
+      website: https://grobmeier.de
     avatar: img/avatars/ChristianGrobmeier.png
   - name: Loiane Groner
     year: 2020
