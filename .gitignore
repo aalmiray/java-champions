@@ -10,7 +10,9 @@ output/
 .vscode/
 /out/
 
-# Generated site content
+# Generated/duplicate site content
 site/content/resources/mastodon.csv
 site/content/members.adoc
 site/content/stats.adoc
+site/content/podcasts.adoc
+site/content/resources/java-champions.yml
