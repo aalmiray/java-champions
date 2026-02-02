@@ -2640,6 +2640,14 @@ members:
       linkedin: https://www.linkedin.com/in/benjaminmuskalla/
       bluesky: https://bsky.app/profile/bmuskalla.dev
     avatar: img/avatars/bmuskalla.png
+  - name: Bernd Müller
+    year: 2026
+    country:
+      nomination: Germany
+      city: Wolfenbüttel
+    social:
+      twitter: https://x.com/berndmuller
+    avatar: img/avatars/berndmuller.png
   - name: Maurice Naftalin
     year: 2014
     country:
