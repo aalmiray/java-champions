@@ -170,7 +170,10 @@ public class site {
         public List<String> status = new ArrayList<>();
 
         String formatted() {
-            var b = new StringBuilder("|{counter:idx}\n")
+            var b = new StringBuilder()
+                .append("|[[")
+                .append(nameAsAnchor())
+                .append("]]{counter:idx}\n")
                 .append("|image:")
                 .append(avatar)
                 .append("[]");
@@ -216,6 +219,14 @@ public class site {
 
         String asMastodonCsvEntry() {
             return social.getMastodonAccount() + ",true,false,";
+        }
+
+        String nameAsAnchor() {
+            // URL Encoding would have been _cleaner_ but that doesn't create output that works with flexmark
+            // instead this method will strip whitespace and punctuation
+            return name
+                    .replaceAll("\\s", "")
+                    .replaceAll("\\p{Punct}", "");
         }
     }
 
