@@ -2631,6 +2631,13 @@ members:
       speakerdeck: https://speakerdeck.com/mthmulders/
       website: https://maarten.mulders.it/
     avatar: img/avatars/mthmulders.png
+  - name: Aurea Muñoz
+    year: 2026
+    country:
+      nomination: Spain
+    social:
+      twitter: https://x.com/auritamh
+    avatar: img/avatars/auritamh.png
   - name: Benjamin Muskalla
     year: 2021
     country:
@@ -2640,6 +2647,14 @@ members:
       linkedin: https://www.linkedin.com/in/benjaminmuskalla/
       bluesky: https://bsky.app/profile/bmuskalla.dev
     avatar: img/avatars/bmuskalla.png
+  - name: Bernd Müller
+    year: 2026
+    country:
+      nomination: Germany
+    city: Wolfenbüttel
+    social:
+      twitter: https://x.com/berndmuller
+    avatar: img/avatars/berndmuller.png
   - name: Maurice Naftalin
     year: 2014
     country:
