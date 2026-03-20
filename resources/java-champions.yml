@@ -80,6 +80,18 @@ members:
       bluesky: https://bsky.app/profile/almaer.com
       linkedin: https://www.linkedin.com/in/dalmaer/
     avatar: img/avatars/dalmaer.png
+  - name: Altug Bilgin Altintas
+    year: 2026
+    country:
+      nomination: Türkiye
+    city: Istanbul
+    social:
+      twitter: https://x.com/altugaltintas
+      bluesky: https://bsky.app/profile/altuga.bsky.social
+      linkedin: https://www.linkedin.com/in/altuga/
+      github: https://github.com/altuga
+      sessionize: https://sessionize.com/Altuga/
+    avatar: img/avatars/altugaltintas.png
   - name: Andres Almiray
     year: 2010
     country:
