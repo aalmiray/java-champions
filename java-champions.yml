@@ -199,6 +199,8 @@ members:
     year: 2020
     country:
       nomination: Spain
+      residence: Spain
+      birth: Spain
     city: Seville
     social:
       mastodon: https://floss.social/@delawen
@@ -207,7 +209,6 @@ members:
       github: https://github.com/Delawen/
       website: https://delawen.com
       sessionize: https://sessionize.com/delawen/
-      twitter: https://twitter.com/delawen
     avatar: img/avatars/delawen.png
   - name: Sergey Astakhov
     year: 2005
