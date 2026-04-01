@@ -1,4 +1,6 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.css);
+/* Fix anchor offset (50px is collapsed navbar height + 10px buffer) */
+html { scroll-padding-top: 60px; }
 /* ========================================================================== Embedded content ========================================================================== */
 /** Remove border when inside `a` element in IE 8/9. */
 img { border: 0; }
