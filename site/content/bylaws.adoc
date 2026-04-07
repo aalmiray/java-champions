@@ -38,7 +38,7 @@ Membership is open to individuals who have been nominated by at least two curren
 A Group member nominates an individual by submitting the nomination form. The nomination form is created and maintained by the Group. The nomination requires both a nominator and a co-nominator.
 
 === Section 4: Discussion Period
-Once a nomination has been submitted and processed by Oracle's Java Champions Team, or seven days after the submission
+Once a nomination has been submitted and processed by Oracle's Java Champions Team, or two weeks after the submission
 if Oracle has not responded, the nomination will be announced on the Group Mailing List. This initiates a two-week discussion period during which Group members can discuss the candidate without voting.
 
 The purpose of the discussion period is raise any concerns about the candidate, and facilitate discussions and/or the shifting of opinions without committing to a vote. This process also helps keeping the voting period purely for voting on a candidate instead of discussing the candidate's merits and/or shortcomings.
