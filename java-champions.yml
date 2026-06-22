@@ -118,6 +118,14 @@ members:
       twitter: https://twitter.com/deepakalur
       linkedin: https://www.linkedin.com/in/deepakalur/
     avatar: img/avatars/deepakalur.png
+  - name: Max Rydhal Andersen
+    year: 2026
+    country:
+      nomination: Denkmark
+    social:
+      linkedin: https://www.linkedin.com/in/maxrydahlandersen/
+      bluesky: https://bsky.app/profile/maxandersen.xam.dk
+    avatar: img/avatars/maxandersen.png
   - name: Gail C. Anderson
     year: 2016
     country:
