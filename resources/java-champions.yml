@@ -3304,6 +3304,14 @@ members:
     social:
       twitter: https://twitter.com/kanedafromparis
     avatar: img/avatars/kanedafromparis.png
+  - name: Luqman Saeed
+    year: 2026
+    country:
+      nomination: Ghana
+    city: Accra
+    social:
+      bluesky: https://bsky.app/profile/luqmansaeed.com
+    avatar: img/avatars/luqmansaeed.png
   - name: Koichi Sakata
     year: 2018
     country:
