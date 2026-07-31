@@ -28,6 +28,8 @@ import java.util.*;
  *
  * To be executed with JBang:
  * jbang onetimeAddLocations.java [YAML DIRECTORY] [GEO TOKEN]
+ * E.g. wehen executed in the root of this project:
+ * jbang resources/onetimeAddLocations.java . 679c...
  */
 public class onetimeAddLocations {
     private static final Map<String, String> STATUS = new TreeMap<>(Map.of(
