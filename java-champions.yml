@@ -1,3 +1,35 @@
+####################################################################################
+#
+# country:
+#  nomination: country of residence at the time of nomination
+#  residence: current residence
+#  birth: country of birth
+#  citizenship: primary citizenship (if different from nomination, residence, birth
+#
+# location: pointing somewhere "near" you to illustrate the global distribution of Java Champions
+#  lat:
+#  lon:
+#
+# status:
+#  - founding-member
+#  - alumni
+#  - retired
+#  - passed-away
+#  - honorary-member
+#
+# social:
+#   twitter:
+#   mastodon:
+#   bluesky:
+#   youtube:
+#   linkedin:
+#   github:
+#   website:
+#   sessionize:
+#   xing:
+#
+####################################################################################
+
 members:
 - name: Oezcan Acar
   year: 2009
