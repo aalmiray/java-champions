@@ -1,5 +1,5 @@
 clean:
-	rm site/content/resources/mastodon.csv site/content/members.adoc site/content/stats.adoc
+	rm -f site/content/resources/mastodon.csv site/content/members.adoc site/content/stats.adoc site/content/podcasts.adoc site/content/resources/java-champions.yml
 
 prerequisites-check:
 ifeq (, $(shell which jbang))
@@ -11,7 +11,8 @@ endif
 	@echo 'JBang and JBake installations found.'
 
 build: prerequisites-check
-	cd resources; jbang site.java ../java-champions.yml ../site/content/
+	cd resources; jbang site.java ../ ../site/content/
+	cp java-champions.yml site/content/resources
 	cd site; jbake --bake
 
 server: build
