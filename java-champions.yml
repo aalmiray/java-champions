@@ -606,6 +606,14 @@ members:
       linkedin: https://www.linkedin.com/in/ludovicchampenois/
       bluesky: https://bsky.app/profile/ludoch.bsky.social
     avatar: img/avatars/ludoch.png
+  - name: Sharat Chander
+    year: 2026
+    country:
+      nomination: USA
+    social:
+      linkedin: https://www.linkedin.com/in/sharatchander/
+      bluesky: https://bsky.app/profile/sharatchander.bsky.social
+    avatar: img/avatars/sharatchander.png
   - name: Cassandra Chin
     year: 2025
     country:
