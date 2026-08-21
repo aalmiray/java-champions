@@ -834,6 +834,8 @@ members:
     year: 2023
     country:
       nomination: Belgium
+      residence: Belgium
+    city: Passendale
     social:
       mastodon: https://foojay.social/@frankdelporte
       bluesky: https://bsky.app/profile/frankdelporte.be
@@ -842,7 +844,7 @@ members:
       github: https://github.com/FDelporte
       website: https://webtechie.be/
       sessionize: https://sessionize.com/frank-delporte/
-    avatar: img/avatars/FrankDelporte.png
+    avatar: img/avatars/frank-delporte.jpg
   - name: Brian Demers
     year: 2021
     country:
