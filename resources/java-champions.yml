@@ -303,6 +303,15 @@ members:
       sessionize: https://sessionize.com/patbaumgartner/
       bluesky: https://bsky.app/profile/patbaumgartner.com
     avatar: img/avatars/patbaumgartner.png
+  - name: Johannes Bechberger
+    year: 2026
+    country:
+      nomination: Germany
+    city: Karlsruhe
+    social:
+      bluesky: https://bsky.app/profile/mostlynerdless.de
+      linkedin: https://www.linkedin.com/in/johannes-bechberger/
+    avatar: img/avatars/johannes_bechberger.png
   - name: Monica Beckwith
     year: 2017
     country:
