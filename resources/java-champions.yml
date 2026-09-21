@@ -3010,6 +3010,16 @@ members:
       twitter: https://twitter.com/SeanMiPhillips
       linkedin: https://www.linkedin.com/in/seanmiphillips/
     avatar: img/avatars/SeanMiPhillips.png
+  - name: David Pilato
+    year: 2026
+    country:
+      nomination: France
+    city: Paris
+    social:
+      twitter: https://twitter.com/dadoonet
+      linkedin: https://www.linkedin.com/in/dadoonet/
+      bluesky: https://bsky.app/profile/pilato.fr
+    avatar: img/avatars/dadoonet.png
   - name: Peter Pilgrim
     year: 2007
     country:
