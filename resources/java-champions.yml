@@ -486,6 +486,14 @@ members:
       bluesky: https://bsky.app/profile/brunoborges.bsky.social
       linkedin: https://www.linkedin.com/in/brunocborges/
     avatar: img/avatars/brunoborges.png
+  - name: Hervé Boutemy
+    year: 2026
+    country:
+      nomination: France
+    social:
+      twitter: https://twitter.com/hboutemy
+      linkedin: https://www.linkedin.com/in/hboutemy/
+    avatar: img/avatars/hboutemy.png
   - name: Jeanne Boyarsky
     year: 2019
     country:
