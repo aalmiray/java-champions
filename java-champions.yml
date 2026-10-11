@@ -1292,8 +1292,6 @@ members:
     country:
       nomination: USA
     city: Loveland, Colorado
-    social:
-      linkedin: https://www.linkedin.com/in/davidmgeary/
     avatar: img/avatars/davidgeary.png
   - name: Trisha Gee
     year: 2014
@@ -1620,6 +1618,7 @@ members:
     city: Cairo
     social:
       twitter: https://twitter.com/ahmed_hashim
+      linkedin: https://www.linkedin.com/in/ahashim/
     avatar: img/avatars/ahmed_hashim.png
   - name: Mark Heckler
     year: 2016
